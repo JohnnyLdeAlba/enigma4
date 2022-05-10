@@ -1,0 +1,220 @@
+body {
+	margin: 0px; padding: 0px;
+	display: block;
+	background-color: #000000;
+	border: 0px none transparent;
+	font-family: verdana;
+	font-size: 8pt; font-weight: normal;
+	color: #ffffff;
+}
+
+#container {
+	width: 640px;
+	margin-left: 10%;
+	margin-right: 10%;
+ }
+
+img { border: 0px none transparent; }
+
+b {
+	margin: 0px; padding: 0px;
+	display: inline;
+	background-color: transparent;
+	border: 0px none transparent;
+	font-weight: bold;
+	color: #ffffff;
+}
+
+td {
+	background-color: transparent;
+	border: 0px none transparent;
+	font-size: 8pt; font-weight: normal;
+	color: #ffffff;
+}
+
+div, form {
+	margin: 0px; padding: 0px;
+	display: block;
+	background-color: transparent;
+	border: 0px none transparent;
+	font-size: 8pt; font-weight: normal;
+	color: #ffffff;
+}
+
+input, textarea {
+	margin: 0px; padding: 0px;
+	background-color: #004075;
+	border: 1px solid #000000;
+	font-size: 9pt; font-weight: normal;
+	color: #cccccc;
+}
+
+ol { list-style: upper-roman; }
+
+a:link, a:active, a:visited {
+	font-size: 8pt; font-weight: normal;
+	color: #00ff00; text-decoration: none;
+}
+
+a:hover { text-decoration: underline; }
+
+#tab {
+	margin: 0px 0px 0px 3px; padding: 4px;
+	display: inline;
+	background-color: #006095;
+	border-width: 1px 1px 0px 1px;
+	border-style: solid; border-color: #000000;
+	font-size: 8pt; font-weight: bold;
+	color: #cccccc;
+}
+
+#visited {
+	margin: 0px 0px 0px 3px; padding: 4px;
+	display: inline;
+	background-color: #006095;
+	border-width: 1px 1px 0px 1px;
+	border-style: solid; border-color: #000000;
+	font-size: 8pt; font-weight: bold;
+	color: #aaaaaa;
+}
+
+#visited a:link, #visited a:active, #visited a:visited {
+	font-size: 8pt; font-weight: bold;
+	color: #aaaaaa; text-decoration: none;
+}
+
+#thread {
+	margin: 4px 0px 0px 0px; padding: 6px;
+	display: block;
+	background-color: #006095;
+	border: 3px solid #000000;
+	font-size: 8pt; font-weight: normal;
+	color: #ffffff;
+}
+
+#panel {
+	margin: 4px 0px 0px 0px; padding: 6px;
+	display: block;
+	background-color: #006095;
+	border: 3px solid #000000;
+	font-size: 8pt; font-weight: normal;
+	color: #ffffff;
+}
+
+#profile {
+	margin: 4px 0px 0px 0px; padding: 3px;
+	display: block;
+	background-color: #006095;
+	border: 3px solid #000000;
+	font-size: 8pt; font-weight: normal;
+	color: #ffffff;
+}
+
+#profile .cat {
+	margin: 0px; padding: 3px;
+	font-weight: bold;
+	border: 1px solid #000000;
+	background-color: #004075;
+}
+
+#profile .row {
+	background-color: #004075;
+}
+
+#profile #key { margin: 6px; }
+
+#key .tab, #key div, #key td {
+	padding:2px;
+	font-family:verdana; font-size:7pt;
+	color:white;
+	background-color:black;
+}
+
+#key .visited {
+	padding:2px;
+	font-family:verdana; font-size:7pt;
+	color: #cccccc;
+	background-color:black;
+}
+
+#key b {
+	font-family:verdana; font-size:7pt;
+	font-weight:bold; color:white;
+}
+
+#key a:link, #key a:active, #key a:visited {
+	font-size: 7pt; font-weight: normal;
+	color: #0099ff; text-decoration: none;
+}
+
+#code {
+	margin: 0px; padding: 6px;
+	display: block;
+	background-color: #004075;
+	border: 1px dashed #aaaa00;
+	font-size: 7pt; font-weight: normal;
+	color: #cccccc;
+}
+
+#panel h1 {
+	margin: 0px; padding: 2px;
+	display: block;
+	background-color: transparent;
+	border-width: 0px 0px 1px 0px;
+	border-style: solid; border-color: #aaaa00;
+	font-size: 8pt; font-weight: normal;
+	color: #ffff00;
+}
+
+#thread h1 {
+	margin: 0px; padding: 2px;
+	display: block;
+	background-color: transparent;
+	border-width: 0px 0px 1px 0px;
+	border-style: solid; border-color: #aaaa00;
+	font-size: 7pt; font-weight: normal;
+	color: #ffff00; text-align: right;
+}
+
+#panel h2 {
+	margin: 2px; padding: 2px;
+	display: block;
+	background-color: transparent;
+	border-width: 0px;
+	border-style: none; border-color: transparent;
+	font-size: 8pt; font-weight: normal;
+	color: #ffff00; text-align: right;
+}
+
+#panel h3 {
+	margin: 2px; padding: 2px;
+	display: block;
+	background-color: transparent;
+	border-width: 0px;
+	border-style: none; border-color: transparent;
+	font-size: 8pt; font-weight: normal;
+	color: #ffff00; text-align: center;
+}
+
+#caption {
+	width: 210px;
+
+	margin: 2px; padding: 6px;
+	display: block; float: right;
+	background-color: #005085;
+	border: 3px solid #000000;
+	font-size: 8pt; font-weight: normal;
+	color: #ffff00; text-align: left;
+}
+
+#viewpanel {
+	margin: 3px 0px 3px 0px; 
+	width: 800px;
+	background-color: #006095;
+}
+#viewport {
+	width: 800px;
+	background-color: #202530;
+ }
+ 
+ #jukebox { position:absolute; top: -17px; left: -17px; }

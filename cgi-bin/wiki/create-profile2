@@ -1,0 +1,133 @@
+<!wiki func='wikistamp' ip='76.102.158.96' created='20081010121045' comment='AAA'>
+<html>
+<head>
+
+<meta name='author' content='Johnny L. de Alba' />
+<meta name="description" content="An Ecco the Dolphin, Ecco 2 Tides of Time and Ecco, Defender of the Future website." />
+<meta name="keywords" content="ecco the dolphin, ecco the tides of time, ecco defender of the future, ecco, ecco 2, cheats, codes, music, guides, faqs, roms, genesis, gamegear, megadrive, dreamcast, playstation 2, ps2" />
+<meta name="robots" content="all" />
+
+<title>Ecco the Dolphin on The Arkonviox Network</title>
+<!wiki func='wikitheme' type='header'>
+
+<div id='container'>
+<div id='header'> </div>
+
+<span id='visited'><a href='display.pl?id=index'>Index</a></span>
+<span id='visited'><a href='edit.pl?id=create-profile'>
+Edit</a></span>
+<span id='visited'><a href='display.pl?id=fanfare'>
+Display</a></span>
+<span id='visited'><a href='display.pl?id=fanfare-discuss'>
+Discuss</a></span>
+<span id='visited'><a href='display.pl?id=explore'>
+Explore</a></span>
+<span id='visited'><a href='history.pl?id=create-profile'>
+History</a></span>
+<div id='panel'>
+<h1>Fanfare</h1>
+<br />
+<span id='tab'>Create Profile</span>
+<div id='panel'>
+<form action='edit.pl' method='post' enctype="multipart/form-data">
+
+<div style='float:left;width:50%;'>
+<input type='hidden' name='func' value='profile'>
+Username<br />
+<input type='text' name='username' size='45' value=''>
+<br />
+</div>
+
+<div>Realname<br />
+<input type='text' name='realname' size='45' value=''>
+</div>
+
+<div style='float:left;width:50%;'>
+Email<br />
+<input type='text' name='email' size='45' value=''>
+</div>
+
+<div>Website<br />
+<input type='text' name='website' size='45' value='http://'>
+</div>
+
+<br />
+<div>Primary Messanger
+<input type='radio' name='messanger1' value='(AIM)' checked> AIM
+<input type='radio' name='messanger1' value='(ICQ)'> ICQ
+<input type='radio' name='messanger1' value='(MSN)'> MSN
+<input type='radio' name='messanger1' value='(YIM)'> YIM
+<br />Primary Screenname
+<input type='text' name='screenname1' size='45' value=''>
+</div>
+
+<br />
+<div>Secondary Messanger
+<input type='radio' name='messanger2' value='(AIM)'> AIM
+<input type='radio' name='messanger2' value='(ICQ)' checked> ICQ
+<input type='radio' name='messanger2' value='(MSN)'> MSN
+<input type='radio' name='messanger2' value='(YIM)'> YIM
+<br />Secondary Screenname
+<input type='text' name='screenname2' size='45' value=''>
+</div>
+
+<br />
+<div>Sex<br />
+<input type='radio' name='sex' value='Male'> Male
+<input type='radio' name='sex' value='Female'> Female
+</div>
+
+<br />
+<div>Birth<br />
+<input type='text' name='birth' size='45' value=''>
+</div>
+
+<div style='float:left;width:50%;'>
+City<br />
+<input type='text' name='city' size='45' value=''>
+</div>
+
+<div>State<br />
+<input type='text' name='state' size='45' value=''>
+</div>
+
+<br />
+<div>Operating System<br />
+<input type='text' name='operatingsystem' size='45' value=''>
+</div>
+
+<div style='float:left;width:50%;'>
+Favorite Gaming Platform<br />
+<input type='text' name='favoriteplatform' size='45' value=''>
+</div>
+
+<div>Favorite Game<br />
+<input type='text' name='favoritegame' size='45' value=''>
+</div>
+
+<br />
+<div>Interest<br />
+<input type='text' name='interests' size='45' value=''>
+</div>
+
+<br />
+About Myself
+<br />
+<textarea name='aboutmyself' rows="5" cols="75"></textarea>
+<br /><br />
+Upload Avatar
+<br />
+<input type="file" name="avatar" />
+<br /><br />
+<input type='submit' name='submit' value='Create Profile'>
+</form>
+
+</div>
+</div>
+<div id='footer'> </div>
+</div>
+
+
+<!wiki func='wikitheme' type='footer'>
+</body>
+</html>

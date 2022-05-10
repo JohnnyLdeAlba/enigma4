@@ -1,0 +1,33 @@
+<!wiki func='wikistamp' ip='192.168.0.3' created='20080817173103' comment='AAA'>
+<link href='../eccoserv/theme/crystalmeth.css' rel='stylesheet' type='text/css'>
+
+<span id='visited'><a href='display.pl?id=index'>Index</a></span>
+<span id='visited'><a href='edit.pl?id=ecco-sentinels-of-the-universe-videos1'>Edit</a></span>
+<span id='visited'><a href='display.pl?id=ecco-sentinels-of-the-universe'>Display</a></span>
+<span id='tab'>Videos</span>
+<span id='visited'><a href='display.pl?id=ecco-sentinels-of-the-universe-discuss'>Discuss</a></span>
+<span id='visited'><a href='display.pl?id=site-map'>Site Map</a></span>
+<div id='container'>
+<h1>Ecco sentinels of the universe videos</h1>
+<h2>[ <a href='edit.pl?id=ecco-sentinels-of-the-universe-videos1'>Edit</a> ]</h2>
+
+<span id='tab'>Video 1</span>
+<span id='tab'><a href='display.pl?id=ecco-sentinels-of-the-universe-videos2'>Video 2</a></span>
+<div id='panel'>
+<h1>Some notes here...</h1>
+<br />
+<center>
+<embed src='../eccoserv/flash/cinemaplayer.swf'
+width='450' height='350' align='middle' bgcolor='#333333'
+
+name='sonetticFLVPlayer'
+type='application/x-shockwave-flash' quality='high'
+
+pluginspage='http://www.adobe.com/products/flashplayer'  allowScriptAccess='sameDomain' allowFullScreen='true'  
+
+flashvars='content=ecco-sentinels-katana-numbers.flv' />
+</center>
+<br />
+</div>
+
+</div> 

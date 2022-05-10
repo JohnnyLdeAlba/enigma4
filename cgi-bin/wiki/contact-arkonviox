@@ -1,0 +1,105 @@
+<!-- editorstamp::24.7.84.157::20090520155019 -->
+<html> 
+<head>
+ 
+<meta name='author' content='Johnny L. de Alba' />
+<meta name="description" content="An Ecco the Dolphin, Ecco 2 Tides of Time and Ecco, Defender of the Future website." />
+<meta name="keywords" content="ecco the dolphin, ecco the tides of time, ecco defender of the future, ecco, ecco 2, cheats, codes, music, guides, faqs, roms, genesis, gamegear, megadrive, dreamcast, playstation 2, ps2" />
+<meta name="robots" content="all" />
+<link rel="icon" type="image/png" href="http://www.arkonviox.net/arknet.ico" />
+<title>Ecco the Dolphin on The Arkonviox Network</title>
+
+<!wiki func='wikitheme' type='header'>
+<div id='container'>
+<div id='header'> </div>
+
+<span id='visited'><a href='display.pl?id=index'>
+Index</a></span>
+
+<span id='visited'><a href='edit.pl?id=explore'>
+Edit</a></span>
+
+<span id='tab'>Explore</span>
+
+<span id='visited'><a href='history.pl?id=explore'>
+History</a></span>
+
+<div id='panel'>
+
+<h1>Contact Arkonviox</h1> 
+
+<h2>
+<a id='show_comments' href="javascript:toggle_display('show_comments');
+toggle_display('hide_comments');
+toggle_display('comments_handle');"
+style='display:inline;'>Show Comments</a>
+
+<a id='hide_comments' href="javascript:toggle_display('show_comments');
+toggle_display('hide_comments');
+toggle_display('comments_handle');"
+style='display:none;'>Hide Comments</a>
+</h2>
+
+<div id='comments_handle' style='display:none;'>
+<div style='text-align:left;' id='key'>
+<div><a href='profile.pl?id=arkonviox'>Arkonviox</a>, said:</div>
+<div style='margin:1px 0px 1px 0px;'>
+<p>
+Please use the following page to contact me via my iPhone,
+and i'll try to get back to you as soon as possible.
+</p>
+</div>
+<div> </div>
+</div><br />
+<!-- placeholder::comment -->
+</div>
+
+<!-- errormessage::comment -->
+
+<div id='handle_commentmanager' style='display:inline;'>
+<span id='tab'>Comment</span>
+<div id='profile'>
+
+<form action='comment.pl' method='post'>
+<input type='hidden' name='id' value='{id}'>
+<input type='hidden' name='func' value='create'>
+
+<div class='cat'>General</div>
+<br />
+Author<br />
+<input type='text' name='author_ucfirst' size='45'
+value='{author_ucfirst}'>
+
+<br /><br />
+Comment
+<br />
+<textarea name='comment' rows="5" cols="75">{comment}</textarea>
+
+<br /><br />
+<div class='cat'>Security Phrase</div>
+<br />
+{securityphrase}
+<br /><br />Please type in the numbers above.
+<br />
+<input type='text' name='securityphrase' size='45' value=''>
+
+<br /><br /><br />
+<input type='submit' name='submit' value='Comment'>
+</form>
+</div></div>
+
+</div>
+<div id='header'> </div>
+</div>
+<!wiki func='wikitheme' type='footer'>
+<script type='text/javascript' src='../ajax-lib.js'></script>
+<script type="text/javascript">
+
+if (window.location.pathname.match(/display.pl/)) {
+     toggle_display('handle_commentmanager');
+}
+
+</script>
+
+</body>
+</html>

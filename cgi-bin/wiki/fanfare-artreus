@@ -1,0 +1,102 @@
+<!wiki func='wikistamp' ip='192.168.0.3' created='20081012192724' comment='AAA'>
+<html>
+<head>
+
+<meta name='author' content='Johnny L. de Alba' />
+<meta name="description" content="An Ecco the Dolphin, Ecco 2 Tides of Time and Ecco, Defender of the Future website." />
+<meta name="keywords" content="ecco the dolphin, ecco the tides of time, ecco defender of the future, ecco, ecco 2, cheats, codes, music, guides, faqs, roms, genesis, gamegear, megadrive, dreamcast, playstation 2, ps2" />
+<meta name="robots" content="all" />
+
+<title>Ecco the Dolphin on The Arkonviox Network</title>
+<!wiki func='wikitheme' type='header'>
+<div id='container'>
+<div id='header'> </div>
+
+<span id='jukebox'></span>
+
+<span id='visited'><a href='display.pl?id=index'>
+Index</a></span>
+
+<span id='visited'><a href='edit.pl?id=fanfare-artreus'>
+Edit</a></span>
+
+<span id='visited'><a href='display.pl?id=fanfare'>
+Display</a></span>
+
+<span id='visited'><a href='module.pl?id=comment&display=fanfare-discuss'>
+Discuss</a></span>
+
+<span id='visited'><a href='display.pl?id=explore'>
+Explore</a></span>
+
+<span id='visited'><a href='history.pl?id=fanfare-artreus'>
+History</a></span>
+
+<div id='panel'>
+<h1>Fanfare Artreus</h1>
+<h2>
+[ <a href='edit.pl?id=fanfare-artreus'>Edit</a> ]
+</h2>
+
+<span id='tab'>Profile</span>
+<div id='profile'>
+
+<img src='../eccoserv/avatars/artreus.jpg'  style='float:left;margin:10px;' />
+
+<div class='row' style='float:left;width:50%;'>
+<b>Username:</b> Artreus</div>
+<div class='row'>
+<b>Realname:</b> Andrew</div>
+
+<div><b>Email:</b> Mystic.Orca@Gmail.com</div>
+<div class='row'><b>Website:</b> http://</div>
+<div><b>Messanger:</b> (AIM) Artreus14 (YIM) MysticOrca</div>
+
+<br />
+<div class='row' style='float:left;width:50%;'>
+<b>Sex:</b> Male</div>
+<div class='row'>
+<b>Birth:</b> March 31st, 1986</div>
+
+<div style='float:left;width:50%;'>
+<b>City:</b> Buffalo</div>
+<div><b>State:</b> New York</div>
+
+<br />
+<div class='row'><b>Operating System:</b> Windows XP/Vista</div>
+<div><b>Favorite Gaming Platform:</b> Nintendo Wii</div>
+<div class='row'><b>Favorite Game:</b> Ecco the Dolphin</div>
+
+<br />
+<div><b>Interests:</b> Orcas, Dolphins, Coins, Writing</div>
+<div class='row'><b>About Myself:</b>
+<br />
+Just an orca-obsessed Yankee college student.
+</div>
+
+<br />
+<div id='key'>
+<div>Contributions</div>
+<div style='margin:1px 0px 1px 0px;'>
+<p>
+<img src='../eccoserv/icons/guest.gif' />
+Former member of the Ecco the Dolphin website Arkonviox.com.
+<br /><img src='../eccoserv/icons/guest.gif' />
+Former member of the Ecco the Dolphin website Caverns of Hope.
+<br />
+<img src='../eccoserv/icons/profile.gif' />
+Is a major artist and artwork contributor on the Arkonviox Network.
+</p>
+</div>
+<div> </div>
+</div>
+
+</div>
+</div>
+
+<div id='footer'> </div>
+</div>
+<script type='text/javascript' src='../ajax-lib.js'></script>
+<!wiki func='wikitheme' type='footer'>
+</body>
+</html>

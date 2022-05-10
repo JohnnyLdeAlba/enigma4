@@ -1,0 +1,97 @@
+<!wiki func='wikistamp' ip='192.168.0.3' created='20080919165451' comment='AAAA'>
+<html>
+<head>
+
+<meta name='author' content='Johnny L. de Alba' />
+<meta name="description" content="An Ecco the Dolphin, Ecco 2 Tides of Time and Ecco, Defender of the Future website." />
+<meta name="keywords" content="ecco the dolphin, ecco the tides of time, ecco defender of the future, ecco, ecco 2, cheats, codes, music, guides, faqs, roms, genesis, gamegear, megadrive, dreamcast, playstation 2, ps2" />
+<meta name="robots" content="all" />
+
+<title>Ecco the Dolphin on The Arkonviox Network</title>
+<link href='../eccoserv/theme/crystalmeth.css' rel='stylesheet' type='text/css'>
+
+</head>
+<body>
+
+<span id='jukebox'></span>
+
+<span id='visited'><a href='display.pl?id=index'>
+Index</a></span>
+
+<span id='visited'><a href='edit.pl?id=fanfare-ecco-the-barbarian'>
+Edit</a></span>
+
+<span id='visited'><a href='display.pl?id=fanfare'>
+Display</a></span>
+
+<span id='visited'><a href='display.pl?id=fanfare-discuss'>
+Discuss</a></span>
+
+<span id='visited'><a href='display.pl?id=explore'>
+Explore</a></span>
+
+<span id='visited'><a href='history.pl?id=fanfare-ecco-the-barbarian'>
+History</a></span>
+
+<div id='container'>
+<h1>Fanfare Ecco the Barbarian</h1>
+<h2>
+[ <a href='edit.pl?id=fanfare-ecco-the-barbarian'>Edit</a> ]
+</h2>
+
+<span id='tab'>Profile</span>
+<div id='profile'>
+
+<img src='../eccoserv/avatars/ecco-the-barbarian.jpg'  style='float:left;margin:10px;' />
+
+<div class='row' style='float:left;width:50%;'>
+<b>Username:</b> Ecco the Barbarian</div>
+<div class='row'>
+<b>Realname:</b> Unknown</div>
+
+<div><b>Email:</b> root[@]arkonviox.net</div>
+<div class='row'><b>Website:</b> http://ultimate.arkonviox.com</div>
+<div><b>Messanger:</b> (AIM) EccotheBarbarian (ICQ) </div>
+
+<br />
+<div class='row' style='float:left;width:50%;'>
+<b>Sex:</b> Male</div>
+<div class='row'>
+<b>Birth:</b> Unknown</div>
+
+<div style='float:left;width:50%;'>
+<b>City:</b> Unknown</div>
+<div><b>State:</b> Arkansas</div>
+
+<br />
+<div class='row'><b>Operating System:</b> Windows 98</div>
+<div><b>Favorite Gaming Platform:</b> Playstation</div>
+<div class='row'><b>Favorite Game:</b> Ecco the Dolphin</div>
+
+<br />
+<div><b>Interests:</b> Football and drinking beer.</div>
+<div class='row'><b>About Myself:</b>
+Ecco the Barbarian is a beer drinking, football playing, twenty-something year old asshole who would post on the forum drunk. He became very popular on the Undercaves forum where it was revealed he was actually an alter ego of Crestoe.
+<p>Many years later Ultimate Arkonviox.com would re-open with Arkonviox taking on the role of this legendary, general purpose forum-warrior. Ultimate Arkonviox.com was a complete flop but in its legacy the Arkonviox Network was born.
+<br />
+
+
+</div>
+
+<br />
+<div id='key'>
+<div>Contributions</div>
+<div style='margin:1px 0px 1px 0px;'>
+<p>
+<img src='../eccoserv/icons/guest.gif' />
+Former member of the original Ecco the Dolphin website the Undercaves.
+</p>
+</div>
+<div> </div>
+</div>
+
+</div>
+</div>
+<script type='text/javascript' src='../ajax-lib.js'></script>
+</body>
+</html>

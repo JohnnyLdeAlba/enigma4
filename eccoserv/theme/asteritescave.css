@@ -1,0 +1,215 @@
+body {
+	margin: 0px; padding: 0px;
+	display: block;
+	background-color: #000000;
+	font-family: verdana;
+	font-size: 8pt; font-weight: normal;
+	color: #ffffff;
+}
+
+#maincontainer {
+	width: 640px;
+	border: 1px solid #000055;
+	background-color: #000022;
+}
+
+#container {
+	margin: 10px; padding: 5px;
+	width: 610px;
+	text-align: left;
+}
+
+img { border: 0px none transparent; }
+
+b {
+	margin: 0px; padding: 0px;
+	display: inline;
+	background-color: transparent;
+	border: 0px none transparent;
+	font-weight: bold;
+	color: #ffffff;
+}
+
+td {
+	background-color: transparent;
+	border: 0px none transparent;
+	font-size: 8pt; font-weight: normal;
+	color: #ffffff;
+}
+
+div, form {
+	margin: 0px; padding: 0px;
+	display: block;
+	background-color: transparent;
+	border: 0px none transparent;
+	font-size: 8pt; font-weight: normal;
+	color: #ffffff;
+}
+
+input, textarea {
+	margin: 0px; padding: 0px;
+	background-color: #001122;
+	border: 1px solid #004477;
+	font-size: 9pt; font-weight: normal;
+	color: #ffffff;
+}
+
+ol { list-style: upper-roman; }
+
+a:link, a:active, a:visited {
+	font-size: 8pt; font-weight: normal;
+	color: #ffff00; text-decoration: none;
+}
+
+a:hover { text-decoration: underline; }
+
+#tab {
+	margin: 0px; padding: 4px;
+	display: inline;
+	background-color: #001133;
+	border-width: 1px 1px 0px 1px;
+	border-style: solid; border-color: #005577;
+	font-size: 8pt; font-weight: bold;
+	color: #dd0000;
+}
+
+#visited {
+	margin: 0px; padding: 4px;
+	display: inline;
+	background-color: #001122;
+	border-width: 1px 1px 0px 1px;
+	border-style: solid; border-color: #005577;
+	font-size: 8pt; font-weight: bold;
+	color: #990000;
+}
+
+#visited a:link, #visited a:active, #visited a:visited {
+	font-size: 8pt; font-weight: bold;
+	color: #990000; text-decoration: none;
+}
+
+#thread {
+	margin: 4px 0px 0px 0px; padding: 6px;
+	display: block;
+	background-color: #001133;
+	border: 1px solid #004477;
+	font-size: 8pt; font-weight: normal;
+	color: #ffffff;
+}
+
+#panel {
+	margin: 4px 0px 0px 0px; padding: 6px;
+	display: block;
+	background-color: #001133;
+	border: 1px solid #004477;
+	font-size: 8pt; font-weight: normal;
+	color: #ffffff;
+}
+
+#profile {
+	margin: 4px 0px 0px 0px; padding: 6px;
+	display: block;
+	background-color: #001133;
+	border: 1px solid #004477;
+	font-size: 8pt; font-weight: normal;
+	color: #ffffff;
+}
+
+#profile .cat {
+	margin: 0px; padding: 3px;
+	font-weight: bold;
+	border: 1px solid #004477;
+	background-color: #001122;
+}
+
+#profile .row {
+	background-color: #001122;
+}
+
+#profile #key { margin: 6px; }
+
+#key .tab, #key div, #key td {
+	padding:2px;
+	font-family:verdana; font-size:7pt;
+	color:white;
+	background-color:black;
+}
+
+#key .visited {
+	padding:2px;
+	font-family:verdana; font-size:7pt;
+	color: #cccccc;
+	background-color:black;
+}
+
+#key b {
+	font-family:verdana; font-size:7pt;
+	font-weight:bold; color:white;
+}
+
+#key a:link, #key a:active, #key a:visited {
+	font-size: 7pt; font-weight: normal;
+	color: #0099ff; text-decoration: none;
+}
+
+#code {
+	margin: 0px; padding: 6px;
+	display: block;
+	background-color: #220022;
+	border: 1px dashed #550055;
+	font-size: 7pt; font-weight: normal;
+	color: #bb00bb;
+}
+
+#panel h1 {
+	margin: 0px; padding: 2px;
+	display: block;
+	background-color: transparent;
+	border-width: 0px 0px 1px 0px;
+	border-style: solid; border-color: #aa0000;
+	font-size: 8pt; font-weight: normal;
+	color: #ffff00;
+}
+
+#thread h1 {
+	margin: 0px; padding: 2px;
+	display: block;
+	background-color: transparent;
+	border-width: 0px 0px 1px 0px;
+	border-style: solid; border-color: #aa0000;
+	font-size: 7pt; font-weight: normal;
+	color: #ffff00; text-align: right;
+}
+
+#panel h2 {
+	margin: 2px; padding: 2px;
+	display: block;
+	background-color: transparent;
+	border-width: 0px;
+	border-style: none; border-color: transparent;
+	font-size: 8pt; font-weight: normal;
+	color: #ffff00; text-align: right;
+}
+
+#panel h3 {
+	margin: 2px; padding: 2px;
+	display: block;
+	background-color: transparent;
+	border-width: 0px;
+	border-style: none; border-color: transparent;
+	font-size: 8pt; font-weight: normal;
+	color: #ffff00; text-align: center;
+}
+
+#caption {
+	width: 210px;
+
+	margin: 2px; padding: 6px;
+	display: block; float: right;
+	background-color: #001122;
+	border: 1px solid #004477;
+	font-size: 8pt; font-weight: normal;
+	color: #0088aa; text-align: left;
+}
+
+#jukebox { position:absolute; top: -17px; left: -17px; }

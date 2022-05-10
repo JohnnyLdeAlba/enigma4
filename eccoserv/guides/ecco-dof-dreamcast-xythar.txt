@@ -1,0 +1,2255 @@
+  =====================================================================
+  || Ecco the Dolphin: Defender of the Future (DC) Walkthrough v1.24 ||
+  =====================================================================
+
+Copyright (c) Xythar (gmmazz@hotmail.com) 2002
+
+This walkthrough is for private personal use only. You may not make
+money off this walkthrough in any way or reproduce it in any other form
+than its current electronic form. As an exception, you may print a hard
+copy for personal reference purposes provided you do not use it to make
+money in any way, shape or form. If you wish to use this walkthrough
+on your site, email me for permission first.
+
+Currently, the sites that have permission to post this FAQ are:
+Arkonviox.net (www.arkonviox.net)
+GameFAQs (www.gamefaqs.com)
+Caverns of Hope (www.planetdreamcast.com/cavernsofhope)
+Cheat Happens (www.cheathappens.com)
+IGN (www.ign.com)
+Computer Underground (www.computerunderground.com)
+
+If you see this FAQ on any site not on this list, please notify me. The
+"correct" version of this list will always be on GameFAQs.
+
+Ecco the Dolphin: Defender of the Future is a trademark of Appaloosa and
+Sega Enterprises.
+
+There will be minor spoilers ahead in terms of chapter/level names, some
+events, and such. However, Ecco: DotF does not focus on storyline, nor
+does it (IMO) have a very good storyline. So I personally wouldn't care
+about reading spoilers.
+
+This is version 1.21 of the FAQ, last updated 7th April, 2002. This FAQ is
+written for the Dreamcast version of Ecco: DotF. While I expect that most
+will also be correct for the Playstation 2 version, I haven't played the
+latter myself and therefore give no guarantees as such. If there are any
+changes that affect the game to the point of this walkthrough being
+incorrect (so *not* stuff like the new map and compass, and not stuff
+which is merely added like the vision crystals) email them to me at
+gmmazz@hotmail.com, please.
+
+This walkthrough is split into several sections. First is a general info and
+tips/strategy section, as well as the game's controls. The next section
+contains minimalistic hints for each of the levels. If you are stuck but don't
+like to have the answer spelled out for you, hopefully they'll give you a
+nudge in the right direction, although in some cases there isn't much that
+can be said without saying what the crystals have already told you. The next
+four sections after that walk you through the game in intelligence-insultingly
+specific detail.
+
+Revision History
+v1.23
+*Made a slight change to an apparently incorrect section of the Four Ways to
+Mystery walkthrough (near the end).
+*Added permission for IGN to post this FAQ.
+v1.22
+*Added tips for Process That Never Ends in the PS2 version.
+*Added Blades in Motion boss strategies.
+*Clarified how you access the secret levels in the PS2 version.
+v1.21
+*Several minor errors corrected.
+*Added permission for Cheat Happens to post this FAQ.
+v1.20
+*Walkthrough is complete. Finito. Done. Finally. :)
+v1.05
+*Walkthrough is complete up until the end of Powers of Levitation.
+*Added permission for Caverns of Hope to post this walkthrough.
+v1.00
+*Walkthrough is complete up until the end of Man's Nightmare. More will be
+added as I play it in the game, which I haven't beaten yet.
+
+                            ========================
+                            || TABLE OF CONTENTS  ||
+                            ========================
+
+1) Game Tips and Controls
+2) Game Hints
+     2a) Isle of Tranquility Hints
+     2b) Man's Nightmare Hints
+     2c) Dolphin's Nightmare Hints
+     2d) Domain of the Foe Hints
+3) Walkthrough: Isle of Tranquility
+     3a) Aquamarine Bay
+     3b) Perils of the Coral Reef
+     3c) Trial Without Error
+     3d) Four Ways of Mystery
+     3e) Perils of the Coral Reef - revisited
+     3f) Trial Without Error - revisited
+     3g) Up and Down
+     3h) Roaring Forces
+     3i) Atlantis Lost
+4) Walkthrough: Man's Nightmare
+     4a) Shrine of Controversy
+     4b) Master of Forgotten Skills
+     4c) Process that Never Ends
+     4d) Blades in Motion
+     4e) Perpetual Fluidity
+     4f) Obscure Ways to Terminus
+     4g) Sleeping Forces of Doom
+5) Walkthrough: Dolphin's Nightmare
+     5a) Anguish of Dearth
+     5b) Entrapment
+     5c) Anguish of Dearth - revisited
+     5d) Caverns of Hope
+     5e) Lair of Evil
+     5f) Powers of Levitation
+     5g) Hanging Waters - Part 1
+     5h) Ice and Fire
+     5i) Hanging Waters - Part 2
+     5j) Abyss of Inferno
+     5k) Hanging Waters - Part 3
+     5l) Mutaclone
+6) Walkthrough: Domain of the Foe
+     6a) Chance of Reckoning
+     6b) Hatchery
+     6c) Seeds of Poison
+     6d) Transfiguration
+     6e) Heart of the Foe
+7) Acknowledgements
+
+                     =============================
+                     ||  GAME TIPS AND CONTROLS ||
+                     =============================
+
+Just a few pointers. I'll add more as I think of them.
+
+*Charge at schools of fish to eat them and gain health back. Some are
+harder to catch than others, and some restore more health than others.
+
+*Charging repeatedly is faster than pressing the A button repeatedly, but
+harder to control.
+
+*The best jumps are done by charging. Get close to the surface of the
+water, aim, and press B - rather than swimming down and accelerating
+upwards.
+
+*Good news or bad news? Bad news is that you'll die a lot. Good news is
+that you've got unlimited continues, and you generally restart not far
+back. I wish more games would do this.
+
+*If you're fighting sharks (one or more), you need to use hit-and-run
+tactics. Wait for one to come at you, and when it's close sonar it and
+immediately charge it. Swim off, get your bearings (getting disoriented
+in combat is very, very easy) and charge it again. If you stick around
+after hitting it, you'll end up looking all around trying to figure out
+where it is, and it will probably hit you unless you're quite skilled at
+using L and R to look left/right. Of course, usually the best idea is
+just to avoid them, but sometimes you have to kill them or need to so
+they'll stop harassing you (I hate sharks..)
+
+*Some fish (they're yellow and orange, I think) harm you if you try to eat
+them. However, if you get poisoned by a jellyfish or something else (your
+health meter will turn purple and decrease constantly and you'll move
+painfully slowly) they will cure the poison.
+
+*Tail-walk by swimming up until your nose is just poking out of the water
+surface, then pressing A repeatedly.
+
+*Remember how the game saves. Your progress in a level is *only* saved
+when you complete it, which means you should never play Ecco unless you've
+got at *least* an hour to spare. More for the longer levels. However, I'm
+pretty sure (from observation) that it also saves collected vitalits and
+powers (I assume songs also) but don't rely on it.
+
+Here are the controls:
+
+X: Sonar. Your sonar is used for many things - to talk to other dolphins,
+attract turtles and fish, push manta rays around and stun sharks (once the
+appropriate songs have been learned) and also to trigger some switches and
+otherwise manipulate many objects, bring up the map (hold the button down)
+and "tractor beam" crystalline rocks in several levels of Man's Nightmare
+(double tap the button and hold.. it's kind of weird and doesn't seem to
+work sometimes for whatever reason O_o) When out of water, this button
+causes Ecco to make a cute (but useless) sound.
+
+Analog stick: Controls the direction Ecco is facing. It uses inverted
+"flight sim" controls in that up makes him face down and down makes
+him face up.
+
+A: Swim forward. Each press corresponds to a pump of Ecco's tail. Press
+rapidly to increase his speed, then hold the button down and he will
+continue to move at that speed until you let go.
+
+B: Charge. Gives Ecco a quick boost forward - useful for travelling
+quickly, jumping out of the water, and attacking *some* enemies.
+
+Y: "Modifier" button. When pressed with left and right, Y executes quick
+turns. When pressed with down while moving, Y functions as a brake, and
+when pressed with down while standing still, Y swims backwards. When
+pressed with up while moving, Y causes Ecco to perform a corkscrew-like
+spin for as long as the button is held. When pressed with L or R, Y causes
+Ecco to roll left or right.
+
+L and R: Looks to the left or right of Ecco while in the default camera
+mode. L looks left, R looks right, and both together look behind. As
+they're analog triggers, you can rotate the view by varying amounts,
+depending on how far you press them. If you're above the water's surface,
+they cause Ecco to roll instead.
+
+D-pad: Any button on the D-pad changes the camera angle. Tap it to switch
+between the default camera angle which is always behind Ecco, and a more
+"free" camera angle. Hold it down to switch between the default camera
+angle and one positioned above the water's surface (I can't think of much
+use for this O_o). In either alternate camera angle, L and R cause Ecco to
+roll instead of looking around.
+
+Start: Pauses the game and shows the menu. Press X and Y together on this
+screen to temporarily hide the menu, but keep the game paused.
+
+Finally, this walkthrough does not cover the game's two secret levels (as I
+didn't do them) or vitalit locations (as I didn't look for them). All the
+secret levels get you are vitalits, and vitalits aren't really that
+necessary - you should find enough in plain sight to win, and vitalits you
+collect *only* extend your health meter as long as you remain in the
+chapter they were collected in (chapter meaning Isle of Tranquility,
+Man's Nightmare, etc..).
+
+                              ================
+                              || GAME HINTS ||
+                              ================
+
+                        -----------------------------
+                        | Isle of Tranquility Hints |
+                        -----------------------------
+
+AQUAMARINE BAY: Perhaps it's behind the verdant rock?
+
+PERILS OF THE CORAL REEF: That which can hurt or save you can also shield
+you. To gain its assistance, accomplish another's dream. Taunt the jaws of
+death with what would halt the lesser, and its weakness is its size.
+
+TRIAL WITHOUT ERROR: Not much can be said that is not already told. Look
+behind the guardian.
+
+FOUR WAYS TO MYSTERY: The creature within the tunnel of a crimson glow may
+shield you from death. The tunnel of yellow does not aid your quest.
+
+PERILS OF THE CORAL REEF REVISITED: More can now be accomplished from your
+position of arrival. After the power, do what has been done already.
+
+TRIAL WITHOUT ERROR REVISITED: The power can pass the mouth of stone. Look
+where you previously did not have to go.
+
+UP AND DOWN: Break the stone of pain with sound. A song which you learnt long
+ago will finally show its use. That which previously shielded you now shields
+what you need. The unused song's creature should be attacked, and dropped.
+
+ROARING FORCES: Pass death by, hidden from view. The hunter must become the
+prey.
+
+ATLANTIS LOST: Those which are shattered may be restored by the view of
+manmade illusion. Once restored, all may be entered together to reach great
+heights.
+
+                          -------------------------
+                          | Man's Nightmare Hints |
+                          -------------------------
+
+SHRINE OF CONTROVERSY: The shrine may only be opened by the aid of three.
+Two may be won over through the tunnels in the rock, the last requires
+a clockwise rotation. He who helps without the need to prove yourself will
+shield you from that which would deter your advance.
+
+MASTER OF FORGOTTEN SKILLS: The dots show the sequence. Your goal is to open
+the door with that which of there is many, but only one is suitable.
+
+PROCESS THAT NEVER ENDS: The one will yield through your touch of the smaller
+one, and likewise will the two yield through your touch of the smaller two.
+The two will also yield to that which the one does not. To begin, seek he
+who can be seen but not touched. To leave, collection and destruction is the
+key. Your song, when doubled and held, allows manipulation.
+
+BLADES IN MOTION: Sound has the power both to shatter and provide
+illumination. Strike the beast in the underbelly.
+
+PERPETUAL FLUIDITY: Sorry.. I don't even understand this level well enough
+myself to write a proper hint for it. I'd recommend checking out the full
+walkthrough below.
+
+OBSCURE WAYS OF TERMINUS: They are tall, but still may be overcome. The
+furthest is your goal.
+
+SLEEPING FORCES OF DOOM: The onion must be peeled. Those who would take what
+you would use must be stopped, above all.
+
+                        -----------------------------
+                        | Dolphin's Nightmare Hints |
+                        -----------------------------
+
+ANGUISH OF DEARTH: Ride the predator while concealed.
+
+ENTRAPMENT: Lay low and concealed to open new paths. The front window is your
+entrance.
+
+ANGUISH OF DEARTH REVISITED: The invisible death in the tunnel is not unlike
+a deadly laser beam. And the principle for avoidance remains the same.
+
+CAVERNS OF HOPE: Your song possesses a multitude of uses, from conversion to
+encouragement to dislodgment.
+
+LAIR OF EVIL: Enlist the aid of the attacking enemy to open a new way. Brand
+yourself, then trick the enemy to aid you to brand yourself higher in rank.
+
+POWERS OF LEVITATION: Eight are to be activated. Four in the spokes of the
+wheel, one in the exploited life, three lay deep.
+
+HANGING WATERS PART 1: Your ability to bounce higher is looking up. If you
+can't go through it, try going over it.
+
+ICE AND FIRE: Lead it to the opposite.
+
+HANGING WATERS PART 2: Jump only where the two impenetrables are further
+apart. Look to the outside environment for the ice.
+
+ABYSS OF INFERNO: Let's play ball.
+
+HANGING WATERS PART 3: Sing to, then find your avian friend.
+
+MUTACLONE: Break the yellow, attack the many, and lead the enemy to yellow.
+
+                         ---------------------------
+                         | Domain of the Foe Hints |
+                         ---------------------------
+
+CHANCE OF RECKONING: Seal spouts. Present the vision with sound, and attack.
+
+HATCHERY: Interfere with the hatchery's operation. Close what should be open,
+and turn on what should be off. Then attack the manipulator.
+
+SEEDS OF POISON: Upwards. Open your way with the power of sound.
+
+TRANSFIGURATION: The sound lies in the cave filled with danger. It must be
+used to destroy the lonely rock for more sound, which breaks the many rocks.
+Become the prey and see red.
+
+HEART OF THE FOE: When green meets red, your chance to strike is apparent.
+Make haste.
+
+                          =========================
+                          || ISLE OF TRANQUILITY ||
+                          =========================
+
+                             ------------------
+                             | Aquamarine Bay |
+                             ------------------
+
+This first level is extremely easy and seems to be mainly to allow you a
+chance to get familiar with controlling Ecco. So do so. There's a dolphin
+who will explain the controls to you, and several others playing fish
+fetch. I didn't try fish fetch (it's for a vitalit) so I can't really
+comment on it. Now, face away from the rock wall at the start with the
+closed gate (which I assume leads to Atlantis, but it doesn't matter as you
+won't use it). Straight ahead are some sharks in the distance, but you
+can't reach them or vice versa (due to one of those invisible walls that
+are so commonplace in the ocean.. *rolls eyes*) so head to your right
+instead until you reach the whale and her baby. Talk to them a few times,
+then just swim and jump for a bit.
+
+After a while you'll see a cutscene (I'm not sure what triggers it..
+probably just time, but swim around to different areas if it doesn't happen
+for you). Now go back and talk to the mother whale to find out her baby is
+missing. From the mother, turn around so she is at your back and then head
+forwards to the rock wall. A little to your left, you'll see a pile of
+rocks with one green one at the bottom. In the middle of the pile of rocks
+is a fairly large and obvious hole which you can enter to get behind the
+pile, where the baby whale is. Talk to her to find out she's stuck (no
+kidding) and leave. Go back to the start of the level (to your left as you
+leave the pile of rocks), where the dolphins with green stripes were
+playing fish fetch. Talk to one of the dolphins and they will accompany you
+back to the pile of rocks (try tailwalking when they're following you ^_^)
+and with their help, you will be able to move the green rock out of the
+way, releasing the baby whale. After the baby and mother are reunited
+(awwww) talk to the mother, and as she says proceed to the waterfall, which
+is back along the rock wall. End of level.
+
+                        ----------------------------
+                        | Perils of the Coral Reef |
+                        ----------------------------
+
+Hear that? That's the near *vertical* learning curve hitting you in the face.
+For the second level, they throw at you something that would be more in
+keeping with the difficulty of a level quite a bit later in the game. This
+level isn't particularly exciting, but it *is* difficult especially since
+you'll probably still be getting familiar with the game. Good luck.
+
+From the start, head forward and through the gap in the rocks. Watch out for
+the shark. You don't have the Song of the Shark yet, so you can't sonar them
+to stun them. This means you can't attack head-on without being damaged, but
+on the other hand there are plenty of fish around. Head to the left (watch
+out for the other shark) and you'll come across a dolphin who has lost his
+brother. Look up and to the left (tailwalk if necessary) and you should
+see a gap in the wall you can jump through. Do so (remember, charging
+near the surface of the water is the best way to jump - see the tips
+section) and you'll end up in an area with about 3 sharks and the dolphin's
+brother, who wants you to rescue his turtle from the sharks. Kill all the
+sharks (might take a few tries - check the tips section for help with shark
+fighting but bear in mind you can't sonar them yet) and the grateful dolphin
+will teach you The Song of the Turtle, although you won't need to use it for
+quite a few levels yet.
+
+Jump back over the wall to his brother who you met before, who will teach you
+The Song of the Shark (so now you can stun sharks and attack them head on).
+Now, return once again over the wall to the area where the 3 sharks were and
+where the dolphin and his turtle are. Now, continue forward from here until
+you reach a more open area. It should contain a large rock in the middle, then
+ahead of that a shark, then another large rock. Near this last large rock,
+you'll see a shark to the back, and a dolphin chasing a red fish around and
+around the rock. Catch the fish he's chasing (it's best to wait in its path
+and charge when it comes past) and the dolphin will teach you the Song of
+the Fish, which makes certain schools of fish follow you, but you'll lose
+them if you move too fast.
+
+Now, go to the back of this area, and look to the right. You should see the
+entrance to a tunnel, with jellyfish floating in the opening. This tunnel
+leads to the next area, but partway through there are some piranhas. You may
+be able to make it if you just charge through as quickly as you can (and
+restock on health from fish in the next area) or you can find a school of
+poison fish (the yellow and orange ones - there's some at around the entrance
+to this area, and some on the other side of the second big rock), sonar them
+to get them to follow you, and proceed back to the tunnel and through it -
+but don't move too fast, or you'll lose them. When the poison fish are with
+you, the piranha will not be able to damage you. Either way, proceed through
+the tunnel to the next area.
+
+Now comes the hard part. See the great white shark? That's the first boss
+fight. But to start off with, he'll ignore you. So take this time to get
+familiar with the simple area you're in, and particularly the rocky pillar
+in the middle with two smallish holes in it. What you need to do is to get
+the shark stuck in one of those holes. Firstly, sonar the shark to get its
+attention. Then swim like mad, through one of the holes, leading it through
+to get stuck. This isn't as easy as it sounds (mainly because if the shark
+catches you, you are dead), and will probably take a lot of tries, but stick
+at it. Once the shark is trapped, charge his head and you will receive the
+Power of Vigor. When the Power of Vigor is activated by collecting the
+appropriate crystal, it will power up your charge attack for a limited time,
+killing most enemies in one hit and allowing you to overcome strong currents.
+
+The shark will now free itself. You have two options at this point - you can
+either kill the shark by charging it six times WITH the Power of Vigor active
+(H-A-R-D) for a vitalit, or you can hightail it out of there. I recommend the
+latter, but do as you wish. When you leave, you should use a different tunnel
+to the one you came in by, unless you want to brave the piranhas again. The
+entrance is on the right wall, but the one you want is one of a group of two
+tunnels next to each other in a corner of the area. Enter the one on the left,
+and a current will pick you up and you will end up near the start of the
+level. Go straight forward from here, past three sharks, and you'll end up
+where the dolphin looking for his brother was (only he's not there now, he's
+with his brother over the wall). Jump over the wall, and continue forward,
+and as before you will soon reach the large area with two large rocks in the
+middle and the dolphin chasing a fish around in circles.
+
+Just before the second rock, there will be an opening to your left. Go that
+way. There are two dolphins here who can give you some useful information.
+Proceed forwards a bit. You'll see how the open area basically branches into
+three ways to go. The rightmost way (not the cave in the right wall) is half
+blocked by a rock. Go this way. Proceed forwards, watching out for the three
+sharks along the way. At the end, there will be a glowing white thing with
+bubbles coming out of it, and a current pushing you away from it. Collect the
+Power of Vigor crystal on the floor here (you'll need to charge to reach it)
+and then charge through the current into the glowing white thing - or rather,
+the tunnel behind it. End of level.
+
+                          -----------------------
+                          | Trial Without Error |
+                          -----------------------
+
+This level's a bit of a break after the difficult second level, and shouldn't
+take you long at all. From the start of the level, go forward to an open area
+with several sharks. Kill them if you like, but be aware that there is a Power
+of Vigor under the arch-shaped rock that is ahead and a bit to the right as
+you enter, and while powered up with it you can kill them with one charge
+instead of three, which is very useful. After killing the sharks (or not),
+enter the cave to the right of the arch-shaped rock, and proceed through it to
+another area (remember to use the map if you get disoriented inside the cave).
+There's something like four or five sharks all in this area, so stay on your
+toes. Avoid them for now and quickly swim past to the other end, where there
+is a gap between the rocks. Swim through, and talk to the dolphin. Before
+going back to kill the sharks, though, swim to the very back of this area, to
+the far left corner. Just above the water here, tucked away in a little alcove
+is a Power of Vigor crystal. Jump slightly out of the water and snag it to
+make your sharkicidal task *much* easier. After you've dealt with all the
+sharks, the dolphin will leave for the first area.
+
+Return there also, by going back and through the cave. Go straight ahead
+as you leave the cave) to the arch-shaped rock, collect the Power of Vigor
+under it, and continue ahead to a spiky rock formation, where the dolphin
+from before waits. One of the rocks there can be pushed over with the Power
+of Vigor, so do so. Now head down to the cave of the octopus. He's in front
+of the entrance to the next level, and if you try to swim past him he'll grab
+you and throw you back, damaging you (and he also shoots out damaging ink when
+you get near him). So how to get past? Talk to the dolphin, who came down with
+you and has a plan. The dolphin swims up to the octopus to distract it, and
+while the octopus holds the dolphin, quickly swim behind it into the small
+opening. End of level.
+
+                          ------------------------
+                          | Four Ways of Mystery |
+                          ------------------------
+
+OK, so this one's a bit harder, but still quite manageable. And the music
+rocks. This level's mostly in caves, so you'll often have to find bubble
+vents to breathe. Anyway, head forward and you'll soon reach the level's
+central room. Four passageways (the "four ways of mystery") branch off from
+here, although you'll only need to go down three to beat the level. Each
+passageway can be identified by the different coloured glowing crystals at
+points throughout it. Firstly, go to the middle and pick up the spiky star
+thing to be able to use the Power of Air, which temporarily doubles your air
+meter. Now, go back to the level entrance, which is identifiable as being a
+wide passageway that contains a current that pushes you back.
+
+Facing into the main room, head along the left wall, passing between the
+large rock pillar and the wall. Keep following this wall around. You'll soon
+reach a small tunnel in the wall - ignore this and continue following the wall
+around (it's the yellow crystal tunnel). Remember that there's a bubble vent
+around the middle of this area if you run low on air. Continue to follow the
+wall around, passing the crystal to your right, until you see another tunnel
+(it's higher up than the other one, so keep an eye out) which you should go
+down.
+
+A short way down this tunnel, there will be a barrier with a smaller hole in
+it, with a Power of Air crystal in the hole. Remember here, as it will be
+useful when you go down the other tunnels, but for now take the crystal and
+proceed down the tunnel you're currently in. As you proceed down, watch out
+for the polyp/anemone things stuck all over the walls - charge through them to
+avoid being hurt (if you don't know what they look like, there's about four on
+the floor of the tunnel directly after the Power of Air crystal). Very shortly
+after this, there is a moray eel that will pop out of a hole and damage you,
+so watch out (I don't think it can be killed) and proceed on.
+
+You'll soon reach a glowing purple crystal, showing this to be the purple
+crystal cave. If you sonar the crystal, it will refill your health and air.
+At this point, you can go left, right or forwards. Go left, and proceed along
+the twisty tunnel, watching out for all the anemones. When the path branches
+off to the right, just continue forwards (watch out for the moray eel a
+little further along) and continue until you eventually reach a larger cavern
+with a water surface above you and a dolphin swimming around. Talk to him, and
+he'll teach you the Song of the Ray.. if you bring him a particular fish. And
+guess where the fish is? That's right, back in the main room *groan*.
+
+So, refill any health you may have lost by eating the fish, and head back.
+Again, ignore the branching tunnel, which will now be to your left. When you
+reach the purple crystal, sonar it to restore your health and air, then turn
+right and continue out of the tunnel. Now, you need to find the fish. The fish
+you want is a fast, blue and yellow fish that swims around the rock pillars in
+this room. Be warned that if you continue along the wall past the tunnel you
+just came out of, you'll soon reach the exit tunnel - guarded by an extremely
+large moray eel that will instantly kill you if you get too close, so be
+careful. Once you have the fish, head back along the purple crystal tunnel as
+before, and give it to the dolphin. He'll teach you the Song of the Ray, which
+is used to push manta rays around. Head back through the tunnel to the main
+room yet again (as before) and go back to the large level entrance tunnel.
+
+This time, follow the *right* wall around, and you'll soon come to another
+tunnel in the wall. Enter this tunnel. (If you don't have it, be sure to
+collect the Power of Air crystal from the start of the purple crystal tunnel
+first). Head past the moray eel right at the entrance and continue until you
+reach a glowing red crystal and a branch to the right. Ignore it and continue
+forward, sonaring the crystal if necessary. You will eventually reach an open
+area with a water surface, similar to before, except it contains jellyfish,
+a couple of sharks and a manta ray. Kill the sharks if possible, and sonar
+the manta ray into the tunnel you came in from, following after. You have to
+keep sonaring it all the way, because it's always trying to go back to where
+it was and you need to push it along. Keep heading along the tunnel, again
+ignoring the branch off, and pushing the manta all the ray (da-dum) to the
+main area.
+
+Once you've pushed it sufficiently into the main area, the ray will stop
+trying to go back and will swim around the main area instead. Now, the final
+challenge is to sneak past the giant moray eel by using the ray as a shield.
+Refill on air or collect the Power of Air from the purple crystal tunnel,
+Sonar the manta ray towards the eel and exit tunnel (which is to your *right*
+as you leave the red crystal tunnel) and as the ray passes under the eel,
+quickly swim under it and into the tunnel. Proceed down the tunnel and after a
+while, you'll come across a pile of rocks blocking the tunnel. Push one of the
+top rocks forward and out of the way. The tunnel will slope downward, so push
+the rock that you pushed out of the way down the tunnel and follow right
+behind it to make it past the current. When you reach the bottom, the path
+will split left and right. Go left, sonar the blue crystal when you reach it
+to restore health/air, take the tunnel to the right until you reach another
+fork, then go left again. Continue until you reach *another* fork, and this
+time go right. Continue to follow the tunnel until the end of the level.
+
+
+
+
+                    ----------------------------------------
+                    | Perils of the Coral Reef - revisited |
+                    ----------------------------------------
+
+No, your game isn't glitched. You'll have to quickly revisit the second and
+third levels to take care of some unfinished business, but what you have to
+do is quick and easy. You'll start off in a yet unexplored cave area of level
+2. Touch the spiky thing to learn the Power of Sonar, then proceed forward,
+collect the Power of Sonar crystal and use it to break the rocks to the left
+of the green fence-like barrier. Now proceed ahead and you'll be back in the
+main area of level 2. Turn right immediately as you leave the cave, and you'll
+see the half-blocked passage that you took earlier to go to level 3. Do so
+again.
+
+                      -----------------------------------
+                      | Trial Without Error - revisited |
+                      -----------------------------------
+
+Now, you're back to where you were before, but with one important
+difference - you have the Power of Sonar. You'll also need to go to a
+different part of the level (yes, you could go there also on your first visit,
+but you couldn't do anything there without the Power of Sonar). From the start,
+go ahead to the open area, and head to the far end of the area. There will
+be a path in the far left corner of the area. Go down the path to end up in
+a smaller area (with hammerhead sharks - beware, they take more hits than the
+regular sharks) where you should take the only other path out (it's in the
+same direction as the one you used to enter, but more to the left - check
+the map and you'll see what I mean).
+
+Continue along, and watch out for the sharks (which are dangerous and
+annoying) and the jellyfish (which will poison you, and antidote fish are
+quite rare around there). Continue on past a big rock in the middle of the
+path, and past  a rock shaped uncannily like a crocodile's head with a crystal
+next to it, until the path forks in two. Take the left fork first, and pick up
+the Power of Vigor crystal. Now take the right fork, use your powered-up
+charge to overcome the current, and pick up the Power of Sonar crystal. Now
+quickly return to the crocodile's head rock, and use the Power of Sonar to
+blast it open, revealing the entrance to the next level.
+
+                               ---------------
+                               | Up and Down |
+                               ---------------
+
+PS2 VERSION OWNERS, READ: I had mentioned this above, but it wasn't
+noticed by some people, so I've moved it down here - the guide says how
+to access the secret levels below, but in the PS2 version, you can ONLY
+get to them if you return to this level after beating the game. Kay?
+
+This level's pretty short and simple. As you enter, you will be in a round
+cave with a large red rock in the centre. This rock will damage you if you
+touch it, so don't. Take the spiky thing right in front of you to learn the
+Power of Endurance - you can then collect a Power of Endurance crystal from
+an alcove to your right from the entrance, which temporarily doubles your
+health. There is also a Power of Air crystal in an alcove ahead of you from
+the entrance. In an alcove to the left of the entrance (and forward a bit)
+there is a crystal and a hole leading downwards with a current preventing
+you from going down there. So go out to the main room, and charge at the
+brown boulder lying on the ground nearby so as to knock it into the alcove
+with the crystal. Knock it into the hole with another charge if it isn't
+falling down already, then follow behind it to get past the current, pick
+up the Power of Sonar crystal and leave.
+
+(Secret Level: You might notice a temple-like structure below. Swim down
+there and use the Power of Sonar on the glowing light in each of the four
+"stone pylons". This will open the entrance to the optional 2D secret
+level "Passage From Genesis" below you, but the level itself is not
+covered in this guide. Sorry.)
+
+Whether you did the secret level or not, leave the hole with the Power of
+Sonar, then shoot the large red rock in the middle of the first area with
+the Power of Sonar several times to break it up and reveal the underwater
+geyser underneath. Ride the current upwards - through a tunnel filled with
+rock pillars, rocks and steam that damage you. For some reason you're
+poisoned as you enter, but if you manage to get the Power of Endurance
+crystal that is right at the start (and I strongly advise you do) it will
+be cured. Once you finish the "ride", you'll be in the upper section of the
+level.
+
+(Secret Level: Collect all the glowing purple crystals and take them to the
+glowing hoop in the water. Some are underwater and some are above it and
+must be jumped to, but all are in the upper area of the level and all are
+easy to see except one which is hidden behind the wooden fence-like barrier
+leaning against one wall. Doing this will cause a glowing light to appear
+in the rocks above the surface of the water, behind the hoop. Jump to it
+to enter the optional 2D secret level, "Pathways from Nowhere". The level
+itself is not covered in this guide, sorry.)
+
+After the secret level (or not), jump down the waterfall. If at any point
+you need to get back up, jump up into the middle of the waterfall and you'll
+enter a secret passage which leads to the middle of the little speed
+sequence you did before, but at least you don't get poisoned this time.
+Anyway, ahead of you in the area at the bottom of the waterfall is an
+easy-to-miss ray lying on the sand. Sonar the nearby turtle until it is in
+position above the ray, then charge the turtle to make it fall down on top
+of the ray, causing the ray to swim away temporarily. Quickly grab the
+spiky-thing that was hidden under the ray to learn the Power of Stealth.
+(How they expected people to work this out on their own, I'll never know..)
+Now, head to the little stone structure that is ahead of you as you face
+away from the waterfall. There's a Power of Stealth crystal behind it.
+After taking it, turn to your left (your left while facing the wall, that is)
+and proceed up the incline, then down into the deeper area. Go into the cave
+at the side of the wall here, and proceed through. (In case you were
+wondering, if you don't have the Power of Stealth your way is blocked by a
+mirror reflection of you.) End of level.
+
+                             ------------------
+                             | Roaring Forces |
+                             ------------------
+
+This level's short but annoying. You'll enter in a pool full of sharks
+that just love to make your life miserable while you try to pick up what you
+need before the next part. Fortunately, if you head forwards and right a bit,
+just to the left of the waterfall is an underwater rock spire on top of which
+is a Power of Stealth crystal. Collect this immediately, and the sharks won't
+be able to see you. You can kill them if you like, but there's two normal and
+two hammerhead sharks, and the hammerhead sharks take six hits each, so it
+will take a while (and don't even *try* without the Power of Stealth).
+Anyway, the tunnel you need to take this area is directly opposite the one
+you came in by, on the other side of the room. But don't enter yet! It's
+guarded by yet another blasted giant moray eel that will snack on you if you
+try to enter - unless you have the Power of Stealth. Before entering, though,
+it is *highly* recommended that you collect the Power of Endurance crystal
+behind the waterfall (you'll need to jump to get it, and it may take a few
+tries) and the Power of Air crystal that is in a little alcove in the wall
+that is to your left as you enter. Get them or you'll probably regret it
+later (I learnt this the hard way >_<) then enter the moray eel's tunnel
+with the Power of Stealth active (you can collect it again if you think you
+might be running low).
+
+However, the Power of Stealth wears off just as you pass the eel, and it's
+not going to let you get away that easily, unfortunately. The eel will now
+give chase and fire lightning at you as you swim through tunnels away from
+it. I'm kind of sick of just about every game with an action element
+incorporating little races like this.. anyway, sprint along the passage as
+fast as you can, try to zigzag a bit to avoid the lightning, and make sure
+you don't hit anything as if the eel catches you, you're dead and you'll have
+to restart the level (and all the sharks will be back if you killed them).
+I wouldn't advise trying to jump out of the water at the open bits, because
+of the possibility of getting stuck and the eel catching you. If you took the
+Power of Air crystal, you should have more than enough for this part.
+
+After you reach the end and successfully elude the eel (might take a few
+tries) you'll be in a room with buttons on the wall. *Don't* eat the fish
+unless you're poisoned, and instead charge attack the two buttons the
+pictured dolphins are pointing to (the very topmost and very bottommost
+one, I think) to open a small gap in the rocks above you. Continue. When
+you reach the crystal, don't miss the bubble vent on the ground right before
+the barrier with flower-like holes in it. Swim through to a room with a
+strange glowing light in the centre. Watch the fish swimming around the
+outside of the room. When it gets reasonably close to the grate at the
+other side, touch the light then touch the fish to turn Ecco into a fish.
+Then swim through the grate. End of level.
+
+                              -----------------
+                              | Atlantis Lost |
+                              -----------------
+
+The architecture in this level's buildings is impressive, to say the least..
+This level's easy. Go forward and talk to the Guardian (that's the crystal
+pillar, if you weren't paying attention in the intro) to learn you need to
+find the five crystals in this level. These are glowing purple crystals, the
+same as those you found to open up the secret level "Pathways from Nowhere".
+There are five buildings around the Guardian in a circle. The central and
+largest one has a crystal on top of it, but you can't get it yet. So head
+behind it, into the deeper water and past the broken hoop like objects.
+Head along the bottom of the trench until you see a hole leading downwards
+with a strong current keeping you from entering (it's just about directly
+below the lowest hoop) then look for a rock on the ground behind you (it's
+easy to see) and push it down the hole. Instead of following it down, just
+wait until it reaches the bottom, when it will cut off the current. Go down
+the hole, and in an alcove in the wall on the way down is a crystal. Take it
+back to the Guardian, and a hoop will appear above the water. Ignore it for
+now.
+
+Go back to the trench but don't go down it this time. Swim past it to an area
+behind it with several tall rock formations, then go left to the shallower
+water. When there, if you look carefully to your right you should see the
+sparkle of another crystal in another shallow pool separated from where you
+are by a sandbank. Jump out of the water and into the shallow pool to
+retrieve the crystal, then jump back and return to the Guardian with it.
+Another hoop will appear above the water - again, you can ignore it for now.
+
+Now, go back to behind the main building again. This time instead of heading
+for the trench, look a little to your left. See all those rocks strewn across
+the sand? Go to the left of *those* and you should see a channel with some
+slanted rock pillars leaning across it. Enter the channel, watching out for
+the large numbers of jellyfish, and follow it a short distance to the end
+where another crystal is hidden behind a rock. Take it back to the Guardian.
+Another hoop will appear as before, ignore it.
+
+Now for the fourth crystal. Head to the end of the good old trench, to where
+the shallow water you found the second crystal in is. This time, go just
+right of that to the area with several rock pillars. Swim to the far end of
+the area, and you'll see a Power of Sonar crystal. Take it, and go back a bit
+to where the dolphin is. Fire powered up sonar blasts at the blocked gateway
+to open a hole you can swim through, and inside is the crystal. Guess where
+you should take it, and what will appear afterwards? Yep.
+
+However, this time you get to actually use the hoop, as well as the others.
+Jump through all four hoops that are above the water surface (separately)
+and each hoop will open one of the four smaller buildings in this area.
+Sonar the weird crystal/cage thing in each (don't ask) then enter the main
+building and sonar each of the four glowing spheres (ditto). Now return to
+the trench (yes, again) and swim to the bottom. The previously broken hoops
+are now fixed and ready. Position yourself in front of the bottommost hoop,
+then swim up through it, and through all the others. They will speed you up,
+and as you break the water's surface (*don't* charge this time) you'll do a
+large jump. Hopefully, you'll sail over the main building and will be able
+to grab the last crystal. If not, try again and aim differently. Once
+you have it, take it back to the Guardian (REALLY?!). End of level.
+
+Now you'll see two cutscenes in a row, and then it's onto..
+
+                            =====================
+                            || MAN'S NIGHTMARE ||
+                            =====================
+
+                          -------------------------
+                          | Shrine of Controversy |
+                          -------------------------
+
+This level's great - the sheer size of it is amazing and the clusters of
+jellyfish are beautiful. You'll start off in front of what I assume is the
+Shrine of Controversy itself, although why it's called that is probably
+anyone's guess. As the crystal hints, the overall objective of this level
+is to open the Shrine and retrieve the Labour Harness within. To do this,
+you'll need the assistance of three dolphins in the level, so let's start.
+
+Swim down a short way from the start until you see a strange structure with
+a green light and bubble vent on top, and a weird looking dolphin swimming
+around in front of it. This is the guard of the Movers (one of the dolphin
+sects) but you won't be able to gain his trust, rather that of the Prime
+Mover who you will meet later. Remember this particular depth, as this is
+basically where the three sects live.
+
+Look to your left (facing away from the wall) and you should see a blue light
+in the distance. Swim towards it and you'll find it's on the roof of another
+building (with a bubble vent) and another dolphin swimming around the front.
+If you talk to him, he'll mention something about a circle - he is the member
+of the Circle sect. Keep talking to him and he'll say some cryptic background
+information, then tell you to test yourself on the "circle of pain". Now swim
+downwards a short while until you see a valve leaking a toxic liquid below.
+Turn the valve one full turn in a clockwise direction (you lose health
+constantly while over it, so leave and eat some fish if you get too low)
+by pushing the handle around with your nose and once it is shut off, return
+upwards and talk to the Circle dolphin. He'll agree to accompany you to the
+shrine above, so take him to the front of the shrine (with the statues).
+
+One down, two to go. Go to the Circle area (with the blue light), face away
+from the wall, then follow the left wall until you reach another structure.
+(Check out the clusters of glowing blue jellyfish along the way..) This area
+has a light blue light (as opposed to the Circle's dark blue) and is also
+different to the others by the pipe in front of it and the red-coloured ring.
+Talk to the dolphin here, the last member of the Crimson. Talk to him a few
+times until he mentions that he'd talk more if you "were of the Crimson".
+Swim just below this area - directly below it, there is a circular orange
+opening in the wall. Swim into it, and through the tunnel until you reach a
+cavern with a pool of red liquid. Swim into it, and.. instant Crimson!
+Return to the Crimson dolphin, who will now follow you to the temple after
+you talk to him a few times. Again, lead him to the front, and he'll start
+swimming around the top. Now for a Mover..
+
+Go back to the Mover's area with the green light. The dolphin there is as
+unfriendly as ever, so swim down a bit instead. You should see another orange
+opening in the rock wall - ignore it and go further to the left to find
+another (left while facing towards the wall, not away from it). There's a
+young Mover swimming around in front of it. Talk to him once and he'll say
+a couple of things then swim into the opening. Follow behind him to overcome
+the current, and follow him to a cavern. The Prime Mover is here, and you'll
+have to fight her. Avoid her sonar blasts and hit her about four or five
+times to win (it's a hell of a lot easier than the first boss). There's a
+bubble vent at the bottom of the cavern in case you run low on air. Once
+you've beaten the Prime Mover, talk to her and she will leave through a
+tunnel. Leave also through the same tunnel (no need to follow behind, there's
+no opposing currents) and you'll come out of the opening under the Mover
+area. Talk to the Prime Mover here, and she will follow you. Lead her back to
+the shrine (front, again) and the three dolphins will now open it together.
+
+Enter the shrine, and receive the harness. This will allow you to operate
+some machines with your sonar. Now, swim down to the very bottom of the level
+and look for a round metal door-type thing with a glowing light in its
+centre. If you have trouble finding it (and you shouldn't) it's a fair
+distance below the Crimson area. Sonar it, and it will pull out of the wall
+to reveal a railcar. Sonar the railcar to open it, then enter it. Notice that
+the Mover kid is coming along for the ride.. End of level.
+
+                       ------------------------------
+                       | Master of Forgotten Skills |
+                       ------------------------------
+
+After quite a nice looking cutscene, you'll be in a very nice looking level.
+This level basically focuses on a classic block-pushing puzzle, except you're
+using minecarts. It's also got the music from Four Ways to Mystery, which of
+course is a plus. Anyway, on the bottom area of this relatively small one-room
+level, there is a jumble of carts which you will deal with soon, the locked
+exit door, and a bubble vent that will help (while there is a water surface
+above it's much quicker to visit the vent when pushing the carts around).
+The Mover kid will also follow you around and provide comments and hints.
+
+Before you can push the carts around, you need to lower the forklift. Swim up
+to the top of this area, collecting the helpful Power of Air crystal in a
+window midway up (there's also a Power of Endurance crystal in a tunnel like
+object, but don't even bother getting it because it's pretty much useless in
+this level) and when you reach the top, you should see the large crane and
+a small device floating near it that resembles a traffic light. Sonar the
+"lights" on the device in the order bottom, top, middle (ie one dot, two
+dots, three dots)
+
+Now, the forklift will be lowered to ground level, and can be used to push
+those carts around. The carts are colour-coded, but to make sure there is
+no confusion I will also number them in this laughable excuse for an ASCII
+diagram:
+
+     *****
+
+  /---\
+  |   |                             1 = yellow and gray cart
+  | 1 |                             2 = yellow and black cart
+  |   |   /-----------\             3 = long light blue cart
+  |   |   |     2     |             4 = long yellow cart
+  \---/   \-----------/             5 = green cart
+              /---\                 6 = full red cart (this is the one you
+              |   |                     have to move to the gate)
+              |   |                 7 = pink/purple cart
+  /----------\|   |                 8 = orange cart
+  |     3    || 4 |     FORK
+  \----------/|   |/---\LIFT        FORK
+     /---\    |   ||   |            LIFT = where the forklift starts
+     |   |    |   ||   |
+     | 6 |    \---/| 5 |            ***** = the exit gate
+     |   |/---\    |   |
+     \---/|   |    \___/
+          | 7 |/-------\
+          |   ||   8   |
+          \---/\-------/
+
+Note: Not exactly to scale because I suck at ASCII diagrams :)
+Obviously, you'll need to be facing the correct direction so the gate is
+where it's marked as being for the diagram to be correct.
+
+To operate the forklift, go to one of the four sides of it and sonar it. It
+will move away from you. Sonar it again to make it stop. If it moves into the
+end of a cart (ie not the side) it will grab the cart, and you can then move
+it backwards and forwards but not sideways - so horizontal facing carts only
+move horizontally and vertical facing carts only move vertically. To make it
+let go of the cart, just sonar it from the side instead of the front/back.
+
+You're aiming to move cart 6 up to the gate and through. While the puzzle
+is pretty simple, here's the lowdown anyway:
+
+1) Push cart 7 up a space, so it's right next to cart 6.
+2) Push cart 8 right one space.
+3) Grab the bottom of cart 4 and pull it down as far as you can (err..)
+4) Grab the left side of cart 3 and push it as far as you can.
+5) Push cart 6 up, between carts 1 and 2 and through the gate.
+
+See? Easy. As cart 6 passes through the gate, the gate will open, so quickly
+go through as well. End of level.
+
+
+                         ---------------------------
+                         | Process That Never Ends |
+                         ---------------------------
+
+Not the best level in the game, but it's manageable. The Mover kid's here too.
+Go forward along the tunnel you start in, past the cart. When you reach a more
+"open" area, down and to your left are a crystal and a bubble vent. Continue
+forward and take the right hand tunnel, *not* the one the track you're
+swimming along turns to enter. Go along this tunnel past an unhelpful dolphin
+and under the currently inactive crushers. If you need air, take one of the
+turnoff tunnels to the left for one of many small rooms with a bubble vent
+*and* water surface (seems redundant O_o) and two switches, which you won't
+be using yet. After passing under two crushers, look around through the glass
+wall of the tunnel you're in, to see a dolphin. Sonar him through the glass,
+and he'll start the crushers up and they'll trap you in. You can sonar the
+switches in the small rooms connected to the main tunnel to temporarily open
+the crushers but the easy thing is to simply kill yourself on a crusher, and
+you'll reappear outside the tunnel with the crushers still moving. As you have
+unlimited lives in Ecco, this is probably the best thing to do.
+
+Swim around the area to find another Mover (I found him by continuing forward
+without entering either tunnel) and then talk to him, and talk to the kid
+Mover. He'll suggest the three of you go back and push the cart near the
+start. So with them following you, go back and return to the entrance tunnel,
+get behind the full red cart, and get pushing. After you've pushed it forward
+a little, a machine will pick it up and dump it into a pile of rocks to the
+right, and rocks will now be on the conveyor belt. Now, enter the conveyor
+belt tunnel (the right hand one you were in before) and proceed to the
+first crusher. To get past it, look for the branchoff to your left and
+take it to the small room with air and two switches on the ground. Touch
+the switch with one gear on it, then quickly swim through the grinder and
+through the one after that before they close. To get past the next grinder
+(which consists of two grinders as opposed to the grinders before which were
+one) wait for a rock to reach it (which will force it open for a moment) and
+quickly charge through. When you reach the next (double) grinder, instead
+of going through it right away back up a bit and take the branchoff tube.
+Touch both switches, quickly swim through the double grinder (it will be
+open, you don't need to wait for a rock) and the single grinder after that.
+
+Continue past the lasers that turn the rocks into crystals, and now it's time
+for the stupid part. Charge all the crystals to knock them down into the room
+ahead. If you get low on air, proceed into the room and jump out of the water
+at the top. Just watch out for the crushing piston in this room. Now, I'm
+still not sure exactly what you're meant to do here, but keep positioning
+crystals over the very centre of the room (either by pushing them there or
+tractor-beaming them by double tapping and holding the sonar button - the
+tractor beam is easier and safer but it has a tendency to make the rocks
+go through the floor O_o) After a while, and possibly after a number of
+crystals have been crushed by the piston, the floor will open up. The first
+time I did this level it took ages, and the second time it happened before
+I'd even moved any of the crystals.. so go figure. O_o Anyway, when the
+planetary alignments or phases of the moon are such that the floor opens for
+you, swim down and into the tunnel. End of level.
+
+UPDATE: I've gotten lots of emails saying how to get past this room - however,
+what they refer to isn't in the room at all in my version. Therefore, I assume
+that the easy way is only an option in the PS2 version, but I'll say it here
+anyway since most people seem to have the PS2 version in the first place.
+Apparently in the PS2 version, there are two 'crystals' or 'glass bubbles'
+on the room's walls. What I'm told you have to do is move one of the shiny
+rocks (referred to as crystals before, but we'll call them rocks now to
+avoid confusion) close to the crystal on the right wall, which should be
+glowing. Apparently a laser beam then hits the rock and makes *it* glow, and
+you then need to put another rock next to that one, which will then be hit
+by the laser beam. If you put a line of rocks like this all the way to the
+other side so that the laser beam reaches the crystal on the left side of the
+room, the floor will open. Allegedly.
+
+Thanks to all those who emailed me with this, specifically ChibiStarStealer,
+Russ Trudeau, Edward Nigma, Chris Dragon and anyone I mistakenly didn't
+mention.
+
+                            --------------------
+                            | Blades in Motion |
+                            --------------------
+
+Bah, I hate this level, and it's possibly the hardest yet in the game.
+From the start, go down the hole below you to another good old conveyor belt,
+and follow it a short way to a larger area. Watch out for sharks and fight
+the current to the other end of the room. Take the Power of Sonar crystal
+that is above the second-last horizontal pipe near the ceiling (you'll have to
+jump to get it) and continue into the opening. You'll now be in a ring-shaped
+room with a pair of turbine blade like barriers circling it. Follow around
+the way they are going, but look in the inner glass wall for a crack. When
+you see it, quickly sonar it several times (with the Power of Sonar) to make
+a hole which will allow you to enter the inner area (if the Power of Sonar
+runs out you'll have to go back to the previous room and get it again).
+
+Grab the Power of Air crystal that is here, and go down. You'll come across
+the first of five fan blades. In each one, you have to go through the hole
+in the barrier, and time it so that you don't get sliced in the process. It's
+not particularly hard, so this shouldn't cause much trouble. A good idea is
+to use your charge to travel through the holes quickly. After making it
+through all five, refill life on the fish if necessary, be sure to pick up
+the Power of Sonar crystal, then proceed downwards and enter the tube.
+Shortly after entering, there will be a crack in the ceiling. Sonar it with
+the Power of Sonar several times as before to make an opening to an area
+outside that section of the tube, where you can refill on health and air
+and pick up another Power of Sonar crystal and a Power of Endurance crystal.
+When you're ready, go back into the tube and proceed.
+
+Just a little way further along the tube you will see another crack, this
+time in the floor. Break it as before with the Power of Sonar, and go through
+the hole to another outside area. (If you continue along the tube, you just
+end up in a dead end that kills you, so don't.) Now from here, go the only
+way, through a one-way door. You'll end up in a room with a bright light
+in the middle. As you approach it, it will disappear and you will have to
+fight an irritating crayfish boss. Remember, there are fish around this area,
+and a bubble vent on the ground.
+
+The boss will retreat into a hole and come out a little while after. You can
+get advance warning of this by watching the small green eels in this room -
+they'll swim lower when the boss is about to come out. When the boss DOES
+come out, swim around like crazy and hope he doesn't catch you (still happens
+too often for my liking >_<) and when you get a chance, charge the whitish
+blue plate on his underside. You need to do this three times to win, but it's
+difficult to hit him - if anyone's got a better strategy, please do tell, as
+about the only advice I can give is to try and position yourself under the
+hole he's come out of (you can get a better attack from there). If he grabs
+you, hammer the charge button. Usually he won't kill you but he will do a lot
+of damage and you'll need to refill your health on the fish if you're to
+survive the next grabbing. Good luck.
+
+UPDATE: Well, I've been sent strategies. Here's a few of them.
+
+Steven Bennett said:
+
+"heres a helpful hint on avoiding the giant crayfish boss in "blades in
+motion" the fish swim to a place in the arena where the boss can't reach in
+the PS2 vertion so if you stick with the fish you are safe."
+
+Jason Lomeli said:
+
+"(Usual disclaimer: it worked for me, your mileage may vary.)
+
+Suggested strategy: Lurk at the bottom of the room, near the rocks, looking
+upward. The hole from which the boss emerges seems to be immaterial, as it
+did not attack me even when emerging from the hole nearest to my location.
+At full extension, the boss's chest plates will be almost directly over the
+pile of rocks, a practically straight shot for a charge. Lather, rinse,
+repeat."
+
+Kevin Brown said:
+
+"I've found a somewhat easier way to defeat the boss in the "Blades in Motion"
+level.My strategy was to watch the school of fish to see were the monster was
+coming out (they would swim to the opposite side of the cave). Then catch an
+eel with the sonic beam, and wait for the monster to come out of the whole.
+While it is out direct the caught eel into the monster and it will eat the eel.
+While the monster is busy eating swim under it's bottom and charge it's belly.
+I had to do this three times. *NOTE* This strategy worked for me while I was
+playing the Playstation 2 version of the game, I never tried it on the
+Dreamcast
+version, but I think it should still work."
+
+Thanks to all those who sent strategies. Now back to your regularly scheduled
+walkthrough...
+
+Once you've beaten him, he'll leave and make your exit path. So go down there.
+Now, for the *other* annoying part of the level (groan). Yippee, another
+pipe, although this one is metal, not glass. Refill any necessary life on
+fish, and air on the bubble vent. Now, go to the end of the pipe that is
+*furthest* from the fish (the end with a yellowish sphere right there,
+not the one which slopes upwards first) and sonar the sphere to light it.
+(Be warned that touching a sphere, lit or not, will damage you). Now look up
+and light the sphere directly above you. Also look down and light the sphere
+below you (there's a bubble vent near that sphere but you shouldn't need it)
+then go back the way you came into the first pipe with the bubble vent and
+fish.
+
+Now comes the tricky part - navigating quite a lot of airless tunnels with no
+Power of Air when you really need it >_< Fill up on air on the bubble vent
+(all you're getting for a while) and go the other way down the tunnel, in
+the direction of the fish. Go up the slope, and then light the sphere right
+in front of you. Ignore any paths to the left or right and continue past it
+to another sphere. Light it and continue past it again to a third sphere.
+Light this sphere, then take the tunnel to your left. Proceed forward and
+light the sphere, then take the tunnel to your right and proceed forward.
+
+Light the sphere you will reach, proceed past it and light the next sphere,
+then proceed past it and light a third sphere. Now, backtrack to the previous
+sphere, the second one out of the three you just lit in this tunnel. When
+you're at it, take the path downward and follow it along until you come to
+another sphere, which you should light (duh...) Proceed past the sphere, past
+the fish, then the tunnel will slope down to another sphere and... AIR! And
+not a moment too soon, either.. Refill your near-empty air meter, light the
+sphere, and go back up. Go back along the tunnel until you come to a sphere
+that you lit just before, then continue past it and follow the tunnel until
+you reach another sphere. Light it, and take the tunnel to the right.
+When you come to another sphere, light it and head upwards. Follow the tunnel
+for a short distance, then go through the door and continue onwards. End of
+level.
+
+                           ----------------------
+                           | Perpetual Fluidity |
+                           ----------------------
+
+The most hated level in the game by many, this level is extremely
+complicated. Switches abound that open/close doors, change the water level,
+or both. The goal is to have the right combination of switches set that will
+raise the water level high enough for you to enter the exit tunnel, but keep
+enough doors open for you to get there. Because this level is so complex,
+make sure you follow these instructions exactly or you'll be in trouble.
+
+From the start, go forward and enter the opening, taking the Power of Sonar
+crystal as you enter. Use it to blast away the red stuff in the tunnel, and
+proceed through. When the walls turn transparent, talk to the dolphin outside
+the tunnel if you like, but either way continue along, charging to get past
+the fan blades, until you reach another room. Avoid the weird egg-shaped
+things and their red laser beams here, and refill on air from a bubble vent.
+(For some reason these ones refill your air really slowly.. O_o). Now enter
+the only other opening in this room, which is higher up on one of the walls.
+Follow this tunnel past a crystal and a fanblade to a room with a shark and
+some scaffolding around the left hand side of the room. Get within the
+scaffolding immediately and the shark will not be able to reach you.
+
+From within the scaffolding, sonar the red switch on the far wall. This will
+cause a tunnel to open (the tunnel is NOT what you see above the switch,
+which is merely an indicator) on the wall to your right. Quickly charge out
+of the scaffolding and into the opened tunnel, then go through the tunnel
+past some fan blades and exploding laser beam egg things. You'll enter a room
+with some sharks. It's too difficult to fight them off, so immediately look
+to your left and make a dash for the white-rimmed tunnel there (you may wish
+to refill on air by jumping out of the water here first). You'll see your old
+friend the Mover kid through the transparent wall of the tunnel as you enter.
+Proceed through the very short tunnel past another crystal to another room.
+
+Now you're in a relatively danger-free room - there are only a few laser eggs
+and the crayfish die in one charge. Refill health on the fish, and air by
+jumping out of the water. When you're ready, sonar the red switch on the wall
+and the water level will rise. Now you can access another white-rimmed tunnel
+that is higher up than the one you came in by. Enter the tunnel, fight the
+opposing current by charging and go through past fan blades and electric
+wires (you can collect the Power of Sonar crystal on the way but you don't
+need it) to a room with two sharks and a switch. Ignore the sharks and switch
+however and instead immediately leave through the red tunnel that is directly
+below where you came in. On the way, you can talk to the Prime Mover through
+the transparent portion of the wall to learn something.. interesting.
+
+Continue through the tunnel and you'll be in another room. Take the Power of
+Endurance crystal, refill your air by jumping out of the water, and then
+sonar the switch in this room. Leave this tunnel by the tunnel you came in
+by (easy to spot, since the only other tunnel is above the water's surface
+and inaccessible :) ) until you're back in the room with the two sharks and
+the switch. This time, sonar the switch once and leave the room through the
+green-rimmed door near the surface. Do all this fairly quickly, or the sharks
+will kill you (although the Power of Endurance will help). Go through the
+tunnel, then in the next room look down and to your right to see another
+switch. Watching out for piranhas, sonar it and leave through the green door
+opposite the one you came in by (facing away from the switch, it's to your
+right).
+
+Proceed through the tunnel into the next room. Dodging sharks and piranhas,
+quickly sonar the switch here and go back the way you came to the previous
+room (which has piranhas but not sharks) and sonar the switch again (it
+should now be red). Leave through the higher green-rimmed door (the other
+shouldn't be open, anyway) and as you enter the next room, go to the white
+rimmed door which is directly ahead of you and up a bit, near the water's
+surface. Fight the current and go through the tunnel to the next room. See
+the white-rimmed door in front of you? Don't enter it. Look down a bit, and
+you should see another white-rimmed door - but it's closed, and isn't the one
+you want. Instead, look to your left and down further, and you should see
+another white-rimmed door behind a crystal. Enter that one.
+
+Go through the tunnel, past the Mover kid to the room with a shark. Quickly
+look to your left and up. See the yellow tunnel that you couldn't access
+the first time you were here because the water level was too low? You should
+be able to reach it now, so enter it before the shark eats you. Go through
+the tunnel past the fan blade and laser eggs to yet another room. Enter
+the white-rimmed tunnel directly across the room and fight the current past
+another fan blade or two until you reach another.. room.. (don't worry, this
+one's the lucky last) Sonar the switch in this room to raise the water level
+(watch out for piranhas, again) then take the Power of Sonar crystal and
+blast away the red stuff blocking the entrance of the newly reachable tunnel.
+Enter the tunnel and charge past the fan blade. End of level.
+
+
+                        ----------------------------
+                        | Obscure Ways to Terminus |
+                        ----------------------------
+
+Complicated name, simple level. As you enter, head forwards until you reach
+the other end of the room you're in. To your left should be a red-rimmed
+tunnel, the only one in this room that is open. Enter it. You'll be picked up
+by a strong current. "Go with the flow" until you reach a slightly larger
+area than leave the current (if you stay in it you'll just end up back in
+the first room) and look to your left. This largish room is separated by
+about five tall glass barriers, and you'll have to jump over each. Easier
+than it looks, really. Just swim over until you're *above* the current
+(it won't pick you up if you're near the surface). Now aim up at the top
+of the barrier at about a 45 degree angle and press B. You should go sailing
+over the barrier and land in the next "section" of the room. The current here
+will also take you back to the main room, so swim until you're over it but
+not in it (as before), and aim and charge (as before) to jump the next
+barrier.
+
+Now do this another three times, and you'll be at the other end of the
+room. There are two currents here. Enter the one closest to the wall (not
+the glass wall you just jumped over, the "room boundary" wall) and follow it
+along until you reach another room. Leave the current at this point, and
+enter the tunnel to your right. End of level.
+
+                        ---------------------------
+                        | Sleeping Forces of Doom |
+                        ---------------------------
+
+This "boss" level is kind of weird and stupid, and I didn't like it much.
+However, it's easy when you know what to do. The main and only room of the
+level is a circular room with two bubble vents on the floor (remember to
+visit them when your air gets low), a spherical core in the centre and four
+snakes on the sides. A strong current whirls around the room at a medium
+height - but it can be avoided by swimming to the top or bottom of the room,
+and the effect can be lessened by swimming to either side. Lots of crystals
+are fed into the room and are picked up by the current. The core is multi
+layered, with each layer being separated into segments. Your ultimate goal
+is to strip away all the layers from the core. To do this, crystals must hit
+the core - each crystal will knock out one segment.
+
+You can sonar the crystals to knock them straight into the core, but it
+usually isn't necessary as many will hit it by themselves. What you should
+definitely devote your attention to are the snakes, which will grab crystals
+and use them to *restore* the core, undoing your work. So, you should move
+around the room with the current, and whenever you pass a snake that is
+holding a crystal, sonar the crystal to knock it out of the snake's grip.
+You're given plenty of time to knock the crystal out and it's not the end of
+the world if one or two snakes heal the core anyway, so this shouldn't be too
+much of a problem.
+
+The snakes will eventually die off one by one. After they're all dead, you
+can sonar some crystals into the core to speed the process a bit. Once the
+core is gone, swim down into the hole in the floor it was protecting. End
+of level. You'll see another cutscene, and then it's the next chapter.
+
+                          =========================
+                          || DOLPHIN'S NIGHTMARE ||
+                          =========================
+
+                            ---------------------
+                            | Anguish of Dearth |
+                            ---------------------
+
+Ah, back in the seas.. but all is not right. Colourful level, this. In case
+you're wondering, "dearth" means hunger or famine, making the title perfectly
+fitting in that the dolphins in this level are starving. This level is pretty
+short and easy, anyway. Enjoy it while it lasts.
+
+Right in front of you as you start there's a Power of Air crystal. Take it if
+you like. You can also talk to the dolphins and crystals in this "village"
+for information. To get on with the level, however, proceed forward past the
+Power of Air crystal until you reach the rock wall, then look slightly to
+your left to see a pathway leading onwards. Follow it and you'll soon reach
+a dead end. Look to your right, and you'll see a pile of rocks blocking your
+way. However, aim just above the rocks and charge, and you can jump over them
+through a narrow, hard-to-see gap (might take a try or two) into the next
+area.
+
+Now, just as you enter there's a small school of fish to your right. If you
+like, you can get the Power of Sonar crystal that is a little further on in
+a more open area, use it to break the pile of rocks then sonar the fish and
+take them back to the dolphins in the "village", but it's not necessary.
+Regardless, your next destination is in this area, so proceed past the small
+school to your right (unless you already took them away, in which case they
+obviously won't be there :) ) into a more open area with more fish (which you
+can use to refill your health). As you enter the open area, take a right,
+past another three schools of fish, until you reach a rock wall with a groove
+along it. Go left a short distance until you reach another wall, then get
+inside the groove and follow it left until you see a hidden Power of Stealth
+crystal.
+
+Take the crystal, then leave the groove in the wall but continue along the
+way you were facing when you were following the groove (ie, left from where
+you were before you entered it) until you come to a big fish. With the Power
+of Stealth, wait until it opens its mouth to eat some smaller fish, then swim
+inside its mouth and it will carry you past the new Evil Dolphins (tm) to the
+next level.
+
+                              --------------
+                              | Entrapment |
+                              --------------
+
+The Clan (aka Evil Dolphins (tm)) are everywhere on this level, so do your
+best to avoid them or they'll attack you. You'll start off in an open area
+with a few Clan around. If they see you, it's best to run off by charging
+(you can outrun them) as the Shark Song doesn't work for obvious reasons,
+making them fairly dangerous. Don't forget to use your map to check their
+positions. From your starting position, follow the left-hand wall around
+and you'll soon come to a closed gate. If you check your map here, you'll
+notice tons of Clan behind the gate. If you turn around so your back is to
+the door and look ahead, you'll see a small valley in the ground with a
+Power of Stealth crystal in it. Take it.
+
+Now, stick around in the valley and watch the door. It should eventually
+open. I noticed that when I left the valley and waited around in front of the
+door, one of the Clan still saw me even with the Power of Stealth (O_o) so
+make sure by hiding in the valley, as the door only opens after a certain
+amount of time passes without you being seen. When it opens, pick up the
+Power of Stealth crystal again to refresh it, and proceed through.
+
+In this next area, there is a circular prison-type structure in the middle.
+Your Power of Stealth won't last much longer, so don't rely on it and quickly
+head around to the back of the structure, which is relatively Clan-free. You
+should see a window-type opening in the back of the structure. If, facing
+this, you turn right and follow the wall of the structure around, you can
+look through a smaller window to see an imprisoned Resistance dolphin being
+tortured. Now you'll have to go back to the front of the structure, unfortun-
+ately. There are about two Clan around this area, so watch out. There should
+be another window-like thing at the front of the structure - follow the wall
+of the structure from it to the right, and a short way along you should see
+a circular button-like thing sticking out of the wall, around where the roof
+of the structure begins. Charge the button, and it will open the window at
+the front of the structure for a short time.
+
+I'm not entirely sure how this part works, really. It's the window at the
+front with the circular panel with what looks like a fan drawn on it, the
+panel being what opens. But almost all the times I pressed the switch, it
+didn't open at all no matter how fast I got there. I think that if a Clan
+sees you, the door closes, so you might want to go out and collect the Power
+of Stealth again (there's a switch near the gate which opens it) and do it
+that way. In any case, the door into the structure doesn't stay open for long
+so charge there as fast as you can.
+
+Anyway, once you're inside you'll be in a room with some fish, a bubble vent,
+and an acrobatically-inclined Clan you should dispose of (he takes quite a lot
+of punishment). There is a closed door to your left, and an open one to your
+right. Take the open one (obviously) to a chamber with a bubble vent, a
+switch and a closed door. Sonar the switch, which will temporarily open the
+closed door in this room. Go through it while it's open to end up in another
+room which is, well, exactly the same. Sonar the switch, enter the opened
+door.
+
+You'll enter a tunnel which will fork. Take the right fork. Now you're in a
+room with *two* switches (ooh, variety!), a bubble vent, some fish and
+another Clan acrobat you should take out. Sonar both switches, and turn
+around. On the wall opposite the window, there are two doors. You came in
+through the left-hand one, so take the right-hand one, which leads back to
+the first room. However, now a new door has opened - as you enter the room,
+turn around to look at the door you just came out of. Enter the first door
+to the right of the one you came out of, and follow the tunnel to another
+room.
+
+Bubble vent, fish, Clan, switch, door, monitor-like object. Go behind the
+monitor to get a Power of Endurance, then kill the Clan if you like (I didn't
+bother), sonar the switch, and leave through the now-open door to the left of
+the monitor. Follow the longish tunnel to the room where the Resistance
+dolphin is held. Now, you need to charge each of the four cables (where they
+connect to the wall) three times to free the dolphin. The Clan here will try
+to sonar you, but if you got the Power of Endurance you should be able to
+shrug it off. However, I don't think there's an air source in this room, so
+you may have to return to the previous one to refill on air if you get low.
+
+There will be a cutscene in which you and the Resistance dolphin will escape
+from the prison and through the gate, back to the first area of this level.
+Now, hug the right wall. Whenever you see a plant with four tendrils and a
+large, yellow bulb on top, sonar it and the Clan will start to swim around it
+(like moths around a light, heh) and ignore you, which is quite helpful. Lead
+the Resistance dolphin along the way, hugging the right hand wall as before
+(sonar him to start him following you, and to make him wait where he is) and
+if you sonar all the yellow bulb plants along the way the Clan shouldn't pose
+a problem. Just don't go too fast, or he can't keep up.
+
+Keep following the wall, past the gate you came in by, until you reach a
+tunnel. You'll have a brief conversation before entering the tunnel (and Ecco
+will learn the Song of the Plant) then enter. End of level.
+
+                     ---------------------------------
+                     | Anguish of Dearth - revisited |
+                     ---------------------------------
+
+So, now you're back here for a bit, with more to do. Seeing how easy the
+first visit here was, you could call this the "rest" of the level.. :)
+Swim down this passageway, filling up on air on the bubble vent. Watch the
+ground carefully. When you get close to the first of several plants on the
+floor which looks like a yellowish brown bulb, STOP. There's invisible
+strands of stinging seaweed or something in this level, and you've got to make
+them show up with smoky stuff in the water (just like laser beams.. heh..)
+Sonar the bulb, and you'll be able to see the seaweed. Carefully avoid it and
+make your way down the passage, sonaring more plants as you go. This part is
+fairly tough, so good luck. Remember, whenever you see another bulb, stop
+completely and don't move until you've sonared it. After about five or six
+bulbs there will be a "break" area where there is no seaweed. Take this
+opportunity to stock up on air, then continue through more seaweed.
+
+Once you finally reach the end of the seaweed, there will be a little more
+tunnel then you will end up back in the dolphin "village". But now they're
+under attack by three sharks. I bet you were missing shark fighting, hmm? :)
+Kill all the sharks, but beware - they're more aggressive and intelligent
+than regular sharks. Common tactics won't work as well against them, because
+they follow you around and often attack from above or below instead of coming
+straight at you. You're still faster if you charge a lot, so get some
+distance between you and the shark, quick turn (Y and left/right) then sonar
+it when it's reasonably close, but not too close (otherwise it'll have swum
+above/below you) then attack.
+
+After killing all three sharks, go talk to the dolphin who hiding inside one
+of the shell buildings (easy to find if you check your map). He'll push aside
+a nearby boulder, revealing a hole. Swim down the hole. End of level.
+
+                            -------------------
+                            | Caverns of Hope |
+                            -------------------
+
+Another neat cave level, much like Four Ways to Mystery. Start off by heading
+forward past the crystal. Follow the tunnel and very soon you will come
+across a dolphin in the distance throwing rocks at you. Dodge the rocks
+(easiest if you swim all the way to the left) and when you get close enough
+sonar the dolphin to tell him you're on his side. Then he'll stop. Further
+along, there will be an opposing current you should charge repeatedly to get
+past and another rock-throwing dolphin. Again, sonar him when he's in range.
+Continue to the end of the tunnel to an air pocket where you can jump up and
+refill your air, then turn back and look for a turnoff to your right (check
+the map if you have trouble seeing it) and then proceed along the parallel
+tunnel which leads back the way you came (but in a different tunnel). Don't
+miss the Power of Endurance crystal near where you enter the second tunnel.
+
+As you go down this tunnel, you'll encounter another current and another
+rock-throwing dolphin to sonar. After that, you'll encounter both again..
+and once more. Then you'll come to an air pocket which you probably need by
+this point. Swim up to near the surface of the water, then over the rock
+wall. Now, aim upwards at the green rock wall ahead of you, and press B to
+jump over it. Swim down and you'll come across another dolphin to sonar -
+now continue on your way down the tunnel, taking the Power of Air crystal on
+the way. Yet another current, yet another elite Resistance member.. You know
+the drill. Fortunately, that's the last one - the tunnel will now open up
+into a larger cavern with a bubble vent near where you enter that you should
+remember.
+
+Head forwards and to the left. When you see some greenish-yellow globes, look
+behind them. You've found one of the dolphin trait spheres! But wait.. great,
+now the Clan are here. Go forwards a bit in the cavern, and one of the
+dolphins will ask you to follow him. The dolphin will head over to the pile
+of crystals. Charge at the Clan that try to attack him, and the dolphin will
+open the crystals up. Now for the tricky part. The dolphin will start to swim
+down the passage. As he does, Clan will attack him. You have to charge at the
+Clan before they can hit him, which will make them retreat. If the dolphin
+gets hit by a Clan, he will get scared and start to go backwards. Quickly
+swim after him and sonar him to get him going in the right direction again,
+preferably before he's gone too far. There's a Power of Air crystal near the
+start - get it if you can, but it's manageable even without it, just keep an
+eye out for bubble vents. There's also another later along anyway.
+
+After a while you will reach a wall of crystal, and the dolphin will open
+it for you. Fill your health on the fish and take the Power of Air crystal,
+because it's time for a boss fight. Now, despite what the crystal says, it's
+possible to kill the boss just by charge attacking it a lot. However, you may
+as well do as the crystal says, because it's a hell of a lot quicker and
+easier. Specifically, swim down to the bottom of the cavern you're in.
+(There's a bubble vent down here if you need it.) Go over to around where the
+boss is, and you should see a Power of Sonar crystal around the bottom of the
+cave. See the large spikes hanging above where the boss is swimming around?
+As the boss passes under one, sonar it. It'll fall and impale him, and that
+one hit is all you need. Either way you defeat the boss, it'll leave and make
+your exit at the same time, just like the crayfish.
+
+Go in there, and go forward as far as you can. Then look up a little, and
+enter the tunnel there. Follow it along until you hit the water surface in a
+small well. Charge out and you should jump into a larger pool. Now just head
+into the opening and follow the tunnel. End of level.
+
+                            ----------------
+                            | Lair of Evil |
+                            ----------------
+
+From the start, go forward but not as far as the crystal. Instead, look to
+the right and enter the red opening, and swim through the tunnel. You'll end
+up in a room with a crystal and a strange creature swimming around with a
+trail of bubbles behind it. These bubbles refill your air as do those in the
+next room, which you should now enter. Avoid the two Clan here and enter the
+red opening. Go down the tunnel, charge past the lasers and continue. Go
+through another set of lasers, and you'll be in another room with a Clan who
+says something when you enter as well as some fish and a bubble vent. Don't
+attack the Clan - instead, look to your right to see a closed door with a
+glowing red symbol on it. Wait in front of the door and when the Clan gets
+close to it, it will begin to open. Quickly enter the door and enter the blue
+tube inside, which will propel you away.
+
+Do the same for the next four tubes (the fifth won't work) then proceed
+forward (ignore the door to your left) until you reach a room dominated by a
+large octopus-like machine in the middle, which also contains a bubble vent
+and a crystal. Looking forward as you enter, you should see three switches
+around the front of the machine (not the one on the wall, you can't use it
+yet). Sonar the left switch, and the shell will open. Sonar the right switch,
+and a red ball will drop into the shell, which will close and then open
+again. Now enter the shell, position yourself above the red ball, then turn
+around so you're looking back at the tunnel you came in by, and you should be
+able to see a single small orange switch on a pole. Sonar it and the shell
+will close, branding Ecco with the mark of the Clan.
+
+Now go back through the tunnel you came in by, using the tubes again until
+you come back to the room with the talkative Clan (who isn't fooled :) ).
+As you enter, turn right and enter the white-rimmed opening. Follow this
+tunnel, again using the small tubes to speed through it, and don't miss the
+Power of Air crystal on the way. You should come out in a room with a glowing
+blue bubble vent. There are several doors in this room. Look at the wall to
+your left - you should see two doors both with red symbols. The one on the
+right has a green symbol being held out in front of it - take this door.
+Follow the tunnel to a large room with a lot of fish. Go straight ahead and
+you should see a Clan. Talk to him and you'll tell him the branding station
+is jammed. He'll tell you to follow him, so do so.
+
+Follow him through the tunnel he enters, past several sets of laser beams,
+to another room. He'll stay in front of a door and tell you to enter it and
+fix the machine. Enter the door and go through the longish tunnel to a big
+room with lots of fish, a few bubble vents, and some spinning blades on the
+ceiling. You'll notice the far one is stuck. From the entrance, look left
+and you'll see a glowing green star-shaped object on the wall. Sonar it and
+it will turn red and shut down the blades. Take the Power of Sonar crystal in
+the middle of the room and use it to break away the strand of... whatever
+that is blocking the blade. Finally, shoot the glowing red star which will
+turn back to green and start the blades up again. Go back the way you came.
+
+When you get back to the room with the "friendly" (gullible, rather :P) Clan
+fill up on air if necessary and enter the red-rimmed tunnel across the room.
+Go down the tunnel, collect the Power of Air crystal from the doorway to your
+right as you reach it, and then a bit further along collect the Power of
+Endurance crystal from a doorway to your left. Continue along the tunnel and
+when you leave you'll be in the level's second big room (the one with two
+Clan in it). Like you did before, enter the open red-rimmed doorway and go
+through the tunnel, charging past the two sets of spinning lasers. You'll
+end up in the room of your good friend the talkative and suspicious Clan, so
+avoid him and quickly enter the door to your right marked with the red symbol
+as before (except you don't need him to open it now ^_^) and go down the
+tunnel, again using the tubes.
+
+You're now back in the branding machine room (you'd have thought they'd guard
+such an important machine better, wouldn't you? O_o) except now the wall
+switch (which controls what level of clearance mark you get) will work. Sonar
+the switch until it's set to the level 3 symbol (recognisable as having three
+"swirly" lines coming into it, as opposed to two (the only symbol you could
+get at first) or four) then brand yourself as before - sonar the left switch
+then the right switch, then enter the machine, get on top of the red ball and
+sonar the switch you can see. You can pick the level 4 symbol instead if you
+like, but when I did that it gave me a level 3 instead.. which is weird, but
+it doesn't matter as all you need is a level 3.
+
+Now leave the room again, through the tunnel, taking the tubes. Back to the
+talkative Clan room. Go back out through the red rimmed tunnel (which is to
+your left as you enter) and charge past the two sets of laser beams in the
+tunnel again. You'll end up back in the second room, the one with two Clan
+(who, by the way, won't attack you and are apparently in awe of your newly
+branded rank ^_^) then take the door with a red symbol and a green symbol
+glowing in front of it which is to your right as you enter. Go through the
+weird twisty tunnel into a large area. There are some large semitransparent
+pipes in this area (not the "flowing" ones, larger than those) around the
+top. One has a glowing open end - enter it and follow the pipe. End of level.
+
+                         ------------------------
+                         | Powers of Levitation |
+                         ------------------------
+
+Argh, I *hate* this level. Hate hate hate it. It's SO damn confusing... so
+forgive me if my instructions aren't crystal clear. Go forward through the
+tunnel, then follow what looks like a long ribcage or something. From there,
+go straight forward and a bit to the left until you reach the large metallic
+balls that are chained together or something. Go left, and follow this area
+around until you see a crystal. Take the entrance into the building which is
+directly below it.
+
+Now, go dooown. Nearly all the way, a door will open in the wall of the pit
+you're descending. As the pit otherwise ends in a dead end, I suggest you
+take it. Now swim down this passage. Doors similar to the one that let you
+into the prison in Entrapment will open as you swim along the passage. Go
+straight along the passage until a room with a bubble vent and a Clan. Talk
+to the Clan, who will say something about conducting a tour of the factory.
+The Clan will then leave, so follow her. She will leave through the tunnel
+with the weird doors, and then leave the building. Try to follow as close
+behind her as you can, but don't actually touch her or she will notice you and
+stop. She will eventually enter a tube sticking out of the sand in another
+area, and you must quickly go through the door before it closes (which is why
+you need to be following right behind). It's tricky, and may take a few tries.
+
+Once you enter, you'll see an interesting scene and learn what you need to
+do. Firstly, the engineer. To reach him, leave the pipe and head away from the
+pipe area. Swim between the two fin-like metal plates to get back to the
+chained balls area, then head left to where the crystal is. The engineer is
+here. Talk to him and he'll ask you to start the main power couplings. Go
+back into the entrance with the crystal above it, down the pit, and take the
+gate to the side. However, as you pass through the first weird door (which
+was oddly now permanently open for me O_o) go right. Go through the weird
+door here and turn right at the first chance you get. Go through the weird
+door here and sonar the switch on the wall to activate the first coupling.
+You may need to sonar the switch a couple of times - if there isn't a beam
+in the room from ceiling to floor, the coupling isn't activated. Now go back
+to the main passage and continue along it. The next chance you get to turn
+right, again turn right, sonar the switch to activate the coupling, and fill
+up on air from the bubble geyser. Then return to the main path.
+
+Next chance you get to turn right, do exactly the same thing as you've now
+done twice to activate the third coupling. Return to the main path, and it's
+one more turnoff to the right and a fourth coupling to activate. After this,
+continue to follow the main path and you'll pass through a weird door - you
+are now back at the start. Now, turn left, and proceed ahead that way. You're
+now back on the path with the two original weird doors, which leads to the
+room where the Clan member who was on your side was. However this time,
+shortly before passing through the second weird door (which was again
+permanently open for me) turn right and follow the passage. When you reach one
+of those common points where you can turn left and right, this time just go
+straight forwards (for once) until the next intersection. This time, turn
+left.
+
+Here's where the security chief is. He's somewhat sharper than the other Clan
+and will notice who you are as soon as you enter. (If you instead find a Clan
+who tells you to see the engineer, you've missed the turnoff. Try again and
+watch carefully.) The security chief will attack you. Sonar him if possible
+to freeze him, and charge attack him about 5 or 6 times to win. (Remember
+that there's a bubble vent at the back of the room if you're low on air).
+After he's down, charge the switch (it should be blue) and leave the room.
+
+Now, turn left and continue. Go through the door (if it won't open, go back
+to the security chief's room and make sure the switch is blue) to end up in a
+room with two whales wired up to something. Talk to both whales, then turn
+around and leave. Just go straight forwards all the way back until you reach
+the weird door, then go through it, turn left and start swimming upwards.
+This leads out of the generator's entrance (the one below the crystal,
+remember), however we can't go there quite yet :( Up this tube there are a
+number of windows on the inside wall. The first you will come to while heading
+upwards (ie the lowest) is missing glass, and you can enter through it to
+reach the core of the generator. There are three fan-lookalike openings in
+the floor here. Go all the way down one, sonar the switch to turn it blue,
+and that will start up... whatever that is. Repeat for the other two.
+
+You're practically there. Go back into the window you came in by (the one
+with no glass) and swim upwards. Instead of taking the opening that leads out
+of the generator, continue swimming upwards until you end up in a ring-shaped
+tube around the core. There's a machine here that two Clan are already hooked
+up to. If they're not, you're in trouble as you missed a coupling. Did you:
+
+1) Activate all four couplings in the ring-shaped area so that a beam was
+created in each?
+2) Talk to the whales and gain their help?
+3) Swim down all three fan shafts and sonar the switches so that they were
+blue?
+
+That's the eight couplings.. Anyway, when the two Clan are hooked up to the
+machine, get in the spare harness between them. You'll now see a cutscene
+where you activate the HANGING WATERS! End of level.. woohoo!
+
+                       ---------------------------
+                       | Hanging Waters - Part 1 |
+                       ---------------------------
+
+This is it, the Ecco the Dolphin feature piece. Longest, hardest, but also
+coolest level in the game, the definite favourite of many. It's so long it's
+split into three parts, with three bosses (each in their own levels). I
+imagine they did this to give the player a break, as you can then restart
+from whatever part you were up to if you stop playing. But anyway, on with
+the walkthrough! That is, after you pick up your jaw from the visuals :)
+
+To start off with, head forward along the water tube. If you like, you can
+jump to the water sphere on your right (might be some good practice) but all
+there is there is a crystal with a decidedly unhelpful comment. Instead, you
+need to continue along the water tube. Right ahead is a barrier blocking the
+whole tube. If you approach it, you'll be damaged and knocked back. So what
+to do? Remember, you don't need to stay IN the tube. Jump over the top of the
+barrier (swim up to the top of the tube, then aim and charge.. it's difficult
+because of the current, so you might need some practice) and then jump over
+the top of the other million or so barriers along the way.. *groan*
+
+When you reach the end of the tube, you'll fall out and end up in a pool
+with some fish. Restore health if necessary. Now, look around. You'll see
+bubbles rising up to the surface, then leaving the surface as globes of
+water (??) which rise upwards. You need to ride these up. Specifically,
+you're aiming for the next tube - as you left the tube, you fell in a
+"gap" and the rest of the tube is ahead from there. It's got a weird
+swirly thing on the end for some reason. So, jump into one of the globes
+of water as it leaves the surface, jump to the next closest, and work
+your way up until you can get a clear jump at the tube. It might take
+quite a few tries..
+
+When you get inside the next tube, continue along past some weird currents
+(just charge..) until you land in another pool. Now you have to jump up more
+water globes, but fortunately these stay still instead of rising. Jump to the
+one closest to the water surface, then aim and jump to the next. Now look at
+the next globe. This is darker and wobbles. This is a gelatinous globe that
+will bounce you, so jump on *top* of it and bounce to the next water globe.
+Now, do the same again with the next set of a bouncy globe and water globe.
+Now, look ahead to the series of three bouncy globes. Aim carefully, bounce
+off the first two, then as you hit the third pull back on the control stick
+to aim up and bounce higher, hopefully into the next water globe.
+
+Now look to the bouncy globe and water globe. Land on the bouncy globe, and
+pull back on the control stick as before to bounce higher to the water globe.
+Now jump into the above tube with the swirly thing on the end (you can jump
+through the swirly thing, it won't do anything..) and proceed along it. It
+will soon fork into two - take the left fork. When you reach the ringed end
+of the tunnel, charge out to jump to the water globe hanging inside the
+turning cage thing (if you just keep swimming to it you'll fall). Sonar the
+switch inside and look to your right to see a new water tube appearing. Jump
+to it (tricky jump, make sure you're as close to the edge of the globe as
+possible before charging..), turn left and continue along it.
+
+Bear in mind that a short way along there's a break in the tube (hard to see,
+but watch for the ring around the edges of the tube) which you'll need to
+jump. Go along it for a bit and it will end (careful not to fall) and two
+tubes with water will be ahead (ie, it forks, but with a gap you better watch
+out for). Jump to the left one and continue. A strong current will blow you
+along the tube, so be careful not to fall and follow it to the end, where you
+need to jump into a hollow, water filled rock through an opening in the side.
+
+Go to the bottom-most opening here (it's behind a strand of seaweed as you
+enter) and jump out into another tube which you should follow until you see
+another tube frothing at the end. Jump to it, and start charging repeatedly
+to get along it (although I wasn't even sure which direction I was travelling
+in at this point.. :) ) until you reach a fork of tubes. Take the left one.
+
+Again, you'll need to jump from the end of the tube to an encaged globe of
+water and sonar a switch. Again, look right to see a tube materialise. Again,
+jump to it. Again, the jumping is hard. :) I think you can actually go back
+and take the right fork and jump to it from there (probably easier) but
+that's just so.. unstylish. Now the tubes split into three. Jump to the
+right hand tube and swim past a weirdly shaped, rotating rock. When you reach
+the second, watch out because it will block the tube you're in at times and if
+you hit it you will be damaged. Wait for it to get out of the way and slip
+through. The third rock is the same, but harder. Once you're through them all
+you'll come to a switch.
+
+Sonar the switch and it will create a section of watery tubing ahead of you
+and a little below. Which is good, since the tube you're in ends about now.
+Jump to the new section (watch out, it will disappear after a short time) and
+go the short distance you can along it, then sonar the switch you can see.
+This will create another section of tubing above you, so jump to it. Again,
+this tube (and all the other switch activated ones in this section) also
+disintegrate after a time, so don't dawdle.
+
+Go along the tube, sonar the switch below you. This will create another tube
+below you which you should jump to. Sonar the switch above you, another tube
+appears above you, jump to it.. yada yada yada. (The last couple of jumps are
+pretty tricky and may take a few tries). Jump from this section of tube to a
+thankfully more permanent part. Continue along until you're pushed back by a
+current, then jump to the tube below you and follow it.
+
+This tube now has a strong current blowing you along (and some sharp turns)
+so be careful not to fall out. When it reaches the end you'll be able to jump
+into another tube to your left. Follow it to a water globe. Look to your
+right, at the really huge water globe with a pool below it. Jump to the lower
+(small) water globe you can see, and from there to the pool below the huge
+globe. Now, swim up the trunk of the large tree type thing. It's now the end
+of the first part of Hanging Waters - and the start of the first Hanging
+Waters boss fight!
+
+                            ----------------
+                            | Ice and Fire |
+                            ----------------
+
+This boss level is your fight against quite a... hot tempered dolphin who
+seems to have quite a... cold personality. But dreadful puns aside, this boss
+fight is reasonably difficult. First things first, around the top of the
+chamber is an area you should definitely remember. It has the room's only
+school of fish, and only air supply. The air supply takes the form of a hole
+leading out of the water sphere (you can't break through the walls.. surface
+tension?). DO NOT jump high out of this hole, or you'll end up sailing clear
+out of the level which is not a good thing.
+
+There's a big blob of lava or something on the level's ceiling, and a block
+of ice on the ground. The boss will start off fiery. Lure him down to the
+ice, and he will temporarily revert back to a normal Clan dolphin. Now is
+your chance to charge attack him, so do it quickly. Take advantage of the
+time he takes to transform into an icy dolphin to refill your health and air,
+then lure his icy incarnation to the lava at the top.
+
+Again, he'll temporarily change back (which is when you hit him) then change
+back to the fiery dolphin. A good strategy to get him in the lava/ice
+(especially the lava) is to lead him up one side of it, then swim to the other
+and he should swim into it. The camera can make this fight tricky, so get well
+acquainted with the L and R triggers to look around, and Y + left or right to
+quick turn.
+
+After four hits, the boss will die, and you'll leave the sphere. Then, BOOM!
+:) End of level.
+
+                       ---------------------------
+                       | Hanging Waters - Part 2 |
+                       ---------------------------
+
+Now you're back for the second part of Hanging Waters. Beware, because it's a
+hell of a lot harder than the first part. To start with, you'll be back in the
+pool below the Ice and Fire boss fight sphere. Enter the tunnel in the wall.
+Follow it along. There will be a point where it looks like it's caved in, but
+you can squeeze through. A short way through, it will end with a hole in the
+wall through which you can jump to a hanging water tube. So do so.
+
+This tube's got a strong current which will whisk you along it alarmingly
+fast. This makes it tricky to navigate and you may fall out a few times. When
+you reach the other end, jump to the next tube. This one has a barrier right
+ahead and you can't jump over it because of an opposing current. So what to
+do? Look down to see two more tubes. Jump to the one directly below you. Now
+go along the tube until you get close to the barrier (not too close) and jump
+over to the other tube, ahead of the barrier in that one.
+
+Go along this tube until you're close to the next barrier, then jump to the
+tube above and to your left (difficult jump, get close to the edge and aim
+fairly high). Now go along it until you're close to the barrier, then
+carefully aim. You're aiming to jump to the first tube to your right,
+*between* the two barriers you can see ahead of you. Once you make it, jump
+into the next tube to the right, beyond the barrier and continue along the
+tube. Further along the tube there is a barrier (which you should see)
+however, you won't be able to jump properly if you go to it. Here is why..
+
+The tube to your immediate left which you have to jump to in order to be able
+to reach your goal (the tube to your FAR left) has a series of barriers
+dividing it into "segments". Most of these segments are small and if you try
+to jump into one, the current associated with the barriers will fill the
+whole segment and will whisk you through a barrier and out of the tube before
+you can do anything (believe me, I learnt that the hard way over many, many
+attempts >_<). Instead, look back a bit on the segmented tube. You'll notice
+that further back, the barriers are further apart. You're aiming to jump into
+the far left tube after its single nearby barrier.
+
+To do this, jump into the middle of the immediate left tube's last
+"long" segment (as opposed to the "shorter" segments with the barriers closer
+together). From here, you should be able to jump to the far left tube and
+just make it past the barrier. If you do, swim forward right away so the
+far left tube's barrier doesn't suck you through it. That would be a real
+pain. This part in general is fairly tough, and you go back a fair way if you
+die. So it might take a while - keep at it. Just remember that at least you
+didn't waste at least half an hour trying to jump into the wrong segment >_<
+
+When you're finally in the far left tube past its last barrier, it's time to
+move on. Soon a current will pick you up and whisk you along the tube. If at
+all possible, DO NOT fall out here or you'll be all the way back to the
+start of the difficult tube-jumping exercise before.
+
+Now you've reached an octopus. Yes, an octopus. It's in a fairly displaced
+location from where you'd normally expect to see an octopus (or a dolphin,
+really :) ) but it doesn't seem to mind even though it's stuck in the middle
+of 3 water tubes. Well anyway, you won't be able to go down any of those
+tubes until the octopus is dealt with. Which, needless to say, isn't easy.
+
+Go forwards a bit (remember, the ring marks the end of the tube) and jump
+into the water sphere just in front of you. Now turn left and enter the tube
+there. This is another "speed current" tube which is pretty tricky to do, but
+on the bright side you'll return back here when you die instead of having to
+do all that jumping again. Whoo. As the tube plunges down, look for a water
+globe and jump out into it. From here, jump into the hole in the rock.
+
+Go through a short rock passage until you end up in a shallow rock pool with
+an opening on either side. Take the one which is to your left as you enter,
+and jump out and into the water sphere. Sonar the switch here and look up to
+see a cone of water being formed (remember that the cone, like tubes formed
+by pressing a switch, will disappear after a short time). Jump up to it, and
+swim up and into the tube.
+
+Swim along the tube until you reach a switch, which you should sonar to make
+a tube appear ahead of you. Jump into this tube, and look to your left. On the
+rock which forms part of the landscape here, you should see a strange thing
+which looks like several pillars of ice between two rocks. Sonar it and back
+at the octopus, one of the tubes it is across will disappear. Get the idea of
+how to get the octopus out of the picture? But first you'll need to find more
+of those ice.. pillar.. things. But don't spend too long admiring the view,
+because the tube you're in will disappear soon..
+
+Jump to the water globe ahead of you in the distance. Now jump to the one on
+your right. Yes, all the way out there. Aim fairly high and you should make
+the distance. Go for the next sphere ahead of you (same rules apply). Don't
+enter the rock, rather jump to the sphere down and to your left, then to the
+one straight ahead. Then to the one ahead of that. Now you'll need to bounce
+off one of the darker bouncy spheres, so aim for the top of it and don't
+forget to pull back on the control stick as you bounce. With a bit of luck
+you'll make it. Now it's two bouncy spheres. As you did before, bounce
+normally off the first, but pull back on the control stick on the second, and
+hopefully you'll make it across. Now there's one more bouncy jump, and it
+isn't easy. There isn't much more strategy than pulling back as you bounce
+off the only bouncy sphere, though. Good luck.
+
+Once you're there, look at the rock face to your left and sonar the ice
+pillar thing to turn off the second water tube holding the octopus up. One
+to go. You should see a tube twisting around close by (not the one in the
+distance) which you should jump to. Beware the current. A short way along
+the tube, you'll see another tube alongside you. Jump into it.
+
+Watch out for this tube's current too, and take the rollercoaster ride until
+it dumps you in a water sphere right by an ice pillar thing, which you should
+sonar. Heh, heh.. bye bye octopus. Now jump into the open end of the tube to
+your left. You're back in the tube you were in before.. again, watch out for
+the current, and this time instead of jumping to the other tube, just stay in
+this one. Keep going (you'll be launched into another tube at one point) and
+you'll eventually be shot into the water sphere in the area where the octopus
+was. Before you can go across, the tubes must be reactivated. Fortunately,
+reactivating them is as simple as sonaring the nearby ice pillar thing. Phew.
+
+Jump into the leftmost tunnel, and make sure you're entering a tunnel
+the octopus was guarding, as opposed a tunnel full of barriers. The tunnels
+you want to enter have brown ringed ends - the ones you don't have yellow.
+(well, that's just due to the lighting actually, but it works). Follow the
+tunnel, jump the gap to the next, which of course has a current. Take the
+ride along to another of those hollow water-filled rocks. Go through the
+opening at the bottom of this rock, being sure to land in the tube below when
+you fall out of it.
+
+Ahead of you are a couple of tubes emptying out (where's the water coming
+from? O_o) and you shouldn't jump into either, as you'll be emptied out too.
+You can't see the next tube because it's obscured by the foam of the water
+pouring out of them, so you'll need to make a leap of faith to it. If you
+die you only end up back inside the rock anyway. When you make it to the tube
+follow it along and jump out the end to end up in another pool-below-the-big-
+globe. As before, swim up the tree trunk. That's the end of this part of the
+level (phew!) and the start of another boss fight!
+
+                           --------------------
+                           | Abyss of Inferno |
+                           --------------------
+
+Now you're up against another of the Clan Great Ones, like the Clan you
+fought in the previous boss level, Ice and Fire. However, this Clan prefers
+to attack you by charging the red balls hanging around the arena and knocking
+them into you. Therefore, this battle is a whole new ballgame (yes, I have a
+whole stash of awful puns just for Hanging Waters bosses) but don't worry,
+because it's easy, easy, easy.
+
+Firstly, if you need to refill on air, there are three tubes up the top that
+spit out bubbles. Swim into the area where the streams of bubbles converge
+to fill up. For health, there's a school of fish swimming around the bottom
+of the arena.
+
+Anyway, as the crystal says, the boss's attack on you is the same as the one
+you use on him. When the red balls appear, you simply need to charge attack
+them and hit them into him. The reason this is so easy is because the boss,
+when he's about to hit one into you, unwittingly lines himself up for the
+perfect shot on your part. Just follow him around, wait until he's ready
+behind one of the red balls, then just charge it into him before he charges
+it at you. Simple. (I wonder if it's meant to be that easy or if it's a
+design flaw?) Anyway, after three or four hits the boss is out. Another
+complimentary BOOM!, and it's back to Hanging Waters.
+
+                       ---------------------------
+                       | Hanging Waters - Part 3 |
+                       ---------------------------
+
+So now you've made it to the final part of this gigantic level. Fortunately,
+there's nothing particularly hard about this section and I'd say it's the
+easiest of all three. You deserve a break after the second anyway. Swim down
+a bit and look for a path you can take. This will lead to another area in the
+rock. Swim to the surface, and look for a small hole in the wall to the right
+as you enter. Swim through to end up in another pool. Jump into the water
+globe you can see here, and swim into the tube.
+
+Follow the tube to another water globe. From here, look down and a bit to the
+left and jump to the water globe you see down there. Jump to the water globe
+to your right, then turn around to face the globe you just jumped from and
+jump to the one just below it, behind the foliage. From here, jump to the
+next one down. Now jump up to the top water tube. The current will whisk you
+along until you reach another one of those water-filled hollow rocks.
+
+Swim up to the highest opening, and jump out and into the tube. Yet another
+tube with a current.. when it forks, take the top fork and you'll end up in
+a water globe containing a switch which you should sonar. Now jump back into
+the tube you came out of, and work your way back against the current (charge
+a lot) until you reach the fork. This time take the bottom fork (the quick
+turn, Y+left or right, will be handy here) and it will lead to a water globe.
+
+Bounce on the bouncy globe and land in the next water globe (hopefully). Now
+do the same for the next bouncy and water globe combo. And do it once more on
+the third bouncy and water globe set. Now jump into the tube (the one you
+made by sonaring the switch), go along it and jump into the water globe you
+can reach from the other end. Now, don't jump to the tube right in front of
+you - instead, jump up high to the one above it. Follow this tube a short way
+and when you reach the (yellow ringed) end, look to your right and jump to
+the water globe you see there.
+
+Look down and to your left and jump down to the next globe below you down
+there. Sonar the switch in this globe then jump down to the next globe down,
+then jump from there to the tube the switch just created, swim to the other
+end of the tube and jump to the globe you can reach from there. From here,
+look right to see a bouncy globe. No, you don't have to bounce diagonally to
+the other bouncy globe you see off to one side. There's a water globe behind
+the nearest bouncy globe to you, but it can be difficult to see. So bounce
+straight off the bouncy globe, into the water globe behind it.
+
+Now turn right, bounce off the bouncy globe there and hopefully land in the
+water globe at the other end. This globe has another switch.. sonar.. it.
+Now look to your left to see another hollow water-filled rock with a tube
+leading into it. Jump into this tube, and from the tube into the rock. Now,
+look through the bottommost window in this rock (at least I think it's
+bottommost.. it's hard to work out up and down in these..) to see a large
+bird just outside the window. Sonar it and it will fly away.
+
+Now leave through the opening you came in by (easy to spot, it's the only one
+you can see a tube to jump to outside of) and jump into the tube. Follow it
+in this direction, jump to the next tube when it ends, and jump to the next
+tube when *that* ends. Follow this one along, and when you reach the end
+jump out and into the water globe. Turn around to face the tube you just
+left, and now jump into the tube right below it. This tube, as per usual, has
+a current so let the current take you to the end of the tube, where the bird
+from before is perching.
+
+Sonar the bird and it will pick you up and after flying around for a while
+(awesome view.. also looks kind of cute ^_^) it will drop you in a pool that
+is right at the top of the level. Now just swim into the water vortex thing.
+END OF LEVEL!! Oh, except for that "last boss of the chapter" thing.
+
+                               -------------
+                               | Mutaclone |
+                               -------------
+
+Now it's just you vs the big cheese of the Clan him/herself. Again, an acqua-
+intance with the area - fish are swimming around near the top, bubble vent is
+in the middle of the floor, and take note of the glowing yellow arch thing. To
+start off with, the boss will be behind a yellow protective shield, shooting
+spines at you like a bloody machine gun. So try not to get hit, and instead
+concentrate on breaking the large yellow egg-like objects at the bottom of
+the arena. Two charges will break each, but beware - when one is broken, it
+gives off a smoke that will reverse your controls for a short time. (I've
+never managed to NOT touch the smoke, either..) Refill your health whenever
+it gets low and charge around everywhere to make it hard for the boss to hit
+you.
+
+Once you break the shield, the boss will split into three and all three will
+shoot spines at you. But it's no use splitting hairs over it (that's the last
+abysmal pun, I promise) as all you have to do is hit each fake (the left-hand
+and right-hand ones) once and then hit him once. Now he'll chase you. Lead
+him through the glowing yellow arch. He will be stunned when he goes through
+it for a moment, and you need to charge attack him then. Of course, the
+yellow arch will reverse your controls, which makes the above more difficult
+than it sounds. Good luck. Four hits at this stage is what it takes to beat
+him. When you win you'll see another cutscene, and then it's time for the
+game's final chapter to unfold..
+
+                           =======================
+                           || DOMAIN OF THE FOE ||
+                           =======================
+
+                           -----------------------
+                           | Chance of Reckoning |
+                           -----------------------
+
+While this is the game's last chapter, it's far shorter than any of the
+others. As you start this level, go forwards past the two hint crystals
+(don't miss the Power of Endurance crystal) to end up in the Queen's area.
+Yes, that's the extent of this level.. she's right there. And rather robotic
+looking to boot, but there you go.
+
+But before you can take her on, you need to block the three whirlpool things
+in this area. Two are in front of the Queen. To block each one, just charge
+attack the nearby rock and knock/push it into the whirlpool (don't fall in
+yourself, whatever you do). There is an unkillable Foe guarding the left-hand
+vent which will shoot stuff at you, so you'd be advised to look at the rock
+face near it to find a Power of Stealth crystal which will allow you to roll
+the rock in unbothered. It's a bit harder than it looks, though.
+
+Once you've done those two, the third is behind the Queen. Firstly, look to
+the right of the Queen, and pick up the Power of Sonar inside the arch-shaped
+rock. Now, go behind her and use a sonar blast on the darker coloured rocks
+around the whirlpool to make an opening you can roll the rock into. There's
+an annoying shark in this area, so you may want to go back and get the Power
+of Stealth, then kill him with it active (powered sonar blasts work well).
+
+Now, the queen will shoot laser beams and stuff at you, so you'd be well
+advised to go back and collect the Power of Endurance again. First rule here,
+is to stay away from her tongue. If she eats you, it's a one shot kill. Get
+the Power of Sonar crystal, then sonar one of her eyes so that it stops
+glowing. Then charge attack it. Do the same for the other eye, and a third
+eye will open in the back of her head. I don't think you need to sonar this
+one, so just charge attack it (it's harder to get at than the others, but not
+too bad). Once you've eliminated all three eyes, a hole will appear in the
+ground near her with bubbles coming out of it. Swim down it. End of level.
+
+                               ------------
+                               | Hatchery |
+                               ------------
+
+This level even beats the previous one for smallness. The room you're in
+right now is all there is. First things first, there is air and food in a
+small area to the left, but it's protected by a forcefield. You have to wait
+until the moving tentacle thing lowers the forcefield, then go in and refill
+on air and health (try not to touch the forcefield). Then, wait until it's
+lowered again and leave. Of course, there has to be a damn shark in here, and
+what's more it just comes back if you kill it. Grrr... still try to kill it
+if possible (Song of the Shark, remember) because at least then it's gone
+for a bit.
+
+The object of this level is to dispose of the tentacle. To do this, you have
+to use the two switches here to mess it up. They're both in the area with the
+shark (of course.. >_<) and they're quite hard to see.. more like little
+square indentations in the wall than anything else. They're located in
+alcoves on opposite sides of the room, and you sonar them to activate them.
+
+The one to your left (on the same side as the fish, anyway) will toggle the
+forcefield around the fish (for a short time.. you may be able to get in
+there yourself, but I prefer to just wait for the tentacle to open it) and the
+one on the right will open/close the garbage chute the tentacle drops the
+eggshells into. Watch the tentacle for a bit. You'll see that it picks up eggs
+and drops them in the incubation holes in the end of the room. When all the
+holes are full (I think) it reaches for the fish, and drops them on the eggs
+to feed them. (Don't get too close to the eggs yourself or YOU'LL be lunch..)
+
+After this, some of the eggs will hatch. The baby Foe will swim out, and the
+tentacle will then pick up the empty eggshell, and drop it in the chute. What
+you need to do is press the left (fish forcefield) switch when it reaches for
+the fish, and press the right (garbage chute) switch when it goes to drop an
+eggshell in the garbage chute. Doing either of these with the right timing
+will cause the forcefield around the tentacle to lower for a very short time.
+When the forcefield is down, quickly charge attack the base of the tentacle.
+
+Here's what your basic attacking pattern should be: Kill shark, then wait in
+the area with the switches and watch the arm. If you see it reach for the
+fish or the chute, quickly sonar the appropriate switch and hit it. Now, get
+into the "fishtank" (either by waiting, or sonaring the switch yourself) and
+refill on air. Wait until it opens, then charge out, eating fish on the way.
+Now repeat, including killing the shark which will be back by now. This
+level's a real pain because hits are hard to get and go back to zero if you
+die, but keep at it. After you've hit the tentacle three times, it will be
+destroyed. Now the forcefield around the "fishtank" is destroyed, so refill
+health and air if necessary. Swim to the area where the shark is/was and the
+switches are, and look at the pillar-like object at the end. Swim into the
+small hole right at the bottom, and then upward. End of level.
+
+                             -------------------
+                             | Seeds of Poison |
+                             -------------------
+
+Now you're inside the Queen. Ewww.. At the bottom of this chamber, look all
+around for many little alcoves in the wall. These contain four very well
+hidden vitalits (*snicker*) as well as a crystal, a Power of Sonar crystal,
+and a bubble vent. There's also some fish in the middle of the chamber. Take
+the Power of Sonar crystal, and swim upwards through the opening in the
+ceiling.
+
+Swim up through the passage the eggs are coming down out of (I don't actually
+want to think about where you must actually be.. yech) until you reach the
+part at the top they are coming out of, but you cannot enter. Sonar it to
+blast it open. A nasty Foe will start attacking you like crazy, so get out of
+there by charging like mad and refill on health/air back in the first room.
+
+Now, collect the Power of Sonar crystal again and go back up until you reach
+another blockage. Again, break it with a sonar blast and run from the PO'd
+alien, then refill health, air and your Power of Sonar. Do this on the next
+blockage, and the one after that. End of quite a short level.
+
+                             -------------------
+                             | Transfiguration |
+                             -------------------
+
+Here it is, last "real" level in the game. I TOTALLY hate this level. It's
+incredibly annoying and also kind of freaky. From the start, go right and into
+the cave in the rock. Go along it and try not to get grabbed by the Foe
+hanging from the ceiling (easier said than done) until you reach the Power of
+Sonar crystal. Take it and leave. You should probably kill the ceiling Foe,
+but they take three sonar blasts each so you'll have to keep going back and
+refreshing it. Anyway, whether you kill the Foe or not (I recommend you do)
+make sure you leave the cave with the Power of Sonar.
+
+Now, go straight ahead from here, to the far side of the Queen's body. You
+should see a medium-sized rock laying on the ground. Hit this about four
+times with the Power of Sonar, and it will break open to reveal.. another
+Power of Sonar. This, however, is useful because now you don't have to go
+into that cave every time to get it.
+
+If you need to fill up on health/air, remember that above the (hint) crystal
+there is an alcove with a water surface and some fish. Just watch out for all
+those damned Foe shooting stuff at you. Anyway, get the Power of Sonar from
+the rock you opened. Now, go back to the other side of the Queen to the
+crystal (easy to see from a distance) and look to the right of it to a large
+arch-like stone. Kill the Foe hanging from it with three Sonar blasts, then
+swim under the arch and break all the rocks on the ground here.
+
+One of them contains the metamorphosis power. Now, here's the hard and very,
+VERY annoying part. Firstly, get the Power of Sonar and go around killing all
+the sharks and swimming ray-like Foe. However, all you can do to the shooting
+Foe (also known as "%$!$%@%!@%") is stun them temporarily. Firstly, check
+where you are meant to go after you morph to a fish. It's the small glowing
+red place on the front of the Queen. Now, stun as many of those shooting
+bastards as you can, get the morphing power and touch the fish near the rock
+which you broke open for a Power of Sonar crystal, and swim up to your red
+goal. You'll swim faster if you hold A rather than tap it, BTW. Of course,
+the problem is that if you're hit in fish form, you turn back. Which makes
+this part really, really frustrating at times. Once you finally make it to
+the red thing, that's the end of this irritating level.
+
+                            --------------------
+                            | Heart of the Foe |
+                            --------------------
+
+This is it - the final boss. For a final boss, it's relatively easy, but it's
+no walk in the park either if you're not careful. Something to note about
+this level is that there are no fish around (who has fish in their ribcage?)
+and air is very limited (more on that later).
+
+The basic structure of the "room" is the beating heart in the middle, about
+six tubes around the edge of the room that spit out green blobs, and rising
+blood at the bottom of the room. The object is to sonar the green blobs
+(which explode and damage you if you touch them, so watch out) into the heart
+which will stop it beating for a moment - which is when you charge it. Your
+main threats are the rising blood and your air supply. When the blobs are
+released, they have a coating which disappears and a few bubbles rise
+upwards. This is your *only* source of air, and it's generally more trouble
+than it's worth to get. It barely fills your meter at all, and you're likely
+to get damaged and/or waste time (possibly spending more air than you get, and
+definitely allowing the blood to rise higher).
+
+Position yourself under whichever tube is spitting out green blobs at the
+time - only one does at once. Don't just wait under one, because you just
+won't have the time. As a blob passes in front of you, sonar it to hit it
+into the heart, hit the heart, and repeat. Do it quickly, or you'll run out
+of air or barring that, drown in the rising blood. You need to hit the heart
+a fair few times to win (something like seven or eight times) so it can get
+pretty dicey. Good luck. Once you've hit it enough, YOU'VE WON! Enjoy (or
+not) the somewhat anticlimactic ending, and the credits roll.
+Congratulations.
+
+                                   FIN :)
+
+                           ======================
+                           || ACKNOWLEDGEMENTS ||
+                           ======================
+
+Appaloosa for making an excellent and beautiful game.
+CJayC for running a great website and hosting this FAQ.
+The Ecco DotF guides at IGN and Gamepro, for helping me when *I* was stuck.
+
+Until next time..
+                                             --Xythar Darkmoon, Master Magus

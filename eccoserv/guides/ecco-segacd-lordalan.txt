@@ -1,0 +1,3112 @@
+ASDFGASDFGASDFGASDFGASDFGASDFGASDFGASDFGASDFGASDFGASDFGASDFGASDFGASDFGASDFGASDF
+This document has been formatted for 79 character lines.
+
+Best viewed using a monospace font! Otherwise you might formatting errors and
+all sorts of horrible things.
+
+                                             
+ .JNNNNNNNL   .JNNNNNNN   .JNNNNNNN   _NNNNNL.           .JNNNNNNN   NNNNNN 
+NN`     `N) (NN`     NF (NN`     NF .N)   `4NN)        (NN`     NF   NN)   NN   
+NN          NN)         NN)         NN`     NNN        NN)           NNL   NF  
+NNNNNNNNN"` NNL         NNL         NN.     (NN        NNL           NN    NN.
+NNNL        (NNL        (NNL        NNL     (NF        (NNL          NN)  `NN)  
+ 4NNNL. .J)  `NNNN_  J)  `NNNN_  J) `NNN_  _N"          `NNNN_  J)   NN)  JNF   
+   "NNNF"      `4NNN"`     `4NNN"`    "NNNF`              `4NNN"`    NNNNF"    
+                                              
+
+    
+
+Ecco the Dolphin CD- Ultimate Walkthrough
+
+by 'Lord' Alan Williamson
+
+v1.1
+
+System- Mega CD/ Sega CD
+Players- 1
+Genre- Action Adventure
+
+This guide is NOT the same as my guide for Ecco the Dolphin (Mega Drive) as it
+contains different levels and passwords to that of the Mega CD game. Mega Drive
+owners should consult the other walkthrough. Mega Drive owners cannot rely on
+this guide for walkthroughs to the Mega Drive levels, as some differ in the
+Mega CD version.
+
+If you're in the USA, then read 'Mega Drive' as 'Genesis' and 'Mega CD' as 
+'Sega CD'. 
+
+
+Contents
+~~~~~~~~
+
+Search for a code using your browser or Text editor's Search feature to skip
+to the relevant section! To search for a level walkthrough, enter its name.
+
+
+0)Update History
+
+1)Introduction
+
+2)Differences between Mega Drive and Mega CD versions of Ecco EC-DI
+
+3)Ecco Tips and Strategies EC-TI
+
+4)Level Walkthroughs EC-LE
+
+
+Part One- Ecco Island EC-L1
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+i)      Home Bay
+ii)     Medusa Bay
+iii)    The Undercaves
+iv)     The Vents
+v)      The Lagoon
+vi)     Ridge Water
+
+
+Part Two- Frozen Fish EC-L2
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+vii)    Open Ocean
+viii)   Ice Zone
+ix)     Hard Water
+x)      Cold Water
+
+
+Part Three- The Asterite EC-L3
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+xi)     Open Ocean 2
+xii)    Island Zone
+xiii)   Deep Water
+
+
+Part Four- Sea-dee Action EC-L4
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+xiv)    Volcanic Reef
+xv)     Ship Grave Sea
+xvi)    Wreck Trap
+xvii)   The Sea of Silence
+xviii)  Deep Gate 
+
+
+Part Five- Atlantis EC-L5
+~~~~~~~~~~~~~~~~~~~~~~~~~
+xix)    The Marble Sea
+xx)     The Library
+xxi)    Deep City
+xxii)   City of Forever
+
+
+Part Six- Jurassic Shark EC-L6
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+xxiii)  Jurassic Beach
+xxiv)   Pteranodon Pond
+xxv)    Origin Beach
+xxvi)   Trilobite Circle
+xxvii)  Dark Water
+
+
+Part Seven- Deja Vu EC-L7
+~~~~~~~~~~~~~~~~~~~~~~~~~
+xxviii) Deep Water
+xxix)   City of Forever
+xxx)    Home Bay
+
+
+Part Eight- Vortex EC-L8
+~~~~~~~~~~~~~~~~~~~~~~~~
+xxxi)   The Tube
+xxxii)  The Machine
+xxxiii) The Last Fight
+
+
+5)Level Passwords Reference List EC-PW
+
+6)Enemy List and Strategies
+
+7)Cheats and Codes EC-CH
+
+8)Credits and Acknowledgements
+
+9)Contacting Me
+
+x)Copyright Information   
+                            
+~~~~~~~~~~~~~~~
+0)Update History
+ ~~~~~~~~~~~~~~~~
+
+
+v1.0 Started 27/8/03 at 18.09
+     Finished 30/11/03 at 16.25
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+-First release. I took the Ecco Mega Drive walkthrough and added/edited it as
+appropriate. 
+
+v1.1 15/6/04
+~~~~~~~~~~~~
+
+-A few additions to my Dark Water guide. 
+
+~~~~~~~~~~~~~
+1)Introduction
+  ~~~~~~~~~~~~~
+
+Hello and welcome to what I hope to be the Ultimate FAQ and Walkthrough for
+Ecco the Dolphin. It contains basic tips if you're new to Ecco, as well as
+detailed step-by-step walkthroughs for each level. It also has the passwords
+and codes, if you're a dirty rotten cheater.
+
+Ecco is a difficult game to classify, because it's unlike any other. As the
+eponymous Ecco you must swim through the seas, solving puzzles, fighting sea
+creatures and even travelling back in time in order to save your pod. I'm not
+going to lie to you- Ecco is a very hard game. It's not as difficult as the 
+hideously hard sequel, Ecco: The Tides of Time, but it is a very challenging
+game. It both shocked and appalled me that there was no Walkthrough available
+for Ecco, so here it is.
+
+Part of the enjoyment of Ecco is the fun of exploring these massive stages. I
+recommend that you only use this FAQ when you're completely stuck on what to do
+next, as it will spoil your enjoyment of the game. You should start each stage
+at the beginning using the password and play through them following the 
+instructions.
+
+There's an especially interesting piece of history behind this particular FAQ.
+On November 3rd, I was working on a guide for one of the levels- Ship Wreck Sea
+I believe. I went to save the guide, but my text editor crashed and I lost the 
+entire guide. So what you see before you is the second rewrite of my Ecco Mega
+Drive walkthrough. Normally, I would have just said "**** it", but because it's
+Ecco and a game I really love to bits, I felt a duty to the readers to finish
+this guide. Lucky you.
+
+Whenever I read an FAQ, I hate having to sift through endless piles of garbage
+to get to the information I want. Do you really want to read my review of 
+Ecco the Dolphin when you can see it on GameFAQs anyway? That's why I've added 
+codes for each of the main sections. To get to these, type the code into the 
+Search box. Isn't that great! I'm also assuming that you have read the manual 
+for this game. I could waste bandwidth and time by typing large sections of the
+manual up again, but I'm going to concentrate on the actual gameplay rather
+than telling you what buttons to press in order to do things. I also put in
+some jokes, because I like jokes. 
+
+If you come across something horribly wrong in my FAQ, then don't hesitate to
+email me and tell me I'm an idiot. I won't mind, really. Unless you are being
+really petty "There's no The in front of The Marble Sea! " in that case, I'll
+probably flame you.
+
+Enjoy the FAQ, and please send me an email if you thought it was good. I'd
+really appreciate it. It makes my day reading fan-mail. Even if it involves
+mind-bendingly complicated theories about the background story to Ecco. I kid
+you not.
+
+-Lord Alan
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2)Differences between Mega Drive and Mega CD versions of Ecco EC-DI
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- Ecco CD includes new levels not included in the Mega Drive version, these
+levels are:
+
+Open Ocean 2
+Volcanic Reef
+Ship Grave Sea
+The Sea of Silence
+Wreck Trap
+Deep Gate
+
+- Ecco CD uses Redbook quality audio instead of the Mega Drive's sound 
+processor for CD quality music.
+
+- Ecco CD uses higher quality sound samples than the Mega Drive.
+
+- Ecco CD uses Q-Sound technology, creating a surround sound effect from 2 
+speakers as opposed to the ordinary stereo sound of the Mega Drive.
+
+- Passwords for Ecco CD are not compatible with Mega Drive Ecco. *grumble*
+It took ages to redo all of those in the walkthrough!
+
+- In the Library, two Glyphs feature full-motion video (FMV) footage of
+dolphins. In the Mega Drive version, Glyphs were repeated.
+
+- Trilobites and Sea Horses are easier to evade in Ecco CD than the Mega Drive
+game.
+
+- In Ecco CD, when Ecco dies he returns to the last Barrier Glyph he removed.
+
+- The 'A and Start' cheat for Ecco Mega Drive does not work on the Mega CD.
+
+- Various Glitches and Bugs from the Mega Drive game are not present in Ecco CD
+
+In my opinion, Ecco was originally intended to be a Mega CD exclusive game and
+was scaled down for the Mega Drive. This explains how Ecco suddenly appears at
+the Marble Sea from Deep Water, why Glyphs repeat in the Library etc. Then
+again, I could be wrong if I wasn't such an arrogant person. I'm never wrong.
+
+
+A Word About Save States
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+(If you're not running Ecco CD on an emulator, skip this section.)
+
+A lot of you will be playing Ecco through an emulator. That's ok, there's no
+shame in it or anything. However, many emulators have difficulty in processing
+savestates in Ecco CD. This is a problem with Mega/ Sega CD games in general.
+
+When writing this walkthrough, I had no access to a Mega CD and had to use an
+emulator with the original Ecco CD disc. This caused a few problems when I
+tried to make save states for the game- to be blunt, they didn't work.
+
+On the forums of my recommended Mega CD/ Mega Drive emulator, GENS, I managed
+to dig up the following: (all spelling and grammar errors are posted as is)
+
+"sega cd savestates with gens are very finikey, so ill tell you how to get them
+to work.
+
+you have to be in the same situation as when you saved, meaning you cant load
+from the bios if you saved in game, and you cant load from the titlescreen to
+an in game level (where you saved), you have to load from an in game level to
+any other in game level (generaly speaking).
+
+Take sonic cd for example. if you save on them fith level, you cant load your
+save and have it work if you load from the titlescreen or the bios. but, if you
+load from the very first level of the game it will work, you will see level
+five but you will hear the music of level 1, there is no way around this (that
+i know of) unless you kill yourself, Time Warp or get invicability. then the
+music will reload as the right tune. side note: on sonic cd if you save your
+game during a boss, you cant load it and have it work unless you load the save
+while your fighting the same boss.
+
+the sega cd save states in gens only record the genesis side of the combo,
+thats why you have to be in the same situation when you load."
+
+Thanks go to Benphar for explaining this to me. I have heard the AGES emulator
+supports Mega CD save states, so players might want to try that instead. Of
+course, AGES didn't work on my PC.
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+3)Ecco Tips and Strategies EC-TI
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+> Staying topped up with Health and Air
+
+Ecco is a dolphin. While this might strike you as obvious (or indeed you could
+be recovering from the shock that this isn't Sonic the Hedgehog) It's easy to
+forget about Ecco's air supply and health.
+
+-Ecco's air should never drop below 3 bars. Every time you get the opportunity,
+replenish Ecco's air. If you can leap out of the water, Ecco will regain full
+air. If you're in a submerged cavern, poke Ecco's nose out of the water and you
+will gradually regain air.
+
+-As well as air from caverns, Ecco can regain air from small bubbles rising
+from cracks in levels. I will tell you on the level walkthroughs where these
+are, but keep an eye out for them! On underground levels, these are essential.
+
+-Fish are a limitless resource. Whenever you see some, always recharge your
+health fully.
+
+-As well as fish, health can be gained from clams (the Shelled Ones) and giant
+sponges. Use sonar on the clams and sponges to reveal what's inside- if a blue
+or white flashing bubble is released, gobble it down for health. If it's 
+orange or brown, don't grab it or you'll lose health.
+You can keep sonaring the clam or sponge until your health is fully recharged,
+just like eating fish.
+
+-Ecco's health meter is uneven! For example, if it takes 5 hits for an enemy to
+reduce your health to 4 bars, it might only take 4 to reduce it to 3 bars. So
+be careful. 
+
+
+
+>Jumping and breaching
+
+One of the most important skills to learn in Ecco is how to jump properly- that
+is, jumping high and long distances. Some stages such as Deep City and City of
+Forever require such ridiculous jumps that you'll want to track down the
+members of Novotrade and feed them to rabid dolphins as poetic justice. Here's
+the guide to perfect jumping.
+
+1) First, practice swimming in circles while tapping C to increase your speed.
+The smaller the diameter of the circle, the better. This is how you build up
+speed for the jump.
+
+2) Begin your jump by starting near the water's surface- swim in a circle 
+clockwise (jumping to the right) or anti-clockwise (jumping to the left.) 
+Hammer the C button to increase speed.
+
+3) The angle of the jump is critical- you should be leaving the water at 45
+degrees to the water or slightly higher/lower. If the angle is too high, Ecco
+will shoot into the air vertically and the jump won't work. You may also feel a
+burning sensation in your cheeks- that's embarrassment.
+
+4) Just as Ecco clears the water, press B. If you've timed it correctly, Ecco
+will shoot out of the water like a dolphin missile. It should look noticably
+larger than the average jump. This is called breaching and it's the only way
+to clear harder jumps. Without cheating, that is.
+
+A common mistake is to swim from below the obstacle and try and jump over it
+that way. More often than not, you'll slam into the obstacle, or clear it 
+partially and fall back into the water. It doesn't work.
+
+Another mistake is to launch vertically and then hope Ecco will sail over the 
+wall using his magic dolphin powers, especially in City of Forever. It DOES
+NOT WORK.
+
+
+>The Wonders of "The Poke"
+
+The Poke is a special move I came across when writing this walkthrough. During
+the course of a game, Ecco can become stuck at the surface- bobbing around and
+unable to turn around.
+
+If you hold up and tap the C button repeatedly, Ecco will eventually jump up,
+spin in a circle and plunge down again, now facing down. Congratulations,
+you've learned the Poke. While I won't mention the Poke specifically in the 
+course of the walkthrough, poking can come in handy on levels like Deep Water.
+It's also useful in general if Ecco gets stuck at the surface.
+
+
+>Using Sonar
+
+Sonar, or singing, has a variety of uses.
+
+- Lets Ecco communicate with whales, dolphins, orcas and the Asterite
+- Removes Barrier Glyphs if you have the Key
+- Activates Glyph messages and powers
+- Moves starfish around
+
+-If you hold down the A button, Ecco's sonar will return to him, bringing up 
+the game's map. If you want to keep your bearings in a level, the map is
+extremely useful. It will show enemies, glyphs, sharp objects and most
+importantly air pockets and fish shoals. If you're running low on air, check
+the map for the quickest route to some quality oxygen. 
+
+-If you rescue the three missing dolphins in The Vents, you'll get Death Sonar!
+Press B as if you were going to charge, then hit A straight after it. Ecco will
+shoot sonar, but the charging noise will play if you've done it correctly.
+Death Sonar can kill smaller enemies like jellyfish and crabs, while damaging
+sharks and sea horses. In addition, jellyfish and sharks are frozen by your
+regular sonar if you don't use charge. It's so useful and easy to obtain, I
+can't think of a reason not to get it.
+
+-If you rescue the three missing dolphins in The Lagoon, you get Confuse Sonar.
+This does... absolutely nothing, from what I can see. It's supposed to confuse
+sharks, but it does the same thing as Death Sonar. Oh well, save them anyway. 
+That's what being a hero's all about.
+
+
+>Glyphs
+
+Glyphs are crystals found all over Ecco's world. Obviously, they are essential
+if you want to complete the game. They come in many varieties:
+
+-Key and Barrier Glyphs normally come in pairs. Barrier Glyphs will hinder
+Ecco's progress in a level- to get past them, Ecco must first find a Key Glyph.
+In Ecco CD, Barrier Glyphs also act as a restart point. (see below)
+
+-Access Glyphs serve a similar function to Key Glyphs- they will remove
+obstacles to allow Ecco to progress further in a level.
+
+-Information Glyphs give Ecco clues on how to progress through a level, or
+offer knowledge that's useless to the game, but still interesting.
+
+-Invincibility Glyphs give Ecco a temporarily infinite supply of health and
+air. They also serve to recharge Ecco's health and air when no other means are
+available. In Atlantis, some statues will give Ecco Invincibility and these
+function in exactly the same way as the Glyphs.
+
+-Pteranodon Glyphs only appear in the prehistoric levels. They allow Ecco to
+call the Pteranodon and reach the next section of the level.
+
+
+>Why CDs are better
+
+In Ecco CD, if you die you can restart the level from the last Barrier Glyph 
+you passed. This obviously makes passing the larger levels much easier. 
+Personally, I think it's a bit cheap and takes a lot of the difficulty out of 
+the game, but I'm writing a complete walkthrough and have to include it. So
+do the sensible thing and use restart points to your advantage. 
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~
+4)Level Walkthroughs EC-LE
+  ~~~~~~~~~~~~~~~~~~~~~~~~~
+
+This is what you're reading this FAQ for, right? I've broken down the game into
+8 rough parts for your viewing pleasure. Level passwords are listed at the
+start of each level's individual Walkthrough, but they are all listed at the 
+end as well to save scrolling. Here we go...
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Part One- Ecco Island EC-L1
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+The first part of Ecco is relatively easy. It serves to introduce you to
+various aspects of the game and solve some basic puzzles. But I've already
+solved the puzzles for you in this Walkthrough. D'oh!
+
+~~~~~~~~~~~
+i) Home Bay
+~~~~~~~~~~~
+
+Difficulty: 1/5
+Password: None
+
+Take the opportunity to get used to the game's controls and talk to your fellow
+dolphins. "How high in the sky can you fly?" one of them says. Are you going to
+stand... err, float around and let him taunt you like that?
+
+Build up your speed by tapping C, and launch out of the water as high as you
+can. Oops! Watch the awesome storm pyrotechnics... and you're alone. Swim to
+the ocean floor and follow it along to the right, then swim through the tunnel
+to begin the game proper. 
+
+
+
+~~~~~~~~~~~~~~
+ii) Medusa Bay
+~~~~~~~~~~~~~~
+
+Difficulty: 1/5
+Password: You need one?
+
+Medusa Bay is the first real level in the game. This introduces the exciting
+concept of actual gameplay.
+
+1) Talk to the dolphin in front of you, then jump over the island (it's not
+hard.) Follow the left hand wall down until you reach an alcove on the left. 
+Head down the tunnel on the left, and leap over the rock. 
+
+2) Duck under the spikes on the roof of the cavern, and head down the tunnel.
+Use your charge to turn the jellyfish into sea foam. Turn right at the bottom,
+and then down again, killing the jellyfish as you go.
+
+3) At the bottom of this tunnel, turn right again. Head right and talk to the
+Orca, who'll tell you to visit Big Blue. Hmm, the Undercaves eh? Refresh your
+air supply in the cave above before touching the Key Glyph. Keep touching it
+until some blue circles envelop Ecco- that means the power has been transferred
+and Ecco is ready to continue.
+
+4) Head back the way you came- left, up the tunnel, left again, up again, turn
+left to grab some fish if you're running short on energy before heading right
+and leaping over the rock barrier again. 
+
+5) Swim directly right, plowing through the jellyfish like a dolphin bulldozer.
+If you're a wuss, head to the surface and jump along over the island before 
+continuing right. Either way, you'll come to a wall- in the middle you'll find
+a Barrier Glyph. Use your Sonar to shoot it out of the way, and head through
+the tunnel to complete the level. Hooray! 26 to go!
+
+
+
+~~~~~~~~~~~~~~~~~~~
+iii) The Undercaves
+~~~~~~~~~~~~~~~~~~~
+
+A deep maze of caverns with no surface to the dry side.
+Songs of the sea sing of great danger in this place.
+
+Difficulty: 2/5
+Password: GMRIQDCM
+
+Wahey, it's the Undercaves! Finding air is more of an issue here, because you 
+can't leap out of the water whenever you want. Nothing too hard yet, though.
+
+1) Head up from your starting point and get the Key Glyph. Now head left, 
+charging across the intersection to avoid getting snagged on the spikes. 
+Dolphin kebab, anyone? Sorry. Sonar the Barrier Glyph, and follow the lower
+path around the rock.
+
+2) You'll soon come to a wall of spiked shells. Use your charge to break
+through them. Swim as far up as you can go, before singing to the glyph. "Swim
+slowly past eight arms." Now let's see- what has 8 arms and lives in the sea? 
+No, it's not a mutant sea spider, it's an octopus! 
+
+3) Ignore the flashing shell for the moment, and head down the tunnel. Swim up
+at the first T junction to replenish your air. Now continue down the tunnel,
+taking the upper path as soon as you can. This area is infested with puffer
+fish- charge them quickly, but be warned- they regenerate after time. Quickly
+head to the end of the tunnel and grab the Key Glyph power.
+
+4) Swim back the way you came, killing or dodging the puffers. Fill your lungs
+with air at the cavern again. Now head to where that flashing shell was. You
+need to push that shell onto the rocks below and to the right- Start from the 
+left, and use C to build up your speed. Give the shell a good shove and it will
+hopefully make a big enough gap in the rocks for you to pass. If not, move away
+and return to the platform- the shell will have reappeared. Keep pushing the 
+shell right and you'll get through in no time.
+
+5) More puffers- dodge them, they wont follow you around. Kill all the 
+jellyfish before topping up your air in the cavern. Now continue heading right
+and sonar the Barrier Glyph.
+
+6) Head up- OH MY GOD IT'S THE OCTOPUS! Well, that was my initial reaction in 
+1992, but yours may have been different. Line up Ecco's snout so it's halfway
+between Olly's tentacle and the spike, and now tap Up gently. Ecco will slowly
+move between them and the octopus won't notice you. Don't charge through- you
+will die. Don't move too slowly- you'll drown. Either way, you can't really
+win, but once you get past the Octopus charge for your life down the tunnel,
+killing any puffers. Get the Key Glyph.
+
+7) Swim back down the tunnel, and past the Octopus again... slowly. Now take a
+breath of much needed air in the cavern to your left. Now head right and down,
+shooting out the Barrier Glyph. 
+
+8) Travel down to the bottom, then head left. To get through the narrow
+passageway lined with spikes, you'll need to have Ecco very close to the roof.
+Otherwise, take a hit and you'll be lined up fine. Swim through the puffer
+passageway and get the Key Glyph. Gobble up the fish swimming near the Glyph
+and replace some of your probably dwindling energy.
+
+9) Swim back the way you came, and up to the last Barrier Glyph. Shoot it and
+swim to the exit. 
+
+
+
+~~~~~~~~~~~~~
+iv) The Vents
+~~~~~~~~~~~~~
+
+Giant cracks in the ocean floor have strong upward currents of warm water.
+After the storm, songs of three trapped dolphins are heard here...
+
+Difficulty: 2/5
+Password: IUEINLDP
+
+The Vents is even easier than Medusa Bay, if you don't want the Death Sonar. 
+But we do, because we're great. Luckily, it's not too hard to attain. Let's go.
+
+1) Talk to the lonely-looking dolphin. The rest of their pod is missing, and 
+it's up to Ecco to get them back! Swim down and follow the sea bed along. You
+should notice that you can't get any further down here. You should also notice
+the rock sitting near the right edge of the chasm.
+
+2) Push the rock left and into the vent, then get behind it to avoid the 
+current. Follow the rock down and count the alcoves on the left- when you reach
+the third alcove, charge out from the rock and into it. Head as far left as you
+can, and you'll find the first missing dolphin. 
+
+4) To get the dolphin to follow you, you must swim in front of it. Watch the 
+way it swims, then sit in front of it. When the dolphin's position jerks to
+behind yours, swim down through the hole in the rock and get the Key Glyph. Now
+head into the current and swim as fast as you can to the surface for air. You 
+will definately need it.
+
+5) Swim over to the mother dolphin again and the young dolphin will join her.
+One down, three to go. Swim into the vent again using the rock, this time 
+counting alcoves on the right. Once you reach the fourth, swim along it to the 
+right. Once you reach the end, you'll be swept away in the current. Follow it
+to the top. 
+
+6) Swim left, killing the puffers and filling up your air supply. Now head back
+to the current and use the rock to travel down the vent. Once you reach the 
+bottom, turn right again. Shoot out the Barrier Glyph.
+
+7) Travel diagonally up-right through the cavern and get another Key Glyph.
+Now head directly below you and destroy the spiky shellls. Kill the Puffer and
+shoot out another Barrier Glyph.
+
+8) Swim up AS FAST AS YOU CAN BECAUSE YOU'RE ABOUT TO DROWN, through the wall
+of spiky shells and up. Ignore the Glyph and continue left until you reach the
+precious air.
+
+9) With your air topped up, get the Key Glyph. Now head left past the air
+pocket, then up. Shoot out the Barrier Glyph, gobbling the fish if you need
+them, and get the dolphin to follow you. Now travel back down the passageway
+and top up your air again.
+
+10) Follow the passageway back to the main vent. To do this, you'll need to get
+the two Key Glyphs and sonar the Barrier Glyphs again. Once you reach the vent,
+don't head directly to the top. Instead take the left path after the tunnel
+slants left, collecting the Key Glyph (IMPORTANT) and stopping for air. Now
+follow the tunnel to the leftmost vent, and drop off the dolphin with the pod.
+Only one more left. 
+
+11) Head along the surface of the level, jumping over the three islands. After
+jumping over the third, dive down the vent using the rock. Take the rock right
+to the bottom, where you'll see a Barrier Glyph. Sonar it away and get to the
+dolphin. Once they are following you, zip up the vent, along the surface to
+the pod. The mother will thank you for returning the pod... and give you the
+Death Sonar! Yay!
+
+12) Go along the surface again and use the rock to travel down the right-hand
+vent for a second time. Once you reach the two bottom tunnels, take the upper
+one to exit the level.
+
+ 
+
+
+~~~~~~~~~~~~~
+v) The Lagoon
+~~~~~~~~~~~~~
+
+The songs of the sea sing of the stone eating starts that live in this place.
+A dolphin sings for her trapped pod.
+
+Difficulty: 3/5
+Password: GRTJZYJF
+
+The Lagoon marks the first appearance of starfish- thankfully they only crop up
+a few times, because I really hate them. You have three more dolphins to rescue
+here, so it's vital you follow the walktrhough carefully.
+
+1) You start off in shark-infested waters. Head straight to the bottom, using
+Death Sonar on the sharks. Here you'll find the first lost dolphin! Get them to
+follow you as usual. 
+
+2) Now head directly to the surface, jumping over the island on the right. Go
+right until you meet another distressed mother dolphin. Drop off the dolphin
+following you and talk to her if you like. 
+
+2) Head left along the surface again, jumping over three islands as you pass.
+After clearing the third, dive and head diagonally down-left. You should see
+a flashing shell sliding down the rock. Follow it, killing the jellyfish. When
+it destroys the rock, pass through the newly-formed hole. 
+
+3) Travel down and into the cave immediately on your right. You'll have to pass
+through the spikes like you did in the Undercaves. Ignore the dolphin in need
+of rescuing and swim down into the tunnel to get the Key Glyph power. Now get
+the dolphin to follow you.
+
+4) Move to the upper-right corner of this cave to find some starfish. Oh goody.
+Now you're going to have to manoeuvre the starfish back to the rock previously 
+destroyed by the shell. Not only do you have to do that, if you don't move
+quickly enough the starfish will disappear!
+
+5) Get above the starfish and use sonar to push them down. After 3 sonar blasts
+straight down, move to the right of the starfish and begin pushing them left.
+The problem is that if the starfish get stuck in the rock, you're screwed and 
+have to start over again. Keeping that in mind, push the starfish left. They
+will kill just about any enemies in your path.
+
+6) As soon as you're out of the cave, sonar the starfish straight up. They will
+destroy the rock. Top up your air from the bubbles rising from the cave, then
+head for the surface. (Ignore the bubbles if you're ultra speedy.) Eat some
+fish if your health is running low, before jumping across all three islands and
+returning the dolphin to its mother.
+
+7) Jump across one island and dive down. You're back at the starting point. 
+Look on your right, there will be two openings as you head down. Take the 
+second one. Watch out for the deadly Sea Leech in the first alcove. 
+
+8) In the cave, charge the spiky shell and take the lower path to avoid the Sea
+Leech. Keeping moving to your right until you come to a small cave with spikes
+guarding the entrance. Slip through to get to more starfish.
+
+9) Sonar the starfish diagonally Up-left and until they are level with the
+spikes, then left out of the cave. Keep shooting them left. You'll notice the
+rocks above will clear away- make sure the starfish are roughly one sonar blast
+distance to the left of the rocks, then begin shooting them up. You'll see why
+in a minute when the rockface reappears.
+
+10) Just when you think things couldn't be worse, its an octopus. Shoot the
+starfish past its tentacle, now move as far left as you can. If you get hit by
+the tentacle once, don't worry, just slip past somehow. Now move up to the left
+and refill your air before it runs out. Quickly return to the starfish and
+sonar them into the rock, destroying it. 
+
+11) Hug the rocks to avoid the current, taking the lower path. Shoot away the
+Barrier Glyph and follow the tunnel to the end. Take this opportunity to refill
+your air (from the pocket) and your health (from the clam). Now swim down the
+tunnel and take the first left. Kill the crab before it becomes a problem.
+
+12) Swim down again, and left at the bottom. Be careful to avoid the spikes.
+Pick up the dolphin and take the tunnel back to the air pocket, then left again
+until you reach the current I told you to avoid earlier. Swim up and drop off
+the last dolphin to get your reward... or not.
+
+13) Now go alllllll the way back, over the island and through the cave network,
+past the octopus (slowly) and back to the air pocket. You don't need to use the
+starfish again, thank God. Travel straight down the tunnel, killing any crabs
+and jellyfish you see.
+
+14) At the bottom, you encounter a Sea Leech. It's pretty much inavoidable.
+Keep mashing the B and C buttons until Ecco breaks free, then move at full
+throttle down the tunnel. Stay close to the floor to dodge the Sea Leech, then
+close to the roof to dodge the second Leech.
+
+15) When you reach the end, use the shell to break through the rocks. Swim down
+the tunnel again, hugging the ground to avoid the Leech. Top up your air in the
+cavern. When you reach the end, charge down-right to get through the current
+and dodge the spikes.
+
+16) Travel as far left as you can go. You'll reach another air pocket- refill
+on air and swim out into the cave. Now head up and into the corner where you'll
+find yet more starfish! Thankfully this is the last set. Shoot them
+diagonally down-left until they are close, but not touching the ocean floor-
+now shoot them left all the way along the tunnel until they destroy the rocks.
+You must use Death Sonar on the crabs- don't charge or the starfish will
+disappear. 
+
+17) Nearly done! Swim diagonally up-right until you reach the final
+passageway. Spiky shells will fall- charge through them and keep heading up
+until you reach the exit. You've gotta be quick- Ecco's air is dwindling by
+this stage. 
+
+
+~~~~~~~~~~~~~~~
+vi) Ridge Water
+~~~~~~~~~~~~~~~
+
+Two cold water ponds connected by a maze of shell and stone.
+To pass Ridge Water one must have great knowledge of the sea.
+
+Difficulty: 3/5
+Password: OVDJDSLB
+
+As the last level in the tropical zone (for a while) Ridge Water is quite 
+challenging. If you can use the skills you learned on the Lagoon, it's not too
+taxing. If you can't... never mind.
+
+1) Swim down from your starting point, using the rock to fight the currents. A
+cave will open on the left near the bottom- go into it. You'll also notice a 
+flashing shell lands inside the cave- move to its left hand side, then push it
+towards the left to smash through the rock barrier. This can be quite difficult
+due to the current pushing you left, but keep nudging and the shell will 
+eventually move.
+
+2) If you need more air, return to the surface and get it. Now head up and left
+to find another shell. Push it off the platform to the left, and into the next
+group of rocks. 
+
+3) Go back up to the very top of the cave, get the Key Glyph and the air refill
+before heading back down through the space you created in the rocks. Get more
+air in the tunnel network (don't jump up, you'll hit the spikes) before
+shooting the Barrier Glyph. Watch out for asshole crabs. Kill them all.
+
+4) Travel diagonally up-right through the large cave until you're in a long
+tunnel full of rays. Charge them and go past, heading to the end of the tunnel.
+Try not to hit the rays, or it will hurt a lot. At the end of the tunnel is a 
+lone crab- kill it.
+
+5) The starfish are back to annoy Ecco once again. Sonar them straight down the
+tunnel, using Death Sonar and the starfish themselves to kill off any rays. 
+Make sure to stop for air, but don't take too long as the starfish will
+disappear if left for too long.
+
+6) Once the starfish are out of the tunnel about 4-5 Sonar Blast distances, 
+sonar them straight down until they are level with the rocks. Then shoot them
+right, through the rocks. The starfish will disappear very quickly here, so 
+don't waste any time. Once you've destroyed the rocks, return to the ray tunnel
+and replenish your air before going through the hole in the rocks.
+
+7) Head down and through the next tunnel, ignoring the crab traps. Halfway down
+the tunnel, top up your air. Don't land on the spikes on your way back down, 
+though.
+
+8) Once Ecco crashes into the rocks blocking the way, move up and left around
+the outcrop of rock. Kill the crab and use your sonar to once again move the
+starfish. This time you have to shoot them diagonally down-right and into the
+rocks. You have plenty of time though.
+
+9) Swim through the whole you've created to the far end of the tunnel and get
+an air refill. Now move back into the cave and head up. Go left through the 
+tunnel, destroying any spiky shells headed your way. Keep going straight up 
+until you reach the surface.
+
+10) The dolphins here have nothing to say to you. How rude! Return to the sea
+floor and swim left as far as you can go. Talk to the Orca, who tells you about
+Big Blue. It instructs you to go North- isn't there a pole of some sort up
+there? When the Orca leaves, get your Key Glyph.
+
+11) Now head to the surface to get a last breath of air, and go into the hole
+you appeared from. You may have noticed a tunnel to the right of where you
+surfaced earlier- that's where we're going. Shoot the Barrier Glyph out of the
+way. There are two unsociable sharks here- just stay close to the floor and
+swim like crazy towards the exit. That's Part 1 completed!
+ 
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Part Two- Frozen Fish EC-L2
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Ecco's search for the Big Blue takes him to the cold seas of the Arctic. With
+giant spiders, sharks and crushing icebergs, this is no walk in the park. Or 
+should that be swim?
+
+
+
+~~~~~~~~~~~~~~~
+vii) Open Ocean
+~~~~~~~~~~~~~~~
+
+The Open Ocean is cold and dangerous.
+
+Difficulty: 3/5
+Password: GMYMDSLI
+
+Poor Ecco. Of all the seas in the world, he chooses the one where every shark
+in the Northern Hemisphere is looking for food. As a result, this level is a
+frantic fight for survival.
+
+I can't give you a step-by-step walkthough for Open Ocean, because it's the
+same thing throughout. However, I can give you tips.
+
+There are actually two types of shark in Open Ocean- one does not chase Ecco
+and will die in 1 hit. The other are the Ecco-hunting sharks that take an awful
+lot more. To avoid taking heavy damage, continually charge while underwater and
+most sharks will dissolve into foam. To think, I always thought that was
+detergent. Anyway...
+
+Can you breach? It'll come in extremely useful here. Remember, if you're not in
+the water, sharks can't eat you. Normal jumping is good too. The problem is
+that Ecco often lands on top of a shark and gets mauled.
+
+A good tactic is two wait until the two Ecco hunters are behind you, then
+swim at a moderate pace dodging the others. This makes things a bit easier. If
+you go too fast, the sharks will start reappearing in front of you though. So
+watch it.
+
+Open Ocean is quite hard. It's all about practice. If you can't beat it, it's
+no big deal. Just skip to Ice Zone using the password, and pretend you cleared
+it. I won't think any less of you, I promise.
+
+*ALTERNATIVE STRATEGY* by pseudonym:
+
+"the easiest way to get through the open ocean stage is to go to the bottom
+then dash (to hit the sharks) until the screen stops scrolling, then surface
+to finish the stage."
+
+I must confess, I didn't think of this one. Just ignore the difficulty level
+for this stage and complete it in under 30 seconds. Bah.
+
+
+~~~~~~~~~~~~~~
+viii) Ice Zone
+~~~~~~~~~~~~~~
+
+Dark cold waters with few places to breath. Strange cold water creatures live 
+in this place. Distant songs are heard but not understood.
+
+Difficulty: 2/5
+Password: GMBRHSLU
+
+It's the Arctic Sea! But no Santa Claus in site. Not even an Eskimo (ok ok,
+Inuit) to be found in this desolate sheet of ice. But there are plenty of 
+sharks and killer sea spiders. Great. 
+
+1) You start off with a Tiger Shark coming straight at you. You really know how
+to pick your starting points, Ecco... turn left and quickly leap out of the
+water. Instead of bouncing on the island, you'll skid across the ice. Nifty.
+
+2) Jump across the first hole you see using C. Fall into the next one. Now head
+down, shooting the jellyfish with your Death Sonar. If you charge them, it'll
+take two hits. Once you reach the bottom, turn left- it's a evil sea spider!
+Again, use the Death Sonar on it. 
+
+3) Continue along the path, following the path of the floor. Death Sonar EVERY
+sea spider you see, or you'll be overwhelmed. After a while, you'll come to the
+Key Glyph. Now head along the roof, killing the sea spiders. Take the next
+tunnel up and jump onto the ice.
+
+4) Slide across the ice, jumping the first hole you see. Land in the second and
+get the fish for a health boost. Now continue sliding right. You'll land in a 
+large pool- just swim across and continue sliding. Slide across the ice and
+swim across the surface of the pools until you can't go any further. 
+
+5) Now swim down, following the edge of the ice. You will be attacked by sea
+spiders and sharks- you know what to do. Shoot away the Barrier Glyph when you
+get to it. Go through the tunnel and swim as fast as you can past the sea
+spiders to reach the exit.
+
+
+
+~~~~~~~~~~~~~~
+ix) Hard Water
+~~~~~~~~~~~~~~
+
+Water turns to slippery stone from the dark cold. There is great danger when
+the water stones move.
+The distant songs continue...
+
+Difficulty: 4/5
+Password: UKZFHSLS
+
+Alternatively, drop the word 'Water' from the level name. Because it's just
+plain hard. The crushing ice cubes are annoying for the most part- until you
+reach the end of the level and it becomes a death trap. Whenever Hell froze
+over, they called it Hard Water.
+
+1) From your starting point, head up and do some more surface sliding. Drop
+into the first hole that you see. You will get ambushed by two sea spiders. Use
+your Death Sonar on them. 
+
+2) Take the left hand path for your first encounter with the dreaded ice cubes.
+These will crush Ecco faster than you can say Coca Cola. To dodge them, wait
+until they move past, then charge. They all move at different speeds, just to
+add to the irritation. Dodge the two ice cubes, then move down. There will be
+another cube. Go past it until you reach the very bottom. 
+
+3) Sammy the sea spider is waiting for you. Death Sonar his ass. Now swim right
+and get the Key Glyph. Turn left and return the way you came, past the three
+icecubes.
+
+4) Once you reach the surface, slide left if you need health. To be honest,
+it's not really worth it as the sea spider there always regenerates and will
+probably kill you. Instead, slide right and back to the shark pool.
+
+5) Dive down the middle of the pool, killing any sea spiders that appear. There
+is a fast moving ice cube going to and fro, unfortunately- dodge past it. Use
+your dolphin skills to get past the next two (it's safe to wait between them if
+you're careful) 
+
+6) Now head to your right until you notice an ice cube. Or should that be a 
+million of them. That's right, even ice cubes form mosh pits it seems. Instead
+of ploughing through them like a fool, move to the outside. This way you only
+have to dodge a few. Shoot out the Barrier Glyph.
+
+7) You're so close you can taste the exit- it's salty, like the water, but that
+isn't important. Slip past the last few ice cubes and don't mess things up now.
+Stay cool! Ha ha, how witty. Once you reach the exit, it's time to meet Big
+Blue!
+
+
+
+~~~~~~~~~~~~~
+x) Cold Water
+~~~~~~~~~~~~~
+
+Quiet songs of wisdom sing about the hard water called ice.
+The Big Blue is near.
+
+Difficulty: 3/5
+Password: SYQJHSLZ
+
+You've finally reached Big Blue. This level is a refreshing change after the
+hell that is Hard Water. I re-iterate- no more ice cubes! Hooray!
+
+1) Upon trying to surface at the start, you'll encounter spikes. You may also
+notice the sea spider floating precariously close to your starting position.
+Death Sonar it, and indeed any others. Head down and to the right, then down
+and left.
+
+2) Follow the ice around and then up. There is a shark swimming around here- 
+just dodge it. Head up the narrow, jellyfish filled passage. There is a strong
+current pushing you back- to overcome it, mash the C and B buttons. You'll get
+to the top soon enough.
+
+3) Slide along the ice to the left and you'll find a Key Glyph. Swim up and 
+touch it to get the powers. Now slide along the ice again, jumping over the
+first hole. There are some spikes lying on top of the ice- jump, holding down C
+for extra distance, to clear them. After clearing the spikes, you can land in
+the next hole.
+
+4) More sea spiders are guarding this passageway- Death Sonar them as they
+appear. Follow the passageway around (don't bother checking for air pockets as
+there aren't any. Just swim like crazy) until you get to the Barrier Glyph.
+Sonar it out of the way and continue on. 
+
+5) You'll reach a large iceberg. Go around the underside and collect the Key
+Glyph power. Now swim all the way right until you find...
+
+6) Big Blue! Which is an oxymoron, because it's actually purple. Nevertheless,
+talk to Big Blue with your sonar. It turns out that Big Blue is actually a big
+fraud- but he knows someone with actual intelligence who can help you out, the
+Asterite! That's who we've got to meet next.
+
+7) Go back the way you came and shoot away the Barrier Glyph. Use the
+underwater passage to get to the surface before you drown. On the surface,
+slide to the right. You'll land in a small pool.
+
+8) Christ, these sea spiders just won't give up, will they? Death Sonar these
+fools, then head down the tunnel. There's another shark, dodge around it and 
+get to the exit before Ecco becomes a dolphin-sicle.
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Part Three- The Asterite EC-L2
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+What is an Asterite, anyway? As you're about to discover, it's a load of old
+balls. Literally. Yes, I know that joke was obvious, but if you have a better 
+idea I'd like to hear it. =P
+
+
+~~~~~~~~~~~~~~~~
+xi) Open Ocean 2
+~~~~~~~~~~~~~~~~
+
+Difficulty: 2/5
+Password: CCVFFSLM
+
+A new addition to Ecco CD that isn't in the Mega Drive version, Ecco must
+swim through Open Ocean again... this time, you're going from right to left
+instead. Just use the same tactics as last time and you'll be fine. 
+
+
+~~~~~~~~~~~~~~~
+xi) Island Zone
+~~~~~~~~~~~~~~~
+
+Seven islands in warmer waters
+
+Difficulty: 2/5
+Password: ALZBESLS
+
+There's no time to kick back and relax in this island. You don't want poor Ecco
+to get beached, do you? There's another sodding octopus here, but apart from 
+that this level is relatively straightforward. 
+
+1) From your starting point, swim right and under the rock. You'll find a
+not-so-friendly shark here. Use the Death Sonar on it, or just dodge it. There
+is a rock on the edge of the lower platform- push it off the edge, and ride it
+down to get past the current.
+
+From here, you have 2 options. One is quicker, the other shows a hidden message
+fixed from a bug in the Mega Drive game. Why not try the second option? It's
+fun! (sort of!)
+
+*SUPER FUN OPTIONAL OPTION!*
+
+1b) Swim to the very bottom and through the tunnel. Talk to the Orca, who isn't
+much help at all really. Grab some air and continue along the tunnel until you
+reach the end, where you'll find a puffer. Kill it.
+
+Swim up and you'll find some falling spiky shells- either dodge or destroy them
+with the Death Sonar. There are some rays here too- charge through them. When 
+you reach the end of this passage, you'll find a SUPER FUN SECRET!
+
+It's a Glyph. Sing to it and you'll receive a message:
+
+"STUDIES INDICATE
+ASTERITE IS
+LOCATED IN THE
+DEEP WATER ZONE"
+
+Wow.
+
+Leave the passageway and return to where you were before. Now read on!
+
+*END OF SUPER FUN OPTIONAL OPTION!*
+
+2) Follow the roof of the cavern to the right. Dive under the rock, over the 
+other side and get the Key Glyph. Beware- As soon as you get the Glyph, evil
+starfish will appear. You can't sonar them to break upon rocks- they prefer to
+break Ecco instead.
+
+3) Head out of the cave, and back to the surface to get some air. Return to the
+starting point and leap across four islands. Now swim down the gap in the rocks
+and into the chamber on the left. Squeeze between the rocks and spikes heading
+left as far as you can go. Talk to the Glyph for a cryptic message. How
+strange!
+
+4) Leave the cave the way you came and get some air from the surface before
+heading down again. Manoeuvre around the spiked platform and under it. 
+Unfortunately an old friend of yours, Olly the Octopus is back and this time 
+he's purple! Sneak past him the way you've done before, then charge his head 
+for the hell of it. Ha ha ha, you can't get me Octopus!
+
+5) Past the Octopus you'll be ambused by puffers. Charge and Death Sonar them,
+travelling down the tunnel as quick as you can. Shoot the Barrier Glyph and 
+kill any Puffers that have emerged, then press on and kill the crab.
+
+6) Move up and fill your lungs with delicious air, then go all the way down the
+massive tunnel. When you reach the bottom, turn left and swim to the next
+intersection. Now head straight up and get the air, before going straight down
+again.
+
+7) These tunnels have a serious case of crabs, but it's nothing you shouldn't
+be able to handle by now. Head down the frankly massive tunnel, past the first
+intersection. When you reach the second, head up and get more air. Then head 
+back down, and out into the cave on your left. 
+
+8) Kill all the Puffers that appear with your Death Sonar, then shoot the clam
+and eat the goodies for some health. Head along the outer walls of the cave and
+up to the very top. Watch out for the sharks (how did they get down here?) and
+get the Key Glyph from the middle of the right hand wall.
+
+9) Return to the tunnel and get the air again. Now head along to the right, 
+killing the Puffers. Once you reach the first intersection, head up and shoot
+the Barrier Glyph. Now just swim straight to exit the level.
+
+
+
+~~~~~~~~~~~~~~~
+xii) Deep Water
+~~~~~~~~~~~~~~~
+
+Ancient breathless passages run so deep that no songs of this place have yet
+been sung.
+
+Difficulty: 1/5
+Password: IHPFDSLP
+
+Deep Water doesn't mean Deep Trouble, as this is one of the easiest levels in 
+the game. Just follow the directions and this one is a doddle.
+
+1) Head left of your starting point to bypass the current, going under the rock
+platform. There's another current here- swim straight down using your speed to 
+fight against it. The path is lined with spikes, so don't wave to and fro much
+unless you want diced Ecco. Take the second tunnel on your left.
+
+2) Swim down the tunnel, then up to the top of the cave to refresh your health.
+Now swim to the bottom, Death Sonar the jellyfish and charge the crap. Take the
+next tunnel on the left and fill your air.
+
+3) Go down and take the first opening on your right. Death Sonar the jellyfish,
+then go down through the cave taking out the rest of the jellyfish. Into the 
+next tunnel, kill the crab and top up your air.
+
+4) Head down the tunnel again. Follow the path along. When you come to two
+tunnels, take the leftmost one. Get an air refill before heading ALL THE WAY
+DOWN THE LOOOOONNNG TUNNEL. You can weave in and out of the spikes if you don't
+go too fast. Take the next right, then head up the tunnel and get more air. You
+can never have enough!
+
+5) Go back down the tunnel to the very bottom and head to the far right. What
+the hell is that thing? Ah, it's the Asterite. I've already used my 'load of 
+balls' joke too. Damn. Use your Sonar to talk to it, and it'll explain that the
+only way to save your pod is to travel back in time and find the Asterite's 
+missing globe. To do this, you'll need to find the Time Machine in Atlantis. I
+guess that's logical.
+
+Yes, that was sarcasm.
+
+6) After Asterite is finished talking its cryptic Asterite talk, head to the
+bottom and out to the left to end the level.
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Part Four- Sea-Dee Action EC-L4
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+The puns keep going from bad to worse as Ecco fights his way through this set
+of levels, which are exclusive to Ecco CD and not found in the cartridge 
+original. You may have seen these graphics before- they were recycled in part
+for Ecco 2 on the Mega Drive. Damned lazy programmers!
+
+~~~~~~~~~~~~~~~~~~~
+xiv) Volcanic Reef
+~~~~~~~~~~~~~~~~~~~
+
+The sunken city is through the mountain of stone.
+Glyphs open passages in this place.
+
+Difficulty: 4/5
+Password: ADLYESLT
+
+The first of the new CD levels, Volcanic Reef is notable for three things: the
+beautiful scenery, the rock-solid difficulty, and the distinct lack of 
+volcanoes.
+
+1) Swim left and down from the starting point. You'll bump into a 
+not-so-friendly crab, shoot it with your Death Sonar. Continue swimming right 
+until you find a Key Glyph- bump into it to collect the power as usual.
+
+2) Head up and along the surface to the left, where you'll reach an impassible
+wall of rock. Turn off your Mega CD. You're stuck.
+
+Nah, I'm just kidding. You'll have to make a pretty large jump over the rock
+face to get to the next area- make sure Ecco gets a good speed before
+attempting the jump.
+
+3) Once over the rock, take the tunnel on the right. Use your Sonar to shoot 
+away the Barrier Glyph below, before swimming down and into the large
+underground cavern. Keep swimming down until you reach the ocean floor- now
+turn and head left. 
+
+4) At the leftmost corner you'll see an Access Glyph. Sonar it to upon up the
+next section of the level. Now swim all the way right (charging through the
+shoals of jellyfish where appropriate) until you can swim down. Do this, then
+head left so you're swimming along the ceiling. 
+
+5) Whenever you see another crab, Death Sonar it to... death, of course. Keep
+going left, you'll see jellyfish swimming up to their rocky doom. Turn and swim
+up to find another Access Glyph. Access it. You are now told to "Search for the
+Key Glyph." Ooh, cryptic or what?
+
+6) Swim down and follow the ocean floor to your right. There are multiple
+outcrops of rocks which will hinder your progress. You'll come to another cave
+in the bottom-right corner of the level. Swim into it, then down and left. You
+can swim through the fake wall to find... the Key Glyph! Now we're getting
+somewhere. 
+
+7) Turn and head back the way you came. More than likely, your Air supply is
+starting to dwindle. It's lucky for you that I've found Alan's Secret Save
+Point (TM) which will come in extremely useful. 
+
+Follow the row of spikes up and turn right when they end. There are more spikes
+on the roof. Once out of this section and into the main cavern, turn and swim
+right, ignoring the two pits. Swim down after the pits. You can just about see
+a Barrier Glyph. Shoot in the general direction of it with your Sonar. If
+you're lucky, the Glyph will disappear. Now when you die, you'll appear at this
+point again with full health and air. Nice.
+
+If you're not that lucky, the Glyph will look like it's still there. You 
+haven't lost the Key Glyph power, but the progress was still saved. Still
+pretty nice.
+
+8) Now comes the hardest part of the level- Swim back up and into the pit on
+the left. You'll see a rock falling down- push it up and out of the pit. Now,
+before it falls back down the pit, you'll have to charge it into the pit on the
+right.
+
+Seems impossible? Well, it almost is. There's a slight glitch here- if you hit
+the rock and it is close enough to the top, it'll go into the right pit anyway.
+At least, that's what happened to me.
+
+9) Follow the rock down and it will collide with the others, clearing Ecco a 
+path through. Swim down and to the right. Shoot the Barrier Glyph if you need
+to and get the hell out of here.
+
+
+~~~~~~~~~~~~~~~~~~
+xv) Ship Grave Sea
+~~~~~~~~~~~~~~~~~~
+
+Bones of strange floating whales are found here, they are infested with
+dangerous fish.
+
+Difficulty: 3/5
+Password: INWUGSLU
+
+After the horrible introduction that was Volcanic Reef, Ship Grave Sea isn't
+nearly so hard. Again, most of these graphics were recycled in Ecco 2. Again,
+they look great.
+
+1) Aww look, it's a ickle turtle! No bandanas on this particular variety,
+though. Give him a nudge and he'll curl up into his shell. This might come in
+useful ;) Swim to the surface and you'll see a dolphin currently studying 
+archaeology. "The bones are very old..." Hmm, don't quit your day job. However,
+they're from the sunken city. What could have destroyed these ships?
+
+2) Swim along the surface to the right, where you'll meet another dolphin.
+They (no sexism in THIS walkthrough) will tell you that "Light from the sky
+made them rest here". Either the ozone layer is in worse shape than we all
+thought, or Ecco's in serious trouble.
+
+3) Now turn and swim down until you see a ship. Like the level synopsis said,
+the ships are filled with fish- in this case, Wreck Puffers. Wreck Puffers are
+worse than your normal Puffer, but not quite as nasty as Black Puffers. You'll
+want to stay clear of them at all costs. Whenever you see the ship, turn and
+swim all the way left. In a cave on the left hand side of the level, you'll see
+an Access Glyph. Sing to it to open up the next section of the level.
+
+4) Swim right, across the masts of the ships. Oh sorry, I mean "floating
+whales." You'll come to a tunnel leading down and to the right- take it. There
+are some Wreck Puffers quickly flooding the tunnel, which can either be dodged
+or eliminated with Ecco's Death Sonar. 
+
+5) At the bottom of the tunnel, there will be large boulders similar to the one
+you pushed in Volcanic Reef- except these are falling from the ceiling. Either
+swim around them or charge them out of Ecco's way and head left. Hitting these
+rocks will cause heavy damage, so don't do it. Obviously.
+
+6) After the rocks, a current will be pushing Ecco to the right. Swim up and
+left into the other tunnel. A group of Wreck Puffers will appear in the tunnel-
+swim past them as fast as you can. There will be more Jellyfish floating around
+here. 
+
+7) Follow the jellyfish-laced tunnel up and you'll see a Glyph. Sing to it for
+Invincibility. Yay! I'll bet you needed that! Now swim down and kill the
+jellyfish for fun. Go left, then down. The current will force you down until
+Ecco hits a wall of rock- this is our ultimate destination. For now, go into
+the cave on the right.
+
+8) There's another ship in here, but how it got this deep I'll never know. Swim
+right and down until you see another tunnel- hopefully, you still have
+Invincibility here. Charge or swim through the jellyfish until you reach the
+end of the tunnel. There's another Access Glyph here. Sing to it to obtain the
+power.
+
+9) Turn and leave the cave. Once out of it, swim up. Ecco will be swept up in
+the current you couldn't pass earlier and returns to the tunnel with the 
+falling rock. Swim up and around again- the Wreck Puffers return, so be
+careful. Go up the jellyfish tunnel and collect the Invincibility.
+
+10) Head down and left, going down the tunnel with the current. By gum, the
+rocks are gone! Ecco will automatically swim down and exit the stage.
+
+
+~~~~~~~~~~~~~~~
+xvi) Wreck Trap
+~~~~~~~~~~~~~~~
+
+Dangerous caves with fierce currents.
+The turtles may help but not willingly.
+
+Difficulty: 2/5
+Password: WJHQGSLL
+
+This level's pretty easy, as far as they go in this game. You'll need to use
+the turtles swimming around to get through the strong currents.
+
+1) Swim left of the starting point. There will be a few jellyfish floating to
+and fro, but these can be easily avoided. Once you reach the left edge of the
+level, swim to the surface and get a breath of air. Now swim down again, where
+you'll soon hit a solid floor of rock. 
+
+2) Swim right a little and there'll be an opening in the rock, with a current
+pushing out of it. You can get past this current without any help- charge down,
+but make sure to destroy the rocks with another charge and don't just swim
+blindly into them.
+
+3) Once at the bottom of this tunnel, there's only one way to go- left. Ignore
+the turtle and follow the current up. Now get the Key Glyph power (which you
+may have spotted earlier if you're the observant type. If not, ignore this
+sentence.)
+
+4) Take the other current back down and swim right, until you're just above the
+vertical tunnel with the current pushing up. Nudge the nearby turtle and it'll
+do its best impression of a rock- now ride it down the current. Once you reach
+the ocean floor, swim to the left and sonar the Glyph for Invincibility.
+
+5) Now swim right, taking care not to get sucked back into the current. That
+would be really stupid. You'll soon reach a Barrier Glyph- shoot it out of the
+way. Keep heading right- rocks will fall from the roof, but these can be dodged
+in the same way as the ones in the previous level.
+
+6) When the tunnel turns and heads up to the left, follow it. You'll see a
+group of three rocks all falling at the same time- when you do, swim around 
+them and straight up. Sing to the Glyph and you'll get another Invincibility.
+
+7) Swim straight through the rocks as you continue left- no need to charge them
+seeing as you're invincible. Past the large wreck, there's a smaller one which
+emits poisonous bubbles- this is your queue to swim diagonally up-left. In the
+small passageway above, sing to the lonely Glyph and recharge your
+Invincibility.
+
+8) Leave the upper passage and swim down. There's an Access Glyph here, which
+is exactly what we wanted. Asides from a "Complete the Game" Glyph, that is.
+Swim to the right until you reach the larger of the two shipwrecks- here,
+you'll find a ring of starfish. Yee-haa! (said in a sarcastic voice)
+
+9) Use the Sonar to manipulate the jellyfish and blast them diagonally up-right
+so that they dissolve the rocks blocking Ecco's exit. Now keep swimming
+diagonally up-right through the fake walls of rock until you reach the exit.
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~
+xvii) The Sea of Silence
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+Difficulty: 4/5
+Password: IZSXGSLF
+
+What's that I hear? Nothing. That's why they call it the Sea of Silence, I
+guess.
+
+1) A lovely start to this level as Wreck Puffers are already after Ecco's
+dolphin ass. Swim to the surface and then head the whole way along to the
+right. When you reach to the end, swim down a little and sing to the Access
+Glyph.
+
+2) Swim left and past the rather large shipwreck. This one has poisonous
+bubbles escaping from the cannons. These will sap Ecco's health so quickly that
+it's not even funny. Ha ha! Once past the wreck, swim down the very narrow
+tunnel.
+
+3) This is where the whole walkthrough for this stage gets a little complicated
+seeing as you're in one giant mess of a level with little structure. I'll try
+to explain this as best as possible. Swim diagonally down-left until Ecco
+encounters a shoal of jellyfish. At this point, kill them with your Death Sonar
+and begin swimming directly left.
+
+4) After a while, you'll hit the rock. Now swim down and left, where you'll
+see a cave closed off by a group of rocks. Charge through the rocks (taking
+care not to be damaged by them) and sing to the Glyph in the corner for
+Invincibility.
+
+Make a mental note of this Invincibility Glyph, as we'll need to keep returning
+here to recharge Ecco's air and health.
+
+5) Swim out of the cave and straight down. You'll see another cave similar to
+the one we found the Invincibility in- don't go into it, there's nothing there.
+Once at the bottom of the cave, swim right following the length of the 
+shipwreck. There'll be another cave on the right with an Access Glyph.
+
+6) When you go to leave this cave, rocks will be falling from the roof. Dodge 
+them. Out of the cave, return to the cave and get the Invincibility. If you
+swim between the masts of the shipwreck, this is directly in line with the
+cave. 
+
+7)Go right now, staying between the masts. Follow the wreck to the right until
+it disappears. You'll notice up and to the right there is a current pushing
+away- this is the level's exit, but we can't go here yet.
+
+8) Instead, swim down. You'll see a couple of turtles floating around- nudge
+one of them and follow it down. Ride the turtle diagonally down-right to
+overcome the surging current.
+
+9) Swim down and under the rock, where there'll be a long tunnel to the left.
+Take it, dodging or charging the rocks falling from the roof. Keep swimming
+left (avoiding the spikes, of course) until you reach the end of the tunnel.
+Here, there's a Key Glyph! Wow! 
+
+10) Speed is now of the essence, with your air and possibly health supplies
+starting to dwindle. Once you've got the Key Glyph power, swim right and out
+of the tunnel. Use the current to swim up and past the turtles. We now have to
+overcome the other current I mentioned earlier.
+
+11) Mash the C button like you're really playing James Pond's Aquatic Games
+(another fine Mega Drive title) and stay close to the bottom of the tunnel. 
+Hit the B button to give you the boost you need to get through the tunnel.
+When you get past the current, dodge the jellyfish and swim up. Shoot the 
+Barrier Glyph out of the way and swim through to complete the stage.
+
+
+~~~~~~~~~~~~~~~~
+xviii) Deep Gate
+~~~~~~~~~~~~~~~~
+
+Very few songs by singers who guard the entrance to the Marble Sea.
+
+Difficulty: 3/5
+Password: AKNBHSLI
+
+We've nearly reached the end of this section of the game. As a nice finale,
+you've got a pretty easy, very repetitive stage. Only with the power of the
+Mega CD (TM).
+
+1) Get the Key Glyph power to the right of the starting point. I'll be saying
+those words a lot in the course of this level, believe me. Swim to the surface
+and talk to the dolphins- some tell you about the impending danger of the
+Marble Sea. Others offer cryptic clues about how to complete this level. It
+doesn't really matter- I'll tell you how to finish the puzzles if you don't
+speak dolphin.
+
+2) Swim down and to the left. At the end of the tunnel, a Barrier Glyph blocks
+your progress- shoot it out of the way. Now return to the Key Glyph and get the
+power again. 
+
+3) Swim down the tunnel you've opened up and into the next section. There's
+nothing too difficult to hamper your progress here. Swim right, dodging the 
+jellyfish as you pass. At the end, swim down and shoot the Barrier Glyph. Now
+return to the surface to get some air and obtain the Key Glyph power again.
+
+4) After swimming back down, go to the left and allow Ecco to be swept down by
+the current. Swim down the left side, shooting the jellyfish with your Death
+Sonar before swimming down and removing the Barrier Glyph. Now things become a 
+little trickier.
+
+5) Swim back up and along to the right. You'll see a ledge with a barrel 
+floating on top of it. *strokes dolphin beard* This could be interesting...
+Push the barrel left and off the ledge. On the way down, shoot any stray 
+jellyfish with your Death Sonar.
+
+6) When the barrel reaches the bottom, position it next to the clam shell on
+the ground. Now sonar the clam shell to release bubbles. (These will also
+recharge Ecco's health, but unfortunately not his air.) Keep doing this until
+the barrel is filled with bubbles and rises up.
+
+7) Follow the barrel to the ceiling, and push it left until it reaches the 
+current. Stay behind the barrel and swim up to negociate the current. DO NOT
+CHARGE THE BARREL! You'll destroy it and have to start over. However, this will
+completely top up your health and air so it comes in handy if you mess up the
+first time.
+
+8) Once clear of the current, swim like a dolphin torpedo on amphetamines until
+you reach the surface and get a breath of delicious air.
+
+If you're having problems completing this section on time, remember that you
+can restart from the Barrier Glyph you removed last and continue the level from
+there. You'll probably need it.
+
+9) Collect the Key Glyph power again and swim all the way to the bottom. The
+new section is infested with Wreck Puffers, so get through there as quickly as
+possible. Shoot out the next Barrier Glyph and swim down. Go left to find a
+Glyph- ha, it's Invincibility! The tables have turned now!
+
+10) Swim further left and you'll see a ring of starfish positioned above the
+wreck. Use your Sonar to blast them diagonally down-right a couple of times, 
+then right across the level. Here you'll see a group of rocks- push the
+starfish into the rocks to get rid of them, then head right to complete this
+level!
+	
+
+~~~~~~~~~~~~~~~~~~~~~~~~~
+Part Five- Atlantis EC-L5
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Having passed the CD-friendly waters, Ecco has ended up in Atlantis. Clever
+dolphin- humans still haven't found it. Enough chat, it's time to find the
+Time Machine!
+
+
+~~~~~~~~~~~~~~~~~~~
+xix) The Marble Sea
+~~~~~~~~~~~~~~~~~~~
+
+Difficulty: 3/5
+Password: QSOMFSLQ
+
+The Marble Sea... how appropriate. This level is fairly straightforward, 
+designed to get you used to the style of the Atlantis gameplay and its unique
+features.
+
+1) You start in a ruined passage. Swim to the left, killing the jellyfish with
+your Death Sonar. Once you reach the end of the passage, swim to the surface
+and fill Ecco's lungs with some delicious air. There are Tiger Sharks prowling
+the water, so use Death Sonar to stun them before continuing. 
+
+2) Head down again to the dark grey rocks and follow the edge of them to the
+left. You will find a tunnel marked out by lighter grey bricks. Swim into it as
+far left as you can go. Here you'll find a stone block. Push it to the right
+and into the pit.
+
+3) Get behind the block and follow it down through the current. Charge any 
+stray jellyfish. The block will land on another platform- push it right again,
+past the chains. These chains will not break when the block passes througo them
+so use your charge to break through. It's common to lose sight of the block and
+be forced back by the current- if this happens, go to the top and the block
+will reappear. 
+
+4) Once you reach the cavern beneath the chains, head to the left and sonar the
+statue. You'll receive Invincibility! As you may have guessed, this is
+extremely useful. It also refills your health and energy, so you won't need to
+keep returning to the surface all the time!
+
+5) Head right, charging to avoid the current. Go straight ahead and you'll see
+some of the dreaded Black Puffers. Use your new-fangled Invincibility to ensure
+they've puffed their last, and continue right down the tunnel.
+
+6) Mega CD owners have things a little tougher than Mega Drive owners here.
+You'll see a ring of gold starfish just outside the entrance to the tunnel-
+use your sonar to blast them down the crystal-laced tunnel. Some crystals 
+will be destroyed by the starfish, while others will try to ram Ecco up the 
+ass and need shot with the Death Sonar. Shoot the starfish into the silver
+chain to dissolve it.
+
+7) Swim to the end of the chamber and get the Key Glyph power. Swim quickly
+down the crystal tunnel. Ignore the block, you don't need to use it again.
+Charge quickly past the Black Puffers before they have a chance to regroup.
+
+8) In the main chamber again, fight the current using your charge and get the
+Invincibility again. Now dart past the current and into the passage below and
+to your left. Kill the Black Puffers with your Invincibility, then swim 
+straight down to the bottom and into the passage on your right.
+
+9) There's nothing exciting in this passage except for a lonely Glyph. Shoot it
+with your Sonar and it will say 'Access Granted', opening up the exit corridor.
+Now return to the main corridor, charging the gold chain to destroy it. Swim up
+and into the next tunnel on your right. There'll be another chain here for Ecco
+to charge.
+
+10) Swim as fast as you can down this corridor. Stay high, as there's a hungry
+Shark waiting for you. Dart past it, and use Death Sonar to kill any stray
+jellyfish. Shoot away the Barrier Glyph and then take the lower path to exit 
+the level.
+
+
+~~~~~~~~~~~~~~~
+xx) The Library
+~~~~~~~~~~~~~~~
+
+Difficulty: 3/5
+Password: WBTXFSLV
+
+Sssh! No talking in the Library! Aside from the literature found inside the 
+numerous Glyphs, you'll have an irritating block pushing exercise and some
+crushing stone walls to negotiate. Let's rock. I also apologize for the pun.
+
+1) From your start point, move left. Stay just above the stone stairs to avoid
+any sharks heading in your direction. Once you travel past the stone features,
+head straight down.
+
+2) Now move into the chamber on your right. This is the Library. Talk to all
+the Glyphs- you'll learn about the Vortex and what you'll have to do in order
+to complete your mission. Once you've read all of the Glyphs and watched the
+pretty FMV sequences telling you irrelevant information about dolphins,
+return to the tunnel.
+
+3) In the main tunnel, head down until you see a small alcove on the right. 
+Push into the wall on the left- it's hollow. You can travel in here and get 
+Invincibility from the statue. Now return to the tunnel, swim down and take the
+next left. 
+
+4) Swim to the end of this section, past all of the pits. At the end, you'll
+find another statue to refill your Invincibility. A block will fall from the 
+roof- push it left, then right into the first pit.
+
+5) You know what you have to do here, right? Push the block to far right-hand
+side of the pit. Now face down and get Ecco's snout under the block, before
+slowly turning to face up. The block will balance on Ecco's nose. Animal rights
+issues aside, swim slowly up carrying the block with you. When you reach the
+top the block will land on the edge of the pit. I don't know why. It just does.
+
+6) Now push the block right and into the next pit. Repeat what you've just
+done, twice. On the third pit, you'll be menaced by a sea spider. Kill it
+before you move the block.
+
+7) After pushing the block past the three pits, you'll have to push it up a
+slope. Another sea spider will attack you- kill it. Now comes the clever part-
+push the block right as far as it will go, then charge into it while pushing
+down-right. If done properly, the block will sail up the slope and onto the far
+side. 
+
+8) Now follow the block around. It will break the four silver chains, allowing
+you to progress to the next section of the level. Once the four chains are 
+broken, quickly head to the hidden statue for invincibility. Now swim past the
+area with the four broken chains and to your right. There's an Access Glyph to
+the left, but it doesn't actually do anything. Which is weird.
+
+9) You'll have to get past a barrage of crystals in this tunnel- use your
+charge to destroy them, or merely damage them while you sneak past. At the end
+of the tunnel you'll find a crushing slab moving up and down- go inbetween the
+two slabs and quickly dart through. Like the ice cubes in Hard Water, being 
+crushed by these results in instant death. Which is bad.
+
+10) Past the crushing rock, there's a chamber filled with jellyfish. Quickly
+traverse them and swim up the next tunnel. Crystals will fall from the roof, so
+use your charge to smash through them. When you reach the top, turn and head 
+left. There are more crystals here, however these cannot be dodged. Instead,
+weave in and out of them using up and down. Use Death Sonar to slay any
+jellyfish.
+
+11) Once clear of this tunnel, you're nearly at the end of the stage. Follow
+the passageway, leaping over the rubble in the middle of the cavern. Now just
+swim down to complete the level.
+
+
+~~~~~~~~~~~~~~
+xxi) Deep City
+~~~~~~~~~~~~~~
+
+Difficulty: 4/5
+Password: UNIQFSLN
+
+Deep City is the hardest level yet. The game is starting to get really tough 
+here, but persevere and you'll make it through.
+
+1) Swim up from your starting point and follow the surface along. See that
+really high ledge? You've got to jump over it. I'm not kidding. While this jump
+might seem initially impossible, it's made a lot easier by the fact that you
+have a lot of space to manoeuvre Ecco.
+
+Remember that technique I told you earlier for breaching and performing a good
+jump? You'll need it here. Keep practicing until you can clear this jump. I 
+can clear it first time now without any problems. The trick is not to jump too
+late and to use your charge to give you extra height. In addition, unless you
+clear a large amount of the ledge, you'll fall back into the water. Which can
+be incredibly frustrating.
+
+2) Having cleared the colossal jump, things get a bit easier. Swim all the way
+to the right, as far as Ecco can go. Now follow the rock wall along until you
+come to a gold chain. Charge it and pass through. Swim down the tunnel and 
+around to the right- there's a Tiger Shark here. Dash past it.
+
+3) Here, you'll see a block floating down. Get behind it and push it all the
+way down. You'll have to do this quickly by using the B and C buttons, as there
+are a few stray Black Puffers waiting to ambush you. Ignore them until you 
+reach the barrier Glyph.
+
+4) Get to the left of the block (not too far, or the Barrier Glyph will push
+Ecco back) and push it off to the right. Now ride it down against the current.
+When you reach the bottom, charge to the left and get the Key Glyph power. Now
+swim with the current and shoot away the Barrier Glyph.
+
+5) Use the statue's Invincibility to restore your health and air. Now swim up,
+through the gold chain and jump over the rubble. Considering the massive jump
+you made earlier, this should be very simple. Now swim down the other side and
+through the next gold chain.
+
+6) The path now splits in two- take the upper path, as the lower leads to 
+nowhere. Stay high to avoid the prowling Tiger Shark. You'll be attacked by
+lone Black Puffers here- use Death Sonar on them. As the tunnel opens up into
+a large pathway, swim straight up.
+
+7) There is a small opening at the top of the cave which leads to a hairpin
+tunnel. Crystals will drop from the roof as you swim through the tunnel- use
+the Death Sonar on them, and pass by while they are flashing from the impact.
+When you reach the end of the tunnel, double back and head along the upper
+route of the tunnel.
+
+8) When you leave the tunnel, more crystals will be floating past. As quickly
+as you can, swim diagonally down-left until you see the statue. Shoot it for
+Invincibility and a health/air top up. There is another block sitting near the
+statue- push it left and head down against the current.
+
+9) Take the first hole on the left, this leads to a jellyfish infested tunnel.
+Ram through them all with your Invincibility. When you reach the end of the
+tunnel, use your sonar on the Access Glyph. Now swim back along the tunnels to
+the statue. Get the Invincibility from it again.
+
+10) The level gets insanely hard from here. Head left where you will
+encounter an intense current. Head into the chamber above- a block will drop
+from the roof. Use this to fight against the current, charging left when you
+leave the chamber. It's tricky!
+
+11) There are Tiger Sharks here, too. Escape them and feed on the fish if you
+need to. Continue down the tunnel. Whenever you see the crystals falling from
+the roof, get ready to charge. Charge across to avoid the current and you will
+finish the level.
+
+If you didn't listen to my advice, you'll be sucked into the current. Use the
+stone in the chamber above to fight against the current and reach the exit...
+hopefully. Keep the stone to the far left-hand side of the tunnel to give 
+yourself the best chance of surviving.
+
+
+~~~~~~~~~~~~~~~~~~~~~
+xxii) City of Forever
+~~~~~~~~~~~~~~~~~~~~~
+
+Difficulty: 1/5 (Easy Method) 5/5 (Normal Method)
+Password: CEEUFSLM
+
+A nightmare. That's the best way to describe this level, unless of course you
+follow my cheat method. If you do, this level can be beaten in less than a 
+minute. I have provided both methods for completion's sake. And also as some
+filler to make this FAQ look bigger.
+
+
+Easy Method
+~~~~~~~~~~~
+
+1) Follow the tunnel you start in, using Death Sonar on the jellyfish. Head
+straight up as soon as you can. When the path splits, take the right hand path.
+
+2) When you reach the end of this path, you should see a statue to your right. 
+Shoot it with your Sonar, and you'll get an 'Access Granted' message. How
+curious. Now swim back the way you came. Did you notice a cave in the right of
+the vertical tunnel, covered by green blocks? Those blocks are now gone.
+
+3) Go through this tunnel and into the cave. Refill Ecco's air, and swim into
+the teleporter ring. You'll appear directly below the time machine. Swim down
+and sing to the Glyph to deactivate the Time Machine's booby trap, then up
+and the screen will centre on the time machine. Get between the two dishes of
+the time machine, then shoot the right hand dish to begin the time travel
+sequence.
+
+If this is just too easy for you (why?) here is the normal walkthrough for this
+level.
+
+
+Normal Method
+~~~~~~~~~~~~~
+
+1) Follow the tunnel you start in, using Death Sonar on the jellyfish. Head
+straight up as soon as you can. When the path splits, take the left hand path.
+Continue swimming left, using your charge on the crystals then swimming past
+to avoid damage. 
+
+2) When you see a jellyfish, kill it. Head up from where it was floating
+through the rock. You'll get sucked into a current, skipping the first major 
+jump. You're about to learn why this level is called City of Forever- you have
+the three hardest jumps in the game ahead of you.
+
+Because of the enclosed space that you're jumping in, the massive height you
+have to jump to and the sheer irritation of having to repeat the same jump 
+three times in a row, this is probably the most difficult part of the game.
+If you still don't want to use the shortcut, keep practicing until you can
+clear the jumps. I've done it a couple of times before and the satisfaction
+that comes from completing the jumps is second to none- but it's so damn hard!
+
+3) After clearing this first jump, you have a little more space. Don't go too
+low as the lower part of the pool as full of jellyfish. God, I hate this
+****ing level.
+
+4) Third and last jump. Here, you're going to have to loop the jellyfish to
+build up the neccessary speed to jump. Don't run into them, or your speed will
+disappear faster than a bag of MnMs next to a tired FAQ writer. If you clear
+this jump, enjoy Ecco falling down the M A S S I V E drop and then get ready to
+continue the level.
+
+5) Swim down and to the right. Keep low! Whenever you see a Glyph, shoot it
+with your Sonar to get Invincibility. Now head up, you'll get swept up by a 
+current. Use the stone to fight against the current and head to the right. Here
+you'll face another current- you must keep pushing Up and use charge to get
+Ecco into the tunnel. You cannot fight this current, so if you miss the
+opportunity repeat this step until you are into the tunnel.
+
+6) Swim straight up the tunnel and refresh your air. Now head right down the
+most boring tunnel you've ever seen. When you reach the end of the tunnel, you
+will see two gold chains on the roof. Now you have two options:
+
+
+Option 1: The Quick Way
+~~~~~~~~~~~~~~~~~~~~~~~
+
+7a) Swim straight down until you see a tunnel branching to the left. Continue
+down. There are a LOT of crystals here- charge them once, then quickly move
+past while they are still flashing. Eventually you'll come to the bottom. 
+Turn right and swim down the tunnel. Shoot the Glyph and you'll get an 
+'Access Granted' message.
+
+Now turn left and swim as far down the tunnel as you can. Instead of turning
+and swimming up, go left through the wall. Now swim into the teleporter ring.
+You will appear near the end of the level, but not quite. Swim right and up
+until you see a green block resting on a ledge, then head to Step 12!
+
+
+Option 2: The Long, Dumb Way
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+7b) Charge the two chains to destroy them and swim up. Use Death Sonar on the
+jellyfish before swimming up to replenish your air supply. 
+
+8) Swim left and up the diagonal tunnel. Here you'll encounter more Black
+Puffers. Hooray! Kill them quickly using Ecco's charge or Death Sonar,
+continuing to head left. Whenever the path seems to branch at a T junction, 
+turn right as the left path is really a dead end. 
+
+9) Head right. This path is filled with crystals moving up and down. Charge
+them once as before then head past. When you reach the end, gobble up the fish
+to fill up your health meter. Follow the tunnel along, using Death Sonar to
+wipe out the menacing jellyfish.
+
+10) This next tunnel is deceptive- indeed, I'd already began writing a
+sarcastic comment about how easy it was. However, blocks will from the roof and
+they do a very large amount of damage. Charge them to destroy them, but be
+careful that they don't hurt Ecco. Whenever you reach the end, jump over the
+pile of rubble and fill Ecco's lungs with air. Eat the fish for a health boost.
+
+11) A couple of crystals will pass Ecco here, but they are easily avoided.
+Shoot the Glyph to gain Invincibility (there are no enemies, but remember it 
+will fill up your air and health!)
+
+12) You'll see a lone block resting on the edge of the ledge. CHARGE IT (don't 
+just push) and it will clear the pit, landing on another ledge. You must use a
+lot of force or the block will fall and disappear. No Library-style antics here
+I'm afraid.
+
+13) Use the block you pushed across to swim against the current. When you get
+to the bottom, swim left and talk to the Glyph. You're ready to travel back in
+time! Swim up and the camera angle will change. Now position Ecco between the
+two dishes and use sonar on either dish. Ecco will be transported back in time,
+completing the stage!
+
+If you decided to ignore my advice and didn't sing to the Glyph, you will be
+promptly crushed to death. Ha ha.
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Part Six- Jurassic Shark EC-L6
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Jurassic Shark! Ah hahahaha! Poorly thought through puns aside, the prehistoric
+times are no laughing matter. You'll need to have some spectacular Ecco-ing
+abilities to get through these levels. Let's go!
+
+
+~~~~~~~~~~~~~~~~~~~~~
+xxiii) Jurassic Beach
+~~~~~~~~~~~~~~~~~~~~~
+
+Difficulty: 3/5
+Password: ONNBJPLY
+
+There's no such thing as a gentle introduction here- you'll have to learn how
+to summon Pteranodons and kill the archaic enemies quickly if you want to stand
+a chance of rescuing Ecco's pod.  
+
+1) Ecco will materialize after some flashy special effects. Well, they were
+impressive in 1992! Pause for a while to enjoy the wonderful music. I'll bet 
+you're glad you bought the CD version. Turn left and swim until you come to a
+rock ledge. Move under it and you'll find a Glyph. Shoot it. It will tell you
+"Sing this song in the air to call the Pteranodon." Err, thanks?
+
+2) Swim to the surface and admire the change of scenery. Watch out for the new
+Satan Eel enemies, which act like tougher sharks. Now jump along the surface to
+the right. You'll be picked up by a Pteranodon! Don't worry, Ecco isn't
+dinosaur food as this guy's here to help.
+
+3) Let the Pteranodon carry Ecco over the rocks and then he'll drop you in 
+another pool. There are some odd currents here. Leap out of the water, between
+the two rocks and down the tunnel. You'll see some prehistoric Jellyfish for
+the first time, which are a little tougher than the regular ones. Kill them
+with your Death Sonar and swim to the bottom. Notice the row of volcanoes?
+
+4) Head right when you reach the bottom. There are Satan Eels patrolling the
+waters. When you reach the end, swim down the rightmost volcano quickly but
+carefully. When you see the Key Glyph, ram into it to avoid hitting the spikes
+nose-first. Once you have the Key Glyph power, swim up and out of the volcano
+again.
+
+5) Now turn and head left. Swim past the volcanoes until you bump into one-
+this is the volcano you want to take. Head down through the volcano and out of 
+the tunnel until you meet a diagonal rock face. Follow this down, killing any
+jellyfish with your Death Sonar. 
+
+6) When the diagonal rock face ends, swim right until you meet another wall of
+rock. Now swim straight up, dodging the spikes and killing the jellyfish with
+your Death Sonar. When you reach the top you'll see another Glyph. Shoot it to
+gain Invincibility! Yay!
+
+7) Swim back down as fast as you can and you'll find a Barrier Glyph. Shoot it
+away and swim through the newly created hole.
+
+8) Move down and under the rock. Here you will fight Fossils and Trilobites for
+the first time. While Fossils can be largely ignored like jellyfish, Trilobites
+are extremely dangerous and must be killed on sight. Otherwise, they will sap
+Ecco's health extremely quickly. Stay low in this passage until you reach a
+Glyph. Shoot it for Invincibility.
+
+9) Swim straight up and into the cave on your right. Swim through the hordes of
+jellyfish, as you'll be invincible. Near the top right corner of this cave lies
+another Key Glyph- you know what to do. Now return to the Invincibility Glyph
+and charge up again.
+
+10) Swim left, up the incline and up the long tunnel above Ecco. There are more
+jellyfish here, which present no problems. In the upper right corner of this
+tunnel, you'll find another Barrier Glyph- sonar it out of the way. Now swim
+straight up.
+
+11) When Ecco reaches the ceiling, turn and head left into a small alcove. At
+the bottom of this cave there is another Invincibility Glyph. Absorb its powers
+and head back to the right.
+
+12) I like to call this bit "The C Button Mashing Extravaganza." Swim up and 
+right into the large tunnel. When you reach the roof, mash C and swim to the 
+right. You'll escape the enemies and reach the exit in no time.
+
+
+
+~~~~~~~~~~~~~~~~~~~~~
+xxiv) Pteranodon Pond
+~~~~~~~~~~~~~~~~~~~~~
+
+Difficulty: 3/5
+Password: WPVXIPLL
+
+One of the largest levels in the game, Pteranodon Pond can be initially
+daunting due to its maze-like level design. That is, of course, unless you have
+this wonderful guide, which takes away all the difficulty and replaces it with
+terrible jokes. It could be worse, it could be replaced by dolphin pornography*
+
+Alan's lawyers would like to point out that he neither owns or has he
+ever looked at dolphin pornography.
+
+1) You'll start in a small pool with fossils floating in it. Swim to the
+surface and jump over the ridge into the next pool on the left.
+
+2) Go to the lower-left corner of this pool and you'll find a Glyph. If you
+can't see it, adjust your spectacles and look again. Use your Sonar to activate
+the Pteranodon Glyph. Now swim to the surface and head right until you come to
+the dividing ridge again. Allow yourself to be scooped up by the Pteranodon and
+dropped into the next pool.
+
+3) When Ecco gets dumped into the water again, swim straight down until you
+find a large outcrop of rock. Swim to the left, down and around it. Kill any
+jellyfish that hinder you with Ecco's Death Sonar. 
+
+4) When you are under the rock, follow it around until you come to a Key Glyph 
+and absorb its powers. Now you have to be really quick, or Ecco will be found
+floating on the surface belly-up in no time. Swim straight down, avoiding the
+shoals of jellyfish. There will be several large rocks sticking out from the
+walls as you progress down the passageway, so manoeuvre around them quickly.
+
+5) Once Ecco reaches the bottom, swim right. You'll soon come to a Barrier 
+Glyph- shoot it with your Sonar. Follow the tunnel to the right until it opens
+up into a cave- now swim diagonally Up and Right. In the uppermost right corner
+of the cave, you'll find an Invincibility Glyph. You'll also find some 
+jellyfish, which aren't nearly so good. Kill them.
+
+6) Once you have Invincibility, swim left as fast as Ecco's fins can muster.
+You'll find another tunnel leading up- follow it. Just charge Ecco down it and
+your Invincibility will take care of the jellyfish. At the top of this tunnel
+is another Key Glyph- get the power and dash back down the tunnel. Even if
+you're quicker than me at it (Yeah, right!) Ecco's Invincibility will run out
+by the end of the tunnel. Swim right and power up at the Glyph again.
+
+7) Now swim straight down from the Invincibility Glyph until you find another
+Barrier Glyph. Get rid of it, using your Sonar. Once again, you'll need to be
+quick for this section. Swim down and take the tunnel on the left (the 
+right-hand path is impassible due to currents.) 
+
+8) Swim ALLLLLLLLL the way left, following the tunnel around. When you reach
+the bottom, hug the ground. You'll soon crash head-first into a Key Glyph. Make
+sure to absorb the powers before progressing. In all likelyhood, your 
+Invincibility will have been used up by now. That means time is of the essence.
+
+9) Follow the rocks around to the right. There is a Trilobite waiting to ambush
+Ecco, so kill it quickly. Hug the ground again and you'll avoid all those
+irritating fossils that are floating around. Continue to follow the tunnel 
+until it turns up- swim up (avoiding or killing the jellyfish as neccessary)
+until the tunnel returns again. Hug the ground again.
+
+10) You'll need to charge down this tunnel for two reasons- the first is that
+it's filled with murderous jellyfish and fossils, the second is that Ecco's air
+supply is rapidly dwindling. When you see the currents pushing Ecco left, swim
+up and out of the tunnel. At the upper-right corner of the cave, you'll see a 
+Barrier Glyph- use the power you attained earlier to blast it out of Ecco's
+way.
+
+11) Swim along this tunnel to the right. There is another Trilobite here, in
+need of mutilation. Kill it and head up to the left. Continue up through this
+passageway. When you can't go up any more, turn and swim right. You'll find a
+Key Glyph, well guarded by Trilobites and Fossils. Get the power. Now get out
+of there as quickly as you can. 
+
+12) The route here gets a little confusing- follow the right-hand wall of the 
+passageway on your way back down. It will become the ceiling of the cave as you
+continue to follow it. After a while of travelling right, Ecco will be caught
+in the currents and dragged upwards. Strangely enough, this is what we want.
+At this point, you can do a little sight-seeing, or take the easier route to
+completing the level.
+
+*I WANT TO GO SIGHT-SEEING!*
+
+13) The current carries Ecco to a point where spikes jut out from the wall. At
+this point, turn and head left. Follow the floor of this tunnel around until
+you meet a Glyph- and an unfriendly Trilobite. Touch the Glyph and you'll
+notice that it behaves like a Key Glyph. Now shoot your sonar at it. You'll get
+a cryptic message:
+
+"ECCO,
+IF WE BREATHE AIR
+WHY DO WE
+LIVE BENEATH
+THE WAVES?"
+
+Umm, beats me. When you've had your (sick and twisted) way with the Glyph, turn
+and head right again. You need to charge to avoid the upward currents. Follow
+the floor along again until you're back in the main tunnel again.
+
+*SIGHT-SEEING TRIP OVER!*
+
+14) Head up, following the path of the current. Swim up as fast as you can.
+When you reach the top, swim right. Ecco will pass through the hidden tunnel! 
+When you leave the tunnel, swim up to the surface and get a much needed breath
+of air.
+
+15) Swim back down again. When Ecco has to squeeze through a small tunnel,
+beware of the currents which will drag Ecco back up again. Avoid them and 
+continue down. You'll eventually reach a Barrier Glyph- blast it out of the way
+and swim down.
+
+16) To the right, this bland cave holds a Pteranodon Glyph. Sing to it to call
+the Pteranodon. Now leave the cave and swim all the way to the surface (where
+you got a breath of air in Step 14). The Pterandon will be waiting here to grab
+Ecco. 
+
+17) When the Pteranodon drops Ecco, stay as far left as you can while swimming
+down. When you reach the bottom of the tunnel, head right to exit the stage.
+
+
+
+~~~~~~~~~~~~~~~~~
+xxv) Origin Beach
+~~~~~~~~~~~~~~~~~
+
+Difficulty: 3/5
+Password: AQZIJPLG
+ 
+Origin Beach is a relatively simple level in terms of puzzles. However, the
+abundance of enemies such as Trilobites, Satan Eels and Sea Leaches (yeah, 
+they're back) can make it a real pain in the flippers. 
+
+1) Swim straight down from your starting point. When you reach the ground,
+turn right and swim into the first pit you come across. Kill the Trilobite 
+before it gets the chance to attack you, then get the Key Glyph power. Now head
+for the surface. Satan Eels are patrolling the water, so be careful. When you
+reach the surface, jump over the small island.
+
+2) Once over the island, swim down again. Charge through the jellyfish quickly.
+You'll find a Barrier Glyph- shoot it out of the way and squeeze through the
+narrow gap. Avoid the spikes, for obvious reasons.
+
+3) Stay high (no, not THAT high) in the next tunnel, as a dreaded Sea Leech is
+waiting at the bottom of the tunnel for you. Kill any jellyfish with Ecco's
+Death Sonar. Follow the tunnel as far right as you can. You should find a Key
+Glyph, partially hidden in the wall. Get the Key Glyph power.
+
+4) Swim down, charging the jellyfish. Here you'll see the first of the Sea
+Carrots, a different type of fossils. No prizes for guessing how they got their
+name. Ignore them as you continue down. You'll come to a tunnel with a weak
+current pushing up- travel down it using your charge to negociate the current.
+Fossils will float through the tunnel to hinder Ecco's progress- charge them
+and travel past quickly. You'll soon overcome the current and appear in a cave.
+
+5) Swim up and to the right, where you'll find a tunnel guarded by spikes. 
+Carefully swim through to avoid damage. The rogue jellyfish here can be dodged.
+Stay low to the ground to avoid the Satan Eels patrolling the area. You'll 
+encounter more jellyfish- charge through them. There will be a rising current
+pushing Ecco into the spikes too, but you can use the bubbles to recover some
+of Ecco's health. Watch out for those damn Satan Eels.
+
+6) When you see the sea floor disappear and more jellyfish appearing, swim down
+the diagonally sloping tunnel. Sea Carrots will be coming out of the walls
+in this section, so charge through them.
+
+7) Once past the spikes at the bottom of the tunnel, continue to swim left and
+then up the tunnel. When the tunnel splits into three- a path going straight
+up, one going straight up on the right and one at a 45 degree incline, take the
+second path. (To the right of the spikes.) 
+
+8) Swim up the path and through the hidden passage. Ecco will pop out of a
+volcano. Now simply head left to exit the stage. Make sure to do this quickly,
+or Ecco will be hit by volcanic discharge. Well, I hope it's volcanic.
+
+
+
+~~~~~~~~~~~~~~~~~~~~~
+xxvi) Trilobite Circle
+~~~~~~~~~~~~~~~~~~~~~
+
+Difficulty: 2/5
+Password: GKGFJPLK
+
+Trilobite Circle is an easy enough level,but it's full of Trilobites,Satan Eels
+and it's also the first of two Sea Horse levels. This is not a good thing.
+
+1) Ecco starts hidden behind a rock. Swim up-left and use Death Sonar to
+destroy the large group of Sea Carrots. When they are vanquished, swim straight
+up. If you encounter any jellyfish or fossils, charge through them.
+
+2) When Ecco reaches the surface, jump over the divider on the right. You'll
+leap headfirst into a Trilobite. Kill it quickly any way you can. Swim along
+the surface until you can't anymore, then swim down. A lone fossil will pop out
+of the rock face, so kill it.
+
+3) After swimming down a short while, you'll notice a cave on the right. An 
+eerie looking Sea Horse is lurking here. The funny thing is that because we're
+playing the Mega CD version of the game we can swim past it without killing it.
+Well, I thought it was funny.
+
+4) Swim through the Sea Horse's tail- you won't receive any damage. Swim into
+the cave and get the Key Glyph power. Now return to the main cavern.
+
+5) In the main cave, swim straight down. Once you've reached the bottom of
+this large passage, swim left until you come to a Barrier Glyph. Satan Eels
+patrol these waters. Shoot away the Barrier Glyph.
+
+6) Quickly charge left, as Victor the Volcano and friends clear their throats,
+covering the area in poisonous bubbles. There are multiple Satan Eels, fossils
+and jellyfish all scattered around this tunnel, so take you time. When the
+tunnel turns upwards, be prepared. 
+
+7) When you see spikes in the roof, that's Ecco's cue to leave. Swim out past
+the spikes and CHARGE to bypass the strong current. A Trilobite is hot on your
+heels, so be quick. Swim for the surface to finish the level. Be slightly
+annoyed that Sega removed all the funny bugs that were in the Mega Drive game.
+
+~~~~~~~~~~~~~~~~~
+xxvii) Dark Water
+~~~~~~~~~~~~~~~~~
+
+Difficulty: 5/5
+Password: GZIUKPLR
+
+So, you've made to Dark Water. The hardest level in the game. The ultimate test
+of your dolphin abilities. With crushing shells, Sea Horses and just about
+everything else that has made the prehistoric levels horrible, this one isn't
+going to be fun. Let's go.
+
+1) Ecco will drop down into the water for the beginning of the level. After
+making the biggest jump of all time from Trilobite Circle to Dark Water, I'm
+sure he's proud of himself. There's no time for gloating, however, we've got a 
+level to complete!
+
+2) Swim around the large rock and stay close to its bottom- you'll soon see why
+when the oddly-coloured Sea Leech shoots out of a volcano. That's one enemy we
+definately don't want to encounter. Swim down the first hole after the Sea 
+Leech and into the murky depths.
+
+3) Swim down all the way. You'll encounter jellyfish- charge through them and
+keep swimming down. When you see a volcano,  you guessed it,keep swimming down.
+There will be a Barrier Glyph guarded by a Satan Eel- ignore them both,
+as we have no Key Glyph power yet. But that's all about to change! Hahahahaha!
+
+4) This tunnel has a crushing shell, swinging from side to side. Similar to the
+large blocks in the ice levels, these mean instant death for Ecco. Time your
+charge carefully to slip past the shell. 
+
+5) Swim down and right as soon as you can. Dodge the fangs of the Satan Eel. 
+Upon reaching the right-hand wall, turn and swim up. You'll come to a Glyph-
+shoot it with your Sonar for some much needed Invincibility!
+
+6) Now turn and head down again. Swim through the jellyfish with your 
+new-fangled Invincibility. There are more crushing shells here- unfortunately,
+the Invincibility cannot protect you from them. However, Ecco won't be hurt if
+he grazes past them. Make sure you're going at full speed and Ecco *should*
+make it through, hopefully not in chunks. The tunnel now turns left for a short
+distance before heading back up again- follow it around. Another Satan Eel is
+patrolling,so give him a charge and swim past quickly before he gobbles you up.
+
+7) Swimming down the tunnel, be ready to come to a stop. The floor is lined
+with spikes. Unless Ecco wants to become a dolphin kebab, you'd do well to
+avoid them. Get the Key Glyph power resting near the bottom.
+
+*SUPER SECRET*: Use Sonar on the Key Glyph after you've got the power and you 
+will also receive Invincibility!
+
+Now head back the way you came, past those awkward crushing shells. Remember to
+refill Ecco's Invincibility before continuing on at the first Glyph.
+
+8) Once Ecco gets Invincibility, swim to where the Barrier Glyph and Satan Eel
+were earlier. You may see a small path guarded by spikes. You might also think
+it's clever to squeeze through and cut out a large part of the level- don't. It
+doesn't work and will force you to replay the stage over when you can't
+complete it. It only works if you have the "No Currents" Action Replay code on
+anyway, but it's worth a mention. Shoot away the Barrier Glyph and proceed to
+the next part of the stage. 
+
+*NOTE- The Barrier Glyph will reappear, so don't think you can return to the
+Invincibility at will. Because you can't.
+
+9) Swim down again, staying left to avoid the current I warned you about
+earlier. There is a Trilobite here to piss you off, so kill it. You'll need to
+charge through the spiked tunnel, but a current is in place to throw you off
+course. It isn't too hard to negociate.
+
+10) Head left and down the following tunnel. Well (flip- Censorship Ed) me 
+Freddy, it's another Sea Horse. There is some good news, though, as we don't
+have to kill this one. Swim past it without getting pranged (is that even a
+word?) on its spines. Sing to the sponge below and you can recharge Ecco's
+health.
+
+11) The next tunnel is one of the most difficult parts of the game. I'm not 
+gonna lie to you. Get through them in the same way as before- some shells move
+diagonally, others horizontally, all of them irritatingly. You will probably
+die multiple times, but don't feel bad. After a few attempts, you'll suddenly
+get into "The Zone" and do it. Once you're past the shells from hell, swim left
+and past the Satan Eel. 
+
+12) Swim up and into the next alcove. You'll find the Key Glyph. Absorb its
+power. Here's the annoying part- now you have to get back the way you came. 
+After passing through Shell Street and the Sea Horse, return through the small
+passage with the spikes. It's equally hard to return this way, but using a
+combination of fast swimming and charges Ecco should be able to get through.
+Besides, if you die, you'll look really stupid.
+
+13) When you return to the first Barrier Glyph, turn and head left. Whatever
+you do, don't shoot the Barrier Glyph away again (unless you like backtracking
+and wasting your time, of course.) At the far end of the tunnel, you'll see
+another Barrier Glyph. Shoot it away and proceed up the tunnel to find...
+
+14) The Asterite! It doesn't seem too pleased to see you, though. This section
+can be frustrating, but isn't overly difficult. Ecco must charge 4 of the same
+colour orb to finish the level. Any colour will do, as there are equal numbers
+of each. The key is patience- wait until the orbs are travelling past Ecco 
+before charging them. The Asterite will also shoot bolts of lightning at Ecco
+that do a lot of damage. Seeing as Ecco hasn't had a breath of air for a long
+time now, this is extremely bad news. Avoid the lightning like the plague. 
+Finish off the Asterite quickly and Ecco will travel back in time, completing
+the level.
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~
+Part Seven- Deja Vu EC-L7
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+After travelling back in time, Ecco will return to Deep Water. Now Ecco has to
+return the Asterite's globe so that it can give him special powers to complete
+his quest.
+
+Or, in simpler terms, you have to do some older levels again. Argh!
+
+*Note*
+The level walkthroughs here are essentially the same as the walkthroughs I've
+used before. I just copied and paste them. I cheated. So sue me. However, the
+level layouts and strategies are exactly the same, too.
+
+~~~~~~~~~~~~~~~~~~
+xxviii) Deep Water
+~~~~~~~~~~~~~~~~~~
+
+Difficulty: 1/5
+Password: GAAGDPLP
+
+1) Head left of your starting point to bypass the current, going under the rock
+platform. There's another current here- swim straight down using your speed to 
+fight against it. The path is lined with spikes, so don't wave to and fro much
+unless you want diced Ecco. Take the second tunnel on your left.
+
+2) Swim down the tunnel, then up to the top of the cave to refresh your health.
+Now swim to the bottom, Death Sonar the jellyfish and charge the crap. Take the
+next tunnel on the left and fill your air.
+
+3) Go down and take the first opening on your right. Death Sonar the jellyfish,
+then go down through the cave taking out the rest of the jellyfish. Into the 
+next tunnel, kill the crab and top up your air.
+
+4) Head down the tunnel again. Follow the path along. When you come to two
+tunnels, take the leftmost one. Get an air refill before heading ALL THE WAY
+DOWN THE LOOOOONNNG TUNNEL. You can weave in and out of the spikes if you don't
+go too fast. Take the next right, then head up the tunnel and get more air. You
+can never have enough!
+
+5) Go back down the tunnel to the very bottom and head to the far right. What
+the hell is that thing? Ah, it's the Asterite. Again. Swim upwards and Ecco
+will return its missing globe. As you would expect, the Asterite is more than
+welcome to help Ecco and gives him some special powers. Unfortunately the 
+Asterite can't send you back in time by itself, you'll need to use the 
+Atlantean time machine for that. Where was it again? The City of Where? Hey,
+wait a minute...
+
+6) Swim down to the bottom and left to complete the stage for the second and
+last time.
+
+~~~~~~~~~~~~~~~~~~~~~
+xxix) City of Forever
+~~~~~~~~~~~~~~~~~~~~~
+
+Password: YLQQZNLM
+
+The good news: You don't have to do the Marble Sea, Library,or Deep City again.
+The bad news: You have to do the City of Forever again.
+The other good news: You can cheat your way through it again.
+
+*Note* You can ignore any references to refilling Ecco's air. The Asterite's
+special power has given Ecco infinite air. Thanks a lot, you DNA-wannabe! I 
+could have used that in Dark Water!
+
+Easy Method
+~~~~~~~~~~~
+
+1) Follow the tunnel you start in, using Death Sonar on the jellyfish. Head
+straight up as soon as you can. When the path splits, take the right hand path.
+
+2) When you reach the end of this path, you should see a statue to your right. 
+Shoot it with your Sonar, and you'll get an 'Access Granted' message. How
+curious. Now swim back the way you came. Did you notice a cave in the right of
+the vertical tunnel, covered by green blocks? Those blocks are now gone.
+
+3) Go through this tunnel and into the cave. Refill Ecco's air, and swim into
+the teleporter ring. You'll appear directly below the time machine. Swim down
+and sing to the Glyph to deactivate the Time Machine's booby trap, then up
+and the screen will centre on the time machine. Get between the two dishes of
+the time machine, then shoot the right hand dish to begin the time travel
+sequence.
+
+If this is just too easy for you (why?) here is the normal walkthrough for this
+level.
+
+
+Normal Method
+~~~~~~~~~~~~~
+
+1) Follow the tunnel you start in, using Death Sonar on the jellyfish. Head
+straight up as soon as you can. When the path splits, take the left hand path.
+Continue swimming left, using your charge on the crystals then swimming past
+to avoid damage. 
+
+2) When you see a jellyfish, kill it. Head up from where it was floating
+through the rock. You'll get sucked into a current, skipping the first major 
+jump. You're about to learn why this level is called City of Forever- you have
+the three hardest jumps in the game ahead of you.
+
+Because of the enclosed space that you're jumping in, the massive height you
+have to jump to and the sheer irritation of having to repeat the same jump 
+three times in a row, this is probably the most difficult part of the game.
+If you still don't want to use the shortcut, keep practicing until you can
+clear the jumps. I've done it a couple of times before and the satisfaction
+that comes from completing the jumps is second to none- but it's so damn hard!
+
+3) After clearing this first jump, you have a little more space. Don't go too
+low as the lower part of the pool as full of jellyfish. God, I hate this
+****ing level.
+
+4) Third and last jump. Here, you're going to have to loop the jellyfish to
+build up the neccessary speed to jump. Don't run into them, or your speed will
+disappear faster than a bag of MnMs next to a tired FAQ writer. If you clear
+this jump, enjoy Ecco falling down the M A S S I V E drop and then get ready to
+continue the level.
+
+5) Swim down and to the right. Keep low! Whenever you see a Glyph, shoot it
+with your Sonar to get Invincibility. Now head up, you'll get swept up by a 
+current. Use the stone to fight against the current and head to the right. Here
+you'll face another current- you must keep pushing Up and use charge to get
+Ecco into the tunnel. You cannot fight this current, so if you miss the
+opportunity repeat this step until you are into the tunnel.
+
+6) Swim straight up the tunnel and refresh your air. Now head right down the
+most boring tunnel you've ever seen. When you reach the end of the tunnel, you
+will see two gold chains on the roof. Now you have two options:
+
+
+Option 1: The Quick Way
+~~~~~~~~~~~~~~~~~~~~~~~
+
+7a) Swim straight down until you see a tunnel branching to the left. Continue
+down. There are a LOT of crystals here- charge them once, then quickly move
+past while they are still flashing. Eventually you'll come to the bottom. 
+Turn right and swim down the tunnel. Shoot the Glyph and you'll get an 
+'Access Granted' message.
+
+Now turn left and swim as far down the tunnel as you can. Instead of turning
+and swimming up, go left through the wall. Now swim into the teleporter ring.
+You will appear near the end of the level, but not quite. Swim right and up
+until you see a green block resting on a ledge, then head to Step 12!
+
+
+Option 2: The Long, Dumb Way
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+7b) Charge the two chains to destroy them and swim up. Use Death Sonar on the
+jellyfish before swimming up to replenish your air supply. 
+
+8) Swim left and up the diagonal tunnel. Here you'll encounter more Black
+Puffers. Hooray! Kill them quickly using Ecco's charge or Death Sonar,
+continuing to head left. Whenever the path seems to branch at a T junction, 
+turn right as the left path is really a dead end. 
+
+9) Head right. This path is filled with crystals moving up and down. Charge
+them once as before then head past. When you reach the end, gobble up the fish
+to fill up your health meter. Follow the tunnel along, using Death Sonar to
+wipe out the menacing jellyfish.
+
+10) This next tunnel is deceptive- indeed, I'd already began writing a
+sarcastic comment about how easy it was. However, blocks will from the roof and
+they do a very large amount of damage. Charge them to destroy them, but be
+careful that they don't hurt Ecco. Whenever you reach the end, jump over the
+pile of rubble and fill Ecco's lungs with air. Eat the fish for a health boost.
+
+11) A couple of crystals will pass Ecco here, but they are easily avoided.
+Shoot the Glyph to gain Invincibility (there are no enemies, but remember it 
+will fill up your air and health!)
+
+12) You'll see a lone block resting on the edge of the ledge. CHARGE IT (don't 
+just push) and it will clear the pit, landing on another ledge. You must use a
+lot of force or the block will fall and disappear. No Library-style antics here
+I'm afraid.
+
+13) Use the block you pushed across to swim against the current. When you get
+to the bottom, swim left and talk to the Glyph. You're ready to travel back in
+time! Swim up and the camera angle will change. Now position Ecco between the
+two dishes and use sonar on either dish. Ecco will be transported back in time
+to Home Bay. Time to dish out some pain, Ecco style!
+
+
+~~~~~~~~~~~~~~
+xxx) Home Bay
+~~~~~~~~~~~~~~
+
+Ecco will be teleported back to Home Bay, before the moment of the storm. But
+what happened to the other Ecco, that should be there frolicing around with
+the other dolphins? Haven't we just created some kind of time paradox here? Oh,
+never mind.
+
+You know what to do- launch Ecco into the air and the storm will begin. This
+time, Ecco is taken up with the others and can thwart the aliens' evil schemes.
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~
+Part Eight- Vortex EC-L8
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+Congratulations, you've reached the final set of levels in this difficult game.
+Things don't get any easier here, however- all those ice cube dodging skills
+and Death Sonar antics will come in useful here.
+
+
+~~~~~~~~~~~~~~
+xxxi) The Tube
+~~~~~~~~~~~~~~
+
+Difficulty: 4/5
+Password: MNEYELLB
+
+"Oh shit!" I just summed up this level in two words. The Tube starts out
+difficult and gets even worse. It's also nigh-impossible to write a start to
+finish walkthrough for.
+
+During the Tube, there are no health pickups. However, Ecco's health will
+constantly regenerate. I'll tell you how to use this to your advantage later.
+
+Some of the more common obstacles include:
+
+Triangular pillars- These can be destroyed by charging into them, but not by
+Death Sonar. Otherwise, weave Ecco in and out of them. It's often easier to
+charge straight through and keep Ecco alert for the next hazard.
+
+Square blocks- These large cubes remind me of the ice cubes in Hard Water, 
+except they can be destroyed by Death Sonar. Get rid of them as quickly as
+possible so they don't crush Ecco.
+
+Diamond blocks- These won't move around as much as the square blocks, but can
+be equally irritating and appear in larger numbers. Shoot them with the Death
+Sonar to destroy them.
+
+Lightning guns- Remember what the Asterite was firing at you in Dark Water?
+It's the same stuff coming out of these guns. Time Ecco's dash to escape
+between the lightning blasts. Sometimes the guns appear in pairs, too- just
+time the dashes accordingly.
+
+*Top Tip* After a while, the tubs becomes nothing more than lightning guns and
+Square blocks. If you position Ecco slightly to the right of the middle, the
+blocks won't harm Ecco. Some lightning guns will, but as Ecco's health
+recharges constantly you will be able to survive. 
+
+After an eternity of swimming, Ecco will leave the Tube and go into the 
+arguably harder Machine.
+
+
+~~~~~~~~~~~~~~~~~
+xxvi) The Machine
+~~~~~~~~~~~~~~~~~
+
+Difficulty: 5/5
+Password: SKZNELLO
+
+"Welcome to the Machine". As if it was a privilege to be inside this death trap
+or something. In case you hadn't guessed already, the Tube and Machine act as
+one giant meat grinder, with Ecco trapped in the middle. Again, it's too hard
+to write a straight walkthrough for. However, the path through the level IS
+linear and can be memorised if you like that sort of thing.
+
+During the Machine, Ecco has no control over the screen's movement. The level
+continually scrolls. When moving through the masses of machinery, you must 
+position Ecco to avoid being crushed when the screen's direction changes. This
+is much easier said than done.
+
+In addition, Ecco will continually harassed by Vortex Minions. In the CD 
+version, they make this horrible gargling noise. I shuddered the first time I 
+heard it! You can shoot these with sonar (no need to use Death Sonar) to kill
+them. However, they require two shots- the first will separate the head from
+the body. The head will also follow Ecco around, so shoot it too and finish off
+the Vortex Minion. 
+
+Some pieces of the Machine shoot green bullets at Ecco. These can't be
+destroyed, so dodge them the best you can. They will sap Ecco's health faster
+than you can say "Argh! I hate this level!" so be on guard.
+
+You'll know when you've reached the end of the Machine when Ecco heads into a
+long, long tunnel not dissimilar to the Tube. You'll also feel a feeling you'll
+never have experienced before while playing the Machine. This feeling is called
+happiness. However, happiness will quickly be replaced by despair as you still
+have a small section of the level to complete before you can proceed to the
+final boss.
+
+The Machine sucks. There's no other way around it. It's big, tough, unfair and
+it has ugly aliens throughout it. However, it's well worth trying to complete
+the Machine in order to proceed to the final boss. You can always cheat, if 
+you're a coward.
+
+~~~~~~~~~~~~~~~~~
+xxvii) Last Fight
+~~~~~~~~~~~~~~~~~
+
+Difficulty: 4/5
+Password: KANZFLLX
+
+Compared to the Machine, the last level is like Ecco's on holiday. It really
+isn't that hard to beat if you know what to do. The final boss is pretty
+hideous looking, though.
+
+1) When Ecco races down the tunnel and kills the Vortex minion, that ugly
+monster you'll meet is the Vortex Queen. Imagine if the Predator was cross
+breeded with a preying mantis and the resulting offspring was hit in the face
+with a frying pan until you couldn't distinguish its nose from its jaw. It
+would still look better than this. Anyway, there are three main stages to
+killing the final boss.
+
+2) "Would you hit a blind alien?"
+   "Damn right I would!"
+
+Swim down until Ecco is level with the boss's massive eyes. Now go to town on
+them with your sonar. Hey, noone said we were going to fight fairly! A lot of
+shrapnel will fly out of the eyes in Ecco's direction, so it's best to stay
+your distance. After a lot of sonar blasts, the eyeball will fall out. Now swim
+to the other side of the alien and repeat on the other eye until you've removed
+its balls. Eyeballs, that is.
+
+3) "My yaw ish sctuck!"
+   "Let me help you then *charge*!"
+
+With the eyes removed, we move onto the most difficult part of the boss fight-
+here Ecco must charge into the boss' jaw and destroy it. The problem is that
+every once in a while, the Vortex Queen sucks in. Ecco can be eaten alive here
+if you're not careful. Wait until the Vortex Queen has sucked in- you'll here
+a whooshing noise and see some jellyfish being sucked in- before charging. If
+Ecco gets sucked in, then you're dead. If Ecco gets sucked in and you have
+cheats on, it'll be time to reset your Mega CD, I'm afraid. 
+
+The jaw will take four hits to remove the first time. "First time?" I hear you
+cry. You have to destroy the jaw three times. If I called this annoying, it
+would only be the half of it. This is sadistic. So get in, charge that jaw and
+get the **** out before the Vortex Queen tries to suck you in. If Ecco keeps 
+moving you shouldn't be swallowed. If you charge from the bottom into the jaw
+then there's a greater chance you'll be eaten. Bear that in mind.
+
+4) "!!!"
+   "Get away from my pod you BITCH!"
+
+With the jaws removed, the Vortex Queen is in serious trouble. Now victory is
+imminent, unless you do something incredibly stupid. Swim up a little until
+Ecco is in line with that bulbous head and CHARGE! The screen will flash red.
+Remember there are still Vortex Minions around, so shoot them away with your
+sonar before you charge into the Queen. 5 hits later, the Queen spews numerous
+jellyfish and Ecco's pod into the game. Congratulations, you've completed the
+game! You are an Ecco master!
+
+Enjoy the game's end sequence, more specifically the wonderful music.
+
+*SPOILERS AHEAD*
+
+Ecco swims down the Tube you precariously negociated earlier, leading his pod
+away from the lair of the Vortex. Returning to Home Bay, Ecco gobbles down some
+delicious fish and revels in the tropical waters of Earth once again. He's a
+hero now, who dolphins all over the oceans will sing songs of forever. Even if
+they are pretty simple, like "You have saved us. You are great." One dolphin
+offers a cryptic message to Ecco:
+
+"Do you think the Vortex are destroyed?"
+
+Thanks a lot, Flipper. You've ruined the moment for everyone. Now it's obvious
+that the Vortex haven't been destroyed. Maybe some day, they will return and
+alter the Tides of Time... get it? Tides of Time? Hahaha!
+
+Enjoy the credits, even if they are full of names you can't pronounce. You've
+earned them. Enjoy the strange, strange picture at the end of the game. Hooray
+for the Mega CD! Now play Ecco again, over and over until you've played it as
+much as I have. When you get out of the mental hospital, why not write your own
+guide for the game?
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+4)Level Passwords Reference List EC-PW
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+In constructing this walkthrough, I realised that many of you will want to
+scroll through quickly and look up the password for a level you're having
+difficulty with. It's understandible. We all cheat once in a while. 
+
+Here is a full list of game passwords. It's worth noting that if you have used
+any cheats such as Debug Mode, your passwords will change to reflect this and
+Ecco will be invincible throughout. I haven't listed them here, as these 
+passwords are for those who like to cheat, but don't like to cheat too much.
+
+iii)    The Undercaves      GMRIQDCM
+iv)     The Vents           IEUINLDP
+v)      The Lagoon          GRTJZYJF
+vi)     Ridge Water         OVDJDSLB
+vii)    Open Ocean          GMYMDSLI
+viii)   Ice Zone            GMBRHSLU
+ix)     Hard Water          UKZFHSLS
+x)      Cold Water          SYQJHSLZ
+xi)     Open Ocean 2        CCVFFSLM
+xii)    Island Zone         ALZBESLS
+xiii)   Deep Water          IHPFDSLP
+xiv)    Volcanic Reef       ADLYESLT
+xv)     Ship Grave Sea      INWUGSLU
+xvi)    Wreck Trap          WJHQGSLL
+xvii)   The Sea of Silence  IZSXGSLF
+xviii)  Deep Gate           AKNBHSLI
+xix)    The Marble Sea      QSOMFSLQ
+xx)     The Library         WBTXFSLV
+xxi)    Deep City           UNIQFSLN
+xxii)   City of Forever     CEEUFSLM
+xxiii)  Jurassic Beach      ONNBJPLY
+xxiv)   Pteranodon Pond     WPVXIPLL
+xxv)    Origin Beach        AQZIJPLG
+xxvi)   Trilobite Circle    GKGFJPLK
+xxvii)  Dark Water          GZIUKPLR
+xxviii) Deep Water 2        GAAGDPLP
+xxix)   City of Forever     YLQQZNLM
+xxx)    Home Bay            
+xxxi)   The Tube            MNEYELLB
+xxxii)  The Machine         SKZNELLO
+xxxiii) The Last Fight      KANZFLLX
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+5)Enemy List and Strategies EC-EL
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Unfortunately, life isn't always fun in the sea. There are no dancing crabs
+from Jamaica singing about how great life is under the sea. There are no
+attractive cartoon mermaids. In fact, the sea is probably one of the most
+dangerous places on Earth, judging by the difficulty of Ecco's mission. 
+
+Here is a list of all the main enemies in Ecco, and tips on how to kill them.
+
+
+Jellyfish
+~~~~~~~~~
+
+Found- Everywhere
+Ecco's Likelyhood of Survival- Verging on Certain
+
+Jellyfish are one of the most common enemies in the game. Actually, it's hard
+to think of a level where they DON'T occur. Thankfully, they are extremely 
+weak and can be turned into mush with a simple charge. Ecco's Death Sonar comes
+in handy here, too, as you can take out large numbers in rapid succession.
+
+Jellyfish come in three varieties- the normal ones you encounter in the first
+levels and in Atlantis (where they glow a lovely shade of purple), the tougher
+ones in the Ice levels, and the prehistoric variety. All three are killed in
+the same way.
+
+ 
+Puffers
+~~~~~~~
+
+Found- Ecco Island, The Asterite
+Ecco's Likelyhood of Survival- Great against a single Puffer, lower against
+multiple Puffers.
+
+Puffers tend to follow Ecco about, but not as strictly as their Black cousins.
+On their own, they are little more than an irritation. In large groups, they
+are more dangerous. In addition, Puffers often regenerate quickly, so don't
+waste your time trying to clear them from an area.
+
+
+Wreck Puffers
+~~~~~~~~~~~~~
+
+Found- Sea-Dee Action
+Ecco's Likelyhood of Survival- Not great
+
+The off-colour Wreck Puffers are halfway between Puffers and Black Puffers.
+They are faster than Puffers and follow Ecco over longer distances. Kill them
+quickly to avoid any nasty accidents.
+
+
+Black Puffers
+~~~~~~~~~~~~~
+
+Found- Atlantis
+Ecco's Likelyhood of Survival- Unlikely
+
+When Satan himself was on his holidays in Atlantis, he left a gift for Ecco-
+commonly known as the Black Puffer. They arrange themselves in large circles,
+they follow Ecco wherever he goes, and they sap his strength faster than a
+sledgehammer to the face. In the level walkthroughs, I've detailed where to
+find the Invincibility you need to beat them. Otherwise, I wouldn't bother 
+fighting them if I were you.
+
+
+Octopi
+~~~~~~
+
+Found- Undercaves, Lagoon, Island Zone
+Ecco's Likelyhood of Survival- Minimal
+
+Ozric, Olly and the gang are one of the most annoying enemies in the game. They
+can kill Ecco with only a few lashes of their tentacles. To make matters worse,
+they are also invincible to Ecco's attacks.
+
+The only way to escape an Octopus is to swim slowly past it. You'll know when
+Ecco is travelling slowly enough, because you'll stop dying when you reach the
+Octopus. 
+
+
+Crabs
+~~~~~
+
+Found- Ecco Island, The Asterite, Sea-Dee Action
+Ecco's Likelyhood of Survival- Good
+
+Crabs are a little like Puffers- they attack by following Ecco about. However,
+their movements are more predictable and they don't respawn so quickly. Kill
+them quickly, before they become a hinderance.
+
+
+Sharks
+~~~~~~
+
+Found- Lagoon, Ridge Water, Open Ocean, Island Zone
+Ecco's Likelyhood of Survival- Decent
+
+While they look pretty creepy, Sharks are easily avoided. Except in Open Ocean
+when some are doing their best Trilobite impressions. Otherwise, dodge the
+Sharks or shoot them with your Death Sonar- this confuses them and gives Ecco
+ample time to escape.
+
+
+Sea Leeches
+~~~~~~~~~~~
+
+Found: Ecco Island, Jurassic Shark
+Ecco's Likelyhood of Survival- Unlikely
+
+On their own, Sea Leeches are a mere hinderance. They latch onto Ecco and 
+prevent him from swimming. To combat this use a combination of charges and fast
+swimming to break free. 
+
+Sea Leeches are annoying when Ecco's air is running low. If you're being chased
+by Crabs or Trilobites, they are fatal. Avoid Sea Leeches at all costs.
+
+
+Tiger Sharks
+~~~~~~~~~~~~
+
+Found- Frozen Fish, Atlantis
+Ecco's Likelyhood of Survival- Good
+
+Tiger Sharks are a more aggressive version of the regular sharks, found in the
+ice stages and Atlantis. They appear in large numbers, but are easily avoided
+and shouldn't present many problems for an intrepid dolphin such as Ecco.
+
+
+Rays
+~~~~
+
+Found- Island Zone
+Ecco's Likelyhood of Survival- Great
+
+I guess that Rays are a bit like Fossils. They float along to the left and
+don't attack Ecco unless it's in self-defence. However, Rays are extremely
+tough and a take a couple of Death Sonar blasts each. In addition, they prowl
+in large numbers. They are best avoided.
+
+
+Turtles
+~~~~~~~
+
+Found- Sea-Dee Action
+Ecco's Likelyhood of Survival- Other than drowning, you mean?
+
+Turtles don't attack Ecco. This particular variety didn't start in a great TV
+show (or a crappy remake of a great TV show, either.) Use them instead of
+rocks to negociate the currents.
+
+
+Sea Spiders
+~~~~~~~~~~~
+
+Found- Frozen Fish, Atlantis
+Ecco's Likelyhood of Survival- Pretty damn bad.
+
+Despite the fact that Sea Spiders are obviously large crabs, I've always
+referred to them as spiders. If you have any objections, feel free to write
+your own Walkthrough. You can call them crabs there if you want.
+
+Sea Spiders are vicious, life-sucking bitches from whom there's no escape. Like
+the Trilobites, they need to be killed quickly before they kill Ecco. 
+
+
+Satan Eels
+~~~~~~~~~~
+
+Found- Jurassic Shark
+Ecco's Likelyhood of Survival- Not great
+
+Satan Eels are prehistoric sharks. They are strong and aggressive. Without 
+sounding like a coward, your best strategy against the Satan Eel is to run like
+hell and hope it isn't following you. I wouldn't fight one if I were you.
+
+
+Trilobites
+~~~~~~~~~~
+
+Found- Jurassic Shark
+Ecco's Likelyhood of Survival- So bad, if I represented this on a numeric
+scale, the number is so low it hasn't been invented yet.
+
+The worst enemy in the game. Trilobites are as fast as Ecco. You CANNOT GET RID
+OF THEM. The only way to escape is to kill them, as quickly as possible, while
+Ecco is still alive to do so.
+
+In addition, Trilobites can travel through walls and barriers to get to Ecco.
+Oh dear.
+
+
+Fossils
+~~~~~~~
+
+Found- Jurassic Shark
+Ecco's Likelyhood of Survival- Good
+
+Like Rays, Fossils will not actively seek to hurt Ecco. Unlike Rays, they 
+float in large masses and are more difficult to avoid. Still pretty easy though
+if you know what you're doing.
+
+
+Sea Carrots
+~~~~~~~~~~~
+
+Found- Jurassic Shark
+Ecco's Likelyhood of Survival- Not bad
+
+Sea Carrots are a variant of Fossils, swimming diagonally instead of left all
+the time. You tend to run into them more often, but apart from that they are
+nigh-identical to Fossils. Be careful amongst large groups of Sea Carrots, or
+Ecco might be harpooned against the wall. I'm not joking.
+
+
+Sea Horses
+~~~~~~~~~~
+
+Found- Trilobite Circle, Dark Water
+Ecco's Likelyhood of Survival- Doubtful
+
+Sea Horses are to Ecco what Dr. Robotnik's Death Egg robot is to Sonic the
+Hedgehog- deadly. At least Ecco isn't suspended in a space station with no way
+to avoid a one hit kill =P
+
+While Sea Horses appear docile initially, they will launch baby Sea Horses at
+Ecco when attacked. They take around 5-6 blasts of Death Sonar to die and their
+baby Sea Horse bullets are insanely difficult to dodge. Lucky for you, this is
+the Mega CD version and they can be easily bypassed without having to kill
+them. In your face, Mega Drive owners!
+
+
+Vortex Minion
+~~~~~~~~~~~~~
+
+Found- The Machine, Last Fight
+Ecco's Likelyhood of Survival- Pretty good
+
+Vortex are very ugly aliens. I'd rather have sex with Giger's worst nightmare
+than look at a Vortex. Luckily, they can be killed with a couple of blasts of
+sonar and don't cause a lot of problems to Ecco. Unluckily, you have to blow
+their body to bits, then destroy the head to completely get rid of them. Don't
+forget those scary sound effects- yeesh!
+
+
+Vortex Queen
+~~~~~~~~~~~~
+
+Found- Last Fight
+Ecco's Likelyhood of Survival- Suprisingly good
+
+Just read the Last Fight walkthrough, you idiot.
+
+
+~~~~~~~~~~~~~~~~~~~~~~~
+6)Cheats and Codes EC-CH
+ ~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+>Turn Music On/Off
+
+Pause the Game and press A to turn off the music. Press A again to turn it on
+again. Unlike the Mega Drive version, this only turns the music on and off
+while the game is paused. When you unpause, the music will always be playing.
+
+> Debug Mode
+
+In-game, turn Ecco so that he is facing towards you and pause the game. (eg. if
+Ecco is facing right, press left and pause the game mid-way through the turn.)
+Now press Right, B, C, B, C, Down, C, Up. You will now warp to a debug screen.
+
+The options are as follows:
+
+Stage Number- Select any stage in the game. 
+
+Sound Number- Plays any sound effect in the game. B plays a sound effect.
+
+Music Tempo- Does nothing in Ecco CD.
+
+Message Number- Plays any Glyph message in the game upon pressing A.
+
+Unlimited Life- Guess. However, you can die from being crushed.
+
+Teleporter X and Teleporter Y- By changing these co-ordinates, you can warp
+anywhere on the map by pressing Start. This is a quick and easy way to ruin
+your game, because Ecco can get stuck in walls etc.
+
+Mastervol, Redbookvol, FM Volume- these change volume settings within the game,
+but playing with them can crash your game.
+
+Note that Debug Mode can also cause corrupt graphics, particularly in the
+Atlantis levels and The Last Fight. To be honest, I only use it for
+the Invincibility. Not that I need it, of course...
+
+
+>False codes
+
+NIHPLODS, aka SDOLPHIN backwards, allegedly gives infinite lives. This doesn't 
+work, because there are no lives in Ecco to begin with and you always have
+infinite lives, no matter what password you input!
+
+Up, Down, Left, Right, A, Start at the Title Screen for Infinite Lives doesn't 
+work. I've seen this in magazines before. It's the Level Select code for Sonic.
+How on earth you would input this code, seeing as the game would begin before
+you were able to press Start, is beyond me. It just goes to show that you can't
+believe everything you read in magazines. Unless I wrote the magazine, in that
+case you should believe every word I say.
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+7)Credits and Acknowledgements
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Thanks to SEGA and Novotrade (Appaloosa) for making Ecco the Dolphin!
+
+Thanks to CJayC and Gamefaqs for hosting this FAQ.
+
+Thanks to SegaXS for their fantastic Ecco maps.
+
+Thanks to The Undercaves for being a great Ecco website with useful info.
+
+Thanks to arkonviox.com, its forum and members, for proving to me that there
+still were some Ecco fans out there XD
+
+Thanks to PsySonic and Caverns of Hope for hosting this guide.
+
+Thanks to Timothy Courchene (pseudonym) for lots of extra information I missed.
+
+Thanks to Brian Taylor, because he's just a generally cool guy. He also wrote a
+damn good Ecco: DOTF walkthrough. Read it. Better than this.
+
+Thanks to Ebay, otherwise I'd never have got Ecco CD!
+
+Thanks to all my friends and family for their love and support.
+
+Thank you for reading the FAQ! I hope you enjoyed it.
+
+
+Awards and Accolades for this FAQ
+---------------------------------
+
+Mega Drive version
+
+-GameFAQs FAQ of the Day, 11th September 2003, 26th September 2003
+-GameFAQs New FAQ of the Day, 11th September 2003
+
+
+
+
+~~~~~~~~~~~~~
+8)Contacting Me
+  ~~~~~~~~~~~~~~
+
+For any queries or corrections regarding this FAQ, please contact me at the 
+address below. I'd love to hear some feedback on what you thought of the FAQ,
+and what improvements (if any) I should make.
+
+
+Emails I like
+~~~~~~~~~~~~~
+
+> FAQ Questions
+> FAQ Corrections
+> FAQ Suggestions
+> Further Questions about any aspect of Ecco the Dolphin
+> Any feedback, positive or negative on the FAQ.
+> Free games- it hasn't happened yet, but I wouldn't complain if I got any
+
+
+
+Emails I don't like
+~~~~~~~~~~~~~~~~~~~
+
+> 'j00r FAQ sux!' etc.
+> Impolite emails (telling me what's wrong in a condescending way etc)
+> SPAM, obviously. I don't want to reduce my debt or enlarge my penis, thank 
+  you very much. ;)
+
+Please send all your emails to lord_ alan1986 @ hotmail. com (without the
+spaces, those are just for spam protection.) Make suree the subject title is
+'Ecco the Dolphin CD FAQ' or it might get filtered into Junk Mail. >_< It's
+happened before and I daresay it'll happen again. You have been warned.
+
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~
+x)Copyright Information
+  ~~~~~~~~~~~~~~~~~~~~~~
+
+Currently the following sites have my permission to publish this FAQ:
+
+www.gamefaqs.com (GameFAQs)
+ultimate.arkonviox.com (Ultimate Arkonviox.com)
+www.cavernsofhope.com (Caverns of Hope)
+
+If you have come across this FAQ on any other site, please email me.
+
+Copyright 2003 Alan Williamson.
+
+This FAQ may be not be reproduced under any circumstances except for personal,
+private use. It may not be placed on any web site or otherwise distributed
+publicly without advance written permission. Use of this guide on any other
+web site without permission or as a part of any public display is strictly
+prohibited, and a violation of copyright.
+
+All trademarks and copyrights contained in this document are owned by
+their respective trademark and copyright holders.
+
+"Brrrieeeee!"- Ecco using Sonar... in a slightly higher quality, CD fashion
+                                                           

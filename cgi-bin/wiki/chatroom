@@ -1,0 +1,97 @@
+<!-- editorstamp::192.168.0.3::20081031081309 -->
+<!wiki func='wikistamp' ip='76.102.158.96' created='20080925211452' comment='AAA'>
+<html>
+<head>
+
+<meta name='author' content='Johnny L. de Alba' />
+<meta name="description" content="An Ecco the Dolphin, Ecco 2 Tides of Time and Ecco, Defender of the Future website." />
+<meta name="keywords" content="ecco the dolphin, ecco the tides of time, ecco defender of the future, ecco, ecco 2, cheats, codes, music, guides, faqs, roms, genesis, gamegear, megadrive, dreamcast, playstation 2, ps2" />
+<meta name="robots" content="all" />
+
+<title>Ecco the Dolphin on The Arkonviox Network</title>
+<!wiki func='wikitheme' type='header'>
+
+<div id='container'>
+<div id='header'> </div>
+
+<span id='visited'><a href='display.pl?id=index'>
+Index</a></span>
+
+<span id='visited'><a href='edit.pl?id=chatroom'>
+Edit</a></span>
+
+<span id='tab'>Display</span>
+
+<span id='visited'><a href='comment.pl?id=explore'>
+Explore</a></span>
+
+<span id='visited'><a href='history.pl?id=chatroom'>
+History</a></span>
+
+<div id='panel'>
+<h1>Chatroom</h1>
+<h2>
+[ <a href='edit.pl?id=chatroom'>Edit</a> ]
+</h2>
+
+<center>
+<h3>Welcome to IRC channel #DarkSea on ArkonvioxNet</h3>
+<a href='http://www.arkonviox.net/'>http://www.arkonviox.net/</a>
+<br /><br />
+[Server irc.arkonviox.net] [Port 6667] [Channel #DarkSea]
+<br /><br />
+<applet code='IRCApplet.class' archive='irc.jar,pixx.jar' codebase='../eccoserv/pjirc' width='600' height='400'>
+
+<param name='cabinets' value='irc.cab,securedirc.cab,/pixx.cab'>
+
+<param name='nick' value='Guest'>
+<param name='alternatenick' value='Guest???'>
+<param name='name' value='Java User'>
+<param name='host' value='irc.arkonviox.net'>
+<param name='port' value='6667'>
+ <param name="command1" value="/join #DarkSea">
+<param name='gui' value='pixx'>
+<param name='quitmessage' value='PJIRC forever!'>
+<param name='asl' value='true'>
+
+<param name='style:bitmapsmileys' value='true'>
+<param name='style:smiley1' value=':) img/sourire.gif'>
+<param name='style:smiley2' value=':-) img/sourire.gif'>
+<param name='style:smiley3' value=':-D img/content.gif'>
+
+<param name='style:smiley4' value=':d img/content.gif'>
+<param name='style:smiley5' value=':-O img/OH-2.gif'>
+<param name='style:smiley6' value=':o img/OH-1.gif'>
+<param name='style:smiley7' value=':-P img/langue.gif'>
+<param name='style:smiley8' value=':p img/langue.gif'>
+<param name='style:smiley9' value=';-) img/clin-oeuil.gif'>
+<param name='style:smiley10' value=';) img/clin-oeuil.gif'>
+<param name='style:smiley11' value=':-( img/triste.gif'>
+<param name='style:smiley12' value=':( img/triste.gif'>
+<param name='style:smiley13' value=':-| img/OH-3.gif'>
+<param name='style:smiley14' value=':| img/OH-3.gif'>
+<param name='style:smiley15' value=':'( img/pleure.gif'>
+<param name='style:smiley16' value=':$ img/rouge.gif'>
+<param name='style:smiley17' value=':-$ img/rouge.gif'>
+<param name='style:smiley18' value='(H) img/cool.gif'>
+<param name='style:smiley19' value='(h) img/cool.gif'>
+<param name='style:smiley20' value=':-@ img/enerve1.gif'>
+
+<param name='style:smiley21' value=':@ img/enerve2.gif'>
+<param name='style:smiley22' value=':-S img/roll-eyes.gif'>
+<param name='style:smiley23' value=':s img/roll-eyes.gif'>
+<param name='style:floatingasl' value='true'>
+
+<param name='pixx:highlight' value='true'>
+<param name='pixx:highlightnick' value='true'>
+
+</applet>
+</center>
+
+</div>
+
+<div id='footer'> </div>
+</div>
+<!wiki func='wikitheme' type='footer'>
+</body>
+</html>

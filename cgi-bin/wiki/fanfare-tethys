@@ -1,0 +1,107 @@
+<!-- editorstamp::192.168.0.3::20081031105844 -->
+<html>
+<head>
+
+<meta name='author' content='Johnny L. de Alba' />
+<meta name="description" content="An Ecco the Dolphin, Ecco 2 Tides of Time and Ecco, Defender of the Future website." />
+<meta name="keywords" content="ecco the dolphin, ecco the tides of time, ecco defender of the future, ecco, ecco 2, cheats, codes, music, guides, faqs, roms, genesis, gamegear, megadrive, dreamcast, playstation 2, ps2" />
+<meta name="robots" content="all" />
+
+<title>Ecco the Dolphin on The Arkonviox Network</title>
+<!wiki func='wikitheme' type='header'>
+
+<span id='jukebox'></span>
+<div id='container'>
+<div id='header'> </div>
+
+<span id='visited'><a href='display.pl?id=index'>
+Index</a></span>
+
+<span id='visited'><a href='edit.pl?id=fanfare-arkonviox'>
+Edit</a></span>
+
+<span id='visited'><a href='comment.pl?id=fanfare'>
+Display</a></span>
+
+<span id='visited'><a href='comment.pl?id=explore'>
+Explore</a></span>
+
+<span id='visited'><a href='history.pl?id=fanfare-arkonviox'>
+History</a></span>
+
+<div id='panel'>
+<h1>Fanfare {username_uc}</h1>
+<h2>
+[ <a href='edit.pl?id=fanfare-{username_lc}'>Edit Template</a> ]
+[ <a href='update-profile.pl?id={username_lc}'>Edit Profile</a> ]
+</h2>
+
+<span id='tab'>Profile</span>
+<div id='profile'>
+
+<img src='../eccoserv/avatars/{avatar_file}'  style='float:left;margin:10px;' />
+
+<div style='width:110px;text-align:left;float:right;' id='key' >
+<div>Editor's Favorite</div>
+<div style='margin:1px 0px 1px 0px;'>
+<p align='center'>
+<img src='../eccoserv/artwork/tethys-salaciax100.jpg' />
+</p>
+</div>
+<div>Salacia</div>
+</div>
+
+<div class='row' style='float:left;width:33%;'>
+<b>Username:</b> {username_ucfirst}</div>
+<div class='row'>
+<b>Realname:</b> {realname}</div>
+
+<div><b>Email:</b> {email}</div>
+<div class='row'><b>Website:</b> {website}</div>
+<div><b>Messangers:</b> {messanger1} {messanger2}</div>
+
+<br />
+<div class='row' style='float:left;width:33%;'>
+<b>Sex:</b> {sex}</div>
+<div class='row'>
+<b>Birth:</b> {birth}</div>
+
+<div style='float:left;width:33%;'>
+<b>City:</b> {city}</div>
+<div><b>State:</b> {state}</div>
+<div><b>Country:</b> {country}</div>
+
+<br />
+<div class='row'><b>Operating System:</b> {operatingsystem}</div>
+<div><b>Favorite Gaming Platform:</b> {favoriteplatform}</div>
+<div class='row'><b>Favorite Game:</b> {favoritegame}</div>
+
+<br />
+<div><b>Interests:</b> {interests}</div>
+<div class='row'><b>About Myself:</b> {aboutmyself}
+</div>
+
+<br />
+<div id='key'>
+<div>Contributions</div>
+<div style='margin:1px 0px 1px 0px;'>
+<p>
+<img src='../eccoserv/icons/guest.gif' />
+Former member of the Ecco the Dolphin website Arkonviox.com.
+<br /><img src='../eccoserv/icons/profile.gif' />
+Is an artist and artwork contributor on the Arkonviox Network.
+<br /><img src='../eccoserv/icons/modify.gif' />
+Is a writer and fanfiction contributor on the Arkonviox Network. 
+</p>
+</div>
+<div> </div>
+</div>
+
+</div>
+</div>
+<div id='footer'> </div>
+</div>
+<script type='text/javascript' src='../ajax-lib.js'></script>
+<!wiki func='wikitheme' type='footer'>
+</body>
+</html>

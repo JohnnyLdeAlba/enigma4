@@ -1,0 +1,76 @@
+<!-- editorstamp::192.168.0.3::20081101024136 -->
+<!wiki func='wikistamp' ip='76.102.158.96' created='20080925215419' comment='AAA'>
+<html>
+<head>
+
+<meta name='author' content='Johnny L. de Alba' />
+<meta name="description" content="An Ecco the Dolphin, Ecco 2 Tides of Time and Ecco, Defender of the Future website." />
+<meta name="keywords" content="ecco the dolphin, ecco the tides of time, ecco defender of the future, ecco, ecco 2, cheats, codes, music, guides, faqs, roms, genesis, gamegear, megadrive, dreamcast, playstation 2, ps2" />
+<meta name="robots" content="all" />
+
+<title>Ecco the Dolphin on The Arkonviox Network</title>
+<!wiki func='wikitheme' type='header'>
+<div id='container'>
+<div id='header'> </div>
+<span id='visited'><a href='display.pl?id=index'>
+Index</a></span>
+
+<span id='visited'><a href='edit.pl?id=ecco-for-sega-saturn'>
+Edit</a></span>
+
+<span id='tab'>Display</span>
+
+<span id='visited'><a href='display.pl?id=ecco-for-sega-saturn-video-1'>
+Videos</a></span>
+
+<span id='visited'><a href='display.pl?id=ecco-for-sega-saturn-links'>
+Links</a></span>
+
+<span id='visited'><a href='comment.pl?id=explore'>
+Explore</a></span>
+
+<span id='visited'><a href='history.pl?id=ecco-for-sega-saturn'>
+History</a></span>
+
+<div id='panel'>
+<h1>Ecco for sega saturn</h1>
+<h2>[ <a href='edit.pl?id=ecco-for-sega-saturn'>Edit</a> ]</h2>
+
+<div id='caption'>
+<center>
+<img src='../eccoserv/scans/ecco-saturn-spanishx200.png'>
+<br /><br />
+<img src='../eccoserv/screenshots/ecco-32x-demox200.png'>
+<br /><br />
+<img src='../eccoserv/screenshots/ecco-2-moviex200.png'>
+</center>
+<br />
+The first screenshot is from the Saturn version the second is the 32X, notice how both use the same dolphin model. Now take a look at the Sega CD version which appears to have a different one.
+</div>
+
+It began in the summer of 1994 at the Consumer Electronics Show. A demonstration of Ecco the Dolphin for the 32x gaming console featured a title screen concept with a computer animated Ecco.
+
+<p>In the next few months the demonstration is forgotten in favor of preview scenes from the Saturn console. They featured the same computer generated Ecco with other dolphins in story telling clips.</p>
+
+In one unreleased video we see a mother dolphin telling Ecco how her family got trapped when the cave around them collapsed.
+
+<p>The videos from the preview are very similar to videos from Ecco 2 Tides of Time CD. The sand and water surface contains the same texture; the seaweed and rocks in the background are almost identical. It is safe to conclude from this that most of the background elements from the preview and Ecco 2 are in fact one in the same.</p>
+
+The only difference is the dolphin model, which in Ecco 2 appear to look almost like real dolphins. The 32x and Saturn dolphin model appears jagged around the fins, with a small body and incredibly large beak.
+
+<p>Could this preview be recycled scenes from the Ecco 2 videos with newer less improved dolphin models? Or are the scenes themselves nothing but old concept videos that went into making the movies contained in Ecco 2? The answer is the latter of the two questions and heres why: The 32x and Saturn consoles are not capable of producing such rich scenes with great lightening and perfectly rounded dolphin models.</p>
+
+When the Ecco 32x game data was released to the public we learned the scene itself was nothing more then a cinepak-encoded video. The data from the video of the 32x demo was large enough to fill the Ecco 2 Genesis console cartridge.
+
+<p>If the Saturn preview were all rendered by the hardware it would make sense for the 32x demo to contain the same methods. What if the 32x was not capable of producing a fully rendered scene? It would mean the Saturn was not capable of producing a fully rendered preview. Which means the demo in the 32x and the preview of the Saturn were both compressed video data. Knowing this information and examining the scenes from the Saturn preview we can indeed find digital artifacts.</p>
+
+Video compression usually leaves a different signature then image compression. One popular technique used is called interframe compression. It involves comparing two frames from a scene and copying only what has moved. The 32x demo and Saturn preview as well as the videos from Ecco 2 all share the same compression trait. This means the graphics in the 32x demo and Saturn preview are not rendered by hardware but processed to the screen from compressed video data.
+
+<p>So back to the question: Are the scenes from the Saturn preview old concept videos that went into making the movies contained in Ecco 2? To answer this question I will quote Ed Annunziata, Eccos creator: "the videos were used to 'sell' the idea of a 32x/Saturn game to Sega". The videos themselves are concepts, which ultimately became the bonus movies of Ecco 2. Big thanks to Epicenter of DARK SEA for contacting Ed with this question.</p>
+
+</div> 
+<div id='footer'> </div>
+</div>
+<!wiki func='wikitheme' type='footer'>
+</body>
+</html>

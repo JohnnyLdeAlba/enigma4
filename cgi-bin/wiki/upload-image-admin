@@ -1,0 +1,104 @@
+<!-- editorstamp::24.7.84.157::20081201125109 -->
+<html>
+<head>
+
+<meta name='author' content='Johnny L. de Alba' />
+<meta name="description" content="An Ecco the Dolphin, Ecco 2 Tides of Time and Ecco, Defender of the Future website." />
+<meta name="keywords" content="ecco the dolphin, ecco the tides of time, ecco defender of the future, ecco, ecco 2, cheats, codes, music, guides, faqs, roms, genesis, gamegear, megadrive, dreamcast, playstation 2, ps2"/>
+<meta name="robots" content="all" />
+
+<title>Ecco the Dolphin on The Arkonviox Network</title>
+<!wiki func='wikitheme' type='header'>
+
+<div id='container'>
+<div id='header'> </div>
+
+<span id='visited'>
+<a href='display.pl?id=index'>Index</a></span>
+
+<span id='visited'>
+<a href='edit.pl?id=upload-image'>Edit</a></span>
+
+<span id='tab'>Display</span>
+
+<span id='visited'>
+<a href='display.pl?id=explore'>Explore</a></span>
+
+<span id='visited'>
+<a href='history.pl?id=upload-image'>History</a></span>
+
+<div id='panel'>
+<h1>Universal Image Uploader</h1>
+
+<!-- errormessage -->
+<br />
+<span id='tab'>Upload Image</span>
+<div id='profile'>
+
+<form action='upload-image.pl' method='post' enctype='multipart/form-data'>
+<input type='hidden' name='func' value='upload'>
+
+<div class='cat'>General</div>
+<br />
+<div style='float:left;width:45%'>
+Title<br />
+<input type='text' name='title_ucfirst' size='45' value='{title_ucfirst}'>
+</div>
+
+<div>
+Author<br />
+<input type='text' name='author_ucfirst' size='45' value='{author_ucfirst}'>
+</div>
+<br />
+
+<div style='float:left;width:45%;'>
+File
+<input type="file" name="image_handle" />
+</div>
+
+<div>
+Section
+<select name='section'>
+<option value='' {section::blank}>
+<option value='phosis-the-dolphin-1' {section::a-stone-in-time-1}>
+A Stone In Time
+<option value='fan-artwork-2' {section::fan-artwork-2}>
+Fan Artwork
+<option value='cetacean-artwork-2' {section::cetacean-artwork-2}>
+Cetacean Artwork
+<option value='macros-and-avatars-1' {section::macros-and-avatars-1}>
+Macros and Avatars
+<option value='sprites-1' {section::sprites-1}>
+Sprites
+<option value='fan-made-sprites-1' {section::fan-made-sprites-1}>
+Fan Made Sprites
+<option value='sprite-comics-2' {section::sprite-comics-2}>
+Sprite Comics
+<option value='phosis-the-dolphin-1' {section::phosis-the-dolphin-1}>
+Phosis the Dolphin
+<option value=''>
+<option value='overwrite' {section::overwrite}>
+Overwrite an Existing File
+</select> 
+</div>
+
+<br /><br />
+<div class='cat'>Security Phrase</div>
+<br />
+{securityphrase}
+<br /><br />Please type in the numbers above.
+<br />
+<input type='text' name='securityphrase' size='45' value=''>
+
+<br /><br /><br />
+<input type='submit' name='submit' value='Submit'>
+
+</form>
+</div></div>
+
+<div id='footer'> </div>
+</div>
+<!wiki func='wikitheme' type='footer'>
+
+</body>
+</html>

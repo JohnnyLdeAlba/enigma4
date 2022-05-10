@@ -1,0 +1,146 @@
+<!-- editorstamp::24.7.84.157::20081218202739 -->
+<html>
+<head>
+
+<meta name='author' content='Johnny L. de Alba' />
+<meta name="description" content="An Ecco the Dolphin, Ecco 2 Tides of Time and Ecco, Defender of the Future website." />
+<meta name="keywords" content="ecco the dolphin, ecco the tides of time, ecco defender of the future, ecco, ecco 2, cheats, codes, music, guides, faqs, roms, genesis, gamegear, megadrive, dreamcast, playstation 2, ps2" />
+<meta name="robots" content="all" />
+
+<title>Ecco the Dolphin on The Arkonviox Network</title>
+<!wiki func='wikitheme' type='header'>
+
+<div id='container'>
+<div id='header'> </div>
+
+<span id='visited'><a href='display.pl?id=index'>
+Index</a></span>
+
+<span id='visited'><a href='edit.pl?id=a-stone-in-time-sprites-1'>
+Edit</a></span>
+
+<span id='tab'>Display</span>
+
+<span id='visited'><a href='comment.pl?id=explore'>
+Explore</a></span>
+
+<span id='visited'><a href='history.pl?id=a-stone-in-time-sprites-1'>
+History</a></span>
+
+<div id='panel'>
+<h1>A Stone in time</h1>
+<h2>
+[ <a href='edit.pl?id=a-stone-in-time-sprites-1'>
+Edit</a> ]
+</h2>
+
+<div style='text-align:left;' id='key'>
+
+<span class='tab'><a href='display.pl?id=a-stone-in-time-characters-1'>Characters</a></span>
+<span class='tab'>Sprites</span>
+
+<div> </div>
+<div style='margin:1px 0px 1px 0px;'>
+<p align='center'>
+
+<table cellspacing='10' cellpadding='0' width='550'>
+<tr>
+<td align='left' valign='bottom' colspan='5'>
+<span style='font-weight:bold;color:red;'>
+Sprites by Arkonviox</span>
+
+<tr>
+<td align='center' valign='bottom'>
+
+<a href='../eccoserv/asit/spritex48x-smalljellyfish.png' target='_blank'>
+<img src='../eccoserv/asit//spritex48x-smalljellyfish.png' border='0' /></a>
+<br /> Small Jelly Fish
+
+<td align='center' valign='bottom'>
+
+<a href='../eccoserv/asit/spritex48-jellyfish.png' target='_blank'>
+<img src='../eccoserv/asit/spritex48-jellyfish.png' border='0' /></a>
+<br /> Jellyfish
+
+<td align='center' valign='bottom'>
+
+<a href='../eccoserv/asit/spritex48-shark.png' target='_blank'>
+<img src='../eccoserv/asit/spritex48-shark.png' border='0' /></a>
+<br /> Shark
+
+<td align='center' valign='bottom'>
+
+<a href='../eccoserv/asit/spritex48-dolphin.png' target='_blank'>
+<img src='../eccoserv/asit/spritex48-dolphin.png' border='0' /></a>
+<br /> Dolphin
+
+<td align='center' valign='bottom'>
+
+<a href='../eccoserv/asit/spritex48-bluejellyfish.png' target='_blank'>
+<img src='../eccoserv/asit/spritex48-bluejellyfish.png' border='0' /></a>
+<br /> Blue Jellyfish
+
+<tr>
+<td align='left' valign='bottom' colspan='5'>
+<span style='font-weight:bold;color:red;'>Sprites by Techno</span>
+
+<tr>
+<td align='center' valign='bottom'>
+<a href='../eccoserv/asit/bluetigershark.gif' target='_blank'>
+<img src='../eccoserv/asit/bluetigershark.gif' border='0' /></a>
+<br />Blue Tiger Shark
+
+<td align='center' valign='bottom'>
+<a href='../eccoserv/asit/conesquid.gif' target='_blank'>
+<img src='../eccoserv/asit/conesquid.gif' border='0' /></a>
+<br />Cone Squid
+
+<td align='center' valign='bottom'>
+<a href='../eccoserv/asit/firehammerhead.gif' target='_blank'>
+<img src='../eccoserv/asit/firehammerhead.gif' border='0' /></a>
+<br />Fire Hammerhead
+
+<td align='center' valign='bottom'>
+<a href='../eccoserv/asit/icehammerhead.gif' target='_blank'>
+<img src='../eccoserv/asit/icehammerhead.gif' border='0' /></a>
+<br />Ice Hammerhead
+
+<td align='center' valign='bottom'>
+<a href='../eccoserv/asit/stingray1.gif' target='_blank'>
+<img src='../eccoserv/asit/stingray1.gif' border='0' /></a>
+<br />Stingray 1
+
+<tr>
+<td align='center' valign='bottom'>
+<a href='../eccoserv/asit/stingray2.gif' target='_blank'>
+<img src='../eccoserv/asit/stingray2.gif' border='0' /></a>
+<br />Stingray 2
+
+<td align='center' valign='bottom'>
+<a href='../eccoserv/asit/tropicaltigershark.gif' target='_blank'>
+<img src='../eccoserv/asit/tropicaltigershark.gif' border='0' /></a>
+<br />Tropical Tiger Shark
+
+</table>
+</p>
+</div>
+<div style='text-align:center;'>
+Page 1
+</div>
+</div>
+
+</div>
+
+<div id='footer'> </div>
+</div>
+<!wiki func='wikitheme' type='footer'>
+<script type='text/javascript' src='../ajax-lib.js'></script>
+<script type="text/javascript">
+
+if (window.location.pathname.match(/display.pl/)) {
+     toggle_display('handle_commentmanager');
+}
+
+</script>
+</body>
+</html>

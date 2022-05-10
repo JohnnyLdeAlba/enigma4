@@ -1,0 +1,87 @@
+<!-- editorstamp::192.168.0.3::20081029224410 -->
+<!wiki func='wikistamp' ip='192.168.0.3' created='20081017181337' comment='AAA'>
+<html>
+<head>
+
+<meta name='author' content='Johnny L. de Alba' />
+<meta name="description" content="An Ecco the Dolphin, Ecco 2 Tides of Time and Ecco, Defender of the Future website." />
+<meta name="keywords" content="ecco the dolphin, ecco the tides of time, ecco defender of the future, ecco, ecco 2, cheats, codes, music, guides, faqs, roms, genesis, gamegear, megadrive, dreamcast, playstation 2, ps2"/>
+<meta name="robots" content="all" />
+
+<title>Ecco the Dolphin on The Arkonviox Network</title>
+<!wiki func='wikitheme' type='header'>
+
+<div id='container'>
+<div id='header'> </div>
+
+<span id='visited'>
+<a href='display.pl?id=index'>Index</a></span>
+
+<span id='visited'>
+<a href='edit.pl?id=upload-fan-artwork'>Edit</a></span>
+
+<span id='visited'>
+<a href='display.pl?id=fan-artwork-1'>Display</a></span>
+
+<span id='visited'><a href='module.pl?id=comment&display=fanfare-discuss'>
+Discuss</a></span>
+
+<span id='visited'>
+<a href='display.pl?id=explore'>Explore</a></span>
+
+<span id='visited'>
+<a href='history.pl?id=upload-fan-artwork'>History</a></span>
+<div id='panel'>
+<h1>Universal Image Uploader</h1>
+
+<!-- errormessage -->
+<br />
+<span id='tab'>Upload Artwork</span>
+<div id='profile'>
+
+<form action='upload-artwork.pl' method='post' enctype='multipart/form-data'>
+<input type='hidden' name='func' value='upload'>
+
+<div class='cat'>General</div>
+<br />
+<div style='float:left;width:45%'>
+Title<br />
+<input type='text' name='title_ucfirst' size='45' value='{title_ucfirst}'>
+</div>
+
+<div>
+Artist<br />
+<input type='text' name='artist_ucfirst' size='45' value='{artist_ucfirst}'>
+</div>
+
+<br />
+<div class='cat'>Section</div>
+<br />
+<input type='radio' name='section' value='fan-artwork' checked> Fan Artwork
+<input type='radio' name='section' value='cetacean-artwork'> Cetacean Artwork
+<input type='radio' name='section' value='macros-and-avatars'> Macros and Avatars
+
+<br /><br />
+<div class='cat'>Security Phrase</div>
+<br />
+{securityphrase}
+<br /><br />Please type in the numbers above.
+<br />
+<input type='text' name='securityphrase' size='45' value=''>
+
+<br /><br />
+<div class='cat'>File</div>
+<br />
+<input type="file" name="artwork_handle">
+<br /><br /><br />
+<input type='submit' name='submit' value='Submit'>
+
+</form>
+</div></div>
+
+<div id='footer'> </div>
+</div>
+<!wiki func='wikitheme' type='footer'>
+
+</body>
+</html>

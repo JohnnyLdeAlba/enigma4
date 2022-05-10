@@ -1,0 +1,104 @@
+<!wiki func='wikistamp' ip='192.168.0.3' created='20080920190201' comment='AAA'>
+<html>
+<head>
+
+<meta name='author' content='Johnny L. de Alba' />
+<meta name="description" content="An Ecco the Dolphin, Ecco 2 Tides of Time and Ecco, Defender of the Future website." />
+<meta name="keywords" content="ecco the dolphin, ecco the tides of time, ecco defender of the future, ecco, ecco 2, cheats, codes, music, guides, faqs, roms, genesis, gamegear, megadrive, dreamcast, playstation 2, ps2" />
+<meta name="robots" content="all" />
+
+<title>Ecco the Dolphin on The Arkonviox Network</title>
+<link href='../eccoserv/theme/crystalmeth.css' rel='stylesheet' type='text/css'>
+
+</head>
+<body>
+
+<div id='container'>
+<div id='header'> </div>
+
+<span id='visited'><a href='display.pl?id=index'>
+Index</a></span>
+
+<span id='visited'><a href='edit.pl?id=forum-archive'>
+Edit</a></span>
+
+<span id='tab'>Display</span>
+
+<span id='visited'><a href='display.pl?id=explore'>
+Explore</a></span>
+
+<span id='visited'><a href='history.pl?id=explore'>
+History</a></span>
+
+<div id='panel'>
+
+<h1>Archive of past forums</h1>
+<h2>[ <a href='edit.pl?id=forum-archive'>Edit</a> ]</h2>
+
+<div id='caption'>
+<center>
+<img src='../eccoserv/artwork/swiftcurrent-3x200.jpg' />
+</center>
+<br />
+A depiction of various members characters from the old Arkonviox.com forums. To name a few in no order are Crestoe, Delphi, Kitnee, Doomtrain, Alastor, BigBlu5 and Vantid.
+
+<p>Artwork was made by the very talented Tina Lyek who used to be known as Swift Current on the forums.</p>
+</div>
+
+<h1>
+Arkonviox.com went through several forums throughout its history but only a few were actually archived. The first forum was hosted on EzBoard's network which eventually became cluttered with many ad's. UltraBoard was a fully customizable perl based board that became Arkonviox.com's second to be used forum but was discarded because of its slow speeds.
+
+<p>Eventualy Arkonviox.com found a message board it hoped to stick to, Yabb. The forum was a perl based message board based on Ultimate Bulletin Board. The message board was easily hackable to add newer features because of its simplistic design.</p>
+
+Yabb known as yet another bulletin board proved to be a great message board with one flaw. It caused the server hard drive to become too preoccupied making the website as a whole slower. 
+
+<p>Yabb was eventually replaced with PhpBB which was alot faster but not as easily hackable because of its complex database nature. To access a post the forum has to search two other tables to get the topics name and topics users. For this reason PhpBB forum archives are messages only without the user and in a slightly off order.</p>
+
+With Arkonviox.com's advancement, a fully automated content manager with customizable skins replaced the static only pages. PhpBB needed an upgrade to integrade the forum into this system which lead to the abandonment of many user accounts and posts in favor of installing the new Postnuke compatible forum. Because of the complex database the Postnuke forum archives are just messages only. 
+
+<p>Although random discussion was a common place in a community with no newly released Ecco the Dolphin games, alot of the many Ecco the Dolphin websites we have today were inspired from these forums. The archives are here for reference, historical and sentimental reasons and hopefully one day this website will be the final archive of the entire Ecco the Dolphin community.</p>
+</h1>
+
+<br />
+<span id='tab'>Directory</span>
+<div id='panel'>
+
+<ol>
+
+<li>
+<a href='ultimate.pl' target='_blank'>
+The Undercaves '00 to '01 Ubb Forum</a>
+<br />
+This is the second forum used by the Undercaves website. The undercaves was the website that gave birth to the Ecco community and Ecco the Dolphin websites in general. Created in January 2000 by Jason Grindley also known as blackfin this single forum gave rise to many of the Ecco the Dolphin websites that exist today. 
+<br /><br />
+
+<li><a href='yabb.pl' target='_blank'>
+Arkonviox.com '01 to '02 Yabb Forum</a>
+<br />
+This was the third forum used by Arkonviox.com between 2001 and 2002. It was pulled from use by the service host for its constant hard drive access in place of a database driven forum.
+<br /><br />
+
+<li>
+<a href='../eccoserv/html/phpbb.20021001.html' target='_blank'>
+Arkonviox.com '02 to '03 Phpbb Forum</a>
+<br />
+This is Arkonviox.com's php based forum from 2002 to 2003. It used the mySQL database system and because of its complex tables could not be fully restored. At the moment posts are not attributed to a user and are slightly out of order from the topic they originated from. 
+<br /><br />
+
+<li>
+<a href='../eccoserv/html/postnuke.20040819.html' target='_blank'>
+Arkonviox.com '03 to '04 Postnuke Forum</a>
+<br />
+This is a heavily modified version of the phpBB forum to be used in conjunction with the postNuke content delivery system. 
+Because of its complex mySQL table strctures this also could not be fully restored. Posts are not attributed to a user and are slightly out of order from the topic they originated from.
+
+</ol>
+
+</div>
+
+</div> 
+
+<div id='footer'> </div>
+</div>
+</body>
+</html>

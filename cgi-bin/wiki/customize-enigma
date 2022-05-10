@@ -1,0 +1,65 @@
+<!-- editorstamp::24.7.84.157::20081201115542 -->
+<!wiki func='wikistamp' ip='192.168.0.3' created='20080929212901' comment='AAA'>
+<html>
+<head>
+
+<meta name='author' content='Johnny L. de Alba' />
+<meta name="description" content="An Ecco the Dolphin, Ecco 2 Tides of Time and Ecco, Defender of the Future website." />
+<meta name="keywords" content="ecco the dolphin, ecco the tides of time, ecco defender of the future, ecco, ecco 2, cheats, codes, music, guides, faqs, roms, genesis, gamegear, megadrive, dreamcast, playstation 2, ps2" />
+<meta name="robots" content="all" />
+
+<title>Ecco the Dolphin on The Arkonviox Network</title>
+<!wiki func='wikitheme' type='header'>
+<div id='container'>
+<div id='header'> </div>
+<span id='visited'><a href='display.pl?id=index'>
+Index</a></span>
+
+<span id='visited'><a href='edit.pl?id=customize-enigma'>
+Edit</a></span>
+
+<span id='tab'>Display</span>
+
+<span id='visited'><a href='comment.pl?id=explore'>
+Explore</a></span>
+
+<span id='visited'><a href='history.pl?id=customize-enigma'>
+History</a></span>
+
+<div id='panel'>
+<h1>Customize Enigma</h1>
+<h2>
+[ <a href='edit.pl?id=customize-enigma'>Edit</a> ]
+</h2>
+
+<span id='tab'>Themes</span>
+<div id='panel'>
+<h1>Change the skin theme for the website by using the links below.</h1>
+
+<ol>
+
+<li><a href='display.pl?id=customize-enigma&theme=revival'>
+Revival</a>
+
+<li><a href='display.pl?id=customize-enigma&theme=asteritescave'>
+The Asterite's Cave</a>
+
+<li><a href='display.pl?id=customize-enigma&theme=enigma1'>
+Enigma Classic</a>
+
+<li><a href='display.pl?id=customize-enigma&theme=advance'>
+Enigma Advance</a>
+
+<li><a href='display.pl?id=customize-enigma&theme=defender'>
+Defender of the Future</a>
+
+</ol>
+
+</div>
+
+</div>
+<div id='footer'> </div>
+</div>
+<!wiki func='wikitheme' type='footer'>
+</body>
+</html>

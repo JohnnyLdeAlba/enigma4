@@ -1,0 +1,69 @@
+<!wiki func='wikistamp' ip='192.168.0.3' created='20080830184400' comment='AAAA'>
+<html>
+<head>
+
+<meta name='author' content='Johnny L. de Alba' />
+<meta name="description" content="An Ecco the Dolphin, Ecco 2 Tides of Time and Ecco, Defender of the Future website." />
+<meta name="keywords" content="ecco the dolphin, ecco the tides of time, ecco defender of the future, ecco, ecco 2, cheats, codes, music, guides, faqs, roms, genesis, gamegear, megadrive, dreamcast, playstation 2, ps2" />
+<meta name="robots" content="all" />
+
+<title>Ecco the Dolphin on The Arkonviox Network</title>
+<link href='../eccoserv/theme/crystalmeth.css' rel='stylesheet' type='text/css'>
+
+</head>
+<body>
+
+<span id='visited'><a href='display.pl?id=index'>
+Index</a></span>
+
+<span id='visited'><a href='edit.pl?id=fan-artwork-discuss'>
+Edit</a></span>
+
+<span id='visited'><a href='display.pl?id=fan-artwork'>
+Display</a></span>
+
+<span id='tab'>Discuss</span>
+
+<span id='visited'><a href='display.pl?id=explore'>
+Explore</a></span>
+
+<span id='visited'><a href='history.pl?id=fan-artwork-discuss'>
+History</a></span>
+
+<div id='container'>
+<h1>Fan artwork discussion</h1>
+<h2>[ <a href='edit.pl?id=fan-artwork-discuss'>Edit</a> ]</h2>
+
+<span id='tab'>Arkonviox</span>
+<div id='thread'>
+<h1>Welcome to the fan artwork discussion page.</h1>
+Hi if you would like to contribute something or already have let me know so I can check my email to make sure I received the submition. If you don't see your work up whiten a week I probably didn't get it so let me know!
+</div>
+<br />
+
+<!wiki func='wikitalk' id='commentary'>
+
+<span id='tab'>Post a replie</span>
+<div id='panel'>
+<form action='edit.pl' method='post'>
+<input type='hidden' name='func' value='talk'>
+<input type='hidden' name='article' value='fan artwork discuss'>
+Username
+<br />
+<input type='text' name='username' size='45' value='' />
+<br />
+Topic
+<br />
+<input type='text' name='topic' size='45' value='' />
+<br /><br />
+Commentary
+<br />
+<textarea name='commentary' rows="10" cols="75"></textarea>
+<br /><br />
+<input type='submit' name='submit' value='Post' />
+</form>
+</div>
+
+</div>
+</body>
+</html>

@@ -1,0 +1,58 @@
+<!-- editorstamp::192.168.0.3::20081031081136 -->
+<html>
+<head>
+
+<meta name='author' content='Johnny L. de Alba' />
+<meta name="description" content="An Ecco the Dolphin, Ecco 2 Tides of Time and Ecco, Defender of the Future website." />
+<meta name="keywords" content="ecco the dolphin, ecco the tides of time, ecco defender of the future, ecco, ecco 2, cheats, codes, music, guides, faqs, roms, genesis, gamegear, megadrive, dreamcast, playstation 2, ps2" />
+<meta name="robots" content="all" />
+
+<title>Ecco the Dolphin on The Arkonviox Network</title>
+<!wiki func='wikitheme' type='header'>
+<div id='container'>
+<div id='header'> </div>
+
+<span id='visited'><a href='display.pl?id=index'>Index</a></span>
+<span id='tab'>Edit</span>
+<span id='visited'><a href='display.pl?id={article_lc}'>Display</a></span>
+
+<span id='visited'><a href='comment.pl?id=explore'>
+Explore</a></span>
+
+<span id='visited'><a href='history.pl?id={article_lc}'>History</a></span>
+<div id='panel'>
+<h1>Edit {article_ucfirst}</h1>
+<!-- errormessage -->
+<br />
+<span id='tab'>{article_ucfirst}</span>
+<div id='profile'>
+<form action='edit.pl' method='post'>
+<input type='hidden' name='func' value='update'>
+
+Article
+<br />
+<input type='text' name='article_ucfirst' size='45' value='{article_ucfirst}'>
+<br /><br />
+Content
+<br />
+<textarea name='content' rows="40" cols="75">{content}</textarea>
+
+<br /><br />
+<div class='cat'>Security Phrase</div>
+<br />
+{securityphrase}
+<br /><br />Please type in the numbers above.
+<br />
+<input type='text' name='securityphrase' size='45' value=''>
+
+<br /><br /><br />
+<input type='submit' name='submit' value='Save Article'>
+</form>
+</div>
+</div>
+
+<div id='footer'> </div>
+</div>
+<!wiki func='wikitheme' type='footer'>
+</body>
+</html>

@@ -1,0 +1,158 @@
+<!-- editorstamp::192.168.0.3::20081031081432 -->
+<html>
+<head>
+
+<meta name='author' content='Johnny L. de Alba' />
+<meta name="description" content="An Ecco the Dolphin, Ecco 2 Tides of Time and Ecco, Defender of the Future website." />
+<meta name="keywords" content="ecco the dolphin, ecco the tides of time, ecco defender of the future, ecco, ecco 2, cheats, codes, music, guides, faqs, roms, genesis, gamegear, megadrive, dreamcast, playstation 2, ps2" />
+<meta name="robots" content="all" />
+
+<title>Ecco the Dolphin on The Arkonviox Network</title>
+<!wiki func='wikitheme' type='header'>
+
+<div id='container'>
+<div id='header'> </div>
+<span id='visited'><a href='display.pl?id=index'>Index</a></span>
+<span id='visited'><a href='edit.pl?id=create-profile'>
+Edit</a></span>
+<span id='visited'><a href='comment.pl?id=fanfare'>
+Display</a></span>
+<span id='visited'><a href='comment.pl?id=explore'>
+Explore</a></span>
+<span id='visited'><a href='history.pl?id=create-profile'>
+History</a></span>
+<div id='panel'>
+<h1>Fanfare</h1>
+<br />
+<!-- errormessage -->
+<span id='tab'>Create Profile</span>
+<div id='profile'>
+<form action='update-profile.pl' method='post' enctype="multipart/form-data">
+
+<input type='hidden' name='func' value='update'>
+<input type='hidden' name='avatar_file' value='{avatar_file}'>
+
+<div class='cat'>General</div>
+<br />
+<div style='float:left;width:50%;'>
+Username<br />
+<input type='text' name='username_ucfirst' size='45' value='{username_ucfirst}'>
+<br />
+</div>
+
+<div>Realname<br />
+<input type='text' name='realname' size='45' value='{realname}'>
+</div>
+
+<div style='float:left;width:50%;'>
+Email<br />
+<input type='text' name='email' size='45' value='{email}'>
+</div>
+
+<div>Website<br />
+<input type='text' name='website' size='45' value='{website}'>
+</div>
+
+<br />
+<div style='float:left;width:50%;'>Birth<br />
+<input type='text' name='birth' size='45' value='{birth}'>
+</div>
+
+<div>Sex<br />
+<input type='radio' name='sex' value='Male' {sex::male}> Male
+<input type='radio' name='sex' value='Female' {sex::female}> Female
+</div>
+
+<br />
+<div>Operating System<br />
+<input type='text' name='operatingsystem' size='45' value='{operatingsystem}'>
+</div>
+
+<br />
+<div class='cat'>Instant Messangers</div>
+<br />
+<div>Primary Messanger
+<input type='radio' name='messanger1' value='(AIM)' {messanger1::aim}> AIM
+<input type='radio' name='messanger1' value='(ICQ)' {messanger1::icq}> ICQ
+<input type='radio' name='messanger1' value='(MSN)' {messanger1::msn}> MSN
+<input type='radio' name='messanger1' value='(YIM)' {messanger1::yim}> YIM
+<br />Primary Screenname
+<input type='text' name='screenname1' size='45' value='{screenname1}'>
+</div>
+
+<br />
+<div>Secondary Messanger
+<input type='radio' name='messanger2' value='(AIM)' {messanger2::aim}> AIM
+<input type='radio' name='messanger2' value='(ICQ)' {messanger2::icq}> ICQ
+<input type='radio' name='messanger2' value='(MSN)' {messanger2::msn}> MSN
+<input type='radio' name='messanger2' value='(YIM)' {messanger2::yim}> YIM
+<br />Secondary Screenname
+<input type='text' name='screenname2' size='45' value='{screenname2}'>
+</div>
+
+<br />
+<div class='cat''>Location</div>
+<br />
+<div style='float:left;width:50%;'>
+City<br />
+<input type='text' name='city' size='45' value='{city}'>
+</div>
+
+<div>State<br />
+<input type='text' name='state' size='45' value='{state}'>
+</div>
+
+<div>Country<br />
+<input type='text' name='country' size='45' value='{country}'>
+</div>
+
+<br />
+<div class='cat'>Favorites</div>
+<br />
+<div style='float:left;width:50%;'>
+Favorite Gaming Platform<br />
+<input type='text' name='favoriteplatform' size='45' value='{favoriteplatform}'>
+</div>
+
+<div>Favorite Game<br />
+<input type='text' name='favoritegame' size='45' value='{favoritegame}'>
+</div>
+
+<br />
+<div class='cat'>Security Phrase</div>
+<br />
+{securityphrase}
+<br /><br />Please type in the numbers above.
+<br />
+<input type='text' name='securityphrase' size='45' value=''>
+
+<br /><br />
+<div class='cat'>Personal</div>
+<br />
+<div>Interests<br />
+<input type='text' name='interests' size='45' value='{interests}'>
+</div>
+
+<br />
+About Myself
+<br />
+<textarea name='aboutmyself' rows="5" cols="75">{aboutmyself}</textarea>
+
+<br /><br />
+<div class='cat' style='font-weight:bold;'>Upload Avatar</div>
+<br />
+<input type="file" name="avatar_handle" value='{avatar_handle}'/>
+<br /><br /><br />
+
+<input type='submit' name='submit' value='Update Profile'>
+</form>
+
+</div>
+</div>
+<div id='footer'> </div>
+</div>
+
+
+<!wiki func='wikitheme' type='footer'>
+</body>
+</html>

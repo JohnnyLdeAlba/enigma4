@@ -1,0 +1,65 @@
+<!-- editorstamp::192.168.0.3::20081101023112 -->
+<!wiki func='wikistamp' ip='76.102.158.96' created='20080925214020' comment='AAA'>
+<html>
+<head>
+
+<meta name='author' content='Johnny L. de Alba' />
+<meta name="description" content="An Ecco the Dolphin, Ecco 2 Tides of Time and Ecco, Defender of the Future website." />
+<meta name="keywords" content="ecco the dolphin, ecco the tides of time, ecco defender of the future, ecco, ecco 2, cheats, codes, music, guides, faqs, roms, genesis, gamegear, megadrive, dreamcast, playstation 2, ps2" />
+<meta name="robots" content="all" />
+
+<title>Ecco the Dolphin on The Arkonviox Network</title>
+<!wiki func='wikitheme' type='header'>
+
+<div id='container'>
+<div id='header'> </div>
+
+<span id='visited'><a href='display.pl?id=index'>
+Index</a></span>
+
+<span id='visited'><a href='edit.pl?id=ecco-2-the-tides-of-time-video-1'>
+Edit</a></span>
+
+<span id='visited'><a href='display.pl?id=ecco-2-the-tides-of-time'>
+Display</a></span>
+
+<span id='tab'>Videos</span>
+
+<span id='visited'><a href='display.pl?id=ecco-2-the-tides-of-time-soundtracks'>
+Soundtracks</a></span>
+
+<span id='visited'><a href='comment.pl?id=explore'>
+Explore</a></span>
+
+<span id='visited'><a href='history.pl?id=ecco-2-the-tides-of-time-video-1'>
+History</a></span>
+
+<div id='panel'>
+<h1>Ecco 2 the tides of time videos</h1>
+<h2>[ <a href='edit.pl?id=ecco-2-the-tides-of-time-video-1'>Edit</a> ]</h2>
+
+<span id='tab'>Ecco 2 Tides of Time Commercial</span>
+<div id='panel'>
+<h1>This was the commercial shown in the United States for Ecco 2 The Tides of Time. The second part of the video shows a short clip of Ecco the Dolphin for the Sega Saturn.</h1>
+<br />
+<center>
+<embed src='../eccoserv/flash/cinemaplayer.swf'
+width='450' height='350' align='middle' bgcolor='#333333'
+
+name='sonetticFLVPlayer'
+type='application/x-shockwave-flash' quality='high'
+
+pluginspage='http://www.adobe.com/products/flashplayer'  allowScriptAccess='sameDomain' allowFullScreen='true'  
+
+flashvars='content=ecco-2-commercial.flv' />
+</center>
+<br />
+</div>
+
+</div> 
+
+<div id='footer'> </div>
+</div>
+<!wiki func='wikitheme' type='footer'>
+</body>
+</html>

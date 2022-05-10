@@ -1,0 +1,255 @@
+<!-- editorstamp::192.168.0.3::20081104132249 -->
+<html>
+<head>
+
+<meta name='author' content='Johnny L. de Alba' />
+<meta name="description" content="An Ecco the Dolphin, Ecco 2 Tides of Time and Ecco, Defender of the Future website." />
+<meta name="keywords" content="ecco the dolphin, ecco the tides of time, ecco defender of the future, ecco, ecco 2, cheats, codes, music, guides, faqs, roms, genesis, gamegear, megadrive, dreamcast, playstation 2, ps2" />
+<meta name="robots" content="all" />
+
+<title>Ecco the Dolphin on The Arkonviox Network</title>
+<!wiki func='wikitheme' type='header'>
+
+<span id='jukebox'></span>
+<div id='container'>
+<div id='header'> </div>
+
+<span id='visited'><a href='display.pl?id=index'>
+Index</a></span>
+
+<span id='visited'><a href='edit.pl?id=fanfare-{username_lc}'>
+Edit</a></span>
+
+<span id='visited'><a href='comment.pl?id=fanfare'>
+Display</a></span>
+
+<span id='visited'><a href='comment.pl?id=explore'>
+Explore</a></span>
+
+<span id='visited'><a href='history.pl?id=fanfare-{username_lc}'>
+History</a></span>
+
+<div id='panel'>
+<h1>Fanfare {username_uc}</h1>
+<h2>
+[ <a href='edit.pl?id=fanfare-{username_lc}'>Edit Template</a> ]
+[ <a href='update-profile.pl?id={username_lc}'>Edit Profile</a> ]
+</h2>
+
+<span id='tab'>Profile</span>
+<div id='profile'>
+
+<img src='../eccoserv/avatars/{avatar_file}'  style='float:left;margin:10px;' />
+
+<div style='width:110px;text-align:left;float:right;' id='key' >
+<div>Editor's Favorite</div>
+<div style='margin:1px 0px 1px 0px;'>
+<p align='center'>
+<img src='../eccoserv/artwork/sparky-lurkdragon-the-power-of-dolphin.png' />
+</p>
+</div>
+<div>The Power of Dolphin</div>
+</div>
+
+<div class='row' style='float:left;width:30%;'>
+<b>Username:</b> {username_ucfirst}</div>
+<div class='row'>
+<b>Realname:</b> {realname}</div>
+
+<div><b>Email:</b> {email}</div>
+<div class='row'><b>Website:</b> {website}</div>
+<div><b>Messangers:</b> {messanger1} {messanger2}</div>
+
+<br />
+<div class='row' style='float:left;width:40%;'>
+<b>Sex:</b> {sex}</div>
+<div class='row'>
+<b>Birth:</b> {birth}</div>
+
+<div style='float:left;width:40%;'>
+<b>City:</b> {city}</div>
+<div>
+<b>State:</b> {state}</div>
+<div><b>Country:</b> {country}</div>
+
+<br />
+<div class='row'><b>Operating System:</b> {operatingsystem}</div>
+<div><b>Favorite Gaming Platform:</b> {favoriteplatform}</div>
+<div class='row'><b>Favorite Game:</b> {favoritegame}</div>
+
+<br />
+<div><b>Interests:</b> {interests}</div>
+<div class='row'><b>About Myself:</b> {aboutmyself}
+</div>
+
+
+<br />
+<div id='key'>
+<div><img src='../eccoserv/icons/star.gif' />
+Contributions</div>
+
+<div style='margin:1px 0px 1px 0px;'>
+<p>
+<img src='../eccoserv/icons/guest.gif' />
+Former lurker of the original Ecco the Dolphin website The Undercaves.
+<br /><img src='../eccoserv/icons/guest.gif' />
+Former member of the Ecco the Dolphin website Isles of Tranquility.
+
+<br /><br />
+<img src='../eccoserv/icons/modify.gif' />
+Is a major editor and contributor of Ecco the Dolphin articles on Wikipedia.org.
+<br />
+<img src='../eccoserv/icons/modify.gif' />
+Is a major editor and contributor of Ecco the Dolphin articles on the Arkonviox Network.
+
+<br /><br />
+<img src='../eccoserv/icons/modify.gif' />
+Is a writer and fanfiction contributor on the Arkonviox Network.
+<br />
+<img src='../eccoserv/icons/profile.gif' />
+Is an artist and artwork contributor on the Arkonviox Network.
+</p>
+</div>
+<div> </div>
+</div>
+
+
+<div id='key'>
+<div><img src='../eccoserv/icons/profile.gif' />
+Fan Artwork Contributed</div>
+
+<div style='margin:1px 0px 1px 0px;'>
+
+<span style='font-style:italic;'>
+<img src='../eccoserv/icons/open.gif' />
+Ecco the Dolphin Artwork</span>
+<ol style='list-style-type: decimal;'>
+This user has not made any contributions yet.
+</ol>
+
+<span style='font-style:italic;'>
+<img src='../eccoserv/icons/open.gif' />
+Cetacean Artwork (Unrelated Ocean Artwork)</span>
+<ol style='list-style-type: decimal;'>
+
+<!-- ********** Cetacean Artwork 1 ********** -->
+<li>
+<a href='../eccoserv/artwork/sparky-lurkdragon-pencil-dolphin.jpg' target='_blank'>
+
+Pencil Dolphin</a> 
+<br />A dolphin in pencil. Sadly, I can't get a better scan of this.
+
+<!-- ********** Cetacean Artwork 2 ********** -->
+<li>
+<a href='../eccoserv/artwork/sparky-lurkdragon-pencil-dolphin-enhanced.jpg' target='_blank'>
+
+Pencil Dolphin Enhanced</a> 
+<br />A dolphin in pencil. (Arkonviox: I tried to enhance it a bit.)
+
+<!-- ********** Cetacean Artwork 3 ********** -->
+<br /><li>
+<a href='../eccoserv/artwork/sparky-lurkdragon-orca-breathing-sketch.jpg' target='_blank'>
+
+Orca Breathing Sketch</a> 
+<br />A surfacing orca.
+
+</ol>
+<span style='font-style:italic;'>
+<img src='../eccoserv/icons/open.gif' />
+Macros and Avatars</span>
+<ol style='list-style-type: decimal;'>
+
+<!-- ********** Macros and Avatars -1 ********** -->
+<li>
+<a href='../eccoserv/artwork/sparky-lurkdragon-dolphin-yaoi.jpg' target='_blank'>
+
+Dolphin Yaoi</a>
+<br />The perennial question of every fandom.</li>
+
+<!-- ********** Macros and Avatars 1 ********** -->
+<br /><li>
+<a href='../eccoserv/artwork/sparky-lurkdragon-ecco-and-pteranodon-otp.png' target='_blank'>
+
+Ecco/Pteranodon OTP!</a>
+<br />100x100 avatar celebrating Sparky's favourite crack pairing.
+
+<!-- ********** Macros and Avatars 2 ********** -->
+<br /><li>
+<a href='../eccoserv/artwork/sparky-lurkdragon-ecco-anger.gif'  target='_blank'>
+
+Ecco's Anger</a>
+<br />100x100 animated avatar portraying Ecco's RAAAAAGE!
+<br />(Real bottlenoses nod and clap their jaws when they're upset, you see.)
+
+<!-- ********** Macros and Avatars 3 ********** -->
+<br /><li>
+<a href='../eccoserv/artwork/sparky-lurkdragon-canon-mpreg.png'  target='_blank'>
+
+Canon Mpreg</a>
+<br />100x100 avatar... lol seahorses.
+
+<!-- ********** Macros and Avatars 4 ********** -->
+<br /><li>
+<a href='../eccoserv/artwork/sparky-lurkdragon-ecco-frying-over-a-jungle.png' target='_blank'>
+
+Ecco Frying Over a Jungle</a>
+<br />100x100 avatar with a quote from <i>Aero Fighters II</i>.
+
+<!-- ********** Macros and Avatars 5 ********** -->
+<br /><li>
+<a href='../eccoserv/artwork/sparky-lurkdragon-the-power-of-dolphin.png' target='_blank'>
+
+The Power of Dolphin</a>
+<br />Another 100x100 avatar with a quote from <i>Aero Fighters II</i>.
+
+<!-- ********** Macros and Avatars 6 ********** -->
+<br /><li>
+<a href='../eccoserv/artwork/sparky-lurkdragon-delphinus-icon.gif' target='_blank'>
+
+Delphinus Icon</a>
+<br />Animated 100x100 avatar depicting Delphinus glowing on Ecco's head.
+
+</ol></div>
+<div> </div>
+</div>
+
+<div id='key'>
+<div><img src='../eccoserv/icons/modify.gif' />
+Fan Fiction Contributed</div>
+<div style='margin:1px 0px 1px 0px;'>
+<ol style='list-style-type: decimal;'>
+
+<!-- ********** Fan Fiction 1 ********** -->
+<li>
+<a href='../eccoserv/fanfiction/sparky-lurkdragon-calling-the-pteranodon.htm' target='_blank'>
+
+Calling the Pteranodon</a>
+<br />A pteranodon has an encounter with what he perceives to be a talking fish.
+
+<!-- ********** Fan Fiction 2 ********** -->
+
+<br /><li>
+<a href='../eccoserv/fanfiction/sparky-lurkdragon-captivity.htm'  target='_blank'>
+
+Captivity</a>
+<br />Abducted and afraid, a mismatched pod of Singers puts its hopes in the strongest and fastest among them. Meanwhile, a lone dolphin searches for his lost pod.
+
+<!-- ********** Fan Fiction 3 ********** -->
+<br /><li>
+<a href='../eccoserv/fanfiction/sparky-lurkdragon-the-monitors.htm' target='_blank'>
+
+The Monitors</a>
+<br />The Vortex have escaped into Earth's past, escaped all their Singer enemies, including the hero Ecco. But in that distant past, they find creatures they cannot rule...
+
+</ol></div>
+<div> </div>
+</div>
+
+</div>
+</div>
+<div id='footer'> </div>
+</div>
+<script type='text/javascript' src='../ajax-lib.js'></script>
+<!wiki func='wikitheme' type='footer'>
+</body>
+</html>

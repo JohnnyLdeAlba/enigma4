@@ -1,0 +1,77 @@
+<!-- editorstamp::192.168.0.3::20081103003153 -->
+<html>
+<head>
+
+<meta name='author' content='Johnny L. de Alba' />
+<meta name="description" content="An Ecco the Dolphin, Ecco 2 Tides of Time and Ecco, Defender of the Future website." />
+<meta name="keywords" content="ecco the dolphin, ecco the tides of time, ecco defender of the future, ecco, ecco 2, cheats, codes, music, guides, faqs, roms, genesis, gamegear, megadrive, dreamcast, playstation 2, ps2" />
+<meta name="robots" content="all" />
+
+<title>Ecco the Dolphin on The Arkonviox Network</title>
+<!wiki func='wikitheme' type='header'>
+
+<div id='container'>
+<div id='header'> </div>
+
+<span id='visited'><a href='display.pl?id=index'>
+Index</a></span>
+
+<span id='visited'><a href='edit.pl?id=sprite-comics-2'>
+Edit</a></span>
+
+<span id='visited'><a href='display.pl?id=sprites-2'>
+Display</a></span>
+
+<span id='tab'>Sprite Comics</span>
+
+<span id='visited'><a href='comment.pl?id=explore'>
+Explore</a></span>
+
+<span id='visited'><a href='history.pl?id=sprite-comics-2'>
+History</a></span>
+
+<div id='panel'>
+<h1>Sprite Comics</h1>
+<h2>
+[ <a href='upload-image.pl'>Upload Sprite Comic</a> ]
+[ <a href='edit.pl?id=sprite-comics-2'>Edit</a> ]
+</h2>
+
+<p>Using the sprites provided and a spiffy background you too can create a comic series consisting of all game sprites. Just use the universal image uploader link in the top right hand corner and submit away!</p>
+
+<div style='text-align:left;' id='key'>
+
+<span class='tab'>
+Sprite Comics</span>
+
+<div> </div>
+<div style='margin:1px 0px 1px 0px;'>
+<p align='center'>
+
+<table cellspacing='0' cellpadding='0' width='550'>
+<tr>
+<td align='center' valign='bottom'>
+<a href='../eccoserv/artwork/artreus-headphones.png' target='_blank'>
+<img src='../eccoserv/artwork/artreus-headphonesx100.png' border='0' /></a>
+<br />Headphones by Artreus
+<td align='center' valign='bottom'>
+<a href='../eccoserv/artwork/artreus-heros.png' target='_blank'>
+<img src='../eccoserv/artwork/artreus-herosx100.png' border='0' /></a>
+<br />Heros by Artreus
+<!-- placeholder::2 -->
+</table>
+</p>
+</div>
+<div style='text-align:center;'>
+Page <a href='display.pl?id=sprite-comics-1'>1</a>, 2
+</div>
+</div>
+
+</div>
+</div>
+
+<div id='footer'> </div>
+</div>
+<!wiki func='wikitheme' type='footer'>
+</body>
+</html>

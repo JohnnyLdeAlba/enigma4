@@ -1,0 +1,81 @@
+<!-- editorstamp::192.168.0.3::20081101195703 -->
+<html>
+<head>
+
+<meta name='author' content='Johnny L. de Alba' />
+<meta name="description" content="An Ecco the Dolphin, Ecco 2 Tides of Time and Ecco, Defender of the Future website." />
+<meta name="keywords" content="ecco the dolphin, ecco the tides of time, ecco defender of the future, ecco, ecco 2, cheats, codes, music, guides, faqs, roms, genesis, gamegear, megadrive, dreamcast, playstation 2, ps2" />
+<meta name="robots" content="all" />
+
+<title>Ecco the Dolphin on The Arkonviox Network</title>
+
+<style type='text/css'>
+body {
+	margin: 0px; padding: 0px;
+	display: block;
+	background-color: #f0f0f0;
+	font-family: verdana;
+	font-size: 8pt; font-weight: normal;
+	color: #ffffff;
+}
+
+#key { margin: 6px; }
+
+#key .tab, #key div, #key td {
+	padding:2px;
+	font-family:verdana; font-size:7pt;
+	color:white;
+	background-color:black;
+}
+
+#key .visited {
+	padding:2px;
+	font-family:verdana; font-size:7pt;
+	color: #cccccc;
+	background-color:black;
+}
+
+#key b {
+	font-family:verdana; font-size:7pt;
+	font-weight:bold; color:white;
+}
+
+#key a:link, #key a:active, #key a:visited {
+	font-size: 7pt; font-weight: normal;
+	color: #0099ff; text-decoration: none;
+}
+
+</style>
+
+</head>
+<body>
+
+<center>
+<div id='key' style='text-align:left;'>
+<span class='tab'>Food Play</span>
+<div> </div>
+<div style='margin:1px 0px 1px 0px;height:420px;text-align:center;'>
+<center>
+
+<p style='color:#ffff00;'>"For as long as men massacre animals, they will kill each other. Indeed, he who sows the seed of murder and pain cannot reap joy and love." ~ Pythagoras, Greek mathematician and philosopher.</p>
+
+<embed src='../eccoserv/flash/cinemaplayer.swf'
+width='450' height='350' align='middle' bgcolor='#333333'
+
+name='sonetticFLVPlayer'
+type='application/x-shockwave-flash' quality='high'
+
+pluginspage='http://www.adobe.com/products/flashplayer'  allowScriptAccess='sameDomain' allowFullScreen='true'  
+
+flashvars='content=Playfood.flv' />
+
+<p>Did your mother never tell you not to play with your food?</p>
+
+</center>
+</div>
+<div> </div>
+</div>
+</center>
+
+</body>
+</html>

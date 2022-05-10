@@ -1,0 +1,46 @@
+<!wiki func='wikistamp' ip='192.168.0.3' created='20080829100451' comment='AAAAA'>
+<link href='../eccoserv/theme/crystalmeth.css' rel='stylesheet' type='text/css'>
+
+<span id='visited'><a href='display.pl?id=index'>
+Index</a></span>
+
+<span id='visited'><a href='edit.pl?id=ecco-defender-of-the-future-beta-image-gallery'>
+Edit</a></span>
+
+<span id='visited'><a href='display.pl?id=ecco-defender-of-the-future-beta'>
+Display</a></span>
+
+<span id='tab'>Image Gallery</span>
+
+<span id='visited'><a href='display.pl?id=ecco-defender-of-the-future-beta-discuss'>
+Discuss</a></span>
+
+<span id='visited'><a href='display.pl?id=explore'>
+Explore</a></span>
+
+<span id='visited'><a href='history.pl?id=ecco-defender-of-the-future-beta-image-gallery'>
+History</a></span>
+
+<div id='container'>
+<h1>Ecco defender of the future beta image gallery</h1>
+<h2>[ <a href='edit.pl?id=ecco-defender-of-the-future-beta-image-gallery'>Edit</a> ]</h2>
+
+<span id='tab'>Screenshots</span> 
+<div id='panel'>
+<h1>Some of the images have been retouched for the purposes of demonstration using photo manipulation software. To view the originals go to the screenshots section on <a href='../eccoserv' target='_blank'>EccoServ.</h1>
+<br />
+<table cellspacing='0' cellpadding='5' width='100%'>
+<tr>
+<td align='center' valign='top' width='50%'>
+<img src='../eccoserv/screenshots/ecco-dof-beta-tracktorx200.jpg' />
+<td align='center' valign='top' width='50%'>
+<img src='../eccoserv/screenshots/ecco-dof-beta-chasex200.jpg' />
+<tr>
+<td align='center' valign='top' width='50%'>
+<img src='../eccoserv/screenshots/ecco-dof-beta-queenx200.jpg' />
+</table>
+<br />
+<center>Page 1, 2</center>
+</div>
+
+</div> 

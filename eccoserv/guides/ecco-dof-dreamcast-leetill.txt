@@ -1,0 +1,1101 @@
+
+        {@@@@@@}         {@@@@@@@@}        {@@@@@@@@}         {@@@@@@@@}
+      {@@}    {@@}     {@@@}    {@@@@}   {@@@}    {@@@@}    {@@@}    {@@@}   
+    {@@@} {@@} {@@}   {@@@}      {@@@@} {@@@}      {@@@@} {@@@@}    {@@@@@@}
+   {@@@}    {@@@@@@} {@@@@}            {@@@@}            {@@@@}        {@@@@}
+   {@@@@@@@@@@@@@@@@}{@@@@}            {@@@@}            {@@@@}        {@@@@}
+   {@@@}             {@@@@@@}          {@@@@@@}          {@@@@}        {@@@@}
+   {@@@}             {@@@@@@@@@}       {@@@@@@@@@}       {@@@@}        {@@@@}
+    {@@@}        {@}  {@@@}         {@} {@@@}         {@} {@@@}     {@@@@@@}
+     {@@@@@}  {@@@}    {@@@@@}   {@@@}   {@@@@@}   {@@@}   {@@@@}    {@@@}
+       {@@@@@@@}         {@@@@@@@@}        {@@@@@@@@}        {@@@@@@@@}
+ 
+                                  THE DOLPHIN
+                          DEFENDER OF THE FUTURE GUIDE
+                                  By Lee Till
+                     Leetill@thepineapple.freeserve.co.uk
+                                   Version 7
+                       Made: 26/6/00 last updated: 3/7/00
+          Find the best version of this FAQ at GameFaqs.com/ & cheatcc.com/
+                         THE BEST PLACES FOR GAMEFAQS!
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+PLEASE WRITE IN TO TELL ME OF MISSING VITALITS AND ANY IMPROVEMENTS YOU CAN MAKE 
+          TO THIS GUIDE AND YOU WILL BE ENTERED IN THE THANKS SECTION.
+                             (If it's worthy enough)
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+This guide is intended to help anyone who has purchased Ecco the dolphin: 
+Defender of the future and needs some help. Please use the email address above 
+if you have any good points to make and extras that I've missed out. If you use 
+this guide on your site please give all credit to me!
+This is free and no money should be involved in this!
+
+                   Copyright 2000 from 26/6/00 by Lee Till.
+
+You can find more information on Ecco the dolphin at appaloosa's Ecco site:
+
+                           www.eccothedolphin.com/
+            
+Please note this game is huge so a general guide will come at first then more 
+detailed analysis will follow.
+
+
+
+********************************************************************************
+
+Index:  
+         1 History 
+         2 Main menu
+         3 Controls, Songs, Gifts and information
+         4 Main walkthrough 
+         5 Vitalits guide
+         6 Thanks
+
+
+
+********************************************************************************
+
+1: History
+           26/6/00 Started guide after almost completion of the rock hard game!
+           27/6/00 Getting really tired it's almost 1am just finished up to 
+                   Hatchery!
+           27/6/00 P.M actually bothered to finish game and complete the     
+                   Walkthrough.(nearly)
+           28/6/00 Minor changes created heading.
+           30/6/00 I'm going back through the game to make a more in-depth 
+                   guide also updating vitalit info and notes.
+           31/6/00 Quickly added vitalits and updated a mini boss guide in 
+                   blades of motion and cave of hope.
+           02/7/00 Got to level four for the second time, updated the level a 
+                   bit better!
+           03/7/00 Got to Shrine of controversy, and collected all vitalits up 
+                   to it except on roaring forces! Help needed!
+
+********************************************************************************
+
+2: Main menu
+
+         Continue Game: Continues game where you left off 
+                        (At start of level only)
+
+         Load Game    : You can choose any level to play on that you have 
+                        previously completed.
+
+         Options      : You can choose language, controller, audio and Rumble    
+                        pack options.
+
+         VM Menu      : Go back and select file of game to play on.
+
+
+
+********************************************************************************
+
+3: Controls, Songs, Gifts and Information
+
+     Ecco responds to you in various ways which all look cool here are the 
+     control layouts.
+     (I prefer control option B as you get more freedom of movement.)
+
+         A = When pressed repeatedly Ecco accelerates up to a limit, if you hold 
+             down the button at a speed, Ecco will maintain that speed.
+
+         B = This is used to head butt enemies, eat fish and also a quick boost 
+             of acceleration, you can also jump higher when boosting.
+        
+         X = This is your sonar you can talk to other dolphins with it, herd 
+             fish and also attack enemies and breaks rocks. 
+             (When power of sonar attained) Ecco can also create a very handy 
+             map by pressing and holding X and press X again to hide it.
+             (You cannot use the map above water)
+              
+         Y = A very special button when held down pressing left or right you 
+             turn around 180 degrees. If you accelerate and press up + Y you 
+             will cork screw. Down + Y will make you break if up + Y is held    
+             down Ecco will start swimming backwards.
+             (You'll need to master swimming backwards because you always get 
+             stuck in gaps etc)
+ 
+         L = You will turn to look at you left
+        
+         R = You will turn to look at your right
+
+         L+R= You will look backwards
+ 
+         Y+L= You will roll left
+  
+         Y+R= You will roll right
+
+--------------------------------------------------------------------------------
+
+    Songs:
+
+         Song of Ray:    Manta rays will obey you swimming in the direction you 
+                         tell them to.
+         Song of Shark:  When you hit a shark with this it cannot bite you and 
+                         some you can stun.
+         Song of Fish:   When you hit certain fishes with this the will follow 
+                         you.
+         Song of Turtle: When struck with the sonar turtle will follow you.
+
+         Song of Plant:  Use on ball shaped ink plants to reveal stinging vines.
+    
+--------------------------------------------------------------------------------
+    
+    Gifts:
+
+         Power of Air:       Gives you max air but runs down to normal.
+
+         Power of Sonar:     Allows you to attack enemies with you sonar and 
+                             break certain rocks.
+         Power of Vigour:    Allows you to swim faster jump higher and push 
+                             rocks.
+         Power of Stealth:   You can access mirrors (one in the game) and 
+                             enemies cannot see you.
+         Power of Endurance: Gives you max energy but returns to normal when you 
+                             are attacked.
+         Power of Morphing:  Only used twice in the game to turn yourself into a 
+                             small fish.
+
+--------------------------------------------------------------------------------
+
+    Information: 
+
+                 While leaping in the air sonar becomes a chatter and holding A 
+                 will limit your flexibility. 
+
+                 While at the surface repeatedly press A while facing up and you 
+                 will flap above the water.
+
+                 Air is obtained through spouts or on the surface.
+
+                 Energy is obtained by eating fish (Beware speckled red + yellow 
+                 fish as they are poisonous)
+   
+                 Vitalits are collected to increase you energy bar.
+                 (Only a tiny bit) The more you collect, the more energy you 
+                 can have. (halfway through the game you will have to collect 
+                 again as your energy resets)
+
+                 Eating poisonous fish will cure jellyfish stings.
+
+                 Don't be afraid to die (as you will often) because at many 
+                 stages of a level there are check points, which you can 
+                 continue from.
+
+                 Never quit a level when you are right near the end or else you 
+                 will have to start over again.
+
+                 The game only saves vitalits collected in a level and completed 
+                 levels. 
+                           
+                             NOT WHERE YOU GOT TO LAST IN A LEVEL!
+
+                 If there are two paths, and one looks like a dead end, always 
+                 go to the dead end because more often than not a vitalit is 
+                 there.
+
+                 Always use your map (hold X down) as you will find many doors 
+                 which you cannot see.
+
+
+
+********************************************************************************
+
+4: Main Walkthrough: This guide is constantly being updated till I think it is      
+                     complete. I will not spoil any plot within this guide. 
+                     Check vitalits section before entering a level so that 
+                     you know where the vitalits will be.
+
+--------------------------------------------------------------------------------
+
+(Movie: Prologue)
+
+--------------------------------------------------------------------------------
+
+(Level 1: Aquamarine Bay)
+
+Follow the dolphin's commands (good time to practice moves and stuff) until the 
+cut scene. You'll then find that the baby whale is trapped under some rocks. Go 
+talk to the two dolphins and they will help you move the green rock out of the 
+way allowing the wale to break free. 
+After this, follow the mother to the waterfall she will block the current 
+allowing you to access level 2.
+   
+--------------------------------------------------------------------------------
+
+(Level 2: Perils of the coral reef) 
+  
+Exit the main enclosement where the two dolphins are racing if you turn left you 
+will meet a dolphin that tells you he has lost his brother. You should see a gap 
+in a wall that you can jump over into a new area with turtles. Kill the Sharks 
+that are attacking the turtle and the dolphin will teach you the 'song of the 
+turtle'. 
+Jump back over the wall and talk to the other dolphin again, he will teach you 
+the 'song of the shark'. Go back over and carry on past the turtles. Down this 
+way and you should see a dolphin chasing a red fish around. Catch the fish and 
+you will be awarded with the 'song of the fish' 
+Then look around various parts of the area you should find two tunnels either 
+one accesses the great white area. Use illuminating fish (bright yellow with 
+black bits) to access the dark tunnel or Use poisonous fish (red + yellow 
+colour) to access the tunnel with pirhanas (use the sonar).
+Once you access the Great White area you will have already noticed the cut scene 
+at the beginning of the level. Try and get the shark to follow you through one 
+of the gaps in the middle rock. Once he is caught head butt him in the face to 
+receive the power of vigour. Use the power of vigour gem in the middle of the 
+area and then start attacking it until it dies.
+Afterwards backtrack to the area where you the dolphin is chasing the fish in 
+the centre is a route half blocked by rocks. At the end you should be able to 
+find a power of vigour, collect it and swim as hard as possible into the bright 
+light. 
+ 
+--------------------------------------------------------------------------------
+
+(Level 3: Trial without error) 
+  
+Ok, Have you noticed the difficulty curve yet? It gets even harder! Well not if 
+you use this guide. Anyway if you talk to the mother dolphin you will find out 
+that she has lost her three babies. Go immediately to the big rock that's 
+leaning against a wall. Talk to the baby hiding underneath and then catch it. He 
+will give up and return to his mother. The second baby can be found in the 
+tunnel with green vines hanging down from the top. The third baby is found in 
+the area with the two hammerheads, kill them both to find him.
+Then you have to find 'the one who fears sharks'. He can be found by accessing 
+the area loaded with sharks (through the tunnel with green vines), kill em all 
+and behind them is the chicken (by the way there is a power of vigour behind the 
+dolphin that you can use to kill the sharks easier).
+Talk to him and he will run off, so now go back to the area with the mother and 
+he will tell you that there is a secret entrance hidden around here but he can't 
+push the rock off. Get the power of vigour from the archway and push it off to 
+reveal a hole where the octopus is. Talk to the dolphin and he should now enter 
+the tunnel. When he is inside talk to him and he should say he has a plan. Let 
+him get caught by the octopus and quickly slip between while the octopus is 
+occupied (No pun intended).
+
+--------------------------------------------------------------------------------
+
+(Level 4: Four ways of mystery)
+
+Ok this next level is pretty tricky. Firstly you cannot get past the big eel at 
+the exit. And beware the little eels that like to bite. 
+Firstly go into the centre of the level and you find the 'power of air'.
+So you have to follow the tunnel with the purple crystal until you find a 
+dolphin in an open area that is looking for a blue fish. Go back to the main 
+area and you should see a really fast blue fish. Catch it and take it back to 
+the recluse. He will then teach you 'the song of ray'.
+Go back to the main area and then go through another one of the tunnels with the 
+red crystal to reach a huge manta in an open area use you new song to direct him 
+out of the area and back to the big eel. Once he is facing the exit hide 
+underneath him and quickly escape through the exit.
+
+(Level 2: Revisited)
+
+This exit leads you back to the 2nd level but you can now learn the power of 
+sonar. Push the rock down the hole and follow it until you reach a sonar symbol 
+go back and use it one the rocks on the left-hand side of the green fence 
+thingy. The rocks will break and now you can enter the main area of level 2. 
+Exit the level as shown in the previous section.
+
+(Level 3: Revisited
+ 
+Use the power of sonar to break a hole in the wall, which looks like the mouth 
+of a crocodile (you'll find it near a clue about teeth or something) directly 
+inside its gob is the exit.
+
+--------------------------------------------------------------------------------
+   
+(Level 5: Passage from genesis) Bonus level accessed from 'Up and Down'
+      
+This level can be accessed by pushing the boulder down the hole in the beginning 
+of the 'Up and down' level, near the big hot red rock. Down at the bottom of the 
+hole is four columns with lights. Hit them with 'the power of sonar' and they 
+will unlock this level.
+The level itself is a 2d level and doesn't have an exit it's just here to gather 
+vitalits (see vitalits section for a bit of advice).
+
+--------------------------------------------------------------------------------
+    
+(Level 6: Pathways from nowhere) Bonus level accessed from 'Up and Down'
+
+This is another 2d level similar to the days of old. There is no exit to the 
+level it is simply here for added fun and vitalits. Access this level by taking 
+all five jewels in 'Up and down level' to the circle shape disc floating on the 
+top of the waterfall. 1: is behind the logs. 2 & 3 are around the side. 4 & 5 
+are above the water. Jump over to the small pool next to the big one to access.
+
+--------------------------------------------------------------------------------
+
+(Level 7: Up and down) 
+     
+This level starts at a volcanic base with bubbles everywhere. Collect the power 
+of endurance then push the boulder down the hole and follow it down, grab 'the 
+power of sonar' and go back up hit the big red block with it (note access to 
+'passage of genesis' below). It will break sending a jet of water up into a 
+tunnel go up it. Dodge all the obstacles and enter the surface of 'Up and down'.   
+Jump down the waterfall and you will see a turtle. Use the 'song of the turtle' 
+and make the turtle follow you to the big manta (near the power of stealth). 
+Hit the turtle so that it drops on the manta and the manta will move out of the 
+way. Get the power of stealth hidden underneath it and then grab the icon 
+nearby. Use the stealth on the mirror door and you should be able to pass 
+through freely.
+  
+--------------------------------------------------------------------------------
+
+(Level 8: Roaring forces)
+
+This level is easy. Avoid the sharks and get the stealth. Now go to the tunnel 
+that's open an eel will start chasing you. Dodge the electric beams and keep 
+running away until you reach a picture with six switches on it (simple puzzle) 
+just hit the two switches that the dolphins are pointing to and a passage will 
+open. 
+Now you are in a room with a fish swimming round. Touch the 'power of morphing' 
+globe in the centre to sparkle and then hit the fish and you will morph into the 
+fish. Now you can pass through the grate into Atlantis.
+
+--------------------------------------------------------------------------------       
+   
+(Level 9: Atlantis lost)
+
+This level is easy. Find the first four gems, except the one above the building. 
+The first is hidden in the sandbank. The second is hidden in a rock behind 
+jellyfish. The third is hidden at the bottom near the jump rings (push the 
+boulder down the hole to access the tunnel). The fourth is behind a door that is 
+blocked by rocks. Use the power of sonar in the corner to access it. Take them 
+to the Guardian crystal one at a time to unlock hoops above the water. Dive up 
+and through the hoops to open the exhibition doors and weird energy balls. Go 
+into the cathedral and look at the four energy balls, then the speed rings will 
+be unlocked. You can now swim through all four to reach the fifth gem. It takes 
+a little aiming but you'll do it eventually, now go back to the guardian.
+   
+--------------------------------------------------------------------------------
+
+(Movie: Decent of the foe)
+
+--------------------------------------------------------------------------------
+
+(Movie: Vortex of time)  
+
+--------------------------------------------------------------------------------
+
+(Level 10: Shrine of controversy)
+
+This level was very tricky as the clues are crap but after hours I got it. 
+(Thanks bro!) Go down to the bottom and you'll see a tunnel near a big wheel. Go 
+through it to get to a cave with red dye, swim into it to become a red fin! 
+Now go talk to the Crimson dolphin and he says that he will join you in opening 
+the main building. Go down to the middle depth and you should see a tunnel with 
+a little fast yellow dolphin (movers) follow him through the tunnel with the 
+water with an opposing flow to battle the leader of the movers. He will exit 
+back out and he will agree to join you. 
+Finally talk to the circle dolphin who doesn't seem impressed with you, simply 
+go down to the bottom and turn the wheel with your nose, go back up and he will 
+join you. Go to the door of the main building and they'll open it for you. Get 
+the safety harness and go to the door at the bottom that was previously locked 
+use your sonar to open it and exit the level.
+    
+--------------------------------------------------------------------------------   
+
+(Level 11: Master of forgotten skills)
+
+This level isn't too hard go to the top you should see a fan thing with three 
+red switches on it. Hit them (can't remember the order) and you should see the 
+crane move and pick up the tractor and then drop it off onto the floor. 
+You now need to move all the half-empty crates out of the way and push the full 
+one to the door. Use your sonar to steer the tractor in a direction, One shot 
+will make it move, another will make it stop. Moving it to the sides of a cart 
+will make it lock onto the cart. You can now push the carts backwards and 
+forwards until the full one is clear to move to the door where you can now exit.
+It takes a lot of sense but after a few minutes it should be sussed.
+    
+--------------------------------------------------------------------------------      
+
+(Level 12: Process that never ends)
+
+Go through a tunnel or two and talk to the dolphin that is behind the glass, he 
+will start the belt and crushers. Go back and talk to the other dolphins, they 
+will now help you to push your cart further up the track. The cart will be 
+tipped over and rocks will fall onto the belt. Use the switches on the mini 
+rooms to open crushers when rocks go through until you get to the next area.    
+This next bit kinda sucks, as it's a bit glitchy. Firstly you can use the safety 
+harness to pick up rocks by double tapping and holding and then you put them in 
+the middle of the crusher. Eventually if done right the floor will open up 
+revealing an exit. (Even I didn't know what was happening at this point) 
+
+--------------------------------------------------------------------------------
+
+(Level 13: Blades in motion)
+
+This level is also quite solid as you have to move through a maze like structure 
+with little air and turn on all of the power globe things you then have to use 
+your 'power of sonar' to smash through glass that is cracked to access new 
+doors. Near the end of the level is a bright light that hurts when you touch it. 
+Just before there is a door (to your left I think) which leads out to the boss.
+
+(Level 13.1: Boss)
+
+The crayfish boss on this level is beaten by hitting his two chest plates three 
+times. Wait at the bottom of the water until he comes out then attack him and 
+repeat! Then exit through the hole created.
+
+Now carry on lighting the orbs and these will unlock the exit door.
+
+--------------------------------------------------------------------------------   
+
+(Level 14: Perpetual fluidity)
+
+Pretty hard level use the 'power of sonar' on the weird red things at the 
+beginning of the tunnel. Follow the tunnels and through the minefield (note you 
+can use the safety harness to hold enemies and mines and move them around!) 
+until you reach an opening with a huge indestructible shark. Hide in the bars 
+and hit the switch to reveal an open door. Now the puzzle is to open the doors 
+in this order: open red, open green, open red with green, open blue and yellow, 
+then one with no colours and blue and yellow again. 
+What you'll find is that the water rises look at the bar next to the switches. 
+The left side shows the lowest water level, the right side shows the highest 
+water level (using the current switch) and the middle shows the current water 
+level. 
+            !!!Never hit a switch that makes the water go down!!!
+The first few switches are tricky to explain but when you get to blue and yellow 
+hit the switch to open the blue door. Then hit the switch within the blue door 
+to make the water rise one last time. Go back out and re-hit the blue and yellow 
+switch to open the yellow door previously unavailable. Now at the top should be 
+white doors that you can go though to access old areas without hitting switches. 
+Get to the yellow door (I think it's near a green door) and once passing though 
+these enter the white door near it! And then you're done. (Please correct any 
+mistakes I have made, as I hated this level cus it took me hours!)
+
+--------------------------------------------------------------------------------  
+ 
+(Level 15: Obscure ways to terminus)
+
+Look on the map, there is one current that leads you round the exit door into a 
+new room. The other five currents push you back to the middle or start of the 
+area.
+   
+--------------------------------------------------------------------------------
+
+(Level 16: Sleeping forces of doom) 
+
+Another quite simple level, you have to hit the crystals (with your sonar) into 
+the core or by hitting the crystals in the snake's grip (by using the sonar). 
+Eventually it will blow up revealing a gold globe. (Inside)  
+ 
+--------------------------------------------------------------------------------
+
+(Movie: Twisted realities)
+
+--------------------------------------------------------------------------------
+
+(Level 17: Anguish of dearth)
+
+You'll enter near a city starving go to where the passage is blocked by rocks. 
+Inside are fish use 'the song of fish' on them and take them back to the old 
+dolphin that wouldn't talk. He will explain the situation and now you have to 
+find a way to the Clan's lair.
+Go back through the gap in the blocked passage and you should see a big fish 
+with kids in the area. Near the fence of the clan there is a stealth icon hidden 
+below the left wall. Use it and then you will be able to enter the big fish's 
+mouth, and on to the next level.
+  
+--------------------------------------------------------------------------------
+
+(Level 18: Entrapment)
+
+When you're inside the city you need to find a stealth icon to hide yourself 
+(below near the gate to the big building) then sound a trumpet shell (a big red 
+and yellow flower looking thing). Wait around the gate until it opens and you'll 
+now have access to the main building where a buddy is being tortured. Press the 
+switch to the right of the door (use a stealth behind the building to cloak 
+yourself). The big window will now open giving you access to the building. Go 
+around inside and press all the switches until you access the main console 
+(behind is a 'power of endurance'). Then the torture room will be opened after 
+pressing the switch. Get into the room to see your friend being tortured. Break 
+all the wires (at the wall and you don't need to kill the baddie) and you and 
+the hostage will escape. 
+You now need to lead him to safety through the city (stay to the right and don't 
+let him get hit) until you reach the passage with stinger wires in it. Pass 
+through it using your sonar avoiding the tentacles (hit the ink plants to reveal 
+them). He should teach you the 'song of plants'. Go back to the village and 
+there should be a power of sonar somewhere near the blocked passage. Destroy it 
+and bring more fish to the old dolphin. His son will now show you a passageway 
+to the resistance, exit.
+  
+--------------------------------------------------------------------------------
+
+(Level 19: Caverns of hope)
+ 
+You're now with the resistance. Talk to the leader and the Clan will break in 
+trapping everyone. Exit through the tunnel at the front to come to an area of 
+tunnels. You need to pass through an area where the resistance is throwing rocks 
+dodge by them all. You'll get to a pool where you need to jump over and carry on 
+over to the next area. Do this and continue until you get to a glyph that tells 
+you to help the scared dolphin. All you do is keep calling him on he will go 
+down the passage, but if a baddie attacks him he will run back. Try and stop him 
+and make him carry on. Defend him until he opens the tunnel leading to the boss?
+
+(Level 19.1: Alligator Boss)
+
+The riddle is crap as all you have to do is head butt him until he dies.
+
+Now exit.
+
+(Please correct me if my timing is wrong on this level)
+   
+--------------------------------------------------------------------------------
+
+(Level 20: Lair of evil)
+
+Go immediately right; do not go straight ahead. Carry on down the passageways 
+until you reach the dolphin who says he's gonna get you. The middle door, which 
+was locked, will be opened slightly allowing you to creep in and onto a 
+corridor. Go through it into a room with a clamshell. Press the switch on the 
+left to open the shell. Then press the switch on the right to drop a ball of dye 
+into the shell. It will close then open, go into the shell and then press the 
+switch that you can see. You will now have a symbol of rank 2 but you need 3. 
+Now you have access to more rooms with your rank.
+Now find the room with big pipes and a big dolphin. Talk to him and he will tell 
+you that the printing machine is broke. Follow him and you will see a starfish 
+shaped generator stuck. Go down and you will see a switch. Hit it and then get 
+the 'power of sonar' shoot the vine that is stopping it and then make your way 
+back to the clam room. 
+The big switch on the wall should now be able to turn to a level three printer. 
+Print yourself again with a level three print. Now go back to the room with big 
+tunes and the dolphin that wanted you to repair the generator. There is a tube 
+that will now twist open revealing the exit to the level.
+   
+--------------------------------------------------------------------------------
+
+(Level 21: Powers of levitation)
+
+This level fairly easy. Around the outside are three fans, now go inside each 
+one in turn and hit the switch to turn them on. Then go into the main room 
+outside the inner one where there is a computer thing. Go into the tunnel on the 
+left-hand side near the bottom is another door. This leads to a big circular 
+area full of corridors, go forward and you'll run into a dolphin that says he's 
+inspecting and don't bother him. In this room is a wobbly wall that hold a 
+stealth (and a secret level). Use this and follow him behind, but not too close 
+or he'll return back. He will then go outside and then into a locked tube. You 
+have to try and squeeze in the tube straight after the dolphin to reach a 
+friend.
+Talk to him and he says you need to find a third person to help turn on the 
+machine and unlock the eight generators. Go back to the circular corridors and 
+go through to each generator and hit the switches. Also talk to the whales 
+(engineers) they will agree to help you. 
+Now go back to the room with the computer thingy and help the other two dolphins 
+operate the machine to exit the level. (I've also heard there is a bonus level 
+near the secret wall to play football with another dolphin to win vitalits but 
+no evidence as of yet.)
+
+--------------------------------------------------------------------------------       
+
+(Level 22: Hanging waters)
+
+         This level consists of three pools each containing a boss. 
+           A solid, frustrating and very long level. (But cool)
+Anyway you have to jump over the doors to access a pond full of floating balls. 
+Jump into the balls to access the next corridor (just wait and it will rise and 
+float near enough to jump into the next tube). You should then be in an area 
+where the tubes split in three. Simply (not really) jump between them until you 
+get to another set of balls. This time you have to bounce over the grey balls to 
+reach the water. Eventually you'll reach a big pool with a suction tube in the 
+middle climb up to reach the first boss. 
+(Look at 22.1) 
+Now I think is where there is a giant squid blocking the way. When you reach the 
+squid you'll notice you can't get by. Go left and jump into the first ball you 
+see out of the tube. Follow it round until you see a rotating rock with three 
+pieces of ice in them. Hit it with your sonar to release part of the tube 
+holding up the squid. You'll now be back at the squid. Go left again but this 
+time follow it round you will see another rock with ice in it, hit it to turn 
+off another tube. One left, No you'll be back at the squid go right (I think) 
+and follow it round to another rock with ice in it. Hit this too and the squid 
+will fall out and die. Go back round and look up. You will see a rock with ice, 
+turned off. Hit it to turn the water tubes back on.
+Now pass through to another big pool with a suction tube and access the next 
+boss (look at 22.2) 
+Afterwards follow the route round until you get to a big circular pool with 
+windows in it. You should see a bird in one of the windows. Sonar it and it will 
+fly off. Now go back right to the beginning (near the last boss you fought and 
+you should see the bird waiting at the dead end to the left. Call it again and 
+it will pick you up and take you too the last pool. Suck up the spout to get to 
+the last boss (look at 22.3) 
+
+   After defeating the boss, Time warps again.
+
+(Boss Level 22.1: Ice and fire)
+     Simply guide the fire dolphin into the ice, he will be stunned and then 
+attack. When he turns into ice, lead him into the fire and he will be stunned 
+again. Repeat until dead.
+
+(Boss Level 22.2: Abyss of inferno)
+
+Simply pop the big balloons and head butt the smaller ones into the boss and 
+eventually he will die, next!
+
+(Boss Level 22.3: Mutaclone)
+ 
+Smash all the eggs at the bottom (beware the smoke reverses your controls) and 
+the shield will be destroyed. Now kill two of the dolphins and the last one will 
+start chasing you. Go through the big toxic egg and if successful the baddie 
+will hit the egg and become confused. Hit him and then repeat until dead.
+
+--------------------------------------------------------------------------------
+
+(Movie: Invasion)
+
+--------------------------------------------------------------------------------
+
+(Level 23: Chance of reckoning)
+
+Get a chance to fight the queen. Push the rocks into the whirlpools to make the 
+water rise (beware one whirlpool is blocked, use a 'power of sonar' to break 
+one) Kill the little creatures if you wish using your vigour and sonar attacks.   
+Then you need to use the 'power of sonar' on the queens eyes to brake her 
+shields then head butt them. At the back of her head is a little eye thing, do 
+the same to this too. After this a new hole opens up behind the 'power of sonar 
+tunnel' enter this to reach Hatchery.
+     
+--------------------------------------------------------------------------------
+
+(Level 24: Hatchery)
+     
+Thanks to Big Jay for this one! You will see a machine in the middle of the 
+room, but a shield guards it. Simply wait by one of the two switches (either 
+side of the wall near the big alien shark) as soon as these switches turn on 
+(either) hit them off (you should see a little cut scene). Then the shield is 
+lowered and you can attack. Repeat this three or four times to destroy the 
+machine. 
+This then allows you to access the egg making tube to advance to the next level.
+
+--------------------------------------------------------------------------------
+
+(Level 25: Seeds of poison)
+
+Fairly short and easy level, just collect the power of sonar and go up the tube, 
+hit the egg held, go back down, collect another power of sonar, go back up smash 
+the next egg and continue until you release the fish, exiting the level. (There 
+is a hollow containing oxygen at the bottom)
+
+--------------------------------------------------------------------------------
+
+(Level 26: Transfiguration) 
+
+This level was tricky but easy, simply go through the tunnel with bats on the 
+top and pick up a 'power of sonar' then back track and kill them (using your 
+sonar) all as you may need it again. Now go down to the bottom. Below the glyph 
+you should see a rock, shoot it and inside is another 'power of sonar'. Collect 
+this and then go into the small archway with the bat and about four rocks. 
+Inside one of the rocks is a 'power of morphing' (others hold vitalits).  
+collect it and then go touch the fish swimming around at the bottom. (Before 
+this you might want to close the enemies that shoot beams at you with the 'power 
+of sonar') 
+As the fish avoid all attacks and make your way up to the queen's chest with the 
+red mark. Hit it and you will enter her chest. 
+
+--------------------------------------------------------------------------------      
+
+(Level 27: Heart of foe)
+
+This level's easy. Just wait under where enemies are shot out and use your sonar 
+to push the squids into the heart, then hit the heart. Repeat this until dead. 
+Now give yourself a pat on the back as you've just completed one of the hardest 
+games in ages!
+
+--------------------------------------------------------------------------------
+
+(Movie: Epilogue)
+
+--------------------------------------------------------------------------------
+
+Not much but it's an acceptable ending I guess.
+
+
+
+********************************************************************************
+
+4: Vitalits guide: Please write to me to help the completion of this guide
+                         www.leetill@thepineapple.freeserve.co.uk
+                   By the way is there any real reason to collect them all? 
+
+(Level 1: Aquamarine bay)
+
+    1: At the side of one of the tower or rocks (in the plants above the water)
+
+    2: On top of one the tower of rocks (nearest to logs)
+
+    3: Underneath an arch in the middle of the level.
+
+    4: Talk to the chief dolphin he will ask you to race to catch a certain 
+       colour fish. Go get it and take it back to him. Then perform a victory 
+       tail walk until he gives you a vitalit.
+
+    5: Above the water near the waterfall. Jump up to reach it.
+
+                     ++++++++++++++++++++++++++++++++++++
+
+(Level 2: Perils of the coral reef) 
+
+    1: Race the two dolphins round the rocks to win a vitalit.
+
+    2: On the left pathway from where the two dolphins are racing (Below the 
+       dolphin who has lost his brother).
+
+    3: In the tunnel where you use yellow fish to light the way.
+
+    4: In the great white area, in the corner behind rocks.
+
+    5: In the great white area after collecting the power of vigour you can get 
+       the vitalit below the waterfall (Jump up slightly, takes a lot of time).
+
+                     ++++++++++++++++++++++++++++++++++++
+
+(Level 3: Trial without error)
+
+    1: In the room with the dolphin who fears sharks, behind the entrance.
+
+    2: In the room with hammerheads (Behind some rocks).
+
+    3: Near the 'power of vigour' that you need to get into the fifth 
+       level (Past the big rock mouth, behind a rock).
+
+    4: Catch all three of the dolphin's babies.
+
+    5: A vitalit is hidden in the rock face to the left side of the octopus.
+  
+                     ++++++++++++++++++++++++++++++++++++        
+
+(Level 4: Four ways of mystery)
+
+    1: In the open part with the recluse. It's above the water, jump out to get 
+       it.
+
+    2: In the manta ray area near the surface of the water.
+
+    3: In the tunnel with the yellow crystal high up in the first dead end.
+
+    4: In a tunnel near the exit (turn right at the purple crystal).
+
+    5: Go back to the level once acquiring the 'power of sonar' now collect it 
+       from the tunnel with the red crystal? And shoot the rock in the ceiling 
+       in the main room to access a secret area.
+   
+                     ++++++++++++++++++++++++++++++++++++
+
+(Level 5: Passage from genesis) 
+
+       All five are in different gaps scattered around the level, try using the 
+       'power of sonar' on big boulders to reveal secret vitalits.
+
+                     ++++++++++++++++++++++++++++++++++++
+
+(Level 6: Pathways from nowhere)
+
+       All five are in different locations scattered around the level. A guide 
+       may follow.
+
+                     ++++++++++++++++++++++++++++++++++++
+(Level 7: Up and down)
+
+    1: In a small cave at the beginning of the level.
+    
+    2: In the tunnel on the way up to the surface.
+
+    3: In the tunnel on the way up to the surface.
+  
+    4: In the tunnel on the way up to the surface.
+ 
+    5: Next to the base of the waterfall, use the 'power of endurance'.
+ 
+
+                     ++++++++++++++++++++++++++++++++++++
+
+(Level 8: Roaring forces)
+
+    1: One above the water, near the logs.
+
+    2: 
+
+    3:
+
+    4: One after opening the puzzle, in the small passageway.
+
+    5: One near the doorway to the exit (above).
+   
+                     ++++++++++++++++++++++++++++++++++++
+
+(Level 9: Atlantis lost)
+
+    1: In the dome of the cathedral. Inside, above the water, jump to get it.
+
+    2: The bottom of the exhibition hall with the green door.
+
+    3: Hidden under the plants next to one of the exhibition halls.
+
+    4: Above the entrance.
+
+    5: One in a plant on the right hand-side of the power of sonar.
+      
+                     ++++++++++++++++++++++++++++++++++++  
+
+(Level 10: Shrine of controversy)
+
+    1: There's one inside the circle shrine.
+
+    2:
+ 
+    3:
+
+    4:
+
+    5:
+     
+                     ++++++++++++++++++++++++++++++++++++
+
+(Level 11: Master of forgotten skills)
+
+    1: On the crane.
+
+    2: Behind the fan with switches.
+
+    3:
+
+    4:
+
+    5:
+
+                     ++++++++++++++++++++++++++++++++++++  
+   
+(Level 12: Process that never ends)  
+
+    1: In the (2nd?) dome where you collect air and press switches
+       (Above the water).
+
+    2:
+
+    3:
+
+    4:
+
+    5:
+
+                     ++++++++++++++++++++++++++++++++++++  
+
+(Level 13: Blades in motion)
+
+    1:
+
+    2:
+
+    3:
+
+    4:
+
+    5:
+   
+                     ++++++++++++++++++++++++++++++++++++
+
+(Level 14: Perpetual fluidity)
+
+    1: In one of those cages at the bottom of a room.
+
+    2: One above the water's surface in one of the rooms.
+
+    3:
+  
+    4:
+
+    5:
+   
+                     ++++++++++++++++++++++++++++++++++++
+
+(Level 15: Obscure ways to terminus)
+    
+    1-5: all five are above the walls that join the rooms. Just jump over to 
+         get them.
+
+                     ++++++++++++++++++++++++++++++++++++
+
+(Level 16: Sleeping forces of doom)   
+ 
+    1: Along the side of the room somewhere.
+
+                     ++++++++++++++++++++++++++++++++++++                  
+
+(Level 17: Anguish of dearth)
+
+    1:
+   
+    2:
+
+    3:
+
+    4:
+
+    5:
+
+                     ++++++++++++++++++++++++++++++++++++
+   
+(Level 18: Entrapment)
+
+    1:
+
+    2:
+
+    3:
+
+    4:
+
+    5:
+
+                     ++++++++++++++++++++++++++++++++++++
+   
+(Level 19: Caverns of hope)
+
+    1: Inside one of the shell hut things.
+
+    2: On top of the water near a breathing hole.
+
+    3:
+
+    4:
+
+    5:
+   
+                     ++++++++++++++++++++++++++++++++++++
+
+(Level 20: Lair of evil)
+
+    1: In the centre of the circle that never ends. (Follow the first path)
+
+    2: In one of the main rooms with three doors. (Above one of the doors)
+
+    3: Behind the cat-face shaped altar (On the map), In the room with the exit.
+
+    4:
+
+    5:
+   
+                    ++++++++++++++++++++++++++++++++++++
+
+(Level 21: Powers of levitation)
+
+    1: Inside one of the fans near a switch.
+
+    2: In the secret room near the dolphin who is an inspector.
+
+    3: Next to one of the generator switches.
+
+    4:
+
+    5:
+
+                    ++++++++++++++++++++++++++++++++++++
+
+(Level 22: Hanging waters)
+
+    1:
+
+    2:
+
+    3:
+
+    4:
+
+    5:
+
+(Boss Level 22.1: Ice and fire)
+
+    1:
+
+(Boss Level 22.2: Abyss of inferno)
+
+    1:
+
+(Boss Level 22.3: Mutaclone)
+
+    1: Inside the big egg.
+
+                    ++++++++++++++++++++++++++++++++++++
+
+(Level 23: Chance of reckoning)
+
+    1:
+
+    2:
+
+    3:
+
+    4:
+ 
+    5:
+
+                    ++++++++++++++++++++++++++++++++++++
+
+(Level 24: Hatchery)
+
+    1: Inside the tunnel. (Press the switch to enter it)
+
+    2:
+    
+    3:
+
+    4:
+
+    5: In the hole when you exit the level?
+
+                    ++++++++++++++++++++++++++++++++++++   
+
+(Level 25: Seeds of poison)
+
+    1-4: In four alcoves at the bottom of the level (where you start)
+
+    5: In one of the last sections before exiting the level.
+
+                    ++++++++++++++++++++++++++++++++++++
+
+(Level 26: Transfiguration)
+
+    1-3: Use the power of sonar to break open the rocks in the main room
+         (Near the 'power of morphing') 
+   
+
+    4: There is one above the water behind the glyph although I can't reach it.
+
+    5:
+
+                    ++++++++++++++++++++++++++++++++++++
+
+(Level 27: Heart of foe)
+
+    1-5: All at the top of the level in small pits.
+
+                    ++++++++++++++++++++++++++++++++++++
+
+I have more I just can't remember where I got them! They will be updates second 
+time round.
+
+********************************************************************************
+
+6: Thanks
+           Thanks to myself for now for actually bothering to write this guide 
+           (I have exams, see)
+           And my little bro Michael for showing me the obvious on some of the 
+           harder levels.
+           Big Jay!!!! Thanks for the hatchery info!
+           Arnaud Theifaine for vitalit info!
+           Peter Oertel for vitalit and crystal info!
+           Chris 'Acid Arnie' for the vitalit info!
+
+
+
+********************************************************************************   
+        
+See more of my guides @ Gamefaqs.com/ 
+                        Segadreamcast.net/
+                        Cheatcc.com/
+                        Gameadvice.com/
+                        Gamingplanet.com/
+                        Fookes.clara.net/
+                        http://ecco-the-dolphin.org.nz/
+
+You can use this on your sites but please ask permission before you use this 
+guide on your web site ok?

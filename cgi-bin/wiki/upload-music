@@ -1,0 +1,74 @@
+<!-- editorstamp::192.168.0.3::20081103202515 -->
+<html>
+<head>
+
+<meta name='author' content='Johnny L. de Alba' />
+<meta name="description" content="An Ecco the Dolphin, Ecco 2 Tides of Time and Ecco, Defender of the Future website." />
+<meta name="keywords" content="ecco the dolphin, ecco the tides of time, ecco defender of the future, ecco, ecco 2, cheats, codes, music, guides, faqs, roms, genesis, gamegear, megadrive, dreamcast, playstation 2, ps2" />
+<meta name="robots" content="all" />
+
+<title>Ecco the Dolphin on The Arkonviox Network</title>
+<!wiki func='wikitheme' type='header'>
+
+<div id='container'>
+<div id='header'> </div>
+
+<span id='visited'><a href='display.pl?id=index'>Index</a></span>
+<span id='visited'><a href='edit.pl?id=upload-music'>
+Edit</a></span>
+<span id='visited'><a href='display.pl?id=fan-music-1'>
+Display</a></span>
+<span id='visited'><a href='display.pl?id=explore'>
+Explore</a></span>
+<span id='visited'><a href='history.pl?id=upload-music'>
+History</a></span>
+<div id='panel'>
+<h1>Fanfare</h1>
+<!-- errormessage -->
+<br />
+<span id='tab'>Upload Music</span>
+<div id='panel'>
+<form action='upload-music.pl' method='post' enctype="multipart/form-data">
+
+<input type='hidden' name='func' value='upload'>
+
+Title<br />
+<input type='text' name='title_ucfirst' size='45'
+ value='{title_ucfirst}'>
+
+<br />
+Artist<br />
+<input type='text' name='author_ucfirst' size='45'
+ value='{author_ucfirst}'>
+
+<br /><br />
+Description
+<br />
+<textarea name='description' rows="5" cols="75">{description}</textarea>
+
+<br /><br />
+File
+<input type="file" name="music_handle" />
+
+<br /><br />
+<div class='cat'>Security Phrase</div>
+<br />
+{securityphrase}
+<br /><br />Please type in the numbers above.
+<br />
+<input type='text' name='securityphrase' size='45' value=''>
+
+<br /><br /><br />
+<input type='submit' name='submit' value='Upload Music'>
+</form>
+
+</div>
+
+</div>
+
+</div>
+
+<div id='footer'> </div>
+<!wiki func='wikitheme' type='footer'>
+</body>
+</html>

@@ -1,0 +1,101 @@
+<!wiki func='wikistamp' ip='192.168.0.3' created='20080926144320' comment='AAA'>
+<html>
+<head>
+
+<title>Ecco the Dolphin on The Arkonviox Network</title>
+<!wiki func='wikitheme' type='header'>
+<div id='container'>
+<div id='header'>&nbsp;</div>
+
+<span id='visited'><a href='display.pl?id=index'>
+Index</a></span>
+
+<!--
+********************************************************
+Edit Tab
+Please replace CHANGE-ME with the title of your article.
+If your article title is "Change Me" the url should be
+change-me.
+
+This is to make the edit tab work properly.
+
+********************************************************
+--/>
+
+<span id='visited'><a href='edit.pl?id=CHANGE-ME'>
+Edit</a></span>
+
+<span id='tab'>
+Display</span>
+
+<span id='visited'><a href='display.pl?id=explore'>
+Explore</a></span>
+
+<!--
+********************************************************
+History Tab
+Please replace CHANGE-ME with the title of your article.
+If your article title is "Change Me" the url should be
+change-me.
+
+This is to make the history tab work properly.
+
+********************************************************
+--/>
+<span id='visited'><a href='history.pl?id=CHANGE-ME'>
+History</a></span>
+
+<div id='panel'>
+
+<!--
+********************************************************
+Header
+Please replace CHANGE-ME with the title of your article.
+The header should begin with an upper case letter and the
+following letters should be lower case.
+
+If your article title is "Change Me" the header should be
+Change me.
+
+This is for consistency with headers throughout the site.
+
+********************************************************
+--/>
+<h1>CHANGE-ME</h1>
+
+
+<!--
+********************************************************
+Edit Link
+Please replace CHANGE-ME with the title of your article.
+If your article title is "Change Me" the url should be
+change-me.
+
+This is to make the edit link work properly.
+
+********************************************************
+--/>
+<h2>[ <a href='edit.pl?id=CHANGE-ME'>Edit</a> ]</h2>
+
+
+<!--
+********************************************************
+Content
+Please remove CONTENT-OF-ARTICLE and start adding the
+content for your article.
+
+If you need help understanding how to do this, please
+refer to the help section under the Explore tab
+for information on article creation.
+
+********************************************************
+--/>
+CONTENT-OF-ARTICLE
+
+</div>
+
+<div id='footer'>&nbsp;</div>
+</div>
+<!wiki func='wikitheme' type='footer'>
+</body>
+</html>

@@ -1,0 +1,62 @@
+<!-- editorstamp::192.168.0.3::20081101024507 -->
+<html>
+<head>
+
+<meta name='author' content='Johnny L. de Alba' />
+<meta name="description" content="An Ecco the Dolphin, Ecco 2 Tides of Time and Ecco, Defender of the Future website." />
+<meta name="keywords" content="ecco the dolphin, ecco the tides of time, ecco defender of the future, ecco, ecco 2, cheats, codes, music, guides, faqs, roms, genesis, gamegear, megadrive, dreamcast, playstation 2, ps2" />
+<meta name="robots" content="all" />
+
+<title>Ecco the Dolphin on The Arkonviox Network</title>
+<!wiki func='wikitheme' type='header'>
+
+<div id='container'>
+<div id='header'> </div>
+
+<span id='visited'><a href='display.pl?id=index'>
+Index</a></span>
+
+<span id='visited'><a href='edit.pl?id=ecco-sentinels-of-the-universe-video-2'>
+Edit</a></span>
+
+<span id='visited'><a href='display.pl?id=ecco-sentinels-of-the-universe'>
+Display</a></span>
+
+<span id='tab'>Videos</span>
+
+<span id='visited'><a href='comment.pl?id=explore'>
+Explore</a></span>
+
+<span id='visited'><a href='history.pl?id=ecco-sentinels-of-the-universe-video-2'>
+History</a></span>
+
+<div id='panel'>
+<h1>Ecco sentinels of the universe videos</h1>
+<h2>[ <a href='edit.pl?id=ecco-sentinels-of-the-universe-video-2'>Edit</a> ]</h2>
+
+<span id='visited'><a href='display.pl?id=ecco-sentinels-of-the-universe-video-1'>Video 1</a></span>
+<span id='tab'>Video 2</span>
+<div id='panel'>
+<h1>Another video demonstration showing the level Atlantis and dolphins talking about a swim race.</h1>
+<br />
+<center>
+<embed src='../eccoserv/flash/cinemaplayer.swf'
+width='450' height='350' align='middle' bgcolor='#333333'
+
+name='sonetticFLVPlayer'
+type='application/x-shockwave-flash' quality='high'
+
+pluginspage='http://www.adobe.com/products/flashplayer'  allowScriptAccess='sameDomain' allowFullScreen='true'  
+
+flashvars='content=ecco-sentinels-katana-swim-race.flv' />
+</center>
+<br />
+</div>
+
+</div> 
+
+<div id='footer'> </div>
+</div>
+<!wiki func='wikitheme' type='footer'>
+</body>
+</html>

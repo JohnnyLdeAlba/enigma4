@@ -1,0 +1,76 @@
+<!wiki func='wikistamp' ip='76.102.158.96' created='20080925215518' comment='AAA'>
+<html>
+<head>
+
+<meta name='author' content='Johnny L. de Alba' />
+<meta name="description" content="An Ecco the Dolphin, Ecco 2 Tides of Time and Ecco, Defender of the Future website." />
+<meta name="keywords" content="ecco the dolphin, ecco the tides of time, ecco defender of the future, ecco, ecco 2, cheats, codes, music, guides, faqs, roms, genesis, gamegear, megadrive, dreamcast, playstation 2, ps2" />
+<meta name="robots" content="all" />
+
+<title>Ecco the Dolphin on The Arkonviox Network</title>
+<!wiki func='wikitheme' type='header'>
+<div id='container'>
+<div id='header'> </div>
+<span id='visited'><a href='display.pl?id=index'>
+Index</a></span>
+
+<span id='visited'><a href='edit.pl?id=ecco-for-sega-saturn-discuss'>
+Edit</a></span>
+
+<span id='visited'><a href='display.pl?id=ecco-for-sega-saturn'>
+Display</a></span>
+
+<span id='visited'><a href='display.pl?id=ecco-for-sega-saturn-video-1'>
+Videos</a></span>
+
+<span id='tab'>Discuss</span>
+
+<span id='visited'><a href='display.pl?id=ecco-for-sega-saturn-links'>
+Links</a></span>
+
+<span id='visited'><a href='display.pl?id=explore'>
+Explore</a></span>
+
+<span id='visited'><a href='history.pl?id=ecco-for-sega-saturn-discuss'>
+History</a></span>
+
+<div id='panel'>
+<h1>Ecco for sega saturn discussion</h1>
+<h2>[ <a href='edit.pl?id=ecco-for-sega-saturn-discuss'>Edit</a> ]</h2>
+
+<span id='tab'>Arkonviox</span>
+<div id='thread'>
+<h1>Welcome.</h1>
+Feel free to start a discussion.
+</div>
+<br />
+
+<!wiki func='wikitalk' id='commentary'>
+
+<span id='tab'>Post a replie</span>
+<div id='panel'>
+<form action='edit.pl' method='post'>
+<input type='hidden' name='func' value='talk'>
+<input type='hidden' name='article' value='ecco for sega saturn discuss'>
+Username
+<br />
+<input type='text' name='username' size='45' value=''>
+<br />
+Topic
+<br />
+<input type='text' name='topic' size='45' value=''>
+<br /><br />
+Commentary
+<br />
+<textarea name='commentary' rows="10" cols="75"></textarea>
+<br /><br />
+<input type='submit' name='submit' value='Post'>
+</form>
+</div>
+
+</div> 
+<div id='footer'> </div>
+</div>
+<!wiki func='wikitheme' type='footer'>
+</body>
+</html>

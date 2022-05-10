@@ -1,0 +1,140 @@
+body {
+	margin: 0px; padding: 12px;
+	display: block;
+	background-color: #000000;
+	background-image: url(the-undercaves-background-image.jpg);
+	border: 0px none transparent;
+	font-family: verdana;
+	font-size: 9pt; font-weight: normal;
+	color: #00ff00;
+}
+
+div, form, td {
+	margin: 0px; padding: 0px;
+	background-color: transparent;
+	border: 0px none transparent;
+	font-size: 9pt; font-weight: normal;
+	color: #00ff00;
+}
+
+input, textarea {
+	margin: 0px; padding: 0px;
+	background-color: #002244;
+	border: 1px solid #0055bb;
+	font-size: 9pt; font-weight: normal;
+	color: #00ff00;
+}
+
+ol { list-style: upper-roman; }
+
+a:link, a:active, a:visited {
+	font-size: 9pt; font-weight: normal;
+	color: #00ff00; text-decoration: none;
+}
+
+#tab {
+	margin: 0px; padding: 6px;
+	display: inline;
+	background-color: #002244;
+	border-width: 1px 1px 0px 1px;
+	border-style: solid; border-color: #0055bb;
+	font-size: 9pt; font-weight: bold;
+	color: #00ff00;
+}
+
+#visited {
+	margin: 0px; padding: 6px;
+	display: inline;
+	background-color: #001133;
+	border-width: 1px 1px 0px 1px;
+	border-style: solid; border-color: #0055bb;
+	font-size: 9pt; font-weight: bold;
+	color: #009900;
+}
+
+#visited a:link, #visited a:active, #visited a:visited {
+	font-size: 9pt; font-weight: bold;
+	color: #009900; text-decoration: none;
+}
+
+#container {
+	width: 640px;
+	
+	margin: 5px 0px 0px 0px; padding: 6px;
+	display: block;
+	background-color: #003355;
+	border: 1px solid #0055bb;
+	font-size: 9pt; font-weight: normal;
+	color: #00ff00;
+}
+
+#thread {
+	margin: 5px 0px 0px 0px; padding: 6px;
+	display: block;
+	background-color: #002244;
+	border: 1px solid #0055bb;
+	font-size: 9pt; font-weight: normal;
+	color: #00ff00;
+}
+
+#panel, #thread  {
+	margin: 5px 0px 0px 0px; padding: 6px;
+	display: block;
+	background-color: #003355;
+	border: 1px solid #0055bb;
+	font-size: 9pt; font-weight: normal;
+	color: #00ff00;
+}
+
+#container h1, #panel h1 {
+	margin: 0px; padding: 2px;
+	display: block;
+	background-color: none;
+	border-width: 0px 0px 1px 0px;
+	border-style: solid; border-color: #00ff00;
+	font-size: 9pt; font-weight: normal;
+	color: #00ff00;
+}
+
+#thread h1 {
+	margin: 0px; padding: 2px;
+	display: block;
+	background-color: none;
+	border-width: 0px 0px 1px 0px;
+	border-style: solid; border-color: #00ff00;
+	font-size: 9pt; font-weight: normal;
+	color: #00ff00; text-align: right;
+}
+
+#container h2 {
+	margin: 2px; padding: 2px;
+	display: block;
+	background-color: none;
+	border-width: 0px;
+	border-style: none; border-color: transparent;
+	font-size: 9pt; font-weight: normal;
+	color: #00ff00; text-align: right;
+}
+
+#container h3 {
+	margin: 2px; padding: 2px;
+	display: block;
+	background-color: none;
+	border-width: 0px;
+	border-style: none; border-color: transparent;
+	font-size: 9pt; font-weight: normal;
+	color: #00ff00; text-align: center;
+}
+
+#caption {
+	width: 210px;
+
+	margin: 4px; padding: 6px;
+	display: block; float: right;
+	background-color: #002244;
+	border: 1px solid #0055bb;
+	font-size: 8pt; font-weight: normal;
+	color: #00ff00; text-align: left;
+}
+
+#jukebox { position:absolute; top: -17px; left: -17px; }

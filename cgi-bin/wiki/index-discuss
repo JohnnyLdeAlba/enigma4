@@ -1,0 +1,87 @@
+<!wiki func='wikistamp' ip='94.102.49.38' created='20081026171614' comment='WikiTalk user post.'>
+<html>
+<head>
+
+<meta name='author' content='Johnny L. de Alba' />
+<meta name="description" content="An Ecco the Dolphin, Ecco 2 Tides of Time and Ecco, Defender of the Future website." />
+<meta name="keywords" content="ecco the dolphin, ecco the tides of time, ecco defender of the future, ecco, ecco 2, cheats, codes, music, guides, faqs, roms, genesis, gamegear, megadrive, dreamcast, playstation 2, ps2" />
+<meta name="robots" content="all" />
+
+<title>Ecco the Dolphin on The Arkonviox Network</title>
+<!wiki func='wikitheme' type='header'>
+<div id='container'>
+<div id='header'> </div>
+
+<span id='visited'><a href='display.pl?id=index'>
+Index</a></span>
+
+<span id='visited'><a href='edit.pl?id=index-discuss'>
+Edit</a></span>
+
+<span id='tab'>Discuss</span>
+
+<span id='visited'><a href='display.pl?id=explore'>
+Explore</a></span>
+
+<span id='visited'><a href='history.pl?id=index-discuss'>
+History</a></span>
+
+<div id='panel'>
+<h1>Index and explore discussion</h1>
+<h2>[ <a href='edit.pl?id=index-discuss'>Edit</a> ]</h2>
+
+<!wiki func='module' type='error'>
+<br />
+
+<span id='tab'>Arkonviox</span>
+<div id='thread'>
+<h1>Moved</h1>
+All updates will be on the "explore" page for now on.
+Normal discussion can still be made here.
+</div>
+<br />
+
+<span id='tab'>CoolGuy</span>
+<div id='thread'>
+<h1>Thats Awesome Arkon!</h1>
+Thats awesome Arkon!
+</div>
+<br />
+
+<!wiki func='updatecomment' id='comment'>
+
+<span id='tab'>Make a comment</span>
+<div id='panel'>
+<form action='module.pl' method='post'>
+<input type='hidden' name='id' value='comment'>
+<input type='hidden' name='func' value='post'>
+<input type='hidden' name='display' value='{display}'>
+Username
+<br />
+<input type='text' name='username' size='45' value='{username}'>
+<br />
+Topic
+<br />
+<input type='text' name='topic' size='45' value='{topic}'>
+
+<br /><br />Security Phrase
+<br /><br />
+{security}
+<br /><br />Please type in the numbers above.
+<br />
+<input type='text' name='security' size='45' value=''>
+
+<br /><br />
+Commentary
+<br />
+<textarea name='comment' rows="10" cols="75"></textarea>
+<br /><br />
+<input type='submit' name='submit' value='Comment'>
+</form>
+</div>
+
+</div>
+
+<div id='footer'> </div>
+</div>
+<!wiki func='wikitheme' type='footer'>

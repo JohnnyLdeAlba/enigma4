@@ -1,0 +1,211 @@
+<!-- editorstamp::192.168.0.3::20081101024528 -->
+<!wiki func='wikistamp' ip='76.102.158.96' created='20080925215824' comment='AAA'>
+<html>
+<head>
+
+<meta name='author' content='Johnny L. de Alba' />
+<meta name="description" content="An Ecco the Dolphin, Ecco 2 Tides of Time and Ecco, Defender of the Future website." />
+<meta name="keywords" content="ecco the dolphin, ecco the tides of time, ecco defender of the future, ecco, ecco 2, cheats, codes, music, guides, faqs, roms, genesis, gamegear, megadrive, dreamcast, playstation 2, ps2" />
+<meta name="robots" content="all" />
+
+<title>Ecco the Dolphin on The Arkonviox Network</title>
+<!wiki func='wikitheme' type='header'>
+<div id='container'>
+<div id='header'> </div>
+<span id='visited'><a href='display.pl?id=index'>
+Index</a></span>
+
+<span id='visited'><a href='edit.pl?id=how-to-create-an-article'>
+Edit</a></span>
+
+<span id='tab'>Display</span>
+
+<span id='visited'><a href='comment.pl?id=explore'>
+Explore</a></span>
+
+<span id='visited'><a href='history.pl?id=how-to-create-an-article'>
+History</a></span>
+
+<div id='panel'>
+<h1>How to create an article</h1>
+<h2>
+[ <a href='edit.pl?id=how-to-create-an-article'>Edit</a> ]
+</h2>
+
+To create an article click on <a href='edit.pl?id=change-me'>this link</a> and follow the directions within the comments. Then use the panels below for directions on how to to create various article elements. 
+
+<br /><br />
+<span id='tab'>Creating a new paragraph</span>
+<div id='panel'>
+<h1>
+To create a new paragraph in HTML you must surround the paragraph
+with an opening <span style='color:blue;'>[<]</span><span style='font-weight:bold;color:red;'>p</span><span style='color:blue;'>[>]</span> tag and a closing <span style='color:blue;'>[<]</span><span style='font-weight:bold;color:red;'>/p</span><span style='color:blue;'>[>]</span> tag.
+</h1>
+
+<br />
+<div id='code'>
+Paragraph One
+<span style='color:blue;'>[<]</span><span style='font-weight:bold;color:red;'>p</span><span style='color:blue;'>[>]</span>Paragraph Two<span style='color:blue;'>[<]</span><span style='font-weight:bold;color:red;'>/p</span><span style='color:blue;'>[>]</span>
+</div>
+
+<br />
+<div id='panel' style='font-size:7pt;'>
+Paragraph One 
+<p>Paragraph Two</p>
+</div>
+</div>
+
+<br />
+<span id='tab'>Separating text on a new line</span>
+<div id='panel'>
+<h1>
+To separate text on a new line in HTML you must add a <span style='color:blue;'>[<]</span><span style='font-weight:bold;color:red;'>br /</span><span style='color:blue;'>[>]</span> tag before the text you want separated.
+</h1>
+
+<br />
+<div id='code'>
+A line of text.<span style='color:blue;'>[<]</span><span style='font-weight:bold;color:red;'>br /</span><span style='color:blue;'>[>]</span>A new line of text.
+</div>
+
+<br />
+<div id='panel' style='font-size:7pt;'>
+A line of text.
+<br />A new line of text.
+</div>
+
+<br />
+<h1>
+This method can also be used to separate text multiple new lines down.
+</h1>
+
+<br />
+<div id='code'>
+A line of text.<span style='color:blue;'>[<]</span><span style='font-weight:bold;color:red;'>br /</span><span style='color:blue;'>[>]</span><span style='color:blue;'>[<]</span><span style='font-weight:bold;color:red;'>br /</span><span style='color:blue;'>[>]</span>A new line of text.
+</div>
+
+<br />
+<div id='panel' style='font-size:7pt;'>
+A line of text.
+<br /><br />A new line of text.
+</div>
+</div>
+
+<br />
+<span id='tab'>Adding multiple spaces to text</span>
+<div id='panel'>
+<h1>
+To add multiple spaces between text in HTML you must type <span style='color:red;'>[&]nbsp;</span> between the text, instead of using regular space characters.
+</h1>
+
+<br />
+<div id='code'>
+Some text.<span style='color:red;'>[&]nbsp;</span><span style='color:red;'>[&]nbsp;</span>Some text two spaces away.
+</div>
+
+<br />
+<div id='panel' style='font-size:7pt;'>
+Some text.  Some text two spaces away.
+</div>
+</div>
+
+<br />
+<span id='tab'>Creating bold, underlined and italic text</span>
+<div id='panel'>
+<h1>
+To create bold, underlined and italic text you must get familiar with the <span style='color:blue;'>[<]</span><span style='font-weight:bold;color:red;'>b</span><span style='color:blue;'>[>]</span> <span style='color:blue;'>[<]</span><span style='font-weight:bold;color:red;'>u</span><span style='color:blue;'>[>]</span> <span style='color:blue;'>[<]</span><span style='font-weight:bold;color:red;'>i</span><span style='color:blue;'>[>]</span> HTML tags.
+</h1>
+
+<br />
+<div id='code'>
+<span style='color:blue;'>[<]</span><span style='font-weight:bold;color:red;'>b</span><span style='color:blue;'>[>]</span>Bold Text<span style='color:blue;'>[<]</span><span style='font-weight:bold;color:red;'>/b</span><span style='color:blue;'>[>]</span>
+<br />
+<span style='color:blue;'>[<]</span><span style='font-weight:bold;color:red;'>u</span><span style='color:blue;'>[>]</span>Underlined Text<span style='color:blue;'>[<]</span><span style='font-weight:bold;color:red;'>/u</span><span style='color:blue;'>[>]</span>
+<br />
+<span style='color:blue;'>[<]</span><span style='font-weight:bold;color:red;'>i</span><span style='color:blue;'>[>]</span>Italic Text<span style='color:blue;'>[<]</span><span style='font-weight:bold;color:red;'>/i</span><span style='color:blue;'>[>]</span>
+</div>
+
+<br />
+<div id='panel' style='font-size:7pt;'>
+<b>Bold Text</b>
+<br />
+<u>Underlined Text</u>
+<br />
+<i>Italic Text</i>
+</div>
+</div>
+
+<br />
+<span id='tab'>Creating a caption</span>
+<div id='panel'>
+<h1>
+A caption is an image that goes on the right hand side of the article with text beneath it. Caption images must have a width of 200 pixels to meet the standards of other articles. The code below shows how to make a caption.
+<p>Captions must be placed before any article text and the article must have enough text for it to display properly.</p>
+</h1>
+
+<br />
+<div id='code'>
+<span style='color:blue;'>[<]</span><span style='font-weight:bold;color:red;'>div id='caption'</span><span style='color:blue;'>[>]</span>
+<br />
+<span style='color:blue;'>[<]</span><span style='font-weight:bold;color:red;'>center</span><span style='color:blue;'>[>]</span>
+<br />
+<span style='color:blue;'>[<]</span><span style='font-weight:bold;color:red;'>img src='</span><span style='color:green'>http://www.your-image-host.com/image.jpg</span><span style='font-weight:bold;color:red;'>' /</span><span style='color:blue;'>[>]</span>
+<br />
+<span style='color:blue;'>[<]</span><span style='font-weight:bold;color:red;'>/center</span><span style='color:blue;'>[>]</span>
+<br />
+<span style='color:blue;'>[<]</span><span style='font-weight:bold;color:red;'>br /</span><span style='color:blue;'>[>]</span>
+<br />Your caption description goes here.
+<br />
+<span style='color:blue;'>[<]</span><span style='font-weight:bold;color:red;'>/div</span><span style='color:blue;'>[>]</span>
+</div>
+
+<br />
+<div id='caption'>
+<center>
+<img src='../eccoserv/screenshots/ecco-splash-screenx200.gif'>
+</center>
+<br />
+Your caption description goes here.
+</div>
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br />
+</div>
+
+<br />
+<span id='tab'>Creating a panel</span>
+<div id='panel'>
+<h1>
+A panel is a way to divide an article into sections.
+A panel has a tab describing its contents an optional description heading, and the actual content.
+</h1>
+
+<br />
+<div id='code'>
+<span style='color:blue;'>[<]</span><span style='font-weight:bold;color:red;'>span id='tab'</span><span style='color:blue;'>[>]</span>
+<br />Your tab description
+<br />
+<span style='color:blue;'>[<]</span><span style='font-weight:bold;color:red;'>/span</span><span style='color:blue;'>[>]</span>
+<br />
+<span style='color:blue;'>[<]</span><span style='font-weight:bold;color:red;'>div id='panel'</span><span style='color:blue;'>[>]</span>
+<br />
+<span style='color:blue;'>[<]</span><span style='font-weight:bold;color:red;'>h1</span><span style='color:blue;'>[>]</span>Your optional description heading.<span style='color:blue;'>[<]</span><span style='font-weight:bold;color:red;'>/h1</span><span style='color:blue;'>[>]</span>
+<br />Your actual content area.
+<br />
+<span style='color:blue;'>[<]</span><span style='font-weight:bold;color:red;'>/div</span><span style='color:blue;'>[>]</span>
+</div>
+
+<br />
+<span id='tab'>Your tab description</span>
+<div id='panel'>
+<h1>Your optional description heading.</h1>
+Your actual content area.
+</div>
+
+</div>
+
+</div>
+
+<div id='footer'> </div>
+</div>
+<!wiki func='wikitheme' type='footer'>
+</body>
+</html>

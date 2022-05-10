@@ -1,0 +1,98 @@
+<!wiki func='wikistamp' ip='76.102.158.96' created='20080925213556' comment='AAA'>
+<html>
+<head>
+
+<meta name='author' content='Johnny L. de Alba' />
+<meta name="description" content="An Ecco the Dolphin, Ecco 2 Tides of Time and Ecco, Defender of the Future website." />
+<meta name="keywords" content="ecco the dolphin, ecco the tides of time, ecco defender of the future, ecco, ecco 2, cheats, codes, music, guides, faqs, roms, genesis, gamegear, megadrive, dreamcast, playstation 2, ps2" />
+<meta name="robots" content="all" />
+
+<title>Ecco the Dolphin on The Arkonviox Network</title>
+<!wiki func='wikitheme' type='header'>
+
+<div id='container'>
+<div id='header'> </div>
+
+<span id='visited'><a href='display.pl?id=index'>
+Index</a></span>
+
+<span id='visited'><a href='edit.pl?id=ecco-the-dolphin-discuss'>
+Edit</a></span>
+
+<span id='visited'><a href='display.pl?id=ecco-the-dolphin'>
+Display</a></span>
+
+<span id='tab'>Discuss</span>
+
+<span id='visited'><a href='display.pl?id=ecco-the-dolphin-video-1'>
+Videos</a></span>
+
+<span id='visited'><a href='display.pl?id=ecco-the-dolphin-soundtracks'>
+Soundtracks</a></span>
+
+<span id='visited'><a href='display.pl?id=explore'>
+Explore</a></span>
+
+<span id='visited'><a href='history.pl?id=ecco-the-dolphin-discuss'>
+History</a></span>
+
+<div id='panel'>
+<h1>Ecco the dolphin discussion</h1>
+<h2>[ <a href='edit.pl?id=ecco-the-dolphin-discuss'>Edit</a> ]</h2>
+
+<span id='tab'>About the Ecco the Dolphin section</span>
+<div id='panel'>
+
+<div id='caption'>
+<center>
+<img src='../eccoserv/screenshots/ecco-splash-screenx200.gif'>
+</center>
+<br />
+This page is for discussion of the Ecco the Dolphin section.
+</div>
+
+Anyone is welcome to edit the Ecco the Dolphin section and related articles. Information added must be related to the actual game and not so much the storyline structure except in the case on the main section page.
+
+<p>The main section page's purpose is to detail the entire storyline with a future possibility adding game play structure. Other facts related to the storyline as a whole such as that about the Vortex lifeforms must go into a separate section.</p>
+
+This discussion page is for the purpose of discussion article additions, help with editing the Ecco the Dolphin section and what not. If you would like to contribute something please add it or post a comment with your suggestion in this discussion page.
+
+</div>
+
+<br />
+<span id='tab'>Arkonviox</span>
+<div id='thread'>
+<h1>You know the drill!</h1>
+Lets talk about it!
+</div>
+<br />
+
+<!wiki func='wikitalk' id='commentary'>
+
+<span id='tab'>Post a replie</span>
+<div id='panel'>
+<form action='edit.pl' method='post'>
+<input type='hidden' name='func' value='talk'>
+<input type='hidden' name='article' value='ecco the dolphin discuss'>
+Username
+<br />
+<input type='text' name='username' size='45' value=''>
+<br />
+Topic
+<br />
+<input type='text' name='topic' size='45' value=''>
+<br /><br />
+Commentary
+<br />
+<textarea name='commentary' rows="10" cols="75"></textarea>
+<br /><br />
+<input type='submit' name='submit' value='Post'>
+</form>
+</div>
+</div>
+
+<div id='footer'> </div>
+</div> 
+<!wiki func='wikitheme' type='footer'>
+</body>
+</html>

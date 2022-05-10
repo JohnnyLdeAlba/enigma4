@@ -1,0 +1,415 @@
+***====ECCO 2: THE TIDES OF TIME====***
+                  FAQ
+               VERSION 3
+
+This guide was written by Cyber Predator, who resides at 
+http://www.geocities.com/Area51/Chamber/1301 and can be e-mailed at 
+Cyber_Predator@hotmail.com
+
+This document is copyrighted by Cyber Predator, as of its original release date 
+(detailed in the Version Information).  Any entities used in this document that 
+are copyrighted by anyone else remains the property of the original owner; Cyber 
+Predator is simply giving information about these copyrighted entities that the 
+copyright owners aren't making very public.
+
+RULES FOR THIS DOCUMENT'S DUPLICATION AND DISTRIBUTION
+You may....
+....Store a copy of this document on your home computer, print out a copy
+    and/or show it to friends AS LONG AS you don't make ANY money from doing
+    so AND you don't leave ANY part of the document out or change anything.
+....Use this document to research a guide of your own AS LONG AS you credit
+    this document AND specify the author and where a copy of the guide can be
+    found in a credits section.
+
+You may not....
+....Use this document to make money in any way, shape, or form.  NO
+    EXCEPTIONS!!
+....Distribute this document indiscriminately.
+....Make copies of this guide and put them in public places (eg Internet,
+    hard-copy game guides) without Cyber Predator's express permission.
+....Translate this guide into HTML without Cyber Predator's express
+    permission.
+....Link directly to this text-only document.
+
+  Failure to observe these guidelines is a violation of international copyright 
+law.
+  GameFAQs (http://www.gamefaqs.com) always shows the most up-to-date copy of 
+this document.  Authorised copies are ONLY posted at Video Game Strategies at 
+About.com (http://vgstrategies.about.com), Game Winners 
+(http://www.gamewinners.com), GamersXchange (http://www.gamersxchange.net)
+
+
+
+====CONTENTS====
+INTRODUCTION
+Version Information
+Author's Note
+
+THE LEVELS
+Crystal Springs
+Fault Zone
+Two Tides
+Skyway
+Sky Tides
+Tubes of Medusa
+Skylands
+Fin to Feather
+Eagle's Bay
+Asterite's Cave
+Four Islands
+Sea of Darkness
+Vents of Medusa
+Gateway
+Moray Abyss
+Big Water
+The Eye
+Deep Ridge
+The Hungry Ones
+Secret Cave
+Lunar Bay
+Black Clouds
+Gravitorbox
+Globe Holder
+Dark Sea
+Vortex Queen
+Home Bay
+Epilogue
+Fish City
+City of Forever
+
+CODES
+Passwords
+Cheats
+Game Genie Codes
+
+Credits and Taglines
+
+====INTRODUCTION====
+***VERSION INFORMATION***
+VERSION 1 - 0734 GMT, 17-Oct-1999
+Contains a few select hints from each of the levels in addition to the customary 
+credits, Author's Note and copyright info.
+
+VERSION 2 - 0312 GMT, 21-Oct-1999
+Added the cheats section, which includes Patch Codes and the level passwords.
+
+VERSION 3 - 0654 GMT, 29-Feb-2000
+Thanks to Julia, the long-awaited password for Moray Abyss has been added.  
+Julia also pointed out a boo-boo with the invincibility code and an omitted 
+level, so a big thank you to Julia!  Also, the copyright info has been made more 
+in-depth.
+
+I don't have the password for Moray Abyss.  If you can help out, please e-mail 
+me!
+
+***AUTHOR'S NOTE***
+I've actually never played Ecco 2, as I read it was be perfectly identical to 
+the original and thus not worth buying.  While reading the Requests page at 
+GameFAQs, I found a FAQ for Ecco 2 to be the most requested guide for the 
+system.  In my nagging desire to help people out, I dug through my old SWATPro 
+magazine and found (to my surprise) that the Ecco 2 guide of that issue was one 
+of the few guides left in my mag that hadn't become anti-matter.  So I 
+transcribed the tips into my own words and posted them on the 'Net to keep the 
+people happy.
+And can someone please tell me that the star pattern on Ecco's head is NOT the 
+constellation Crux?
+
+
+====THE LEVELS====
+***CRYSTAL SPRINGS***
+Here you must break loose three crystals one at a time, then push them towards 
+the crystal near the ship to build them into one.
+
+***FAULT ZONE***
+Push the falling rock to break the rock barrier in the path.  Zigzag along the 
+following water way until the earthquake goes off, at which point you should 
+repeatedly use the ram attack to minimise the damage you take.
+
+***TWO TIDES***
+After passing the Barrier Glyph, wait for the turtle to swim over the rushing 
+water.  Nudge him with your snout until he withdrawls into his shell, then use 
+him as a shield to block the current.
+
+***SKYWAY***
+The Key Glyph is above the starting point, the Barrier Glyph being to the left.  
+Continue to the left to another glyph, then go to the right for a Glyph in a 
+water tube.
+
+***SKY TIDES***
+This is a forced scrolling level, so your best bet is to memorize everything.  
+Avoid whirlpools at all costs.
+
+***TUBES OF MEDUSA***
+You have to move with speed and precision in this level, which is a great 
+exercise in frustration.  Medusa is persistent, so just make your way past her.
+
+***SKYLANDS***
+The Glyph says you use bubble clumps to climb up, which should be pretty self-
+explanatory.  Use echolocation to see how far you've gone.
+
+***FIN TO FEATHER***
+Here you can morph into other creatures.  When you transform into a seagull, fly 
+right past the attacking birds and falling rocks to return to your dolphin form 
+and find the Transporter Ring.
+
+***EAGLE'S BAY***
+Head right to the meta-sphere, where you'll morph into a bird.  Fly left and re-
+enter the water to find a Key Glyph.  Return to your feathered form, fly right 
+and become a dolphin, using your new song to pass the Barrier Glyph.
+
+***ASTERITE'S CAVE***
+After repairing the broken Glyph, you'll get the means to pass the Barrier Glyph 
+above it.  Ask the dolphin pod for help in flying right and you'll encounter a 
+wierd worm.  Force him into the rocks with your sonar to open the path, then you 
+must piece together another Key Glyph to finally reach Asterite.
+
+After listening to Asterite, you'll go through a lot of trouble in reaching the 
+exit, mostly thanks to the helix you have to pass through.  To make matters 
+worse, an orca requests help in finding her offspring.
+
+***FOUR ISLANDS***
+Accuracy is the name of the game, with the water flowing in all different 
+directions.  One dolphin offers to be a guide, but stay close to him or you'll 
+have to repeat the process from the top.  If you have trouble keeping with him 
+after a few tries, he'll teach you the song needed to pass the stones blocking a 
+path leading to the exit.  A second guide takes you beyond that point.
+
+***SEA OF DARKNESS***
+This is a nice practise level for the rest of the game.  Use echolocation to see 
+ahead, and you'll have to help another killer whale find her lost children.
+
+***VENTS OF MEDUSA***
+In this level you become a jellyfish, with little means to defend yourself 
+against the hungry dolphins.  Take the first right for a Key Glyph, and if you 
+make it to the top OK you'll become a dolphin again.
+
+***GATEWAY***
+Swim around the area until you find the Transporter Ring; when you enter it, a 
+Shadow Ecco makes a strange request.  After completing it, use the shells to 
+move against the strong currents but be careful to avoid damage, and quick 
+before your lungs burst.
+
+***MORAY ABYSS***
+This level is HARD; avoid the giant spiked shell and red moray eel as you bump 
+off the yellow eels along the walls with your sonar as you proceed down the 
+shaft.  When the shell hits the bottom, keep hitting it with your sonar and with 
+any luck you won't have to fight the moray eel.  From there, it's simply a 
+matter of following the instructions.
+
+***THE EYE*** {Thanks Julia!}
+Remember Asterite from the previous game, the giant entity consisting of a heap 
+of spheres in a double-helix?  Well, you have to gather up his spheres from 
+passages blocked by Barrier Glyphs.  After you recover two of Asterite's spheres 
+and return them, you will be able to unlock a particular Barrier Glyph to access 
+the next two spheres.  It's one long frustrating puzzle, but after getting the 
+hang of it you should be OK.
+
+***BIG WATER***
+Your objectives here aren't that obvious until you find two of Asterite's 
+spheres.  A giant whale helps you out in this department.
+
+***DEEP RIDGE***
+You continue rebuilding Asterite in this level, grabbing two spheres at a time 
+and entering the nearest Transporter Ring.  Repeat the process until you find 
+all the spheres, getting clues about the story as you go.  The exit of this 
+level is well-hidden.
+
+***THE HUNGRY ONES***
+Ecco takes the form of a shark in this level, so keep moving to breathe and 
+avoid dolphins to conserve energy.  After a series of morphs you'll finish the 
+level as a dolphin.
+
+***SECRET CAVE***
+Basically, get the story from the Glyph and swim through the Transporter Rings, 
+but it's hard because a fleet of sharks are after you.  Sonar the sharks and 
+leap through the rings when all's clear.
+
+***LUNAR BAY***
+If the clawed Vortex alien creature gets a hold of you, you'll warp to a sub-
+level where you morph into it.
+
+At one point in the level two of the alien creatures grab you and warp you to a 
+future world.  Escaping involves complex puzzles, giant leaps and backtracking 
+in order to find the Key Glyphs.  Take full advantage of the Milestone Glyphs.
+
+***BLACK CLOUDS***
+Similar to lunar bay, and quite dark.  Use echolocation to help find all the 
+Glyphs and find the exit towards the right.
+
+***GRAVITORBOX***
+Keep an eye on the gravity indicator to know when you'll fall down or rocket 
+upwards.
+
+***GLOBE HOLDER***
+Use sonar to break the globe free, then keep pushing it into the walls until the 
+tentacles burn off.  Remember the darned thing will try and slam you into a 
+wall, so be careful.
+
+***DARK SEA***
+A pod of dolphins taking on some Vortex aliens will give you some help, but 
+don't worry about the aliens the pod is fighting.  Go through the first gate and 
+use echolocation to find the boxed-in Glyph; keep trying different corridors.
+
+***VORTEX QUEEN***
+You have to be wary of the Queen's various attacks and the arm.  When she spits 
+the globes, move down to avoid them and hammer her with the sonar before 
+climbing just above the laser beem.  You'll have to give the Queen a few rams 
+before she falls.
+
+If the Queen swallows you, you'll enter a sub-level as a Vortex alien.   When 
+you find the Morph Ball you can return to the main battle.
+
+***HOME BAY***
+Defy the current to find the Transporter Ring, then you'll go through a sequence 
+not dissimilar to the Secret Cave....only you're fighting jellyfish, poisonous 
+shells and sharks.
+
+***EPILOGUE***
+Asterite explains how time split into two different histories, and how you have 
+to fix it.
+
+***FISH CITY***
+After entering the level, you morph into a school of fish under attack by a 
+hungry dolphin pod.  When you can, take on stray fish to keep the population 
+high.  The Morph Ball is to the right, near the exit.
+
+***CITY OF FOREVER***
+This underwater city is home to many strange creatures which zap your life 
+energy like there's no tomorrow.  However, you can use some of them to open 
+doors from a safe distance-don't be too far away when you open it or you won't 
+make it through.  Keep exploring until you find the exit.
+
+Use blocks to fight the current, and you're a stone's throw to another door and 
+the Transporter Ring.
+
+
+====CODES====
+***LEVEL PASSWORDS***
+Crystal Springs: UEPMCVEB
+Fault Zone: OZUNSKZA
+Two Tides: KDKINTYA
+Skyway: SZXHCLDB
+Sky Tides: OZWIDLDB
+Tubes of Medusa: QSJRYHZA
+Skylands: MULXRXEB
+Fin to Feather: YCPAWEXA
+Eagle's Bay: YCJPDNDB
+Asterite's Cave: AOJRDZWA
+Four Islands: UOYURFDB
+Sea of Darkness: UQZWIIAB
+Vents of Medusa: MMVSOPBB
+Gateway: KDCGTAHB
+Moray Abyss: YCJXDZZA {Thanks Julia!}
+The Eye: SXGBPWSE {Thanks Julia!}
+Big Water: QQCQRDRA
+Deep Ridge: UXQWJIZD
+The Hungry Ones: WBQQHMUE
+Secret Cave: CHGTEYZE
+Lunar Bay: QYSMHZZE
+Black Clouds: CLOCVFZE
+GravitorBox: UIXBGyWxe
+Globe Holder: SBFPWWJE
+Dark Sea: MXURVMLA
+Vortex Queen: YJUWFUAA
+Home Bay: CSNCMRUA
+Epilogue: CEWSXKPA
+
+***CHEATS***
+IMMORTALITY
+As you move Ecco left and right, he turns to face you.  While Ecco is facing 
+you, pause the game and enter AB Right ACA Down AB Right A (it spells 'abra 
+cadabra').  With this code on, Ecco can neither drown nor be injured to death.
+
+DEBUT MENU
+Make Ecco face you, pause and enter ABCB CACA B.  If successful, a debug menu 
+will appear offering Level Select, Sound Test and Invincibility amongst other 
+things.
+
+***GAME GENIE CODES***
+I feel I should make it known that because Patch Code devices like the Game 
+Genie alter the data of the game, either your game or machine could get messed 
+up permanently. The companies have a nice little disclaimer saying it's not 
+their fault since you're the one using the thing, and none of the devices are 
+endorsed by Sega.
+As for me personally, I don't even believe in the use of a Patch Code device 
+because of the risks involved. But like a wise man once said there's one born 
+every minute and there's no way I can stop you if you decision to use one. 
+Consider yourself warned and use these codes at your equipment's peril.
+
+The following codes work most of the time:
+Eating fish won't heal: ADLA-WAD4
+Eating fish restores 1/2 as usual: BDLA-WAD4
+Eating fish restores double as usual: EDLA-WAD4
+Eating fish restores full health: HDLA-WAD4
+Infinite air: AKZA-TA7A
+Infinite health and air: REAA-W6V0
+Always have 360º sonar blast: A4KT-2A38
+Don't lose rings if you miss gates: ALBA-4A8R
+Don't lose rings if you shoot gates: AKCT-4A7N
+
+The following codes only work in practise mode, where you only see the level.  
+Enter the code to start on the desired level.
+Sea of Green: AB0A-TAGY
+Deep Ridge: AF0A-TAGY
+The Eye: AK0A-TAGY
+Sea of Birds: AP0A-TAGY
+Secret Cave: AV0A-TAGY
+The Hungry Ones: AZ0A-TAGY
+Convergence: A30A-TAGY
+Globe Holder: A70A-TAGY
+Two Tides: BF0A-TAGY
+The Lost Orcas: BK0A-TAGY
+Vents of Medusa: BP0A-TAGY
+Four Islands: BV0A-TAGY
+Maze of Stone: BZ0A-TAGY
+Home Bay: B30A-TAGY
+Sea of Darkness: B70A-TAGY
+Crystal Springs: CB0A-TAGY
+Fault Zone: CF0A-TAGY
+Gateway: CK0A-TAGY
+Trellia's Bay: CP0A-TAGY
+Skyway: CV0A-TAGY
+Asterite's Cave: CZ0A-TAGY
+Eagle's Bay: C30A-TAGY
+Fin to Feather: C70A-TAGY
+Skylands: DB0A-TAGY
+Tubes of Medusa: DF0A-TAGY
+Vortex Arrived: DK0A-TAGY
+Aqua Tubeway: DP0A-TAGY
+Sky Tides: DV0A-TAGY
+Moray Abyss: DZ0A-TAGY
+Asterite's Home: D30A-TAGY
+Epilogue: D70A-TAGY
+Atlantis: EB0A-TAGY
+Fish City: EF0A-TAGY
+City of Forever: EK0A-TAGY
+Black Clouds: EP0A-TAGY
+Vortex Future: EV0A-TAGY
+GravitorBox: EZ0A-TAGY
+Lunar Bay: E30A-TAGY
+Dark Sea: E70A-TAGY
+New Machine: FB0A-TAGY
+Inside: FF0A-TAGY
+Inter: FK0A-TAGY
+Innuendo: FP0A-TAGY
+Trans: FV0A-TAGY
+Vortex Queen: FZ0A-TAGY
+Big Water: F30A-TAGY
+The Pod: F70A-TAGY
+The Machine: GB0A-TAGY
+
+
+====CREDITS AND TAGLINES====
+This information was transcribed (in my own words) from a guide appearing in 
+SWATPro magazine, so thank them for the information.  GameSages provided 
+everything found in the Codes section, and Julia provided information about The 
+Eye level and Moray Abyss password.
+
+{signed}
+Cyber Predator
+
+123-926
+"Anyone who seeks fame need only become familiar with all that I have acheived." 
+- Claudius Galen
+The Force will be with you, always
+
