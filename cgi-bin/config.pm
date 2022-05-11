@@ -6,24 +6,24 @@ use Cwd qw(abs_path);
 
 my %_config = (
 
-  PATH_ROOT => "",
-  PATH_CGI_BIN => "",
-  PATH_CONTENT => "",
-  PATH_WIKI => "",
+  ROOT_PATH => "",
+  CGI_BIN_PATH => "",
+  CONTENT_PATH => "",
+  WIKI_PATH => "",
   
-  FILE_BANNED => "",
-  FILE_DEBUG => "",
+  BANNED_FILE => "",
+  DEBUG_FILE => "",
 
   FLOOD_INTERVAL => 15
 );
 
 abs_path('.') =~ m/(.*)\//;
 
-$_config{PATH_ROOT} = $1;
+$_config{ROOT_PATH} = $1;
 
-$_config{PATH_CGI_BIN} =  "$_config{PATH_ROOT}/cgi-bin";
-$_config{PATH_CONTENT} =  "$_config{PATH_ROOT}/eccoserv";
-$_config{PATH_WIKI} =  "$_config{PATH_CGI_BIN}/wiki";
+$_config{CGI_BIN_PATH} =  "$_config{ROOT_PATH}/cgi-bin";
+$_config{CONTENT_PATH} =  "$_config{ROOT_PATH}/eccoserv";
+$_config{WIKI_PATH} =  "$_config{CGI_BIN_PATH}/wiki";
 
 sub Get { return %_config; }
 

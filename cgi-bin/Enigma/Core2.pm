@@ -13,39 +13,11 @@ use Time::localtime;
 use Digest::MD5 qw(md5);
 
 use CGI qw(:all);
-
-abs_path('.') =~ m/(.*)\//;
-my $pathBase = "$&";
-
 use Fcntl qw(:flock);
 
 $CGI::POST_MAX = 1024 * 5000;
 
-#my $pathRoot = "";
-#sub GetPathRoot { return $pathRoot; }
-
 my %global;
-
-my $pathWiki = '/wiki';
-
-my $fileBanned = "/banned.log";
-my $fileDebug = "/debug.log";
-
-my $fileFanArt = '/fan-artwork-2';
-my $fileCetaArt = '/cetacean-artwork-2';
-my $fileCrestArt = '/crestoes-artwork-1';
-my $fileMacrosAvatars = '/macros-and-avatars-1';
-
-my $floodInterval = 15;
-
-#sub GetPathBase { return $pathBase; }
-#sub GetPathPerl { return $config{PATH_CGI_BIN}; }
-#sub GetPathEccoServ { return $global{pathEccoServ}; }
-#sub GetPathWiki { return $pathWiki; }
-
-#sub GetFileBanned { return $fileBanned; }
-#sub GetFloodInterval { return $floodInterval; }
-
 my %document; my %session; my %cookie;
 
 my $interval = 15;
@@ -58,17 +30,15 @@ my $article_uc;
 my $article_lc;
 my $securityphrase;
 
-# $pathEccoServ => $pathContent
-
 my %config = (
 
-  PATH_ROOT => "",
-  PATH_CGI_BIN => "",
-  PATH_CONTENT => "",
-  PATH_WIKI => "",
+  ROOT_PATH => "",
+  CGI_BIN_PATH => "",
+  CONTENT_PATH => "",
+  WIKI_PATH => "",
   
-  FILE_BANNED => "",
-  FILE_DEBUG => "",
+  BANNED_FILE => "",
+  DEBUG_FILE => "",
 
   FLOOD_INTERVAL => 15
 );
@@ -77,13 +47,13 @@ sub ReadConfig {
 
   my %_config = @_;
 
-  $config{PATH_ROOT} = $_config{PATH_ROOT};
-  $config{PATH_CGI_BIN} = $_config{PATH_CGI_BIN};
-  $config{PATH_CONTENT} = $_config{PATH_CONTENT};
-  $config{PATH_WIKI} = $_config{PATH_WIKI};
+  $config{ROOT_PATH} = $_config{ROOT_PATH};
+  $config{CGI_BIN_PATH} = $_config{CGI_BIN_PATH};
+  $config{CONTENT_PATH} = $_config{CONTENT_PATH};
+  $config{WIKI_PATH} = $_config{WIKI_PATH};
 
-  $config{FILE_BANNED} = $_config{FILE_BANNED};
-  $config{FILE_DEBUG} = $_config{FILE_DEBUG};
+  $config{BANNED_FILE} = $_config{BANNED_FILE};
+  $config{DEBUG_FILE} = $_config{DEBUG_FILE};
 
   $config{FLOOD_INTERVAL} = $_config{FLOOD_INTERVAL};
 }
@@ -180,17 +150,17 @@ sub SetSession {
 	my $ip = remote_addr();
 	my $date = &DateStamp;
 	
-	my $data = &FileRead("$pathBase/$date.sid");
+	my $data = &FileRead("$config{ROOT_PATH}/$date.sid");
 	if ($data eq -1) {
-		unlink("$pathBase/".($date-1).".sid");
-		return &FileSave("$pathBase/$date.sid", "$ip:$args\n");
+		unlink("$config{ROOT_PATH}/".($date-1).".sid");
+		return &FileSave("$config{ROOT_PATH}/$date.sid", "$ip:$args\n");
 	}
 	
 	if ($data !~s/$ip:.*\n/$ip:$args\n/) {
 		$data .= "$ip:$args\n";
 	}
 	
-	&FileSave("$pathBase/$date.sid", $data);
+	&FileSave("$config{ROOT_PATH}/$date.sid", $data);
 	return 1;
 }
 
@@ -198,7 +168,7 @@ sub GetSession {
 	my $ip = remote_addr();
 	my $date = &DateStamp;
 	
-	my $data = &FileRead("$pathBase/$date.sid");
+	my $data = &FileRead("$config{ROOT_PATH}/$date.sid");
 	if ($data eq -1) {
 		return 0;
 	}
@@ -224,7 +194,7 @@ sub Update2Forum {
 }
 
 sub Banned {
-	my $data = &FileRead($pathBase.$config{PATH_CGI_BIN}.$fileBanned);
+	my $data = &FileRead($config{CGI_BIN_PATH}.$config{BANNED_FILE});
 	my @array = split(/\n/, $data);
 	my $ip = remote_addr();
 	
@@ -358,13 +328,13 @@ sub TranslateTheme {
 
         
 
-	$header = FileRead("$config{PATH_CGI_BIN}/theme/$theme-header.tpl");
+	$header = FileRead("$config{CGI_BIN_PATH}/theme/$theme-header.tpl");
 	if ($header eq -1) {
-		$header = FileRead("$config{PATH_CGI_BIN}/theme/$default-header.tpl");
-		$footer = FileRead("$config{PATH_CGI_BIN}/theme/$default-footer.tpl");
+		$header = FileRead("$config{CGI_BIN_PATH}/theme/$default-header.tpl");
+		$footer = FileRead("$config{CGI_BIN_PATH}/theme/$default-footer.tpl");
 	}
 	else {
-		$footer = FileRead("$config{PATH_CGI_BIN}/theme/$theme-footer.tpl");
+		$footer = FileRead("$config{CGI_BIN_PATH}/theme/$theme-footer.tpl");
 	}
 	
 	$$data =~s/<!wiki func='wikitheme' type='header'>/$header/;
@@ -393,7 +363,7 @@ sub UpdateWiki {
 		return -1;
 	}
 	
-	if (((&TimeStamp)-$session{floodinterval}) < $floodInterval) {
+	if (((&TimeStamp)-$session{floodinterval}) < $config{FLOOD_INTERVAL}) {
 		# FLOOD INTERVAL HAS NOT TIMED OUT
 		return -2;
 	}
@@ -403,7 +373,7 @@ sub UpdateWiki {
 		return -8;
 	}
 	
-	my $data = &FileRead("$pathBase$config{PATH_CGI_BIN}$pathWiki/$article_lc");
+	my $data = &FileRead("$config{WIKI_PATH}/$article_lc");
 	
 	$document{content} =~s/\r\n|\r/\n/g;
 	$data =~s/<!-- editorstamp.*>\n//g;
@@ -414,12 +384,12 @@ sub UpdateWiki {
 	}
 	
 	$document{content} = &EditorStamp.$document{content};
-	if (FileArchive("$pathBase$config{PATH_CGI_BIN}$pathWiki/$article_lc") eq -1) {
+	if (FileArchive("$config{WIKI_PATH}/$article_lc") eq -1) {
 		# FILE LOCKED
 		return -7;
 	}
 	
-	FileSave("$pathBase$config{PATH_CGI_BIN}$pathWiki/$article_lc", $document{content});
+	FileSave("$config{WIKI_PATH}/$article_lc", $document{content});
 	$session{floodinterval} = &TimeStamp;
 	&Enigma::Core2::SetSession("$session{securityphrase}:$session{floodinterval}");
 	
@@ -447,14 +417,14 @@ sub DisplayEdit {
 			$errorCode = -10;
 		}
 		
-		$document{content} = &FileRead("$pathBase$config{PATH_CGI_BIN}$pathWiki/$article_lc");
+		$document{content} = &FileRead("0$config{WIKI_PATH}/$article_lc");
 		if ($document{content} eq -1) {
 			# FILE DOES NOT EXIST
 			$document{content} = '';
 			$errorCode = -13;
 		}
 		
-		if (-w "$pathBase$config{PATH_CGI_BIN}$pathWiki/$article_lc") {
+		if (-w "$config{WIKI_PATH}/$article_lc") {
 			$errorCode = 1;
 		}
 		else {
@@ -479,7 +449,7 @@ sub DisplayEdit {
 	$session{securityphrase} = &Enigma::Core2::TimeStamp;
 	&Enigma::Core2::SetSession("$session{securityphrase}:$session{floodinterval}");
 	
-	my $data = FileRead("$pathBase$config{PATH_CGI_BIN}$pathWiki/edit");
+	my $data = FileRead("$config{WIKI_PATH}/edit");
 	$data =~s/{article_ucfirst}/$article_ucfirst/g;
 	$data =~s/{article_lc}/$article_lc/g;
 	$data =~s/{content}/$document{content}/;
@@ -511,8 +481,8 @@ sub DisplayHistory {
 	else {
 		my $pathFile = "/$article_lc";
 		
-		if (-e "$pathBase$config{PATH_CGI_BIN}$pathWiki$pathFile") {
-			my @directory = glob("$pathBase$config{PATH_CGI_BIN}$pathWiki$pathFile.*");
+		if (-e "$config{WIKI_PATH}/$pathFile") {
+			my @directory = glob("$config{WIKI_PATH}/$pathFile.*");
 			my $element;
 			
 			if (defined($directory[0])) {
@@ -532,7 +502,7 @@ sub DisplayHistory {
 		else { $errorCode = -15 }
 	}
 	
-	$document{content} = &FileRead("$pathBase$config{PATH_CGI_BIN}$pathWiki/history");
+	$document{content} = &FileRead("$config{WIKI_PATH}/history");
 	$document{content} =~s/{article_ucfirst}/$article_ucfirst/g;
 	$document{content} =~s/{article_uc}/$article_uc/g;
 	$document{content} =~s/{article_lc}/$article_lc/g;
@@ -558,9 +528,9 @@ sub Display {
 		$document{article} = 'index';
 	}
 	
-	$document{content} = FileRead("$config{PATH_CGI_BIN}/$document{article}");
+	$document{content} = FileRead("$config{CGI_BIN_PATH}/$document{article}");
 	if ($document{content} eq -1) {
-		$document{content} = FileRead("$config{PATH_WIKI}/index");
+		$document{content} = FileRead("$config{WIKI_PATH}/index");
 	}
 	
 	$document{content} =~s/\[<\]/&lt;/g;
