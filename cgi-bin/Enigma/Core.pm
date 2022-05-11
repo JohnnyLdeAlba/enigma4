@@ -1,6 +1,6 @@
 #!/usr/bin/perl -w
 
-package Enigma::Core2;
+package Enigma::Core;
 
 use strict;
 use Cwd 'abs_path';
@@ -43,20 +43,8 @@ my %config = (
   FLOOD_INTERVAL => 15
 );
 
-sub ReadConfig {
-
-  my %_config = @_;
-
-  $config{ROOT_PATH} = $_config{ROOT_PATH};
-  $config{CGI_BIN_PATH} = $_config{CGI_BIN_PATH};
-  $config{CONTENT_PATH} = $_config{CONTENT_PATH};
-  $config{WIKI_PATH} = $_config{WIKI_PATH};
-
-  $config{BANNED_FILE} = $_config{BANNED_FILE};
-  $config{DEBUG_FILE} = $_config{DEBUG_FILE};
-
-  $config{FLOOD_INTERVAL} = $_config{FLOOD_INTERVAL};
-}
+sub SetConfig { %config = @_; }
+sub GetConfig { return %config; }
 
 sub FileRead {
 	my $pathFile = shift;
@@ -194,7 +182,7 @@ sub Update2Forum {
 }
 
 sub Banned {
-	my $data = &FileRead($config{CGI_BIN_PATH}.$config{BANNED_FILE});
+	my $data = &FileRead("$config{CGI_BIN_PATH}/$config{BANNED_FILE}");
 	my @array = split(/\n/, $data);
 	my $ip = remote_addr();
 	
@@ -303,6 +291,7 @@ sub GetErrorMessage {
 }
 
 sub TranslateTheme {
+
 	my $data = $_[0];
 	my $default = 'defender';
 	
@@ -390,7 +379,7 @@ sub UpdateWiki {
 	
 	FileSave("$config{WIKI_PATH}/$article_lc", $document{content});
 	$session{floodinterval} = &TimeStamp;
-	&Enigma::Core2::SetSession("$session{securityphrase}:$session{floodinterval}");
+	&Enigma::Core::SetSession("$session{securityphrase}:$session{floodinterval}");
 	
 	return 5;
 }
@@ -432,7 +421,7 @@ sub DisplayEdit {
 		}
 	}
 	
-	$errorMsg = &Enigma::Core2::GetErrorMessage($errorCode);
+	$errorMsg = &Enigma::Core::GetErrorMessage($errorCode);
 	if ($errorMsg ne '') {
 		$errorMsg = "<h3>$errorMsg<\/h3>";
 	}
@@ -445,8 +434,8 @@ sub DisplayEdit {
 	$document{content} =~s/{/&#123;/g;
 	$document{content} =~s/}/&#125;/g;
 
-	$session{securityphrase} = &Enigma::Core2::TimeStamp;
-	&Enigma::Core2::SetSession("$session{securityphrase}:$session{floodinterval}");
+	$session{securityphrase} = &Enigma::Core::TimeStamp;
+	&Enigma::Core::SetSession("$session{securityphrase}:$session{floodinterval}");
 	
 	my $data = FileRead("$config{WIKI_PATH}/edit");
 	$data =~s/{article_ucfirst}/$article_ucfirst/g;

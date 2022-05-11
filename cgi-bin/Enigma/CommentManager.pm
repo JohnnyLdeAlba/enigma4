@@ -4,22 +4,18 @@ package Enigma::CommentManager;
 use lib '/var/www/cgi-bin';
 
 use strict;
-use Switch;
 
-use Enigma::Core2;
+use Enigma::Core;
 use CGI qw(:all);
 #use Image::Magick;
+
+my %config;
 
 my $document;
 my %session;
 
 my $errorCode; 
 my $errorMsg;
-
-my $pathBase;
-my $pathPerl;
-my $pathEccoServ;
-my $pathWiki;
 
 my $fileSection = '/fan-fiction-2';
 
@@ -38,13 +34,9 @@ my $comment;
 my $securityphrase;
 
 sub Initialize {
-	$pathBase = &Enigma::Core2::GetPathBase;
-	$pathPerl = &Enigma::Core2::GetPathPerl;
-	$pathEccoServ = &Enigma::Core2::GetPathEccoServ;
-	$pathWiki = &Enigma::Core2::GetPathWiki;
-	$floodinterval = &Enigma::Core2::GetFloodInterval;
-	
-	$document = '';
+
+        %config = Enigma::Core::GetConfig();
+
 	$errorCode = 0; 
 	$errorMsg = '';
 	
@@ -60,7 +52,7 @@ sub Initialize {
 }
 
 sub Update2Section {
-	$document = &Enigma::Core2::FileRead("$pathBase$pathPerl$pathWiki/$id");
+	$document = &Enigma::Core::FileRead("$config{WIKI_PATH}/$id");
 	
 	my $insert = "<div style='text-align:left;' id='key'>\n";
 	$insert .= "<div>$author_ucfirst, said:</div>\n";
@@ -73,10 +65,10 @@ sub Update2Section {
 	
 	$document =~s/<!-- placeholder::comment -->\n/$insert/;
 	$document =~s/<!-- editorstamp.*>\n//g;
-	$document = &Enigma::Core2::EditorStamp.$document;
+	$document = &Enigma::Core::EditorStamp.$document;
 	
-	if (&Enigma::Core2::FileArchive("$pathBase$pathPerl$pathWiki/$id")) {
-		&Enigma::Core2::FileSave("$pathBase$pathPerl$pathWiki/$id", $document);
+	if (&Enigma::Core::FileArchive("$config{WIKI_PATH}/$id")) {
+		&Enigma::Core::FileSave("$config{WIKI_PATH}/$id", $document);
 	}
 	else {
 		# FILE NOT WRITABLE
@@ -87,6 +79,7 @@ sub Update2Section {
 }
 
 sub UpdateSection {
+
 	($author_ucfirst, $comment, $securityphrase)
 	= (param('author_ucfirst'), param('comment'), param('securityphrase'));
 	
@@ -95,26 +88,24 @@ sub UpdateSection {
 	$author_lc = lc($author_ucfirst);
 	$author_lc =~s/ /\-/;
 	
-	($session{securityphrase}, $session{floodinterval}) = split(/:/, &Enigma::Core2::GetSession);
+	($session{securityphrase}, $session{floodinterval}) = split(/:/, &Enigma::Core::GetSession);
 	
 	if ($author_ucfirst !~/^[A-Za-z0-9][A-Za-z0-9 ]+[A-Za-z0-9]$/) {
 		# INVALID CHARACTERS
 		return -4;
 	}
 	
-	if ($ENV{'HTTP_REFERER'} !~/arkonviox\.net\/cgi-bin\/comment\.pl/) {
-		if ($ENV{'HTTP_REFERER'} !~/arkonviox\.net\/perl\/comment\.pl/) {
-			# BAD HTTP REFERER
-			return -9;
-		}
+	if ($ENV{'HTTP_REFERER'} !~ /^https?:\/\/$config{WEB_HOST}.+/) {
+		# BAD HTTP REFERER
+		return -9;
 	}
 	
-	if (&Enigma::Core2::Banned) {
+	if (&Enigma::Core::Banned) {
 		# IP BANNED
 		return -1;
 	}
 	
-	if (((&Enigma::Core2::TimeStamp)-$session{floodinterval}) < $floodinterval) {
+	if (((&Enigma::Core::TimeStamp)-$session{floodinterval}) < $floodinterval) {
 		# FLOOD INTERVAL HAS NOT TIMED OUT
 		return -2;
 	}
@@ -129,23 +120,24 @@ sub UpdateSection {
 		return $errorCode;
 	}
 
-	$session{floodinterval} = &Enigma::Core2::TimeStamp;
-	&Enigma::Core2::SetSession("$session{securityphrase}:$session{floodinterval}");
+	$session{floodinterval} = &Enigma::Core::TimeStamp;
+	&Enigma::Core::SetSession("$session{securityphrase}:$session{floodinterval}");
 	return 3;
 }
 
 sub Display {
-	$errorMsg = &Enigma::Core2::GetErrorMessage($errorCode);
-	($session{securityphrase}, $session{floodinterval}) = split(/:/, &Enigma::Core2::GetSession);
+
+	$errorMsg = &Enigma::Core::GetErrorMessage($errorCode);
+	($session{securityphrase}, $session{floodinterval}) = split(/:/, &Enigma::Core::GetSession);
 	
-	$session{securityphrase} = &Enigma::Core2::TimeStamp;
-	&Enigma::Core2::SetSession("$session{securityphrase}:$session{floodinterval}");
+	$session{securityphrase} = &Enigma::Core::TimeStamp;
+	&Enigma::Core::SetSession("$session{securityphrase}:$session{floodinterval}");
 	
 	$comment =~s/</&lt;/g;
 	$comment=~s/>/&gt;/g;
 	$comment =~s/['"]/&#39;/g;
 	
-	$document = &Enigma::Core2::FileRead("$pathBase$pathPerl$pathWiki/$id");
+	$document = &Enigma::Core::FileRead("$config{WIKI_PATH}/$id");
 	$document =~s/{id}/$id/;
 	$document =~s/{author_ucfirst}/$author_ucfirst/;
 	$document =~s/{comment}/$comment/;
@@ -157,14 +149,15 @@ sub Display {
 	
 	$document =~s/<!-- errormessage::comment -->/$errorMsg/;
 	print header;
-	&Enigma::Core2::TranslateTheme(\$document);
+	&Enigma::Core::TranslateTheme(\$document);
 	print $document;
-	
+
 	return 1;
 }
 
 sub ModuleUpdate {
-	&Initialize;
+
+	Initialize;
 	
 	$id = param('id'); $id = lc($id); $id =~s/ /\-/;
 	
