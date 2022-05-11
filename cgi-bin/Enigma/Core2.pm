@@ -325,7 +325,6 @@ sub TranslateTheme {
 	}
 	
 	my $header; my $footer;
-
         
 
 	$header = FileRead("$config{CGI_BIN_PATH}/theme/$theme-header.tpl");
@@ -417,7 +416,7 @@ sub DisplayEdit {
 			$errorCode = -10;
 		}
 		
-		$document{content} = &FileRead("0$config{WIKI_PATH}/$article_lc");
+		$document{content} = &FileRead("$config{WIKI_PATH}/$article_lc");
 		if ($document{content} eq -1) {
 			# FILE DOES NOT EXIST
 			$document{content} = '';
@@ -528,7 +527,7 @@ sub Display {
 		$document{article} = 'index';
 	}
 	
-	$document{content} = FileRead("$config{CGI_BIN_PATH}/$document{article}");
+	$document{content} = FileRead("$config{WIKI_PATH}/$document{article}");
 	if ($document{content} eq -1) {
 		$document{content} = FileRead("$config{WIKI_PATH}/index");
 	}

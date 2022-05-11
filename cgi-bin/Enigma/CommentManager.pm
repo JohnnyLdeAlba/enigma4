@@ -8,7 +8,7 @@ use Switch;
 
 use Enigma::Core2;
 use CGI qw(:all);
-use Image::Magick;
+#use Image::Magick;
 
 my $document;
 my %session;

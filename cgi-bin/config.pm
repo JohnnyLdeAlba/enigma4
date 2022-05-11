@@ -23,7 +23,7 @@ $_config{ROOT_PATH} = $1;
 
 $_config{CGI_BIN_PATH} =  "$_config{ROOT_PATH}/cgi-bin";
 $_config{CONTENT_PATH} =  "$_config{ROOT_PATH}/eccoserv";
-$_config{WIKI_PATH} =  "$_config{CGI_BIN_PATH}/wiki";
+$_config{WIKI_PATH} =  "$_config{ROOT_PATH}/wiki";
 
 sub Get { return %_config; }
 

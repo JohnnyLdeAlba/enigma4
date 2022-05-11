@@ -3,7 +3,6 @@
 use strict;
 
 use Cwd qw(abs_path);
-
 use lib abs_path('.');
 
 use Enigma::Core2;
