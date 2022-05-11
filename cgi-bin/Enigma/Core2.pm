@@ -4,7 +4,9 @@ package Enigma::Core2;
 
 use strict;
 use Cwd 'abs_path';
-use lib abs_path('.');
+
+abs_path('.') =~ m/(.*)\//;
+use lib abs_path($&);
 
 #use Image::Magick;
 use Time::localtime;
@@ -15,17 +17,15 @@ use CGI qw(:all);
 abs_path('.') =~ m/(.*)\//;
 my $pathBase = "$&";
 
-
 use Fcntl qw(:flock);
 
 $CGI::POST_MAX = 1024 * 5000;
 
-# Depricated
-my $pathRoot = "";
-sub GetPathRoot { return $pathRoot; }
+#my $pathRoot = "";
+#sub GetPathRoot { return $pathRoot; }
 
-my $pathPerl = '/cgi-bin';
-my $pathEccoServ = '/eccoserv';
+my %global;
+
 my $pathWiki = '/wiki';
 
 my $fileBanned = "/banned.log";
@@ -38,16 +38,16 @@ my $fileMacrosAvatars = '/macros-and-avatars-1';
 
 my $floodInterval = 15;
 
-sub GetPathBase { return $pathBase; }
-sub GetPathPerl { return $pathPerl; }
-sub GetPathEccoServ { return $pathEccoServ; }
-sub GetPathWiki { return $pathWiki; }
+#sub GetPathBase { return $pathBase; }
+#sub GetPathPerl { return $config{PATH_CGI_BIN}; }
+#sub GetPathEccoServ { return $global{pathEccoServ}; }
+#sub GetPathWiki { return $pathWiki; }
 
-sub GetFileBanned { return $fileBanned; }
-sub GetFloodInterval { return $floodInterval; }
+#sub GetFileBanned { return $fileBanned; }
+#sub GetFloodInterval { return $floodInterval; }
 
 my %document; my %session; my %cookie;
-my %global;
+
 my $interval = 15;
 
 my $errorCode; 
@@ -57,6 +57,36 @@ my $article_ucfirst;
 my $article_uc;
 my $article_lc;
 my $securityphrase;
+
+# $pathEccoServ => $pathContent
+
+my %config = (
+
+  PATH_ROOT => "",
+  PATH_CGI_BIN => "",
+  PATH_CONTENT => "",
+  PATH_WIKI => "",
+  
+  FILE_BANNED => "",
+  FILE_DEBUG => "",
+
+  FLOOD_INTERVAL => 15
+);
+
+sub ReadConfig {
+
+  my %_config = @_;
+
+  $config{PATH_ROOT} = $_config{PATH_ROOT};
+  $config{PATH_CGI_BIN} = $_config{PATH_CGI_BIN};
+  $config{PATH_CONTENT} = $_config{PATH_CONTENT};
+  $config{PATH_WIKI} = $_config{PATH_WIKI};
+
+  $config{FILE_BANNED} = $_config{FILE_BANNED};
+  $config{FILE_DEBUG} = $_config{FILE_DEBUG};
+
+  $config{FLOOD_INTERVAL} = $_config{FLOOD_INTERVAL};
+}
 
 sub FileRead {
 	my $pathFile = shift;
@@ -194,7 +224,7 @@ sub Update2Forum {
 }
 
 sub Banned {
-	my $data = &FileRead($pathBase.$pathPerl.$fileBanned);
+	my $data = &FileRead($pathBase.$config{PATH_CGI_BIN}.$fileBanned);
 	my @array = split(/\n/, $data);
 	my $ip = remote_addr();
 	
@@ -325,13 +355,16 @@ sub TranslateTheme {
 	}
 	
 	my $header; my $footer;
-	$header = FileRead("$pathBase$pathPerl/theme/$theme-header.tpl");
+
+        
+
+	$header = FileRead("$config{PATH_CGI_BIN}/theme/$theme-header.tpl");
 	if ($header eq -1) {
-		$header = FileRead("$pathBase$pathPerl/theme/$default-header.tpl");
-		$footer = FileRead("$pathBase$pathPerl/theme/$default-footer.tpl");
+		$header = FileRead("$config{PATH_CGI_BIN}/theme/$default-header.tpl");
+		$footer = FileRead("$config{PATH_CGI_BIN}/theme/$default-footer.tpl");
 	}
 	else {
-		$footer = FileRead($pathBase.$pathPerl."/theme/$theme-footer.tpl");
+		$footer = FileRead("$config{PATH_CGI_BIN}/theme/$theme-footer.tpl");
 	}
 	
 	$$data =~s/<!wiki func='wikitheme' type='header'>/$header/;
@@ -370,7 +403,7 @@ sub UpdateWiki {
 		return -8;
 	}
 	
-	my $data = &FileRead("$pathBase$pathPerl$pathWiki/$article_lc");
+	my $data = &FileRead("$pathBase$config{PATH_CGI_BIN}$pathWiki/$article_lc");
 	
 	$document{content} =~s/\r\n|\r/\n/g;
 	$data =~s/<!-- editorstamp.*>\n//g;
@@ -381,12 +414,12 @@ sub UpdateWiki {
 	}
 	
 	$document{content} = &EditorStamp.$document{content};
-	if (FileArchive("$pathBase$pathPerl$pathWiki/$article_lc") eq -1) {
+	if (FileArchive("$pathBase$config{PATH_CGI_BIN}$pathWiki/$article_lc") eq -1) {
 		# FILE LOCKED
 		return -7;
 	}
 	
-	FileSave("$pathBase$pathPerl$pathWiki/$article_lc", $document{content});
+	FileSave("$pathBase$config{PATH_CGI_BIN}$pathWiki/$article_lc", $document{content});
 	$session{floodinterval} = &TimeStamp;
 	&Enigma::Core2::SetSession("$session{securityphrase}:$session{floodinterval}");
 	
@@ -414,14 +447,14 @@ sub DisplayEdit {
 			$errorCode = -10;
 		}
 		
-		$document{content} = &FileRead("$pathBase$pathPerl$pathWiki/$article_lc");
+		$document{content} = &FileRead("$pathBase$config{PATH_CGI_BIN}$pathWiki/$article_lc");
 		if ($document{content} eq -1) {
 			# FILE DOES NOT EXIST
 			$document{content} = '';
 			$errorCode = -13;
 		}
 		
-		if (-w "$pathBase$pathPerl$pathWiki/$article_lc") {
+		if (-w "$pathBase$config{PATH_CGI_BIN}$pathWiki/$article_lc") {
 			$errorCode = 1;
 		}
 		else {
@@ -446,7 +479,7 @@ sub DisplayEdit {
 	$session{securityphrase} = &Enigma::Core2::TimeStamp;
 	&Enigma::Core2::SetSession("$session{securityphrase}:$session{floodinterval}");
 	
-	my $data = FileRead("$pathBase$pathPerl$pathWiki/edit");
+	my $data = FileRead("$pathBase$config{PATH_CGI_BIN}$pathWiki/edit");
 	$data =~s/{article_ucfirst}/$article_ucfirst/g;
 	$data =~s/{article_lc}/$article_lc/g;
 	$data =~s/{content}/$document{content}/;
@@ -478,8 +511,8 @@ sub DisplayHistory {
 	else {
 		my $pathFile = "/$article_lc";
 		
-		if (-e "$pathBase$pathPerl$pathWiki$pathFile") {
-			my @directory = glob("$pathBase$pathPerl$pathWiki$pathFile.*");
+		if (-e "$pathBase$config{PATH_CGI_BIN}$pathWiki$pathFile") {
+			my @directory = glob("$pathBase$config{PATH_CGI_BIN}$pathWiki$pathFile.*");
 			my $element;
 			
 			if (defined($directory[0])) {
@@ -499,7 +532,7 @@ sub DisplayHistory {
 		else { $errorCode = -15 }
 	}
 	
-	$document{content} = &FileRead("$pathBase$pathPerl$pathWiki/history");
+	$document{content} = &FileRead("$pathBase$config{PATH_CGI_BIN}$pathWiki/history");
 	$document{content} =~s/{article_ucfirst}/$article_ucfirst/g;
 	$document{content} =~s/{article_uc}/$article_uc/g;
 	$document{content} =~s/{article_lc}/$article_lc/g;
@@ -525,9 +558,9 @@ sub Display {
 		$document{article} = 'index';
 	}
 	
-	$document{content} = FileRead($pathBase.$pathPerl.$pathWiki."/$document{article}");
+	$document{content} = FileRead("$config{PATH_CGI_BIN}/$document{article}");
 	if ($document{content} eq -1) {
-		$document{content} = FileRead($pathBase.$pathPerl.$pathWiki."/index");
+		$document{content} = FileRead("$config{PATH_WIKI}/index");
 	}
 	
 	$document{content} =~s/\[<\]/&lt;/g;

@@ -2,9 +2,12 @@
 
 use strict;
 
-use Cwd 'abs_path';
+use Cwd qw(abs_path);
 
 use lib abs_path('.');
-use Enigma::Core2;
 
+use Enigma::Core2;
+use config;
+
+Enigma::Core2::ReadConfig(config::Get());
 Enigma::Core2::Display;
