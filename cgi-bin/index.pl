@@ -8,5 +8,5 @@ use lib abs_path('.');
 use Enigma::Core;
 use config;
 
-Enigma::Core2::SetConfig(config::Get);
-Enigma::Core2::Display;
+Enigma::Core::SetConfig(config::Get);
+Enigma::Core::Display;

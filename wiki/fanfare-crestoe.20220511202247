@@ -1,4 +1,4 @@
-<!-- editorstamp::10.0.2.2::20220511202247 -->
+<!-- editorstamp::76.203.79.206::20081030135145 -->
 <!wiki func='wikistamp' ip='192.168.0.3' created='20081012192233' comment='AAA'>
 <html>
 <head>
@@ -42,7 +42,7 @@ History</a></span>
 <span id='tab'>Profile</span>
 <div id='profile'>
 
-<img src='../eccoserv/avatars/{avatar_file}'  style='float:left;margin:5px;' />
+<img src='../arkonviox/crestoe.jpg' style='float:left;margin:10px;'/>
 
 <div class='row' style='float:left;width:40%;'>
 <b>Username:</b> Crestoe</div>

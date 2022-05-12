@@ -1,4 +1,4 @@
-<!-- editorstamp::10.0.2.2::20220511195835 -->
+<!-- editorstamp::10.0.2.2::20220511142521 -->
 <html> 
 <head>
  
@@ -33,7 +33,7 @@ History</a></span>
 <span class='tab'>Latest Update</span>
 <div>Several Ecco Defender of the Future Prototypes Found.</div>
 <div style='margin:1px 0px 1px 0px;'>
-<img src='../eccoserv/avatars/arkonviox.jpg' style='float:left;margin:10px;'/>
+<img src='../arkonviox/arkonviox.jpg' style='float:left;margin:10px;'/>
 Epicenter posted this today on his site:
 
 <span style='font-style:italic;'>
@@ -79,7 +79,7 @@ Read less...</a>
 <h1>This is the site map for ArkonvioxNet for navigation through the various articles and content. Please feel free to add articles you created and keep the navigation in alphabetical order.
 </h1>
 
-<table cellspacing='0' cellpadding='20'>
+<table cellspacing='0' cellpadding='10'>
 <td align='left' valign='top' width='50%'>
 
 <b>Community</b> 
@@ -257,7 +257,7 @@ Cool, it works now! Thanks. =]</p>
 <p>
 test</p>
 </div>
-<div> </div>
+<div>&nbsp;</div>
 </div><br />
 <!-- placeholder::comment -->
 </div>

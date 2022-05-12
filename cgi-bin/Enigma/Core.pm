@@ -30,21 +30,19 @@ my $article_uc;
 my $article_lc;
 my $securityphrase;
 
-my %config = (
-
-  ROOT_PATH => "",
-  CGI_BIN_PATH => "",
-  CONTENT_PATH => "",
-  WIKI_PATH => "",
-  
-  BANNED_FILE => "",
-  DEBUG_FILE => "",
-
-  FLOOD_INTERVAL => 15
-);
+my %config;
 
 sub SetConfig { %config = @_; }
 sub GetConfig { return %config; }
+
+sub Log {
+
+  my $output = shift;
+
+  open(LOGFILE, ">$config{ROOT_PATH}/error.log");
+  print LOGFILE "$output\n";
+  close(LOGFILE);
+}
 
 sub FileRead {
 	my $pathFile = shift;
@@ -236,7 +234,7 @@ sub GetErrorMessage {
 		$msgError = "Error: You must select a file to upload.\n";
 	}
 	elsif ($codeError eq '-6') {
-		$msgError = "Error: File can only be of JPEG, GIF, PNG format.\n";
+		$msgError = "Error: File can only be of JPEG, GIF format.\n";
 	}
 	elsif ($codeError eq '-7') {
 		$msgError = "Error: File cannot be saved because it is locked.\n";

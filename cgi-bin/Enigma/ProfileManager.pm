@@ -4,26 +4,20 @@ package Enigma::ProfileManager;
 use lib '/var/www/cgi-bin';
 
 use strict;
-use Switch;
-
-use Enigma::Core2;
 use CGI qw(:all);
+
+use Enigma::Core;
 use Image::Magick;
 
 $CGI::POST_MAX = 1024 * 10000;
 
+my %config;
 my $document;
 my %session;
 
 my $errorCode; 
 my $errorMsg;
 
-my $pathBase;
-my $pathPerl;
-my $pathEccoServ;
-my $pathWiki;
-
-my $floodinterval;
 my $existinguser;
 
 my $avatar_file;
@@ -56,11 +50,8 @@ my $aboutmyself;
 my $securityphrase;
 
 sub Initialize {
-	$pathBase = &Enigma::Core2::GetPathBase;
-	$pathPerl = &Enigma::Core2::GetPathPerl;
-	$pathEccoServ = &Enigma::Core2::GetPathEccoServ;
-	$pathWiki = &Enigma::Core2::GetPathWiki;
-	$floodinterval = &Enigma::Core2::GetFloodInterval;
+
+        %config = Enigma::Core::GetConfig();
 	
 	$document = '';
 	$errorCode = 0; 
@@ -165,7 +156,7 @@ sub ParseParameters {
 	}
 	
 	$securityphrase = param('securityphrase');
-	($session{securityphrase}, $session{floodinterval}) = split(/:/, &Enigma::Core2::GetSession);
+	($session{securityphrase}, $session{floodinterval}) = split(/:/, &Enigma::Core::GetSession);
 	
 	return 1;
 }
@@ -179,25 +170,24 @@ sub UploadAvatar {
 		elsif (($type eq 'image/gif')) {
 			$type = 'gif';
 		}
-		elsif (($type eq 'image/png')) {
-			$type = 'png';
-		}
 		else {
 			#FILE UPLOAD NOT JPEG/PNG/GIF
 			return -6;
 		}
 		
 		$avatar_file = "$username_lc.$type";
-		my $pathFile = "$pathBase$pathEccoServ/avatars/$avatar_file";
+		my $pathFile = "$config{CONTENT_PATH}/avatars/$avatar_file";
 		
 		open(HANDLE, ">$pathFile"); 
 		while (<$avatar_handle>) { print HANDLE $_; }
 		close(HANDLE);
-		
+
 		my $image = new Image::Magick;
+
 		$image->Read($pathFile);
 		$image->Scale(width=>60, height=>60);
 		$image->Write($pathFile);
+
 		undef $image;
 	}
 	
@@ -205,28 +195,30 @@ sub UploadAvatar {
 }
 
 sub InsertProfile {
-	my $pathFile = "$pathBase$pathPerl/profilemanager.dat";
-	my $data = &Enigma::Core2::FileRead($pathFile);
+	my $pathFile = "$config{ROOT_PATH}/profilemanager.dat";
+	my $data = &Enigma::Core::FileRead($pathFile);
 
 	my $insert = "$username_lc|$avatar_file|$realname|$email|$website";
 	$insert .= "|$messanger1|$messanger2|$screenname1|$screenname2";
 	$insert .= "|$sex|$birth|$city|$state|$country";
 	$insert .= "|$operatingsystem|$favoriteplatform|$favoritegame";
 	$insert .= "|$interests|$aboutmyself\n";
+
+
 	
 	if ($data =~m/$username_lc\|.*\n/) {
 		$data =~s/$username_lc\|.*\n/$insert/;
 		$existinguser = 1;
 	}
 	else { $data .= $insert; }
-	&Enigma::Core2::FileSave($pathFile, $data);
+	Enigma::Core::FileSave($pathFile, $data);
 
 	return 1;
 }
 
 sub Update2Fanfare {
-	my $pathFile = "$pathBase$pathPerl$pathWiki/fanfare";
-	my $data = &Enigma::Core2::FileRead($pathFile);
+	my $pathFile = "$config{WIKI_PATH}/fanfare";
+	my $data = &Enigma::Core::FileRead($pathFile);
 
 	my $insert = "<div style='width:25%;float:left;text-align:left;'>\n";
 	$insert .= "<a href='profile.pl?id=$username_lc'>";
@@ -239,19 +231,9 @@ sub Update2Fanfare {
 		
 	$data =~s/<!-- placeholder -->\n/$insert/;
 	$data =~s/<!-- editorstamp.*>\n//g;
-	$data = &Enigma::Core2::EditorStamp.$data;
+	$data = &Enigma::Core::EditorStamp.$data;
 		
-	&Enigma::Core2::FileSave($pathFile, $data);
-	return 1;
-}
-
-sub Update2Forum {
-	my $insert = &Enigma::Core2::TimeStamp.": Profile updated in the fanfare section: ";
-	$insert .= "\[url=http://www.arkonviox.net/perl/profile.pl?func=display&id=$username_lc\]";
-	$insert .="$username_ucfirst\[/url\]";
-	$insert .= "<br />";
-	
-	&Enigma::Core2::Update2Forum($insert);
+	&Enigma::Core::FileSave($pathFile, $data);
 	return 1;
 }
 
@@ -263,12 +245,12 @@ sub UpdateProfile {
 		return $errorCode;
 	}
 	
-	if (&Enigma::Core2::Banned) {
+	if (&Enigma::Core::Banned) {
 		# IP BANNED
 		return -1;
 	}
 	
-	if (((&Enigma::Core2::TimeStamp)-$session{floodinterval}) < $floodinterval) {
+	if (((&Enigma::Core::TimeStamp)-$session{floodinterval}) < $config{FLOOD_INTERVAL}) {
 		# FLOOD INTERVAL HAS NOT TIMED OUT
 		return -2;
 	}
@@ -286,18 +268,17 @@ sub UpdateProfile {
 	&InsertProfile;
 	if ($existinguser eq 0) {
 		&Update2Fanfare;
-		&Update2Forum;
 	}
 	
-	$session{floodinterval} = &Enigma::Core2::TimeStamp;
-	&Enigma::Core2::SetSession("$session{securityphrase}:$session{floodinterval}");
+	$session{floodinterval} = &Enigma::Core::TimeStamp;
+	&Enigma::Core::SetSession("$session{securityphrase}:$session{floodinterval}");
 	return 4;
 }
 
 sub GetExistingProfile {
-	my $pathFile = "$pathBase$pathPerl/profilemanager.dat";
+	my $pathFile = "$config{ROOT_PATH}/profilemanager.dat";
 
-	my $data = &Enigma::Core2::FileRead($pathFile);
+	my $data = Enigma::Core::FileRead($pathFile);
 	if ($data =~m/$username_lc\|(.*)\n/) {
 		($avatar_file, $realname, $email, $website,
 		$messanger1, $messanger2, $screenname1, $screenname2,
@@ -382,7 +363,7 @@ sub PrepForCreateDisplay {
 }
 
 sub InsertCreateDisplay {
-	$document = &Enigma::Core2::FileRead("$pathBase$pathPerl$pathWiki/create-profile");
+	$document = &Enigma::Core::FileRead("$config{WIKI_PATH}/create-profile");
 	
 	$document =~s/{avatar_file}/$avatar_file/;
 	$document =~s/{avatar_handle}/$avatar_handle/g;
@@ -470,7 +451,7 @@ sub InsertCreateDisplay {
 
 sub DisplayCreate {
 	my $id = param('id');
-	($session{securityphrase}, $session{floodinterval}) = split(/:/, &Enigma::Core2::GetSession);
+	($session{securityphrase}, $session{floodinterval}) = split(/:/, &Enigma::Core::GetSession);
 	
 	if ($id ne '') {
 		$username_ucfirst = ucfirst($id);
@@ -483,8 +464,8 @@ sub DisplayCreate {
 		$existinguser = &GetExistingProfile;
 	}
 	
-	$session{securityphrase} = &Enigma::Core2::TimeStamp;
-	&Enigma::Core2::SetSession("$session{securityphrase}:$session{floodinterval}");
+	$session{securityphrase} = &Enigma::Core::TimeStamp;
+	&Enigma::Core::SetSession("$session{securityphrase}:$session{floodinterval}");
 	
 	&PrepForCreateDisplay;
 	&InsertCreateDisplay;
@@ -493,12 +474,12 @@ sub DisplayCreate {
 }
 
 sub DisplayFanfare {
-	($session{securityphrase}, $session{floodinterval}) = split(/:/, &Enigma::Core2::GetSession);
+	($session{securityphrase}, $session{floodinterval}) = split(/:/, &Enigma::Core::GetSession);
 	
-	$session{securityphrase} = &Enigma::Core2::TimeStamp;
-	&Enigma::Core2::SetSession("$session{securityphrase}:$session{floodinterval}");
+	$session{securityphrase} = &Enigma::Core::TimeStamp;
+	&Enigma::Core::SetSession("$session{securityphrase}:$session{floodinterval}");
 	
-	$document = &Enigma::Core2::FileRead("$pathBase$pathPerl$pathWiki/fanfare");
+	$document = &Enigma::Core::FileRead("$config{WIKI_PATH}/fanfare");
 	$document =~s/{id}/Fanfare/;
 	$document =~s/{author_ucfirst}//;
 	$document =~s/{comment}//;
@@ -510,7 +491,7 @@ sub DisplayFanfare {
 }
 
 sub DisplayUpdate {
-	$errorMsg = &Enigma::Core2::GetErrorMessage($errorCode);
+	$errorMsg = &Enigma::Core::GetErrorMessage($errorCode);
 		
 	if ($errorCode gt 0) {
 		&DisplayFanfare;
@@ -540,7 +521,7 @@ sub ModuleUpdate {
 	}
 	
 	print header;
-	&Enigma::Core2::TranslateTheme(\$document);
+	&Enigma::Core::TranslateTheme(\$document);
 	print $document;
 	return 1;
 }
@@ -558,12 +539,12 @@ sub Display {
 	
 	&GetExistingProfile;
 	
-	my $pathFile = "$pathBase$pathPerl$pathWiki/fanfare-$username_lc";
+	my $pathFile = "$config{WIKI_PATH}/fanfare-$username_lc";
 	if (-e $pathFile) {
-		$document = &Enigma::Core2::FileRead("$pathFile");
+		$document = &Enigma::Core::FileRead("$pathFile");
 	}
 	else {
-		$document = &Enigma::Core2::FileRead("$pathBase$pathPerl$pathWiki/fanfare-profile");
+		$document = &Enigma::Core::FileRead("$config{WIKI_PATH}/fanfare-profile");
 	}
 
 	if  ($avatar_file eq '') {
@@ -596,7 +577,7 @@ sub Display {
 	$document =~s/{aboutmyself}/$aboutmyself/;
 	
 	print header;
-	&Enigma::Core2::TranslateTheme(\$document);
+	&Enigma::Core::TranslateTheme(\$document);
 	print $document;
 	return 1;
 }

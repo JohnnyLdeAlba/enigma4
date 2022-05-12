@@ -1,4 +1,4 @@
-<!-- editorstamp::10.0.2.2::20220511195737 -->
+<!-- editorstamp::192.168.0.3::20081031081432 -->
 <html>
 <head>
 
@@ -36,26 +36,26 @@ History</a></span>
 <br />
 <div style='float:left;width:50%;'>
 Username<br />
-<input type='text' name='username_ucfirst' size='25' value='{username_ucfirst}'>
+<input type='text' name='username_ucfirst' size='45' value='{username_ucfirst}'>
 <br />
 </div>
 
 <div>Realname<br />
-<input type='text' name='realname' size='25' value='{realname}'>
+<input type='text' name='realname' size='45' value='{realname}'>
 </div>
 
 <div style='float:left;width:50%;'>
 Email<br />
-<input type='text' name='email' size='25' value='{email}'>
+<input type='text' name='email' size='45' value='{email}'>
 </div>
 
 <div>Website<br />
-<input type='text' name='website' size='25' value='{website}'>
+<input type='text' name='website' size='45' value='{website}'>
 </div>
 
 <br />
 <div style='float:left;width:50%;'>Birth<br />
-<input type='text' name='birth' size='25' value='{birth}'>
+<input type='text' name='birth' size='45' value='{birth}'>
 </div>
 
 <div>Sex<br />
@@ -65,7 +65,7 @@ Email<br />
 
 <br />
 <div>Operating System<br />
-<input type='text' name='operatingsystem' size='25' value='{operatingsystem}'>
+<input type='text' name='operatingsystem' size='45' value='{operatingsystem}'>
 </div>
 
 <br />
@@ -77,7 +77,7 @@ Email<br />
 <input type='radio' name='messanger1' value='(MSN)' {messanger1::msn}> MSN
 <input type='radio' name='messanger1' value='(YIM)' {messanger1::yim}> YIM
 <br />Primary Screenname
-<input type='text' name='screenname1' size='25' value='{screenname1}'>
+<input type='text' name='screenname1' size='45' value='{screenname1}'>
 </div>
 
 <br />
@@ -87,7 +87,7 @@ Email<br />
 <input type='radio' name='messanger2' value='(MSN)' {messanger2::msn}> MSN
 <input type='radio' name='messanger2' value='(YIM)' {messanger2::yim}> YIM
 <br />Secondary Screenname
-<input type='text' name='screenname2' size='25' value='{screenname2}'>
+<input type='text' name='screenname2' size='45' value='{screenname2}'>
 </div>
 
 <br />
@@ -95,15 +95,15 @@ Email<br />
 <br />
 <div style='float:left;width:50%;'>
 City<br />
-<input type='text' name='city' size='25' value='{city}'>
+<input type='text' name='city' size='45' value='{city}'>
 </div>
 
 <div>State<br />
-<input type='text' name='state' size='25' value='{state}'>
+<input type='text' name='state' size='45' value='{state}'>
 </div>
 
 <div>Country<br />
-<input type='text' name='country' size='25' value='{country}'>
+<input type='text' name='country' size='45' value='{country}'>
 </div>
 
 <br />
@@ -111,11 +111,11 @@ City<br />
 <br />
 <div style='float:left;width:50%;'>
 Favorite Gaming Platform<br />
-<input type='text' name='favoriteplatform' size='25' value='{favoriteplatform}'>
+<input type='text' name='favoriteplatform' size='45' value='{favoriteplatform}'>
 </div>
 
 <div>Favorite Game<br />
-<input type='text' name='favoritegame' size='25' value='{favoritegame}'>
+<input type='text' name='favoritegame' size='45' value='{favoritegame}'>
 </div>
 
 <br />
@@ -124,13 +124,13 @@ Favorite Gaming Platform<br />
 {securityphrase}
 <br /><br />Please type in the numbers above.
 <br />
-<input type='text' name='securityphrase' size='25' value=''>
+<input type='text' name='securityphrase' size='45' value=''>
 
 <br /><br />
 <div class='cat'>Personal</div>
 <br />
 <div>Interests<br />
-<input type='text' name='interests' size='25' value='{interests}'>
+<input type='text' name='interests' size='45' value='{interests}'>
 </div>
 
 <br />

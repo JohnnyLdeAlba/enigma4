@@ -1,4 +1,4 @@
-<!-- editorstamp::10.0.2.2::20220511195250 -->
+<!-- editorstamp::10.0.2.2::20220511195042 -->
 <html> 
 <head>
 
@@ -50,9 +50,9 @@ Fan Music</a></span>
 
 <div id='panel'>
 
-<div style='margin:3px;overflow:auto;text-align:left;float:right;' id='key' >
+<div style='margin:3px;width:100px;text-align:left;float:right;' id='key' >
 <div>Editor's Favorite</div>
-<div style='margin:1px 0px 1px 0px;'>
+<div style='margin:1px 0px 1px 0px;height:200px;'>
 <p align='center'>
 <img src='../eccoserv/artwork/tilas-hymn-of-unityx100.png' />
 </p>
@@ -60,9 +60,9 @@ Fan Music</a></span>
 <div>by Tilas</div>
 </div>
 
-<div style='margin:3px;overflow:auto;text-align:left;float:right;' id='key' >
+<div style='margin:3px;width:100px;text-align:left;float:right;' id='key' >
 <div>Editor's Favorite</div>
-<div style='margin:1px 0px 1px 0px;'>
+<div style='margin:1px 0px 1px 0px;height:100px;'>
 <p align='center'>
 <img src='../eccoserv/artwork/kimberley-petrie-blades-in-motionx100.jpg' />
 </p>

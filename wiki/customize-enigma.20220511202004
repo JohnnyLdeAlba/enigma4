@@ -1,4 +1,4 @@
-<!-- editorstamp::10.0.2.2::20220511202004 -->
+<!-- editorstamp::24.7.84.157::20081201115542 -->
 <!wiki func='wikistamp' ip='192.168.0.3' created='20080929212901' comment='AAA'>
 <html>
 <head>
@@ -38,8 +38,11 @@ History</a></span>
 
 <ol>
 
-<li><a href='display.pl?id=customize-enigma&theme=defender'>
-Defender of the Future (Default)</a>
+<li><a href='display.pl?id=customize-enigma&theme=revival'>
+Revival</a>
+
+<li><a href='display.pl?id=customize-enigma&theme=asteritescave'>
+The Asterite's Cave</a>
 
 <li><a href='display.pl?id=customize-enigma&theme=enigma1'>
 Enigma Classic</a>
@@ -47,8 +50,8 @@ Enigma Classic</a>
 <li><a href='display.pl?id=customize-enigma&theme=advance'>
 Enigma Advance</a>
 
-<li><a href='display.pl?id=customize-enigma&theme=revival'>
-Revival</a>
+<li><a href='display.pl?id=customize-enigma&theme=defender'>
+Defender of the Future</a>
 
 </ol>
 

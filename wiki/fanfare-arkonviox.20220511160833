@@ -1,4 +1,4 @@
-<!-- editorstamp::10.0.2.2::20220511160833 -->
+<!-- editorstamp::24.7.84.157::20081201184156 -->
 <html>
 <head>
 
@@ -26,7 +26,7 @@ Display</a></span>
 <span id='visited'><a href='comment.pl?id=explore'>
 Explore</a></span>
 
-<span id='visited'><a href='history.pl?id=fanfare-{username_lc}'>
+<span id='visited'><a href='history.pl?id=fanfare-arkonviox'>
 History</a></span>
 
 <div id='panel'>

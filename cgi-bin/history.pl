@@ -1,12 +1,14 @@
 #!/usr/bin/perl -w
 
 use strict;
+use CGI qw(:all);
 
 use Cwd qw(abs_path);
 use lib abs_path('.');
 
-use Enigma::Core2;
+use Enigma::Core;
+use Enigma::CommentManager;
 use config;
 
-Enigma::Core2::ReadConfig(config::Get());
-Enigma::Core2::DisplayHistory;
+Enigma::Core::SetConfig(config::Get);
+Enigma::Core::DisplayHistory;

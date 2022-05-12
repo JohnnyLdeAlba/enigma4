@@ -4,14 +4,15 @@ body {
 	background-color: #000000;
 	border: 0px none transparent;
 	font-family: verdana;
-	font-size: 8pt; font-weight: normal;
+	font-size: 10pt; font-weight: normal;
 	color: #ffffff;
 }
 
+.layout { margin: 0 auto; width: 800px; }
+.banner { width: 100%; }
+
 #container {
-	width: 640px;
-	margin-left: 10%;
-	margin-right: 10%;
+	margin: 0 10%;
  }
 
 img { border: 0px none transparent; }
@@ -28,7 +29,7 @@ b {
 td {
 	background-color: transparent;
 	border: 0px none transparent;
-	font-size: 8pt; font-weight: normal;
+	font-size: 10pt; font-weight: normal;
 	color: #ffffff;
 }
 
@@ -37,7 +38,7 @@ div, form {
 	display: block;
 	background-color: transparent;
 	border: 0px none transparent;
-	font-size: 8pt; font-weight: normal;
+	font-size: 10pt; font-weight: normal;
 	color: #ffffff;
 }
 
@@ -49,10 +50,12 @@ input, textarea {
 	color: #cccccc;
 }
 
+textarea { display: block; width: 100%; }
+
 ol { list-style: upper-roman; }
 
 a:link, a:active, a:visited {
-	font-size: 8pt; font-weight: normal;
+	font-size: 10pt; font-weight: normal;
 	color: #00ff00; text-decoration: none;
 }
 
@@ -64,7 +67,7 @@ a:hover { text-decoration: underline; }
 	background-color: #006095;
 	border-width: 1px 1px 0px 1px;
 	border-style: solid; border-color: #000000;
-	font-size: 8pt; font-weight: bold;
+	font-size: 10pt; font-weight: bold;
 	color: #cccccc;
 }
 
@@ -74,12 +77,12 @@ a:hover { text-decoration: underline; }
 	background-color: #006095;
 	border-width: 1px 1px 0px 1px;
 	border-style: solid; border-color: #000000;
-	font-size: 8pt; font-weight: bold;
+	font-size: 10pt; font-weight: bold;
 	color: #aaaaaa;
 }
 
 #visited a:link, #visited a:active, #visited a:visited {
-	font-size: 8pt; font-weight: bold;
+	font-size: 10pt; font-weight: bold;
 	color: #aaaaaa; text-decoration: none;
 }
 
@@ -88,7 +91,7 @@ a:hover { text-decoration: underline; }
 	display: block;
 	background-color: #006095;
 	border: 3px solid #000000;
-	font-size: 8pt; font-weight: normal;
+	font-size: 10pt; font-weight: normal;
 	color: #ffffff;
 }
 
@@ -97,7 +100,7 @@ a:hover { text-decoration: underline; }
 	display: block;
 	background-color: #006095;
 	border: 3px solid #000000;
-	font-size: 8pt; font-weight: normal;
+	font-size: 10pt; font-weight: normal;
 	color: #ffffff;
 }
 
@@ -106,7 +109,7 @@ a:hover { text-decoration: underline; }
 	display: block;
 	background-color: #006095;
 	border: 3px solid #000000;
-	font-size: 8pt; font-weight: normal;
+	font-size: 10pt; font-weight: normal;
 	color: #ffffff;
 }
 
@@ -125,14 +128,14 @@ a:hover { text-decoration: underline; }
 
 #key .tab, #key div, #key td {
 	padding:2px;
-	font-family:verdana; font-size:7pt;
+	font-family:verdana; font-size:9pt;
 	color:white;
 	background-color:black;
 }
 
 #key .visited {
 	padding:2px;
-	font-family:verdana; font-size:7pt;
+	font-family:verdana; font-size:9pt;
 	color: #cccccc;
 	background-color:black;
 }
@@ -162,7 +165,7 @@ a:hover { text-decoration: underline; }
 	background-color: transparent;
 	border-width: 0px 0px 1px 0px;
 	border-style: solid; border-color: #aaaa00;
-	font-size: 8pt; font-weight: normal;
+	font-size: 10pt; font-weight: normal;
 	color: #ffff00;
 }
 
@@ -182,7 +185,7 @@ a:hover { text-decoration: underline; }
 	background-color: transparent;
 	border-width: 0px;
 	border-style: none; border-color: transparent;
-	font-size: 8pt; font-weight: normal;
+	font-size: 10pt; font-weight: normal;
 	color: #ffff00; text-align: right;
 }
 
@@ -192,7 +195,7 @@ a:hover { text-decoration: underline; }
 	background-color: transparent;
 	border-width: 0px;
 	border-style: none; border-color: transparent;
-	font-size: 8pt; font-weight: normal;
+	font-size: 10pt; font-weight: normal;
 	color: #ffff00; text-align: center;
 }
 
@@ -203,7 +206,7 @@ a:hover { text-decoration: underline; }
 	display: block; float: right;
 	background-color: #005085;
 	border: 3px solid #000000;
-	font-size: 8pt; font-weight: normal;
+	font-size: 10pt; font-weight: normal;
 	color: #ffff00; text-align: left;
 }
 

@@ -3,6 +3,8 @@ body {
 	display: block;
 	background-color: black;
 	background-image: url('enigma1-background.gif');
+        background-size: 250px;
+        image-rendering: pixelated;
 	border: 0px none transparent;
 	font-family: verdana;
 	font-size: 8pt; font-weight: normal;
