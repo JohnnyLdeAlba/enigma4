@@ -6,8 +6,8 @@ A perl based wiki made in 2008 that uses the file system as database storage.
 
 Perl 5 based.
 
-CGI
-ImageMagick
+- CGI
+- ImageMagick
 
 # ImageMagick Installtion
 
