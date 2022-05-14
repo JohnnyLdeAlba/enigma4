@@ -2,6 +2,12 @@
 
 A perl based wiki made in 2008 that uses the file system as database storage.
 
+# Features
+- A wiki like system for creating, editing and viewing the history of pages on the website.
+- A "fanfare" page where users can create personal profiles for themselves featuring contact information and contributions to the website.
+- A gallery where users can upload artwork and other image based works.
+- A section where users can upload music and fan fiction (stories) in various text formats.
+
 # Required Packages
 
 - Perl v5.32.1
