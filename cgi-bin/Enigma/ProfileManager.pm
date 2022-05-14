@@ -251,7 +251,7 @@ sub UpdateProfile {
 		return $errorCode;
 	}
 
-        if ($config{DEFCON} eq 3) {
+        if ($config{DEFCON} le 2) {
           return -998;
         }
 	

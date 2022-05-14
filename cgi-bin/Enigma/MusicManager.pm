@@ -121,7 +121,7 @@ sub UpdateSection {
 	$title_lc = lc($title_ucfirst);
 	$title_lc =~s/ /\-/g;
 
-        if ($config{DEFCON} eq 3) {
+        if ($config{DEFCON} le 3) {
           return -997;
         }
 	

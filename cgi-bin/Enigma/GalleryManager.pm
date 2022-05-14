@@ -184,6 +184,10 @@ sub UpdateGallery {
 	$title_uc = uc($title_ucfirst);
 	$title_lc = lc($title_ucfirst);
 	$title_lc =~s/ /\-/g;
+
+        if ($config{DEFCON} le 3) {
+          return -997;
+        }
 	
 	($session{securityphrase}, $session{floodinterval}) = split(/:/, &Enigma::Core::GetSession);
 	
