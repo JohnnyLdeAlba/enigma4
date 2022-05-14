@@ -1,6 +1,6 @@
 This README is a rough draft work in progress!
 
-# Enigma4
+# Enigma4 Beta
 
 A perl based wiki made in 2008 that uses the file system as database storage.
 
