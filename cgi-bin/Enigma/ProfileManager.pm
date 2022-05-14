@@ -250,6 +250,10 @@ sub UpdateProfile {
 	if ($errorCode ne 1) {
 		return $errorCode;
 	}
+
+        if ($config{DEFCON} eq 3) {
+          return -998;
+        }
 	
 	if (&Enigma::Core::Banned) {
 		# IP BANNED

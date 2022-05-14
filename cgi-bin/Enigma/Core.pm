@@ -286,6 +286,9 @@ sub GetErrorMessage {
         elsif ($codeError eq '-997') {
                 $msgError = "DEFCON 3 Enabled: Image, story, and music uploads have been disabled. ";
         }
+	elsif ($codeError eq '-998') {
+                $msgError = "DEFCON 2 Enabled: Creating and updating profiles have been disabled. Image, story, and music uploads have been disabled. ";
+        }
 	
 	return $msgError;
 }
