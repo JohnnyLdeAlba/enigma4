@@ -19,6 +19,7 @@ sudo apt install pkg-config // Required in order for ImageMagick's configure scr
 ./configure --with-perl=yes
 make
 make install
+sudo ldconfig /usr/local/lib
 
 # Setting up the config.pm file (Optional)
 
