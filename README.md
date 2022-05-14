@@ -39,6 +39,7 @@ $_config{DEFCON} = 2;                                       # Used to lock down 
 
 # chmod Folders.
 
+```
 profilemanager.dat - Profile database used for the Fanfare section.
 / - Where daily session data gets stored.
 /eccoserv/avatars
@@ -46,3 +47,4 @@ profilemanager.dat - Profile database used for the Fanfare section.
 /eccoserv/fanfiction
 /eccoserv/mp3
 /wiki
+```
