@@ -1,30 +1,25 @@
 #!/usr/bin/perl -w
 
 package Enigma::GalleryManager;
-use lib '/var/www/cgi-bin';
-
 use strict;
-use Switch;
 
-use Enigma::Core2;
+use Cwd qw(abs_path);
+
+abs_path('.') =~ m/(.*)\//;
+use lib abs_path($&);
+
+use Enigma::Core;
 use CGI qw(:all);
 use Image::Magick;
 
 $CGI::POST_MAX = 1024 * 10000;
 
+my %config;
 my $document;
 my %session;
 
 my $errorCode; 
 my $errorMsg;
-
-my $pathBase;
-my $pathPerl;
-my $pathEccoServ;
-my $pathWiki;
-my $fileUpdate;
-
-my $floodinterval;
 
 my $image_file;
 my $image_thumb;
@@ -41,13 +36,12 @@ my $title_lc;
 
 my $section;
 my $securityphrase;
+my $fileUpdate;
+
 
 sub Initialize {
-	$pathBase = &Enigma::Core2::GetPathBase;
-	$pathPerl = &Enigma::Core2::GetPathPerl;
-	$pathEccoServ = &Enigma::Core2::GetPathEccoServ;
-	$pathWiki = &Enigma::Core2::GetPathWiki;
-	$floodinterval = &Enigma::Core2::GetFloodInterval;
+
+        %config = Enigma::Core::GetConfig();
 	
 	$document = '';
 	$errorCode = 0; 
@@ -87,7 +81,7 @@ sub UploadImage {
 	}
 	
 	$image_file = "$author_lc-$title_lc.$type";
-	my $pathFile = "$pathBase$pathEccoServ/artwork/$image_file";
+	my $pathFile = "$config{CONTENT_PATH}/artwork/$image_file";
 	
 	if (-e $pathFile) {
 		if ($section ne 'overwrite') {
@@ -124,7 +118,7 @@ sub UploadImage {
 	}
 	
 	$image_thumb = "$author_lc-$title_lc"."x100.$type";
-	my $pathFile = "$pathBase$pathEccoServ/artwork/$image_thumb";
+	$pathFile = "$config{CONTENT_PATH}/artwork/$image_thumb";
 	$image->Scale(width=>$width, height=>$height);
 	$image->Write($pathFile);
 	
@@ -134,7 +128,7 @@ sub UploadImage {
 		#OVERWRITE SUCCESS
 		return -19;
 	}
-	
+
 	return 1;
 }
 
@@ -147,7 +141,7 @@ sub Update2Section {
 	$fileUpdate = "/$section";
 	my $count = 0; my $insert = '';
 	
-	$document = &Enigma::Core2::FileRead("$pathBase$pathPerl$pathWiki$fileUpdate");
+	$document = &Enigma::Core::FileRead("$config{WIKI_PATH}$fileUpdate");
 	if ($document =~m/<!-- placeholder::([0-9]*) -->/) {
 		$count = $1;
 		if (($count%4) eq 0) {
@@ -165,28 +159,15 @@ sub Update2Section {
 	$document =~s/<!-- placeholder.*>\n/$insert/;
 	$document =~s/<!-- editorstamp.*>\n//g;
 	
-	$document = &Enigma::Core2::EditorStamp().$document;
-	if (&Enigma::Core2::FileArchive("$pathBase$pathPerl$pathWiki$fileUpdate")) {
-		&Enigma::Core2::FileSave("$pathBase$pathPerl$pathWiki$fileUpdate", $document);
+	$document = &Enigma::Core::EditorStamp().$document;
+	if (&Enigma::Core::FileArchive("$config{WIKI_PATH}$fileUpdate")) {
+		&Enigma::Core::FileSave("$config{WIKI_PATH}$fileUpdate", $document);
 	}
 	else {
 		# FILE NOT WRITABLE
 		return -7;
 	}
-	
-	return 1;
-}
 
-sub Update2Forum {
-	my $section_ucfirst = ucfirst($section);
-	$section_ucfirst =~s/\-/ /g;
-	
-	my $insert = &Enigma::Core2::TimeStamp.": Image added to the $section_ucfirst section: ";
-	$insert.= "\[url=http://www.arkonviox.net/eccoserv/artwork/$image_file\]";
-	$insert .="$image_file\[/url\]";
-	$insert.= "<br />";
-	
-	&Enigma::Core2::Update2Forum($insert);
 	return 1;
 }
 
@@ -204,7 +185,7 @@ sub UpdateGallery {
 	$title_lc = lc($title_ucfirst);
 	$title_lc =~s/ /\-/g;
 	
-	($session{securityphrase}, $session{floodinterval}) = split(/:/, &Enigma::Core2::GetSession);
+	($session{securityphrase}, $session{floodinterval}) = split(/:/, &Enigma::Core::GetSession);
 	
 	if ($author_ucfirst !~/^[A-Za-z0-9][A-Za-z0-9 ]+[A-Za-z0-9]$/) {
 		# INVALID CHARACTERS
@@ -216,12 +197,12 @@ sub UpdateGallery {
 		return -3;
 	}
 	
-	if (&Enigma::Core2::Banned) {
+	if (&Enigma::Core::Banned) {
 		# IP BANNED
 		return -1;
 	}
 	
-	if (((&Enigma::Core2::TimeStamp)-$session{floodinterval}) < $floodinterval) {
+	if (((&Enigma::Core::TimeStamp)-$session{floodinterval}) < $config{FLOOD_INTERVAL}) {
 		# FLOOD INTERVAL HAS NOT TIMED OUT
 		return -2;
 	}
@@ -240,36 +221,34 @@ sub UpdateGallery {
 	if ($errorCode ne 1) {
 		return $errorCode;
 	}
-	
-	&Update2Forum;
 
-	$session{floodinterval} = &Enigma::Core2::TimeStamp;
-	&Enigma::Core2::SetSession("$session{securityphrase}:$session{floodinterval}");
+	$session{floodinterval} = &Enigma::Core::TimeStamp;
+	&Enigma::Core::SetSession("$session{securityphrase}:$session{floodinterval}");
 	return 2;
 }
 
 sub Display {
-	($session{securityphrase}, $session{floodinterval}) = split(/:/, &Enigma::Core2::GetSession);
+	($session{securityphrase}, $session{floodinterval}) = split(/:/, &Enigma::Core::GetSession);
 	
-	$session{securityphrase} = &Enigma::Core2::TimeStamp;
-	&Enigma::Core2::SetSession("$session{securityphrase}:$session{floodinterval}");
+	$session{securityphrase} = &Enigma::Core::TimeStamp;
+	&Enigma::Core::SetSession("$session{securityphrase}:$session{floodinterval}");
 	
-	$document = &Enigma::Core2::FileRead("$pathBase$pathPerl$pathWiki/upload-image");
+	$document = &Enigma::Core::FileRead("$config{WIKI_PATH}/upload-image");
 	$document =~s/{author_ucfirst}/$author_ucfirst/;
 	$document =~s/{title_ucfirst}/$title_ucfirst/;
 	$document =~s/{securityphrase}/$session{securityphrase}/;
 	
-	$document =~s/ {section::$section}/ selected/;
-	$document =~s/ {section::.*}//g;
+	$document =~s/{section::$section}/ selected/;
+	$document =~s/{section::.*}//g;
 	
 	return 1;
 }
 
 sub DisplayUpload {
-	$errorMsg = &Enigma::Core2::GetErrorMessage($errorCode);
+	$errorMsg = &Enigma::Core::GetErrorMessage($errorCode);
 	
 	if ($errorCode eq 2) {
-		$document = &Enigma::Core2::FileRead("$pathBase$pathPerl$pathWiki$fileUpdate");
+		$document = &Enigma::Core::FileRead("$config{WIKI_PATH}$fileUpdate");
 		
 		if ($section = 'overwrite') {
 			$document =~s/{author_ucfirst}/$author_ucfirst/;
@@ -293,7 +272,7 @@ sub DisplayUpload {
 }
 
 sub ModuleUpdate {
-	&Initialize;
+	Initialize;
 	
 	my $func = param('func');
 	if ($func eq 'upload') {
@@ -304,7 +283,7 @@ sub ModuleUpdate {
 	}
 	
 	print header;
-	&Enigma::Core2::TranslateTheme(\$document);
+	&Enigma::Core::TranslateTheme(\$document);
 	print $document;
 	return 1;
 }

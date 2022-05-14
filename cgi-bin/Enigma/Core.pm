@@ -234,7 +234,7 @@ sub GetErrorMessage {
 		$msgError = "Error: You must select a file to upload.\n";
 	}
 	elsif ($codeError eq '-6') {
-		$msgError = "Error: File can only be of JPEG, GIF format.\n";
+		$msgError = "Error: File can only be of JPEG, GIF or PNG format.\n";
 	}
 	elsif ($codeError eq '-7') {
 		$msgError = "Error: File cannot be saved because it is locked.\n";

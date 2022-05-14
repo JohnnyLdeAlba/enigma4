@@ -8,7 +8,15 @@ body {
 	color: #ffffff;
 }
 
-.layout { margin: 0 auto; width: 800px; }
+.layout {
+  display: flex;
+  flex-direction: column;
+
+  margin: 0 auto;
+  width: 800px;
+  height: 100vh;
+}
+
 .banner { width: 100%; }
 
 #container {
@@ -35,7 +43,6 @@ td {
 
 div, form {
 	margin: 0px; padding: 0px;
-	display: block;
 	background-color: transparent;
 	border: 0px none transparent;
 	font-size: 10pt; font-weight: normal;
@@ -141,12 +148,12 @@ a:hover { text-decoration: underline; }
 }
 
 #key b {
-	font-family:verdana; font-size:7pt;
+	font-family:verdana; font-size:9pt;
 	font-weight:bold; color:white;
 }
 
 #key a:link, #key a:active, #key a:visited {
-	font-size: 7pt; font-weight: normal;
+	font-size: 9pt; font-weight: normal;
 	color: #0099ff; text-decoration: none;
 }
 
@@ -155,7 +162,7 @@ a:hover { text-decoration: underline; }
 	display: block;
 	background-color: #004075;
 	border: 1px dashed #aaaa00;
-	font-size: 7pt; font-weight: normal;
+	font-size: 9pt; font-weight: normal;
 	color: #cccccc;
 }
 
@@ -175,7 +182,7 @@ a:hover { text-decoration: underline; }
 	background-color: transparent;
 	border-width: 0px 0px 1px 0px;
 	border-style: solid; border-color: #aaaa00;
-	font-size: 7pt; font-weight: normal;
+	font-size: 9pt; font-weight: normal;
 	color: #ffff00; text-align: right;
 }
 
@@ -216,6 +223,7 @@ a:hover { text-decoration: underline; }
 	background-color: #006095;
 }
 #viewport {
+        flex: 1;
 	width: 800px;
 	background-color: #202530;
  }

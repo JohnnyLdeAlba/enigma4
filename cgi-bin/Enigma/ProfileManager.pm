@@ -170,6 +170,9 @@ sub UploadAvatar {
 		elsif (($type eq 'image/gif')) {
 			$type = 'gif';
 		}
+		elsif (($type eq 'image/png')) {
+			$type = 'png';
+		}
 		else {
 			#FILE UPLOAD NOT JPEG/PNG/GIF
 			return -6;

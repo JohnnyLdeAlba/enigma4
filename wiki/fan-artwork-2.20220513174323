@@ -1,4 +1,4 @@
-<!-- editorstamp::10.0.2.2::20220513174601 -->
+<!-- editorstamp::10.0.2.2::20220513174228 -->
 <html>
 <head>
 
@@ -62,7 +62,7 @@ Fan Music</a></span>
 
 <table cellspacing='0' cellpadding='0' width='550'>
 <tr>
-<td align='center' valign='bottom'>
+<td align='center' valign='bottom' colspan="3">
 <a href='../eccoserv/artwork/goldenkirbichu-hanging-waters.png' target='_blank'>
 <img src='../eccoserv/artwork/goldenkirbichu-hanging-watersx100.png' border='0' /></a>
 <br />Hanging Waters by GoldenKirbichu

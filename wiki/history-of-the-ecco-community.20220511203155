@@ -1,4 +1,4 @@
-<!-- editorstamp::10.0.2.2::20220511203237 -->
+<!-- editorstamp::192.168.0.3::20081031142033 -->
 <!wiki func='wikistamp' ip='68.118.68.77' created='20081011213810' comment='copyedits, phrasing tweaks'>
 <html>
 <head>
@@ -123,6 +123,21 @@ Arkonviox.com '01 to '02 Yabb Forum Archive</a>
 <br />
 This was the third forum used by Arkonviox.com between 2001 and 2002. It was pulled from use by the service host for its constant hard drive access in place of a database driven forum.
 <br /><br />
+
+<li>
+<a href='../eccoserv/html/phpbb.20021001.html' target='_blank'>
+Arkonviox.com '02 to '03 Phpbb Forum Archive</a>
+<br />
+This is Arkonviox.com's php-based forum from 2002 to 2003. It used the mySQL database system and because of its complex tables could not be fully restored. At the moment posts are not attributed to a user and are slightly out of order from the topic they originated from. 
+<br /><br />
+
+<li>
+<a href='../eccoserv/html/postnuke.20040819.html' target='_blank'>
+Arkonviox.com '03 to '04 Postnuke Forum Archive</a>
+<br />
+This is a heavily modified version of the phpBB forum to be used in conjunction with the postNuke content delivery system. 
+Because of its complex mySQL table structures this also could not be fully restored. Posts are not attributed to a user and are slightly out of order from the topic they originated from.
+
 </ol>
 </div>
 <div> </div>
@@ -211,6 +226,14 @@ Epicenter eventually took over operations and rebuilt the <i>Ecco 2</i> Beta web
 
 <br /><br />
 <span id='tab'>R.I.P.</span>
+
+<div id='caption'>
+<center>
+<img src='../eccoserv/captions/ripx200.jpg'>
+</center>
+<br />
+Like this beached whale these websites never had a chance.
+</div>
 
 <div id='panel'>
 Isles of Tranquility - A fan website created by Orion and Flippy to take on the community of Caverns of Hope when the site's forum closed. Flippy was developing an <i>Ecco the Dolphin</i> fan game that was 3D. Because of Orion's lack of interest and Flippy's lack of time the site closed not too long after it opened.

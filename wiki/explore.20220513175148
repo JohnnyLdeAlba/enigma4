@@ -1,4 +1,4 @@
-<!-- editorstamp::10.0.2.2::20220513175148 -->
+<!-- editorstamp::10.0.2.2::20220513141245 -->
 <html> 
 <head>
  
@@ -97,6 +97,9 @@ Customize Enigma</a>
 <br />
 <a href='comment.pl?id=fanfare'>
 Fanfare</a>
+<br />
+<a href='yabb2/YaBB.pl' target='_blank'>
+Forum</a>
 <br />
 <a href='display.pl?id=history-of-the-ecco-community'>
 History of the Ecco Community</a>

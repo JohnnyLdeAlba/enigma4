@@ -1,8 +1,14 @@
 #!/usr/bin/perl -w
 
 use strict;
-use lib '/var/www/cgi-bin';
-use Enigma::GalleryManager;
-use CGI::Carp qw(fatalsToBrowser);
+use CGI qw(:all);
 
-&Enigma::GalleryManager::ModuleUpdate;
+use Cwd qw(abs_path);
+use lib abs_path('.');
+
+use Enigma::Core;
+use Enigma::GalleryManager;
+use config;
+
+Enigma::Core::SetConfig(config::Get);
+Enigma::GalleryManager::ModuleUpdate;

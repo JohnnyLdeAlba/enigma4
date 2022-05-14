@@ -1,4 +1,4 @@
-<!-- editorstamp::10.0.2.2::20220513174601 -->
+<!-- editorstamp::10.0.2.2::20220513173742 -->
 <html>
 <head>
 
@@ -61,12 +61,20 @@ Fan Music</a></span>
 <p align='center'>
 
 <table cellspacing='0' cellpadding='0' width='550'>
+
+<tr>
+<td align='center' valign='bottom'>
 <tr>
 <td align='center' valign='bottom'>
 <a href='../eccoserv/artwork/goldenkirbichu-hanging-waters.png' target='_blank'>
 <img src='../eccoserv/artwork/goldenkirbichu-hanging-watersx100.png' border='0' /></a>
 <br />Hanging Waters by GoldenKirbichu
-<!-- placeholder::1 -->
+<tr>
+<td align='center' valign='bottom'>
+<a href='../eccoserv/artwork/test-test.png' target='_blank'>
+<img src='../eccoserv/artwork/test-testx100.png' border='0' /></a>
+<br />Test by Test
+<!-- placeholder::17 -->
 </table>
 </p>
 </div>
