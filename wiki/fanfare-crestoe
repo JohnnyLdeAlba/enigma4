@@ -1,4 +1,4 @@
-<!-- editorstamp::10.0.2.2::20220511202247 -->
+<!-- editorstamp::10.0.2.2::20220514092155 -->
 <!wiki func='wikistamp' ip='192.168.0.3' created='20081012192233' comment='AAA'>
 <html>
 <head>
@@ -36,9 +36,9 @@ History</a></span>
 <div id='panel'>
 <h1>Fanfare Crestoe</h1>
 <h2>
-[ <a href='edit.pl?id=fanfare-crestoe'>Edit</a> ]
+[ <a href='edit.pl?id=fanfare-{username_lc}'>Edit Template</a> ]
+[ <a href='update-profile.pl?id={username_lc}'>Edit Profile</a> ]
 </h2>
-
 <span id='tab'>Profile</span>
 <div id='profile'>
 

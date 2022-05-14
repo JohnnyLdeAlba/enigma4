@@ -1,5 +1,6 @@
 <link href='../eccoserv/theme/forgotten.css' rel='stylesheet' type='text/css'>
 
+<div style='margin: 0 auto; width: 690px;'>
 <div id='header'></div>
 <br />
 <span id='visited'><a href='yabb.pl'>Arkonviox.com Yabb Forum</a></span>

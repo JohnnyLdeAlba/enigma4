@@ -1,8 +1,14 @@
 #!/usr/bin/perl -w
 
 use strict;
-use lib '/var/www/cgi-bin';
-use Enigma::StoryManager;
-use CGI::Carp qw(fatalsToBrowser);
+use CGI qw(:all);
 
-&Enigma::StoryManager::ModuleUpdate;
+use Cwd qw(abs_path);
+use lib abs_path('.');
+
+use Enigma::Core;
+use Enigma::StoryManager;
+use config;
+
+Enigma::Core::SetConfig(config::Get);
+Enigma::StoryManager::ModuleUpdate;

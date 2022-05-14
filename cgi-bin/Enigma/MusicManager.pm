@@ -4,28 +4,26 @@ package Enigma::MusicManager;
 use lib '/var/www/cgi-bin';
 
 use strict;
-use Switch;
 
-use Enigma::Core2;
+use Cwd 'abs_path';
+
+abs_path('.') =~ m/(.*)\//;
+use lib abs_path($&);
+
+use Enigma::Core;
 use CGI qw(:all);
 use Image::Magick;
 
 $CGI::POST_MAX = 1024 * 10000;
 
 my $document;
+my %config;
 my %session;
 
 my $errorCode; 
 my $errorMsg;
 
-my $pathBase;
-my $pathPerl;
-my $pathEccoServ;
-my $pathWiki;
-
 my $fileSection = '/fan-music-1';
-
-my $floodinterval;
 
 my $music_file;
 my $music_handle;
@@ -42,12 +40,8 @@ my $description;
 my $securityphrase;
 
 sub Initialize {
-	$pathBase = &Enigma::Core2::GetPathBase;
-	$pathPerl = &Enigma::Core2::GetPathPerl;
-	$pathEccoServ = &Enigma::Core2::GetPathEccoServ;
-	$pathWiki = &Enigma::Core2::GetPathWiki;
-	$floodinterval = &Enigma::Core2::GetFloodInterval;
-	
+        %config = Enigma::Core::GetConfig();
+
 	$document = '';
 	$errorCode = 0; 
 	$errorMsg = '';
@@ -80,7 +74,7 @@ sub UploadMusic {
 	}
 	
 	$music_file = "$author_lc-$title_lc.$type";
-	my $pathFile = "$pathBase$pathEccoServ/mp3/$music_file";
+	my $pathFile = "$config{CONTENT_PATH}/mp3/$music_file";
 	
 	open(HANDLE, ">$pathFile"); 
 	while (<$music_handle>) { print HANDLE $_; }
@@ -90,10 +84,9 @@ sub UploadMusic {
 }
 
 sub Update2Section {
-	$document = &Enigma::Core2::FileRead("$pathBase$pathPerl$pathWiki$fileSection");
+	$document = &Enigma::Core::FileRead("$config{WIKI_PATH}$fileSection");
 	
 	my $insert = "<br /><br /><li>\n";
-	$insert .= "\[ <a href=\"javascript:jukebox('../eccoserv/mp3/$music_file');\">Play</a> \]";
 	$insert .= "\[ <a href='../eccoserv/mp3/$music_file'>Download</a> \]";
 	$insert .= " $title_ucfirst by $author_ucfirst\n";
 	$insert .= "<br />$description\n";
@@ -102,25 +95,15 @@ sub Update2Section {
 	$document =~s/<!-- placeholder -->\n/$insert/;
 	$document =~s/<!-- editorstamp.*>\n//g;
 	
-	$document = &Enigma::Core2::EditorStamp().$document;
-	if (&Enigma::Core2::FileArchive("$pathBase$pathPerl$pathWiki$fileSection")) {
-		&Enigma::Core2::FileSave("$pathBase$pathPerl$pathWiki$fileSection", $document);
+	$document = &Enigma::Core::EditorStamp().$document;
+	if (&Enigma::Core::FileArchive("$config{WIKI_PATH}$fileSection")) {
+		&Enigma::Core::FileSave("$config{WIKI_PATH}$fileSection", $document);
 	}
 	else {
 		# FILE NOT WRITABLE
 		return -7;
 	}
 	
-	return 1;
-}
-
-sub Update2Forum {
-	my $insert = &Enigma::Core2::TimeStamp.": Fan music added to the fanfare section: ";
-	$insert.= "\[url=http://www.arkonviox.net/eccoserv/mp3/$music_file\]";
-	$insert .="$music_file\[/url\]";
-	$insert.= "<br />";
-	
-	&Enigma::Core2::Update2Forum($insert);
 	return 1;
 }
 
@@ -137,8 +120,12 @@ sub UpdateSection {
 	$title_uc = uc($title_ucfirst);
 	$title_lc = lc($title_ucfirst);
 	$title_lc =~s/ /\-/g;
+
+        if ($config{DEFCON} eq 3) {
+          return -997;
+        }
 	
-	($session{securityphrase}, $session{floodinterval}) = split(/:/, &Enigma::Core2::GetSession);
+	($session{securityphrase}, $session{floodinterval}) = split(/:/, &Enigma::Core::GetSession);
 	
 	if ($author_ucfirst !~/^[A-Za-z0-9][A-Za-z0-9 ]+[A-Za-z0-9]$/) {
 		# INVALID CHARACTERS
@@ -150,12 +137,12 @@ sub UpdateSection {
 		return -3;
 	}
 	
-	if (&Enigma::Core2::Banned) {
+	if (&Enigma::Core::Banned) {
 		# IP BANNED
 		return -1;
 	}
 	
-	if (((&Enigma::Core2::TimeStamp)-$session{floodinterval}) < $floodinterval) {
+	if (((&Enigma::Core::TimeStamp)-$session{floodinterval}) < $config{FLOOD_INTERVAL}) {
 		# FLOOD INTERVAL HAS NOT TIMED OUT
 		return -2;
 	}
@@ -169,26 +156,24 @@ sub UpdateSection {
 	if ($errorCode ne 1) {
 		return $errorCode;
 	}
-	
+
 	$errorCode = &Update2Section;
 	if ($errorCode ne 1) {
 		return $errorCode;
 	}
-	
-	&Update2Forum;
 
-	$session{floodinterval} = &Enigma::Core2::TimeStamp;
-	&Enigma::Core2::SetSession("$session{securityphrase}:$session{floodinterval}");
+	$session{floodinterval} = &Enigma::Core::TimeStamp;
+	&Enigma::Core::SetSession("$session{securityphrase}:$session{floodinterval}");
 	return 2;
 }
 
 sub Display {
-	($session{securityphrase}, $session{floodinterval}) = split(/:/, &Enigma::Core2::GetSession);
+	($session{securityphrase}, $session{floodinterval}) = split(/:/, &Enigma::Core::GetSession);
 	
-	$session{securityphrase} = &Enigma::Core2::TimeStamp;
-	&Enigma::Core2::SetSession("$session{securityphrase}:$session{floodinterval}");
+	$session{securityphrase} = &Enigma::Core::TimeStamp;
+	&Enigma::Core::SetSession("$session{securityphrase}:$session{floodinterval}");
 	
-	$document = &Enigma::Core2::FileRead("$pathBase$pathPerl$pathWiki/upload-music");
+	$document = &Enigma::Core::FileRead("$config{WIKI_PATH}/upload-music");
 	$document =~s/{author_ucfirst}/$author_ucfirst/;
 	$document =~s/{title_ucfirst}/$title_ucfirst/;
 	$document =~s/{description}/$description/;
@@ -198,10 +183,10 @@ sub Display {
 }
 
 sub DisplayUpload {
-	$errorMsg = &Enigma::Core2::GetErrorMessage($errorCode);
+	$errorMsg = &Enigma::Core::GetErrorMessage($errorCode);
 	
 	if ($errorCode eq 2) {
-		$document = &Enigma::Core2::FileRead("$pathBase$pathPerl$pathWiki$fileSection");
+		$document = &Enigma::Core::FileRead("$config{WIKI_PATH}$fileSection");
 	}
 	else {
 		&Display;
@@ -227,7 +212,7 @@ sub ModuleUpdate {
 	}
 	
 	print header;
-	&Enigma::Core2::TranslateTheme(\$document);
+	&Enigma::Core::TranslateTheme(\$document);
 	print $document;
 	return 1;
 }

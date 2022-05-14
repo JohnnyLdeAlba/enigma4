@@ -1,4 +1,4 @@
-<!-- editorstamp::192.168.0.3::20081101232249 -->
+<!-- editorstamp::10.0.2.2::20220513181444 -->
 <html>
 <head>
 
@@ -49,7 +49,7 @@ and one or two other media related to dolphins. The navigation is rather simple;
 <br /><br />
 <div id='key'>
 <span class='tab'>Dolphin Videos</span>
-<div>&nbsp;</div>
+<div> </div>
 <div style='margin:1px 0px 1px 0px;'>
 <center>
 <img src='../eccoserv/dads/dolphinvideos/bar.gif' border='0' />
@@ -57,46 +57,37 @@ and one or two other media related to dolphins. The navigation is rather simple;
 <table cellspacing='0' cellpadding='0' width='550'>
 <tr>
 <td align='center' valign='bottom'>
-
-<a href="javascript:popuplink('display.pl?id=dolphin-birth');">
 <img src='../eccoserv/dads/dolphinvideos/thumbs_dolphinBirth.png' border='0' />
-<br />Dolphin Birth</a>
+<br />Dolphin Birth
 
 <td align='center' valign='bottom'>
-<a href="javascript:popuplink('display.pl?id=food-play');">
 <img src='../eccoserv/dads/dolphinvideos/thumbs_dolphinFoodPlay.png' border='0' />
-<br />Food Play</a>
+<br />Food Play
 
 <td align='center' valign='bottom'>
-<a href="javascript:popuplink('display.pl?id=jump');">
 <img src='../eccoserv/dads/dolphinvideos/thumbs_dolphinJump.png' border='0' />
-<br />Jump</a>
+<br />Jump
 
 <td align='center' valign='bottom'>
-<a href="javascript:popuplink('display.pl?id=lesson');">
 <img src='../eccoserv/dads/dolphinvideos/thumbs_dolphinLesson.png' border='0' />
-<br />Lesson</a>
+<br />Lesson
 
 <tr>
 <td align='center' valign='bottom'>
-<a href="javascript:popuplink('display.pl?id=momma-and-calf');">
 <img src='../eccoserv/dads/dolphinvideos/thumbs_dolphinMomCalf.png' border='0' />
-<br />Mom and Calf</a>
+<br />Mom and Calf
 
 <td align='center' valign='bottom'>
-<a href="javascript:popuplink('display.pl?id=pod');">
 <img src='../eccoserv/dads/dolphinvideos/thumbs_dolphinPod.png' border='0' />
-<br />Pod</a>
+<br />Pod
 
 <td align='center' valign='bottom'>
-<a href="javascript:popuplink('display.pl?id=ring-1');">
 <img src='../eccoserv/dads/dolphinvideos/thumbs_dolphinRing1.png' border='0' />
-<br />Ring 1</a>
+<br />Ring 1
 
 <td align='center' valign='bottom'>
-<a href="javascript:popuplink('display.pl?id=ring-2');">
 <img src='../eccoserv/dads/dolphinvideos/thumbs_dolphinRing2.png' border='0' />
-<br />Ring 2</a>
+<br />Ring 2
 
 </table>
 <img src='../eccoserv/dads/dolphinvideos/bar.gif' border='0' />
@@ -106,8 +97,6 @@ and one or two other media related to dolphins. The navigation is rather simple;
 <div> </div>
 </div>
 </center>
-
-</div>
 </div>
 
 <div id='footer'> </div>

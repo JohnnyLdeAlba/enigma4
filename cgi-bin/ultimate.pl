@@ -1,11 +1,17 @@
 #!/usr/bin/perl -w
 
 use strict;
-use lib '/var/www/cgi-bin';
-use Enigma::Core;
 use CGI qw(:all);
 
-my $pathUbb = '/ubb';
+use Cwd qw(abs_path);
+use lib abs_path('.');
+
+use Enigma::Core;
+use config;
+
+Enigma::Core::SetConfig(config::Get);
+
+my $pathUbb = 'ubb';
 
 sub ParseIndex {
 	my $data = Enigma::Core::FileRead("$pathUbb/index.ubb");
@@ -23,6 +29,7 @@ sub ParseIndex {
 	}
 	
 	print header;
+        print "<div style='margin: 16px auto; width: 800px;'>\n";
 	print "<link href='../eccoserv/theme/the-undercaves.css' rel='stylesheet' type='text/css'>\n";
 	
 	print "<span id='tab'>The Undercaves Ubb Forum</span>\n";
@@ -44,6 +51,7 @@ sub ParseIndex {
 	print "</div>\n";
 	
 	print "</div>\n";
+        print "</div>\n";
 }
 
 
@@ -68,6 +76,7 @@ sub ParseUbb {
 	}
 	
 	print header;
+        print "<div style='margin: 16px auto; width: 800px;'>\n";
 	print "<link href='../eccoserv/theme/the-undercaves.css' rel='stylesheet' type='text/css'>\n";
 	
 	print "<span id='visited'><a href='ultimate.pl'>";
@@ -78,6 +87,7 @@ sub ParseUbb {
 	print "<h1>$topic</h1>\n";
 	print "<br /><br />\n";
 	print $thread;
+	print "</div>\n";
 	print "</div>\n";
 }
 

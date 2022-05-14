@@ -1,4 +1,4 @@
-<!-- editorstamp::66.82.9.18::20090123075353 -->
+<!-- editorstamp::10.0.2.2::20220514092011 -->
 <html>
 <head>
 
@@ -151,10 +151,6 @@ Sprites</a></span>
 <a href='../eccoserv/artwork/arkonviox-arkonviox.png' target='_blank'>
 <img src='../eccoserv/artwork/arkonviox-arkonvioxx100.png' border='0' /></a>
 <br />Arkonviox by Arkonviox
-<td align='center' valign='bottom'>
-<a href='../eccoserv/artwork/jen-foxworth-jeniera-sprite.gif' target='_blank'>
-<img src='../eccoserv/artwork/jen-foxworth-jeniera-spritex100.gif' border='0' /></a>
-<br />Jeniera Sprite by Jen Foxworth
 <!-- placeholder::24 -->
 </table>
 </p>
@@ -164,7 +160,6 @@ Page 1
 </div>
 </div>
 
-</div>
 </div>
 
 <div id='footer'> </div>

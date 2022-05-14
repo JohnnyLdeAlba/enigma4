@@ -1,4 +1,4 @@
-<!-- editorstamp::10.0.2.2::20220513175148 -->
+<!-- editorstamp::10.0.2.2::20220514110322 -->
 <html> 
 <head>
  
@@ -76,8 +76,8 @@ Read less...</a>
 <br />
 <span id='tab'>ArkonvioxNet</span>
 <div id='profile'>
-<h1>This is the site map for ArkonvioxNet for navigation through the various articles and content. Please feel free to add articles you created and keep the navigation in alphabetical order.
-</h1>
+<h1><p>This is the site map for ArkonvioxNet for navigation through the various articles and content. Please feel free to add articles you created and keep the navigation in alphabetical order.
+</p></h1>
 
 <table cellspacing='0' cellpadding='20'>
 <td align='left' valign='top' width='50%'>
@@ -91,7 +91,7 @@ Art Contest</a>
 Chatroom</a>
 <br />
 <a href='display.pl?id=customize-enigma'>
-Customize Enigma</a>
+Customize Website</a>
 <br />
 <a href='display.pl?id=external-links'>External Links</a>
 <br />
@@ -100,9 +100,6 @@ Fanfare</a>
 <br />
 <a href='display.pl?id=history-of-the-ecco-community'>
 History of the Ecco Community</a>
-<br />
-<a href='comment.pl?id=phosis-the-dolphin-1'>
-Phosis the Dolphin</a>
 <br />
 <a href='display.pl?id=sprites-1'>
 Sprites and Sprite Comics</a>
@@ -244,14 +241,6 @@ It's fixed now, there was a minor problem.</p>
 <div style='margin:1px 0px 1px 0px;'>
 <p>
 Cool, it works now! Thanks. =]</p>
-</div>
-<div> </div>
-</div><br />
-<div style='text-align:left;' id='key'>
-<div>Little Bear, said:</div>
-<div style='margin:1px 0px 1px 0px;'>
-<p>
-test</p>
 </div>
 <div> </div>
 </div><br />

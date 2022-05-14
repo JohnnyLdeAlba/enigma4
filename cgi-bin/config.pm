@@ -30,6 +30,7 @@ $_config{CGI_BIN_PATH} =  "$_config{ROOT_PATH}/cgi-bin";
 $_config{CONTENT_PATH} =  "$_config{ROOT_PATH}/eccoserv";
 $_config{WIKI_PATH} =  "$_config{ROOT_PATH}/wiki";
 $_config{FLOOD_INTERVAL} = 15;
+$_config{DEFCON} = 3;
 
 if ($_config{DEVELOPER_MODE} eq 1) {
   $_config{WEB_HOST} = "127.0.0.1"; 

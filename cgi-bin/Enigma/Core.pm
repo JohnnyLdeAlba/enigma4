@@ -8,7 +8,6 @@ use Cwd 'abs_path';
 abs_path('.') =~ m/(.*)\//;
 use lib abs_path($&);
 
-#use Image::Magick;
 use Time::localtime;
 use Digest::MD5 qw(md5);
 
@@ -284,6 +283,9 @@ sub GetErrorMessage {
 	elsif ($codeError eq '-21') {
 		$msgError = "Error: File can only be MP3 format.\n";
 	}
+        elsif ($codeError eq '-997') {
+                $msgError = "DEFCON 3 Enabled: Image, story, and music uploads have been disabled. ";
+        }
 	
 	return $msgError;
 }

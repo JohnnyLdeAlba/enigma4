@@ -1,0 +1,301 @@
+<!-- editorstamp::10.0.2.2::20220514104953 -->
+<html> 
+<head>
+ 
+<meta name='author' content='Johnny L. de Alba' />
+<meta name="description" content="An Ecco the Dolphin, Ecco 2 Tides of Time and Ecco, Defender of the Future website." />
+<meta name="keywords" content="ecco the dolphin, ecco the tides of time, ecco defender of the future, ecco, ecco 2, cheats, codes, music, guides, faqs, roms, genesis, gamegear, megadrive, dreamcast, playstation 2, ps2" />
+<meta name="robots" content="all" />
+<link rel="icon" type="image/png" href="http://www.arkonviox.net/arknet.ico" />
+<title>Ecco the Dolphin on The Arkonviox Network</title>
+
+<!wiki func='wikitheme' type='header'>
+<div id='container'>
+<div id='header'> </div>
+
+<span id='visited'><a href='display.pl?id=index'>
+Index</a></span>
+
+<span id='visited'><a href='edit.pl?id=explore'>
+Edit</a></span>
+
+<span id='tab'>Explore</span>
+
+<span id='visited'><a href='history.pl?id=explore'>
+History</a></span>
+
+<div id='panel'>
+
+<h1>Explore</h1> 
+
+<br />
+<div style='text-align:left;' id='key'>
+<span class='tab'>Latest Update</span>
+<div>Several Ecco Defender of the Future Prototypes Found.</div>
+<div style='margin:1px 0px 1px 0px;'>
+<img src='../eccoserv/avatars/arkonviox.jpg' style='float:left;margin:10px;'/>
+Epicenter posted this today on his site:
+
+<span style='font-style:italic;'>
+<p>Pardon the delay in updates; up til now I've been using some sluggish cell phone-based internet. Now I've got something more reasonable.</p>
+
+I'm pleased to bring you some interesting news, but we'll need your help! Drx of Hidden Palace has uncovered several Sega Dreamcast GD-ROMs of prototype Ecco: Defender of the Future (and possibly Ecco II: Sentinels of the Universe) builds. However, in order to obtain these for free release on Dark Sea and Hidden Palace, we'll need to pay for them.
+</span>
+
+<div id='update_handle' style='display:none'>
+<span style='font-style:italic;'>
+<p>Most of my funds are quite tied up in a car down payment and apartment deposit at the moment, but I can probably throw $100 or so at the builds. The Ecco community's generosity will have to determine if we can claim these Ecco artifacts before they're lost to time. It is estimated we will need between $500-$1000 USD to purchase these discs.</p>
+
+<p>You can make donations to thedrx@gmail.com (via Paypal)-- please denote the Ecco DC discs in the subject/message of your donation.</p>
+
+<p>Thanks for your assistance in expanding the wealth of Ecco knowledge we can immortalize.
+Stay tuned for more updates shortly!</p>
+</span>
+
+<p>I plan to contribute about 100 next week when I get paid.
+A while back there was an Ecco 2 for Dreamcast posted but the prototypes would be interesting if you ever looked at this section about the Ecco DOF Beta.</p>
+
+<a href='display.pl?id=ecco-defender-of-the-future-beta'>Ecco, Defender of the Future Beta Section</a>
+
+<p>Anyhow If you'd like to contribute go for it, it would be a great new asset for the website.</p>
+</div>
+
+<a id='show_update' href="javascript:toggle_display('show_update');
+toggle_display('hide_update');toggle_display('update_handle');" style='display:inline;'>
+Read more...</a>
+
+<a id='hide_update' href="javascript:toggle_display('show_update');
+toggle_display('hide_update');toggle_display('update_handle');"
+style='display:none;'>
+Read less...</a>
+
+</div>
+<div style='text-align:right;'>by Arkonviox on November 2nd, 2008</div>
+</div>
+
+<br />
+<span id='tab'>ArkonvioxNet</span>
+<div id='profile'>
+<h1><p>This is the site map for ArkonvioxNet for navigation through the various articles and content. Please feel free to add articles you created and keep the navigation in alphabetical order.
+</p></h1>
+
+<table cellspacing='0' cellpadding='20'>
+<td align='left' valign='top' width='50%'>
+
+<b>Community</b> 
+<br />
+<a href='display.pl?id=art-contest'>
+Art Contest</a>
+<br />
+<a href='display.pl?id=chatroom'>
+Chatroom</a>
+<br />
+<a href='display.pl?id=customize-enigma'>
+Customize Enigma</a>
+<br />
+<a href='display.pl?id=external-links'>External Links</a>
+<br />
+<a href='comment.pl?id=fanfare'>
+Fanfare</a>
+<br />
+<a href='display.pl?id=history-of-the-ecco-community'>
+History of the Ecco Community</a>
+<br />
+<a href='comment.pl?id=phosis-the-dolphin-1'>
+Phosis the Dolphin</a>
+<br />
+<a href='display.pl?id=sprites-1'>
+Sprites and Sprite Comics</a>
+
+<br /><br />
+<b>Ecco the Dolphin</b>
+<br />
+<a href='display.pl?id=ecco-the-dolphin'>Ecco the Dolphin</a>
+<br /><a href='display.pl?id=ecco-2-the-tides-of-time'>Ecco 2: The Tides of Time</a>
+<br />
+<a href='display.pl?id=ecco-jr-for-pico'>Ecco Jr. for Pico</a>
+<br /><a href='display.pl?id=ecco-defender-of-the-future'>
+Ecco: Defender of the Future</a>
+
+<td align='left' valign='top' width='50%'>
+
+<b>Ecco the Dolphin Unreleased</b>
+<br />
+<a href='display.pl?id=ecco-defender-of-the-future-beta'>Ecco Defender of the Future Beta</a>
+<br />
+<a href='display.pl?id=ecco-for-sega-saturn'>Ecco for Sega Saturn</a>
+<br />
+<a href='display.pl?id=ecco-sentinels-of-the-universe'>Ecco Sentinels of the Universe</a>
+
+<br /><br />
+<b>Help and Information</b>
+<br />
+<a href='display.pl?id=dope-ass-dolphin-section'>
+Dope Ass Dolphin Section</a>
+<br />
+<a href='display.pl?id=how-to-create-an-article'>How to Create an Article</a>
+<br />
+<a href='display.pl?id=vortex-lifeforms'>Vortex Lifeforms</a>
+
+<br /><br />
+<b>Interesting Things</b>
+<br />
+
+
+<a href='display.pl?id=david-brins-uplift-connection'>
+David Brin's Uplift Connection</a>
+<br />
+<a href='display.pl?id=eccos-appearance-in-sonic-the-comic'>
+Ecco's Appearance in Sonic the Comic</a>
+<br />
+<a href='display.pl?id=interview-with-ed-annunziata'>
+Interview with Ed Annunziata</a>
+<br />
+<a href='display.pl?id=zdenek-burians-ancient-earth'>
+Zdenek Burian's Ancient Earth</a>
+
+<br /><br />
+<b>Soundtracks</b>
+<br />
+<a href='display.pl?id=a-stone-in-time-conquest'>
+A Stone in Time Conquest</a>
+<br />
+<a href='display.pl?id=ecco-songs-of-time'>
+Ecco Songs of Time</a>
+<br />
+<a href='comment.pl?id=ecco-split-the-stream-of-time'>
+Ecco Split the Stream of Time</a>
+
+</table>
+</div>
+
+<h2>
+<a id='show_comments' href="javascript:toggle_display('show_comments');
+toggle_display('hide_comments');
+toggle_display('comments_handle');"
+style='display:inline;'>Show Comments</a>
+
+<a id='hide_comments' href="javascript:toggle_display('show_comments');
+toggle_display('hide_comments');
+toggle_display('comments_handle');"
+style='display:none;'>Hide Comments</a>
+</h2>
+
+<div id='comments_handle' style='display:none;'>
+<div style='text-align:left;' id='key'>
+<div><a href='profile.pl?id=arkonviox'>Arkonviox</a>, said:</div>
+<div style='margin:1px 0px 1px 0px;'>
+<p>
+All the discussion pages of the various sections will be in active as I am changing them over to the new core 2 system.</p>
+</div>
+<div> </div>
+</div><br />
+<div style='text-align:left;' id='key'>
+<div>Laura, said:</div>
+<div style='margin:1px 0px 1px 0px;'>
+<p>
+I can't download any of the fan music, it just goes to the white screen. =/</p>
+</div>
+<div> </div>
+</div><br />
+<div style='text-align:left;' id='key'>
+<div>Arkonviox, said:</div>
+<div style='margin:1px 0px 1px 0px;'>
+<p>
+Yeah seems to be a problem with Internet Explorer. Just right click [ Download ] and click 'Save Target As...' and it should download.</p>
+</div>
+<div> </div>
+</div><br />
+<div style='text-align:left;' id='key'>
+<div>Laura, said:</div>
+<div style='margin:1px 0px 1px 0px;'>
+<p>
+Ok, thanks. =]</p>
+</div>
+<div> </div>
+</div><br />
+<div style='text-align:left;' id='key'>
+<div>Laura, said:</div>
+<div style='margin:1px 0px 1px 0px;'>
+<p>
+Sorry, but I just tried it and that doesn't work either.</p>
+</div>
+<div> </div>
+</div><br />
+<div style='text-align:left;' id='key'>
+<div>Laura, said:</div>
+<div style='margin:1px 0px 1px 0px;'>
+<p>
+Actually, they don't even play anymore.
+I like the new layout though. =]</p>
+</div>
+<div> </div>
+</div><br />
+<div style='text-align:left;' id='key'>
+<div>Arkonviox, said:</div>
+<div style='margin:1px 0px 1px 0px;'>
+<p>
+It's fixed now, there was a minor problem.</p>
+</div>
+<div> </div>
+</div><br />
+<div style='text-align:left;' id='key'>
+<div>Laura, said:</div>
+<div style='margin:1px 0px 1px 0px;'>
+<p>
+Cool, it works now! Thanks. =]</p>
+</div>
+<div> </div>
+</div><br />
+<!-- placeholder::comment -->
+</div>
+
+<!-- errormessage::comment -->
+
+<div id='handle_commentmanager' style='display:inline;'>
+<span id='tab'>Comment</span>
+<div id='profile'>
+
+<form action='comment.pl' method='post'>
+<input type='hidden' name='id' value='{id}'>
+<input type='hidden' name='func' value='create'>
+
+<div class='cat'>General</div>
+<br />
+Author<br />
+<input type='text' name='author_ucfirst' size='45'
+value='{author_ucfirst}'>
+
+<br /><br />
+Comment
+<br />
+<textarea name='comment' rows="5" cols="75">{comment}</textarea>
+
+<br /><br />
+<div class='cat'>Security Phrase</div>
+<br />
+{securityphrase}
+<br /><br />Please type in the numbers above.
+<br />
+<input type='text' name='securityphrase' size='45' value=''>
+
+<br /><br /><br />
+<input type='submit' name='submit' value='Comment'>
+</form>
+</div></div>
+
+</div>
+<div id='header'> </div>
+</div>
+<!wiki func='wikitheme' type='footer'>
+<script type='text/javascript' src='../ajax-lib.js'></script>
+<script type="text/javascript">
+
+if (window.location.pathname.match(/display.pl/)) {
+     toggle_display('handle_commentmanager');
+}
+
+</script>
+
+</body>
+</html>

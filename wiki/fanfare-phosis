@@ -1,4 +1,4 @@
-<!-- editorstamp::192.168.0.3::20081031112658 -->
+<!-- editorstamp::10.0.2.2::20220514110441 -->
 <html>
 <head>
 
@@ -9,15 +9,14 @@
 
 <title>Ecco the Dolphin on The Arkonviox Network</title>
 <!wiki func='wikitheme' type='header'>
-<div id='container'>
-<div id='header'> </div>
 
-<span id='jukebox'></span>
+<div id='container'>
+<div id='header'> </div>
 
 <span id='visited'><a href='display.pl?id=index'>
 Index</a></span>
 
-<span id='visited'><a href='edit.pl?id=fanfare-{username_lc}'>
+<span id='visited'><a href='edit.pl?id=fanfare-arkonviox'>
 Edit</a></span>
 
 <span id='visited'><a href='comment.pl?id=fanfare'>
@@ -26,7 +25,7 @@ Display</a></span>
 <span id='visited'><a href='comment.pl?id=explore'>
 Explore</a></span>
 
-<span id='visited'><a href='history.pl?id=fanfare-{username2}'>
+<span id='visited'><a href='history.pl?id=fanfare-{username_lc}'>
 History</a></span>
 
 <div id='panel'>

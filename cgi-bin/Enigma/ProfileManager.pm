@@ -1,12 +1,15 @@
 #!/usr/bin/perl -w
 
 package Enigma::ProfileManager;
-use lib '/var/www/cgi-bin';
-
 use strict;
-use CGI qw(:all);
+
+use Cwd 'abs_path';
+
+abs_path('.') =~ m/(.*)\//;
+use lib abs_path($&);
 
 use Enigma::Core;
+use CGI qw(:all);
 use Image::Magick;
 
 $CGI::POST_MAX = 1024 * 10000;

@@ -67,8 +67,6 @@ a:link, a:active, a:visited {
 }
 
 #container {
-	width: 690px;
-	
 	margin: 5px 0px 0px 0px; padding: 6px;
 	display: block;
 	background-color: #192630;

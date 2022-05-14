@@ -1,11 +1,17 @@
 #!/usr/bin/perl -w
 
 use strict;
-use lib '/var/www/cgi-bin';
-use Enigma::Core;
 use CGI qw(:all);
 
-my $pathYabb = '/yabb';
+use Cwd qw(abs_path);
+use lib abs_path('.');
+
+use Enigma::Core;
+use config;
+
+Enigma::Core::SetConfig(config::Get);
+
+my $pathYabb = 'yabb';
 
 sub YabbIndex {
 	my $data = Enigma::Core::FileRead("$pathYabb/index.txt");
@@ -23,7 +29,7 @@ sub YabbIndex {
 	}
 	$content .= "</table>\n";
 	
-	$data = Enigma::Core::FileRead("/yabbindex.tpl");
+	$data = Enigma::Core::FileRead("yabbindex.tpl");
 	$data =~s/{content}/$content/;
 	
 	print header;
@@ -52,7 +58,7 @@ sub YabbThread {
 		$content .= "$document[8]\n</div>\n<br />\n\n";
 	}
 	
-	$data = Enigma::Core::FileRead("/yabbthread.tpl");
+	$data = Enigma::Core::FileRead("yabbthread.tpl");
 	$data =~s/{topic}/$topic/;
 	$data =~s/{content}/$content/;
 	

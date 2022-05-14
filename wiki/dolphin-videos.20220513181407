@@ -1,0 +1,116 @@
+<!-- editorstamp::10.0.2.2::20220513181247 -->
+<html>
+<head>
+
+<meta name='author' content='Johnny L. de Alba' />
+<meta name="description" content="An Ecco the Dolphin, Ecco 2 Tides of Time and Ecco, Defender of the Future website." />
+<meta name="keywords" content="ecco the dolphin, ecco the tides of time, ecco defender of the future, ecco, ecco 2, cheats, codes, music, guides, faqs, roms, genesis, gamegear, megadrive, dreamcast, playstation 2, ps2" />
+<meta name="robots" content="all" />
+
+<title>Ecco the Dolphin on The Arkonviox Network</title>
+
+</head>
+<body>
+<!wiki func='wikitheme' type='header'>
+<div id='container'>
+<div id='header'> </div>
+
+<span id='visited'><a href='display.pl?id=index'>
+Index</a></span>
+
+<span id='visited'><a href='edit.pl?id=dolphin-videos'>
+Edit</a></span>
+
+<span id='visited'><a href='display.pl?id=dolphin-facts'>
+Dolphin Facts</a></span>
+<span id='tab'>Dolphin Videos</span>
+
+<span id='visited'><a href='comment.pl?id=explore'>
+Explore</a></span>
+
+<span id='visited'><a href='history.pl?id=dolphin-videos'>
+History</a></span>
+
+<div id='panel'>
+<h1>Dope Ass Dolphin Section</h1>
+<h2>
+[ <a href='edit.pl?id=dolphin-videos'>Edit</a> ]
+</h2>
+
+<p style='text-align:center;'>
+<img src='../eccoserv/dads/dolphinvideos/trelLogo.jpg' />
+</p>
+
+<br />
+<img src='../eccoserv/dads/dolphinvideos/trellius2.jpg' style='float:left;margin:6px;'/>
+"Right then, as the logo implies, this is a little collection of movieclips
+and one or two other media related to dolphins. The navigation is rather simple; click on the picture of the video you would like to view, and sit back and enjoy.(The picture need not always match the contents of the video, they simply act as buttons) Also, be shure to have an up-to-date version of to view these clips."
+
+<br /><br />
+<div id='key'>
+<span class='tab'>Dolphin Videos</span>
+<div> </div>
+<div style='margin:1px 0px 1px 0px;'>
+<center>
+<img src='../eccoserv/dads/dolphinvideos/bar.gif' border='0' />
+<img src='../eccoserv/dads/dolphinvideos/bar.gif' border='0' />
+<table cellspacing='0' cellpadding='0' width='550'>
+<tr>
+<td align='center' valign='bottom'>
+
+<a href="javascript:popuplink('display.pl?id=dolphin-birth');">
+<img src='../eccoserv/dads/dolphinvideos/thumbs_dolphinBirth.png' border='0' />
+<br />Dolphin Birth</a>
+
+<td align='center' valign='bottom'>
+<a href="javascript:popuplink('display.pl?id=food-play');">
+<img src='../eccoserv/dads/dolphinvideos/thumbs_dolphinFoodPlay.png' border='0' />
+<br />Food Play</a>
+
+<td align='center' valign='bottom'>
+<a href="javascript:popuplink('display.pl?id=jump');">
+<img src='../eccoserv/dads/dolphinvideos/thumbs_dolphinJump.png' border='0' />
+<br />Jump</a>
+
+<td align='center' valign='bottom'>
+<a href="javascript:popuplink('display.pl?id=lesson');">
+<img src='../eccoserv/dads/dolphinvideos/thumbs_dolphinLesson.png' border='0' />
+<br />Lesson</a>
+
+<tr>
+<td align='center' valign='bottom'>
+<a href="javascript:popuplink('display.pl?id=momma-and-calf');">
+<img src='../eccoserv/dads/dolphinvideos/thumbs_dolphinMomCalf.png' border='0' />
+<br />Mom and Calf</a>
+
+<td align='center' valign='bottom'>
+<a href="javascript:popuplink('display.pl?id=pod');">
+<img src='../eccoserv/dads/dolphinvideos/thumbs_dolphinPod.png' border='0' />
+<br />Pod</a>
+
+<td align='center' valign='bottom'>
+<a href="javascript:popuplink('display.pl?id=ring-1');">
+<img src='../eccoserv/dads/dolphinvideos/thumbs_dolphinRing1.png' border='0' />
+<br />Ring 1</a>
+
+<td align='center' valign='bottom'>
+<a href="javascript:popuplink('display.pl?id=ring-2');">
+<img src='../eccoserv/dads/dolphinvideos/thumbs_dolphinRing2.png' border='0' />
+<br />Ring 2</a>
+
+</table>
+<img src='../eccoserv/dads/dolphinvideos/bar.gif' border='0' />
+<img src='../eccoserv/dads/dolphinvideos/bar.gif' border='0' />
+</center>
+</div>
+<div> </div>
+</div>
+</center>
+</div>
+
+<div id='footer'> </div>
+</div>
+<!wiki func='wikitheme' type='footer'>
+<script type='text/javascript' src='../ajax-lib.js'></script>
+</body>
+</html>
