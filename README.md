@@ -15,7 +15,9 @@ A perl based wiki made in 2008 that uses the file system as database storage.
 - ImageMagick 7.1.0-33 https://imagemagick.org/script/download.php
 with PNG, JPG zlib support enabled.
 
-# ImageMagick Installtion
+# ImageMagick Installation
+
+ImageMagick is hard to install! This might help as there aren't very good resources on the net.
 
 sudo apt-get build-dep imagemagick
 
