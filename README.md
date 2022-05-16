@@ -54,7 +54,7 @@ This will tell you if ImageMagick installed correctly by listing all formats it 
 magick identify -list format 
 ```
 
-# Run `chmod` to make the following file and directories writable.
+# Make the Following File and Directories Writable
 
 - ```profilemanager.dat``` The database used for user profiles found in the Fanfare section.
 
@@ -65,7 +65,7 @@ magick identify -list format
 - ```/eccoserv/mp3``` Used for uploaded music.
 - ```/wiki``` Where all the editable pages on the website are stored.
 
-# Setting up the config.pm file (Optional)
+# Setting Up config.pm File (Optional)
 
 ```perl
 abs_path('.') =~ m/(.*)\//;
