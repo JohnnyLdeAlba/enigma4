@@ -9,6 +9,7 @@ A perl based wiki made in 2008 that uses the file system as database storage.
 - An image gallery that generates thumbnails and inserts them into the users page of choice.
 - Allows users to upload other contributions such as stories (in various text formats) and mp3s.
 - Supports custom themes that allow users to change how the website looks.
+- Pages can support optional comment sections.
 
 # [Example](https://enigma4.nexusultima.com)
 
