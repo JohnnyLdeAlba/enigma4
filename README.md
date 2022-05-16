@@ -21,7 +21,9 @@ A perl based wiki made in 2008 that uses the file system as database storage.
 ImageMagick can be difficult to install, with very few resources on the web on how to do it correctly.
 The two following methods demonstrate how to do it in Debian.
 
-```bash sudo apt-get build-dep imagemagick```
+```bash
+sudo apt-get build-dep imagemagick
+```
 
 or
 
