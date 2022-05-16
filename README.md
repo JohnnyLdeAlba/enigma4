@@ -105,13 +105,13 @@ $_config{WIKI_PATH} =  "$_config{ROOT_PATH}/wiki";
 Path where all the pages on the website and their histories are stored.
 
 ### FLOOD_INTERVAL
-```
+```perl
 $_config{FLOOD_INTERVAL} = 15;
 ```
 Flood Interval used to prevent double posting on various parts of the system (such as comments).
 
 ### DEFCON
-```
+```perl
 $_config{DEFCON} = 2;
 ```
 Used to lock down the system into various states. Setting defcon to 2 locks down: file uploads and profile creation. Setting defcon to 3 locks down: file uploads.
