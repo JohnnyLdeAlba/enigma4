@@ -10,6 +10,10 @@ A perl based wiki made in 2008 that uses the file system as database storage.
 - An image gallery that generates thumbnails and inserts them into the users page of choice.
 - Upload other contributions such as stories (in various text formats) and mp3s.
 
+# [Example](https://enigma4.nexusultima.com)
+
+This is the hosted version of this repo.
+
 # Requirements
 
 - Perl v5.32.1
