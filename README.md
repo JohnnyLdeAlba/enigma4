@@ -45,7 +45,7 @@ If ImageMagick still can't see zlib, libpng, or any of the other libraries this 
 sudo ldconfig /usr/local/lib
 ```
 
-This will tell you if ImageMagick installed correctly by listing the all formats it was able to detect.
+This will tell you if ImageMagick installed correctly by listing all formats it was able to detect.
 ```bash
 magick identify -list format 
 ```
