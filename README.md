@@ -1,5 +1,3 @@
-This README is a rough draft work in progress!
-
 # Enigma 4 Beta
 
 A perl based wiki made in 2008 that uses the file system as database storage.
@@ -10,6 +8,7 @@ A perl based wiki made in 2008 that uses the file system as database storage.
 - Fanfare section allows anyone to create personal profiles with contact information and contributions to the website.
 - An image gallery that generates thumbnails and inserts them into the users page of choice.
 - Allows users to upload other contributions such as stories (in various text formats) and mp3s.
+- Supports custom themes that allow users to change how the website looks.
 
 # [Example](https://enigma4.nexusultima.com)
 
@@ -68,20 +67,16 @@ magick identify -list format
 
 # Setting Up config.pm File (Optional)
 
-```perl
-abs_path('.') =~ m/(.*)\//;
-$_config{ROOT_PATH} = $1;                                   # Automatically detects the absolute path of the project.
+- `$_config{ROOT_PATH}` The absolute path of where the wiki's files are stored. It's currently set to automatically detect its location.
+- `$_config{DEVELOPER_MODE} = 0` When set to 1 the wiki goes into developers mode. This tells the system to use localhost (127.0.0.1) instead of WEB_HOST.
+- 
+- `$_config{WEB_HOST} = "enigma4.nexusultima.com";` The server this wiki is hosted on.
 
-$_config{DEVELOPER_MODE} = 1;                               # Switches between localcost (127.0.0.1) to the value contained in $_config{WEB_HOST}
-$_config{WEB_HOST} = "enigma4.nexusultima.com";
-
-$_config{CGI_BIN_PATH} =  "$_config{ROOT_PATH}/cgi-bin";    # Path where all the scripts are contained.
-$_config{CONTENT_PATH} =  "$_config{ROOT_PATH}/eccoserv";   # Path where all the resources such as images and other data are contained.
-$_config{WIKI_PATH} =  "$_config{ROOT_PATH}/wiki";          # Path where all the pages on the website and their histories are stored.
-$_config{FLOOD_INTERVAL} = 15;                              # Flood Interval used to prevent double posting on various parts of the system (such as comments).
-$_config{DEFCON} = 2;                                       # Used to lock down the system into various states. 
-                                                            # Defcon 2 locks down: file uploads and profile creation
-```
+- `$_config{CGI_BIN_PATH} =  "$_config{ROOT_PATH}/cgi-bin";` Path where all the scripts are contained.
+- `$_config{CONTENT_PATH} =  "$_config{ROOT_PATH}/eccoserv";` Path where all the resources such as images and other data are contained.
+- `$_config{WIKI_PATH} =  "$_config{ROOT_PATH}/wiki";` Path where all the pages on the website and their histories are stored.
+- `$_config{FLOOD_INTERVAL} = 15;` Flood Interval used to prevent double posting on various parts of the system (such as comments).
+- `$_config{DEFCON} = 2;` Used to lock down the system into various states. Setting defcon to 2 locks down: file uploads and profile creation. Setting defcon to 3 locks down: file uploads.
 
 # Locking Wiki Pages
 
