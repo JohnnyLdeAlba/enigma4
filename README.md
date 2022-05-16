@@ -2,8 +2,8 @@
 
 A perl based wiki made in 2008 that uses the file system as database storage.
 
-<img src="https://raw.githubusercontent.com/JohnnyLdeAlba/enigma4/master/profile-sample.png" />
-<img src="https://raw.githubusercontent.com/JohnnyLdeAlba/enigma4/master/edit-sample.png" />
+<img style="width: 300px;" src="https://raw.githubusercontent.com/JohnnyLdeAlba/enigma4/master/profile-sample.png" />
+<img style="width: 300px;" src="https://raw.githubusercontent.com/JohnnyLdeAlba/enigma4/master/edit-sample.png" />
 
 # Features
 - Anonymously create and edit pages without having to login to an account.
