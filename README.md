@@ -86,9 +86,9 @@ $_config{WEB_HOST} = "enigma4.nexusultima.com";
 ```
 The server this wiki is hosted on.
 
-`$_config{CGI_BIN_PATH} =  "$_config{ROOT_PATH}/cgi-bin";` Path where all the scripts are contained.
-`$_config{CONTENT_PATH} =  "$_config{ROOT_PATH}/eccoserv";` Path where all the resources such as images and other data are contained.
-`$_config{WIKI_PATH} =  "$_config{ROOT_PATH}/wiki";` Path where all the pages on the website and their histories are stored.
+- `$_config{CGI_BIN_PATH} =  "$_config{ROOT_PATH}/cgi-bin";` Path where all the scripts are contained.
+- `$_config{CONTENT_PATH} =  "$_config{ROOT_PATH}/eccoserv";` Path where all the resources such as images and other data are contained.
+- `$_config{WIKI_PATH} =  "$_config{ROOT_PATH}/wiki";` Path where all the pages on the website and their histories are stored.
 
 `$_config{FLOOD_INTERVAL} = 15;` Flood Interval used to prevent double posting on various parts of the system (such as comments).
 `$_config{DEFCON} = 2;` Used to lock down the system into various states. Setting defcon to 2 locks down: file uploads and profile creation. Setting defcon to 3 locks down: file uploads.
