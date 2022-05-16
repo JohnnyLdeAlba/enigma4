@@ -8,7 +8,7 @@ A perl based wiki made in 2008 that uses the file system as database storage.
 - Anonymously create and edit pages without having to login to an account.
 - Fanfare section allows anyone to create personal profiles with contact information and contributions to the website.
 - An image gallery that generates thumbnails and inserts them into the users page of choice.
-- Upload other contributions such as stories (in various text formats) and mp3s.
+- Allows users to upload other contributions such as stories (in various text formats) and mp3s.
 
 # [Example](https://enigma4.nexusultima.com)
 
