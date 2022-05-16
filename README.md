@@ -135,4 +135,4 @@ A file located in `cgi-bin/banned` is used to store all the IPs that are banned 
 using the wiki. Banned users will still be able to view pages on the wiki.
 
 # Known Issues
-- Running any script from this system in the command line will create conflicting sessions with localhost (127.0.0.1). To fix this delete all session files (those ending with .sid) located in the root directory.
+- Running any script from this system in the command line will create conflicting sessions with localhost (127.0.0.1). To fix this delete all session files (those ending with .sid) located in the directory set in `$_config{ROOT_PATH}`.
