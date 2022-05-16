@@ -13,9 +13,8 @@ A perl based wiki made in 2008 that uses the file system as database storage.
 # Requirements
 
 - Perl v5.32.1
-- CGI
-- ImageMagick 7.1.0-33 https://imagemagick.org/script/download.php
-with PNG, JPG zlib support enabled.
+- CGI 4.54 
+- [ImageMagick 7.1.0-33](https://imagemagick.org/script/download.php)
 
 # ImageMagick Installation
 
