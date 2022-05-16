@@ -67,10 +67,14 @@ magick identify -list format
 
 # Setting Up config.pm File (Optional)
 
-`$_config{ROOT_PATH}`
+```perl
+$_config{ROOT_PATH}
+```
  The absolute path of where the wiki's files are stored. It's currently set to automatically detect its location.
  
-`$_config{DEVELOPER_MODE} = 0` 
+```perl
+$_config{DEVELOPER_MODE} = 0
+```
 When set to 1 the wiki goes into developers mode. This tells the system to use localhost (127.0.0.1) instead of `$_config{WEB_HOST}`.
 
 - `$_config{WEB_HOST} = "enigma4.nexusultima.com";` The server this wiki is hosted on.
