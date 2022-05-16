@@ -86,31 +86,31 @@ $_config{WEB_HOST} = "enigma4.nexusultima.com";
 ```
 The server this wiki is hosted on.
 
-## CGI_BIN_PATH
+### CGI_BIN_PATH
 ```perl
 $_config{CGI_BIN_PATH} =  "$_config{ROOT_PATH}/cgi-bin";
 ```
 Path where all the scripts are contained.
 
-## CONTENT_PATH
+### CONTENT_PATH
 ```perl
 $_config{CONTENT_PATH} =  "$_config{ROOT_PATH}/eccoserv";
 ```
 Path where all the resources such as images and other data are contained.
 
-## WIKI_PATH
+### WIKI_PATH
 ```perl
 $_config{WIKI_PATH} =  "$_config{ROOT_PATH}/wiki";
 ```
 Path where all the pages on the website and their histories are stored.
 
-## FLOOD_INTERVAL
+### FLOOD_INTERVAL
 ```
 $_config{FLOOD_INTERVAL} = 15;
 ```
 Flood Interval used to prevent double posting on various parts of the system (such as comments).
 
-## DEFCON
+### DEFCON
 ```
 $_config{DEFCON} = 2;
 ```
