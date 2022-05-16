@@ -84,4 +84,6 @@ $_config{DEFCON} = 2;                                       # Used to lock down 
 ```
 
 # Locking Wiki Pages
-All
+
+All pages located in the `wiki` directory are the same pages that are hosted to the website. 
+You can use `chmod 444` to prevent write access to them which the wiki system will detect.
