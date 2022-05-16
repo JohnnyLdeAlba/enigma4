@@ -87,3 +87,16 @@ $_config{DEFCON} = 2;                                       # Used to lock down 
 
 All pages located in the `wiki` directory are the same pages that are hosted to the website. 
 You can use `chmod 444` to prevent write access to them which the wiki system will detect.
+
+# Banning Users
+
+When a new page is created or edited an ip address is logged in an "editorstamp".
+The editor stamp cannot be viewed when editing a page but is visible if you view the source code
+for the page in the browser.
+
+```html
+<!-- editorstamp::192.168.0.3::20081031081136 -->
+```
+
+A file located in `cgi-bin/banned` is used to store all the IPs that are banned from
+using the wiki. Banned users will still be able to view pages on the wiki.
