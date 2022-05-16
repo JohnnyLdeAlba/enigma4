@@ -14,13 +14,14 @@ A perl based wiki made in 2008 that uses the file system as database storage.
 
 - Perl v5.32.1
 - CGI 4.54 
-- [ImageMagick 7.1.0-33](https://imagemagick.org/script/download.php)
+- [ImageMagick 7.1.0-33](https://imagemagick.org/script/download.php) (With zlib, PNG, JPEG, and Perl support enabled.)
 
 # ImageMagick Installation
 
-ImageMagick is hard to install! This might help as there aren't very good resources on the net.
+ImageMagick can be difficult to install, with very few resources on the web on how to do it correctly.
+The two following methods demonstrate how to do it in Debian.
 
-sudo apt-get build-dep imagemagick
+```bash sudo apt-get build-dep imagemagick```
 
 or
 
