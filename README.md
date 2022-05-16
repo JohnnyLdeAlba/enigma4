@@ -1,4 +1,4 @@
-# Enigma 4 Beta
+# Enigma 4
 
 A perl based wiki made in 2008 that uses the file system as database storage.
 
