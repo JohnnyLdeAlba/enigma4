@@ -12,7 +12,7 @@ A perl based wiki made in 2008 that uses the file system as database storage.
 
 # [Example](https://enigma4.nexusultima.com)
 
-This is the hosted version of this repo.
+This is the hosted version of this repo with profile creation and media uploading disabled.
 
 # Requirements
 
