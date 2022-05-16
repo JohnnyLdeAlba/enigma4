@@ -90,7 +90,7 @@ You can use `chmod 444` to prevent write access to them which the wiki system wi
 
 # Banning Users
 
-When a new page is created or edited an ip address is logged in an "editorstamp".
+When a new page is created or edited an IP address is logged in an "editor stamp".
 The editor stamp cannot be viewed when editing a page but is visible if you view the source code
 for the page in the browser.
 
