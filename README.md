@@ -52,14 +52,14 @@ magick identify -list format
 
 # Run `chmod` to make the following file and directories writable.
 
-```profilemanager.dat``` The database used for user profiles found in the Fanfare section.
-```/``` The root directory where sessions are tracked (files ending in .sid).
+-```profilemanager.dat``` The database used for user profiles found in the Fanfare section.
 
-```/eccoserv/avatars``` Used for avatars found in user profiles (the Fanfare section).
-```/eccoserv/fanart``` Used for uploaded artwork and thumbnails.
-```/eccoserv/fanfiction``` Used for uploaded text documents.
-```/eccoserv/mp3``` Used for uploaded music.
-```/wiki``` Where all the editable pages on the website are stored.
+-```/``` The root directory where sessions are tracked (files ending in .sid).
+-```/eccoserv/avatars``` Used for avatars found in user profiles (the Fanfare section).
+-```/eccoserv/fanart``` Used for uploaded artwork and thumbnails.
+-```/eccoserv/fanfiction``` Used for uploaded text documents.
+-```/eccoserv/mp3``` Used for uploaded music.
+-```/wiki``` Where all the editable pages on the website are stored.
 
 # Setting up the config.pm file (Optional)
 
