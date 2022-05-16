@@ -5,12 +5,12 @@ This README is a rough draft work in progress!
 A perl based wiki made in 2008 that uses the file system as database storage.
 
 # Features
-- A wiki like system for creating, editing and viewing the history of pages on the website.
-- A "fanfare" page where users can create personal profiles for themselves featuring contact information and contributions to the website.
-- A gallery where users can upload artwork and other image based works.
-- A section where users can upload music and fan fiction (stories) in various text formats.
+- Anonymously create and edit pages without having to login to an account.
+- Fanfare section allows anyone to create personal profiles with contact information and contributions to the website.
+- An image gallery that generates thumbnails and inserts them into the users page of choice.
+- Upload other contributions such as stories (in various text formats) and mp3s.
 
-# Required Packages
+# Requirements
 
 - Perl v5.32.1
 - CGI
