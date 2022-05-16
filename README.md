@@ -25,7 +25,6 @@ The two following methods demonstrate how to do it in Debian.
 ```bash
 sudo apt-get build-dep imagemagick
 ```
-
 or
 
 ## Installing from Source
@@ -46,10 +45,21 @@ If ImageMagick still can't see zlib, libpng, or any of the other libraries this 
 sudo ldconfig /usr/local/lib
 ```
 
-This will tell you if ImageMagick installed correctly by listing the formats it was able to detect.
+This will tell you if ImageMagick installed correctly by listing the all formats it was able to detect.
 ```bash
 magick identify -list format 
 ```
+
+# Run `chmod` to make the following file and directories writable.
+
+```profilemanager.dat``` The database used for user profiles found in the Fanfare section.
+```/``` The root directory where sessions are tracked (files ending in .sid).
+
+```/eccoserv/avatars``` Used for avatars found in user profiles (the Fanfare section).
+```/eccoserv/fanart``` Used for uploaded artwork and thumbnails.
+```/eccoserv/fanfiction``` Used for uploaded text documents.
+```/eccoserv/mp3``` Used for uploaded music.
+```/wiki``` Where all the editable pages on the website are stored.
 
 # Setting up the config.pm file (Optional)
 
@@ -68,14 +78,4 @@ $_config{DEFCON} = 2;                                       # Used to lock down 
                                                             # Defcon 2 locks down: file uploads and profile creation
 ```
 
-# chmod Folders.
 
-```
-profilemanager.dat - Profile database used for the Fanfare section.
-/ - Where daily session data gets stored.
-/eccoserv/avatars
-/eccoserv/fanart
-/eccoserv/fanfiction
-/eccoserv/mp3
-/wiki
-```
