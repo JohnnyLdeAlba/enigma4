@@ -69,7 +69,6 @@ magick identify -list format
 
 - `$_config{ROOT_PATH}` The absolute path of where the wiki's files are stored. It's currently set to automatically detect its location.
 - `$_config{DEVELOPER_MODE} = 0` When set to 1 the wiki goes into developers mode. This tells the system to use localhost (127.0.0.1) instead of WEB_HOST.
-- 
 - `$_config{WEB_HOST} = "enigma4.nexusultima.com";` The server this wiki is hosted on.
 
 - `$_config{CGI_BIN_PATH} =  "$_config{ROOT_PATH}/cgi-bin";` Path where all the scripts are contained.
