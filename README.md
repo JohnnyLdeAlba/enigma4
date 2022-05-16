@@ -79,7 +79,12 @@ $_config{DEVELOPER_MODE} = 0
 ```
 When set to 1 the wiki goes into developers mode. This tells the system to use localhost (127.0.0.1) instead of `$_config{WEB_HOST}`.
 
-- `$_config{WEB_HOST} = "enigma4.nexusultima.com";` The server this wiki is hosted on.
+### WEB_HOST
+```perl
+$_config{WEB_HOST} = "enigma4.nexusultima.com";
+```
+The server this wiki is hosted on.
+
 - `$_config{CGI_BIN_PATH} =  "$_config{ROOT_PATH}/cgi-bin";` Path where all the scripts are contained.
 - `$_config{CONTENT_PATH} =  "$_config{ROOT_PATH}/eccoserv";` Path where all the resources such as images and other data are contained.
 - `$_config{WIKI_PATH} =  "$_config{ROOT_PATH}/wiki";` Path where all the pages on the website and their histories are stored.
