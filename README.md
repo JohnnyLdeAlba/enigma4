@@ -65,7 +65,7 @@ magick identify -list format
 - ```/eccoserv/mp3``` Used for uploaded music.
 - ```/wiki``` Where all the editable pages on the website are stored.
 
-# Setting Up config.pm File (Optional)
+# Setting Up config.pm (Optional)
 
 ### ROOT_PATH
 ```perl
