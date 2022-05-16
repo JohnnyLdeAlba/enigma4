@@ -6,6 +6,7 @@ A perl based wiki made in 2008 that uses the file system as database storage.
 
 # Features
 - Anonymously create and edit pages without having to login to an account.
+- Edit history allows users to see what changes were made to a page.
 - Fanfare section allows anyone to create personal profiles with contact information and contributions to the website.
 - An image gallery that generates thumbnails and inserts them into the users page of choice.
 - Allows users to upload other contributions such as stories (in various text formats) and mp3s.
@@ -82,4 +83,5 @@ $_config{DEFCON} = 2;                                       # Used to lock down 
                                                             # Defcon 2 locks down: file uploads and profile creation
 ```
 
-
+# Locking Wiki Pages
+All
