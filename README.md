@@ -21,13 +21,13 @@ A perl based wiki made in 2008 that uses the file system as database storage.
 ImageMagick can be difficult to install, with very few resources on the web on how to do it correctly.
 The two following methods demonstrate how to do it in Debian.
 
-## Installing with a Package Manager
+### Installing with a Package Manager
 ```bash
 sudo apt-get build-dep imagemagick
 ```
 or
 
-## Installing from Source
+### Installing from Source
 
 Prerequisite before compiling sources, this allows ImageMagick to detect zlib and libpng.
 ```bash
