@@ -67,13 +67,13 @@ magick identify -list format
 
 # Setting Up config.pm File (Optional)
 
-## ROOT_PATH
+### ROOT_PATH
 ```perl
 $_config{ROOT_PATH}
 ```
  The absolute path of where the wiki's files are stored. It's currently set to automatically detect its location.
  
- ## DEVELOPERS_MODE
+ ### DEVELOPERS_MODE
 ```perl
 $_config{DEVELOPER_MODE} = 0
 ```
