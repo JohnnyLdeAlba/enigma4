@@ -27,7 +27,10 @@ sudo apt-get build-dep imagemagick
 
 or
 
-`sudo apt install pkg-config` This step is required in order for ImageMagick to recognize zlib and libpng.
+This step is required in order for ImageMagick to recognize zlib and libpng.
+```bash
+sudo apt install pkg-config
+```
 
 ```bash
 ./configure --with-perl=yes
