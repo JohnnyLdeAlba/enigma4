@@ -1,6 +1,6 @@
 # Enigma 4
 
-A perl based wiki made in 2008 that uses the file system as database storage.
+A Perl based wiki made in 2008 that uses the file system as database storage.
 
 <img style="height: 400px;" src="https://raw.githubusercontent.com/JohnnyLdeAlba/enigma4/master/profile-sample.png" /> <img style="height: 400px;" src="https://raw.githubusercontent.com/JohnnyLdeAlba/enigma4/master/edit-sample.png" />
 
